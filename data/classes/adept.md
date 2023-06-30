@@ -1,0 +1,71 @@
+---
+name: Adept
+snippet: >-
+  The Adept is the ultimate biotic, able to affect the physical world with the
+  power of the mind.
+primaryAbility:
+  - wis
+hitDie: 6
+profs:
+  armor:
+    text: Light Armor
+    has:
+      - light
+  weapon:
+    text: Heavy Pistols and choose either Melee or SMGs
+    has:
+      - heavy_pistol
+    choices:
+      items: [melee,smg]
+      count: 1
+  tool: false
+  skill:
+    text: Choose three from Acrobatics, Deception, History, Insight, Intimidation, Performance, Sleight of Hand, and Survival
+    choices:
+      items: [acrobatics,deception,history,insight,intimidation,performance,sleight-of-hand,survival]
+      count: 3
+  saving-throw:
+    text: Charisma, Wisdom
+    has:
+      - cha
+      - wis
+startingEquipment:
+  - text: (a) M-3 Predator or (b) M-4 Shuriken
+    choices:
+      items: [m-3-predator,m-4-shuriken]
+      count: 1
+  - text: (a) Omni-Blade or (b) Monomolecular Blade
+    choices:
+      items: [omni-blade,monomolecular-blade]
+      count: 1
+  - text: Stock Light Armor
+    has:
+      - stock-light-armor
+progression:
+  subclass:
+    - 2
+    - 6
+    - 10
+    - 14
+  abi:
+    - 4
+    - 8
+    - 12
+    - 16
+    - 19
+  columns:
+    - label: features
+    - label: barrier_uses
+      values: [2,2,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6]
+    - label: barrier_ticks
+      values: [2,2,2,2,2,2,3,3,3,3,3,3,4,4,4,4,4,4,5,5]
+    - label: cantrips
+      values: [4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,8,8]
+    - label: powers_known
+      values: [3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22]
+    - label: power_slots_by_power_level
+      values: [[2,4,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7],[0,0,0,0,2,3,4,5,6,6,6,6,6,6,6,6,6,6,6,6,6],[0,0,0,0,0,0,0,0,1,2,3,3,3,3,3,3,3,4,5,5],[0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,2,2,3],[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1]]
+---
+Adepts are biotic specialists, capable of disabling and killing enemies with raw biotic power. While they lack
+advanced combat training, they are the best at defeating enemies without firing a shot. They are outfitted with L5x
+implants that can spawn a micro-singularity, damaging enemies and pulling them into the air.

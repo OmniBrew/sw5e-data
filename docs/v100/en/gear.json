@@ -1,0 +1,566 @@
+[
+  {
+    "rarity": "uncommon",
+    "type": "omni_tool_program",
+    "cost": 0,
+    "weight": 0,
+    "subType": "",
+    "name": "Active_Camo.exe",
+    "installation": true,
+    "equippable": true,
+    "mechanics": [
+      {
+        "name": "Active_Camo.exe",
+        "moreInfo": {
+          "model": "gear",
+          "id": "active-camo-exe"
+        },
+        "type": "other",
+        "shortDesc": "When on, Wisdom (Perception) checks made to see you have disadvantage and you have advantage on Dexterity (Stealth) checks made to hide.",
+        "toggle": {
+          "id": "active-camo-exe",
+          "whenOn": [
+            {
+              "type": "skill-check",
+              "value": "stealth",
+              "effect": {
+                "type": "advantage",
+                "note": "to hide"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "html": "<p>The user's omni-tool diverts energy to coat their armor in color-adaptive hard light, using\ndata obtained from the suit's micro-sensors. While not making the wearer truly invisible, this adaptive camouflage helps\nthe user blend into any environment. Wisdom (Perception) checks made to see you have disadvantage and you have\nadvantage on Dexterity (Stealth) checks made to hide. You can use a free action to toggle this effect on or off.</p>\n",
+    "id": "active-camo-exe"
+  },
+  {
+    "subsets": [
+      {
+        "id": "arc-grenade-i",
+        "rarity": "common",
+        "cost": 1400,
+        "name": "Arc Grenade I",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 11 Dexterity saving throw. A creature takes 2d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade I",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-i",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 2,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 11,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-ii",
+        "rarity": "common",
+        "cost": 2400,
+        "name": "Arc Grenade II",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 13 Dexterity saving throw. A creature takes 2d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade II",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-ii",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 2,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 13
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-iii",
+        "rarity": "uncommon",
+        "cost": 3100,
+        "name": "Arc Grenade III",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 13 Dexterity saving throw. A creature takes 3d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade III",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-iii",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 3,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 13,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-iv",
+        "rarity": "uncommon",
+        "cost": 4100,
+        "name": "Arc Grenade IV",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 15 Dexterity saving throw. A creature takes 3d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade IV",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-iv",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 3,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 15,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-v",
+        "rarity": "rare",
+        "cost": 5500,
+        "name": "Arc Grenade V",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 15 Dexterity saving throw. A creature takes 5d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade V",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-v",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 5,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 15,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-vi",
+        "rarity": "rare",
+        "cost": 6500,
+        "name": "Arc Grenade VI",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 17 Dexterity saving throw. A creature takes 5d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade VI",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-vi",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 5,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 17,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-vii",
+        "rarity": "very_rare",
+        "cost": 7200,
+        "name": "Arc Grenade VII",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 17 Dexterity saving throw. A creature takes 6d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade VII",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-vii",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 6,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 17,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-viii",
+        "rarity": "very_rare",
+        "cost": 7700,
+        "name": "Arc Grenade VIII",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 18 Dexterity saving throw. A creature takes 6d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade VIII",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-viii",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 6,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 18,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-ix",
+        "rarity": "very_rare",
+        "cost": 8400,
+        "name": "Arc Grenade IX",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 18 Dexterity saving throw. A creature takes 7d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade IX",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-ix",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 7,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 18,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "arc-grenade-x",
+        "rarity": "spectre",
+        "cost": 9600,
+        "name": "Arc Grenade X",
+        "html": "Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a DC 19 Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.",
+        "mechanics": [
+          {
+            "type": "action",
+            "layout": "attack",
+            "name": "Arc Grenade X",
+            "group": "Grenades",
+            "resource": {
+              "id": "arc-grenade-x",
+              "displayType": "gear-consumable"
+            },
+            "damage": [
+              {
+                "dieCount": 8,
+                "dieType": 6,
+                "type": "lightning"
+              }
+            ],
+            "dc": {
+              "save": "dex",
+              "base": 19,
+              "proficient": false
+            },
+            "range": {
+              "short": 30,
+              "aoe": {
+                "size": 10,
+                "type": "sphere"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "marks": [
+      {
+        "mark": "I",
+        "rarity": "Common",
+        "damage": "2d6",
+        "dc": 11
+      },
+      {
+        "mark": "II",
+        "rarity": "Common",
+        "damage": "2d6",
+        "dc": 13
+      },
+      {
+        "mark": "III",
+        "rarity": "Uncommon",
+        "damage": "3d6",
+        "dc": 13
+      },
+      {
+        "mark": "IV",
+        "rarity": "Uncommon",
+        "damage": "3d6",
+        "dc": 15
+      },
+      {
+        "mark": "V",
+        "rarity": "Rare",
+        "damage": "5d6",
+        "dc": 15
+      },
+      {
+        "mark": "VI",
+        "rarity": "Rare",
+        "damage": "5d6",
+        "dc": 17
+      },
+      {
+        "mark": "VII",
+        "rarity": "Very Rare",
+        "damage": "6d6",
+        "dc": 17
+      },
+      {
+        "mark": "VIII",
+        "rarity": "Very Rare",
+        "damage": "6d6",
+        "dc": 18
+      },
+      {
+        "mark": "IX",
+        "rarity": "Very Rare",
+        "damage": "7d6",
+        "dc": 18
+      },
+      {
+        "mark": "X",
+        "rarity": "Spectre",
+        "damage": "8d6",
+        "dc": 19
+      }
+    ],
+    "rarity": "varies",
+    "type": "grenade",
+    "cost": "Varies",
+    "weight": 1,
+    "subType": "",
+    "name": "Arc Grenade",
+    "consumable": true,
+    "equippable": true,
+    "html": "<p>Target an area within <me-distance length=\"30\" />. Each creature within <me-distance length=\"10\" /> of the target must make a Dexterity saving throw.\nA creature takes lightning damage on a failed save, or half as much damage on a successful one.</p>\n<p>The mark of this grenade determines its Save DC, damage, and cost.</p>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>Mark</th>\n<th>Rarity</th>\n<th>Save DC</th>\n<th>Damage</th>\n<th>Credits</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>I</td>\n<td>Common</td>\n<td>11</td>\n<td>2d6</td>\n<td>1,400 credits</td>\n</tr>\n<tr>\n<td>II</td>\n<td>Common</td>\n<td>13</td>\n<td>2d6</td>\n<td>2,400 credits</td>\n</tr>\n<tr>\n<td>III</td>\n<td>Uncommon</td>\n<td>13</td>\n<td>3d6</td>\n<td>3,100 credits</td>\n</tr>\n<tr>\n<td>IV</td>\n<td>Uncommon</td>\n<td>15</td>\n<td>3d6</td>\n<td>4,100 credits</td>\n</tr>\n<tr>\n<td>V</td>\n<td>Rare</td>\n<td>15</td>\n<td>5d6</td>\n<td>5,500 credits</td>\n</tr>\n<tr>\n<td>VI</td>\n<td>Rare</td>\n<td>17</td>\n<td>5d6</td>\n<td>6,500 credits</td>\n</tr>\n<tr>\n<td>VII</td>\n<td>Very Rare</td>\n<td>17</td>\n<td>6d6</td>\n<td>7,200 credits</td>\n</tr>\n<tr>\n<td>VIII</td>\n<td>Very Rare</td>\n<td>18</td>\n<td>6d6</td>\n<td>7,700 credits</td>\n</tr>\n<tr>\n<td>IX</td>\n<td>Very Rare</td>\n<td>18</td>\n<td>7d6</td>\n<td>8,400 credits</td>\n</tr>\n<tr>\n<td>X</td>\n<td>Spectre</td>\n<td>19</td>\n<td>8d6</td>\n<td>9,600 credits</td>\n</tr>\n</tbody>\n</template></v-simple-table>",
+    "id": "arc-grenade"
+  },
+  {
+    "rarity": "common",
+    "type": "tool",
+    "cost": 100,
+    "weight": 0,
+    "subType": "gaming_set",
+    "name": "Arcade Game",
+    "html": "<p>These small programs can be installed onto omni-tools and played with nearby players. Popular games include\n<em>Alliance Corsair</em>, <em>Relay Defense</em>, <em>Shattered Eezo</em>, and <em>N7 Code of Honor: Medal of Duty</em>.</p>\n",
+    "id": "arcade-game"
+  },
+  {
+    "rarity": "common",
+    "type": "tool",
+    "cost": 6000,
+    "weight": 30,
+    "subType": "artisan",
+    "name": "Armorsmith's Workbench",
+    "html": "<p>All the necessary tools to work with medium and heavy armor.</p>\n",
+    "id": "armorsmiths-workbench"
+  },
+  {
+    "mechanics": [
+      {
+        "name": "M-100 Grenade Launcher",
+        "moreInfo": {
+          "model": "gear",
+          "id": "m-100-grenade-launcher"
+        },
+        "type": "action",
+        "layout": "attack",
+        "group": "Heavy Weapons",
+        "resource": {
+          "id": "m-100-grenade-launcher",
+          "max": {
+            "type": "flat",
+            "value": 12
+          },
+          "reset": "manual",
+          "label": "charges"
+        },
+        "damage": [
+          {
+            "dieCount": 3,
+            "dieType": 6,
+            "type": "thunder"
+          }
+        ],
+        "dc": {
+          "save": "dex",
+          "base": 14,
+          "proficient": false
+        },
+        "range": {
+          "short": 90,
+          "aoe": {
+            "size": 10,
+            "type": "sphere"
+          }
+        }
+      }
+    ],
+    "image": "https://vignette.wikia.nocookie.net/masseffect/images/f/f0/ME2_HW_-_Grenade_Launcher.png/revision/latest?cb=20140823054132",
+    "rarity": "uncommon",
+    "type": "heavy_weapon",
+    "cost": 20500,
+    "weight": 12,
+    "subType": "",
+    "charges": 12,
+    "name": "M-100 Grenade Launcher",
+    "equippable": true,
+    "html": "<p>Target an area within <me-distance length=\"90\" /> that you can see and fire a grenade at it. Each creature\nwithin a <me-distance length=\"10\" adj /> radius sphere must make a DC 14 Dexterity saving throw.\nOn a failed save a creature takes 3d6 thunder damage or half as much on a successful one.</p>\n",
+    "id": "m-100-grenade-launcher"
+  }
+]

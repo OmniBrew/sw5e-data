@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Body and Soul",
+    "species": [
+      "drell"
+    ],
+    "mechanics": [
+      {
+        "name": "Body and Soul",
+        "moreInfo": {
+          "model": "traits",
+          "id": "body-and-soul"
+        },
+        "type": "other",
+        "resource": {
+          "id": "body-and-soul"
+        }
+      }
+    ],
+    "html": "<p>If you spend 10 minutes in prayer, you can mentally focus your body and soul into a true Whole. The next time you are\nreduced to 0 hit points but not killed outright, you gain advantage on all death saving throws until you are\nstabilized or regain hit points, at which point you cannot benefit from this feature again until you finish a long rest.</p>\n",
+    "id": "body-and-soul"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Ambidextrous",
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "weapon",
+          "special": "twf"
+        },
+        "augmentTypes": [
+          "damage"
+        ],
+        "abilityMod": true
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>\n",
+    "id": "FS_ambidextrous"
+  },
+  {
+    "name": "Assault",
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "weapon",
+          "special": "bf"
+        },
+        "augmentTypes": [
+          "dc"
+        ],
+        "bonus": {
+          "type": "flat",
+          "value": 2
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When you make a Burst Fire attack, increase the DC by 2.</p>\n",
+    "id": "FS_assault"
+  },
+  {
+    "name": "Brawler",
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "type": "melee"
+        },
+        "augmentTypes": [
+          "damage"
+        ],
+        "bonus": {
+          "type": "proficiency"
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>Add your proficiency bonus to your melee damage rolls.</p>\n",
+    "id": "FS_brawler"
+  },
+  {
+    "name": "Carnage",
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "weapon",
+          "modelTypes": [
+            "shotgun"
+          ]
+        },
+        "augmentTypes": [
+          "damage"
+        ],
+        "rerollIfLessThan": 3
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When you roll a 1 or 2 on a damage die for an attack you make with a shotgun, you can reroll the die and must use the new roll.</p>\n",
+    "id": "FS_carnage"
+  },
+  {
+    "name": "Close-Quarters Shooter",
+    "mechanics": [
+      {
+        "type": "global-note",
+        "subType": "action",
+        "attack": "ranged",
+        "value": "Close-Quarters Shooter",
+        "moreInfo": {
+          "model": "edges",
+          "id": "FS_close-quarters-shooter"
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When making a ranged attack while you are within <me-distance length=\"5\" /> of a hostile creature, you do not have\ndisadvantage on the attack roll. Your ranged attacks ignore half-cover against targets within <me-distance length=\"30\" /> of you.</p>\n",
+    "id": "FS_close-quarters-shooter"
+  },
+  {
+    "name": "Defense",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 1
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>+1 AC.</p>\n",
+    "id": "FS_defense"
+  },
+  {
+    "name": "Protection",
+    "mechanics": [
+      {
+        "name": "Protection",
+        "moreInfo": {
+          "model": "edges",
+          "id": "FS_protection"
+        },
+        "type": "reaction",
+        "shortDesc": "When a creature you can see attacks a target other than you that is within <me-distance length=\"5\" /> of you, expend one barrier tick to impose disadvantage on the attack roll. If the attack hits, the damage is reduced by your barrier tick roll."
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When a creature you can see attacks a target other than you that is within <me-distance length=\"5\" /> of you, you can use your reaction and expend one barrier tick to impose disadvantage on the attack roll. If the attack hits, the damage is reduced by your barrier tick roll.</p>\n",
+    "id": "FS_protection"
+  },
+  {
+    "name": "Sniper",
+    "mechanics": [
+      {
+        "type": "global-note",
+        "subType": "action",
+        "attack": "ranged",
+        "value": "Sniper",
+        "moreInfo": {
+          "model": "edges",
+          "id": "FS_sniper"
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>If no hostile creature is within <me-distance length=\"30\" /> of you, gain +2 to damage rolls on attacks made with a sniper rifle.</p>\n",
+    "id": "FS_sniper"
+  },
+  {
+    "name": "The Free Hand",
+    "mechanics": [
+      {
+        "type": "global-note",
+        "subType": "power",
+        "value": "Free Hand",
+        "moreInfo": {
+          "model": "edges",
+          "id": "FS_the-free-hand"
+        }
+      }
+    ],
+    "type": "fighting-styles",
+    "html": "<p>When holding no more than one light, non-two-handed weapon, you gain a +2 bonus to hit with ranged power attacks.</p>\n",
+    "id": "FS_the-free-hand"
+  },
+  {
+    "id": "EXL_drell",
+    "name": "Drell",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "dex"
+      },
+      {
+        "type": "asi",
+        "amount": 1,
+        "ability": "wis"
+      }
+    ],
+    "html": "<div class=\"text-subtitle-1\">Ability Score Increase</div><p>+2 DEX, +1 WIS</p>",
+    "type": "exalted-lineages"
+  }
+]
