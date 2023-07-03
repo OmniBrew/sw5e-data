@@ -16,7 +16,7 @@
     ],
     "type": "fighting-styles",
     "html": "<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>\n",
-    "id": "FS_ambidextrous"
+    "id": "ambidextrous"
   },
   {
     "name": "Assault",
@@ -38,7 +38,7 @@
     ],
     "type": "fighting-styles",
     "html": "<p>When you make a Burst Fire attack, increase the DC by 2.</p>\n",
-    "id": "FS_assault"
+    "id": "assault"
   },
   {
     "name": "Brawler",
@@ -58,7 +58,7 @@
     ],
     "type": "fighting-styles",
     "html": "<p>Add your proficiency bonus to your melee damage rolls.</p>\n",
-    "id": "FS_brawler"
+    "id": "brawler"
   },
   {
     "name": "Carnage",
@@ -79,25 +79,26 @@
     ],
     "type": "fighting-styles",
     "html": "<p>When you roll a 1 or 2 on a damage die for an attack you make with a shotgun, you can reroll the die and must use the new roll.</p>\n",
-    "id": "FS_carnage"
+    "id": "carnage"
   },
   {
     "name": "Close-Quarters Shooter",
     "mechanics": [
       {
-        "type": "global-note",
-        "subType": "action",
-        "attack": "ranged",
-        "value": "Close-Quarters Shooter",
+        "name": "Close-Quarters Shooter",
         "moreInfo": {
           "model": "edges",
           "id": "FS_close-quarters-shooter"
-        }
+        },
+        "type": "global-note",
+        "subType": "action",
+        "attack": "ranged",
+        "value": "Close-Quarters Shooter"
       }
     ],
     "type": "fighting-styles",
     "html": "<p>When making a ranged attack while you are within <me-distance length=\"5\" /> of a hostile creature, you do not have\ndisadvantage on the attack roll. Your ranged attacks ignore half-cover against targets within <me-distance length=\"30\" /> of you.</p>\n",
-    "id": "FS_close-quarters-shooter"
+    "id": "close-quarters-shooter"
   },
   {
     "name": "Defense",
@@ -112,7 +113,7 @@
     ],
     "type": "fighting-styles",
     "html": "<p>+1 AC.</p>\n",
-    "id": "FS_defense"
+    "id": "defense"
   },
   {
     "name": "Protection",
@@ -120,8 +121,8 @@
       {
         "name": "Protection",
         "moreInfo": {
-          "model": "edges",
-          "id": "FS_protection"
+          "model": "fighting-styles",
+          "id": "protection"
         },
         "type": "reaction",
         "shortDesc": "When a creature you can see attacks a target other than you that is within <me-distance length=\"5\" /> of you, expend one barrier tick to impose disadvantage on the attack roll. If the attack hits, the damage is reduced by your barrier tick roll."
@@ -129,59 +130,312 @@
     ],
     "type": "fighting-styles",
     "html": "<p>When a creature you can see attacks a target other than you that is within <me-distance length=\"5\" /> of you, you can use your reaction and expend one barrier tick to impose disadvantage on the attack roll. If the attack hits, the damage is reduced by your barrier tick roll.</p>\n",
-    "id": "FS_protection"
+    "id": "protection"
   },
   {
     "name": "Sniper",
     "mechanics": [
       {
-        "type": "global-note",
-        "subType": "action",
-        "attack": "ranged",
-        "value": "Sniper",
+        "name": "Sniper",
         "moreInfo": {
           "model": "edges",
           "id": "FS_sniper"
-        }
+        },
+        "type": "global-note",
+        "subType": "action",
+        "attack": "ranged",
+        "value": "Sniper"
       }
     ],
     "type": "fighting-styles",
     "html": "<p>If no hostile creature is within <me-distance length=\"30\" /> of you, gain +2 to damage rolls on attacks made with a sniper rifle.</p>\n",
-    "id": "FS_sniper"
+    "id": "sniper"
   },
   {
     "name": "The Free Hand",
     "mechanics": [
       {
-        "type": "global-note",
-        "subType": "power",
-        "value": "Free Hand",
+        "name": "The Free Hand",
         "moreInfo": {
           "model": "edges",
           "id": "FS_the-free-hand"
-        }
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Free Hand"
       }
     ],
     "type": "fighting-styles",
     "html": "<p>When holding no more than one light, non-two-handed weapon, you gain a +2 bonus to hit with ranged power attacks.</p>\n",
-    "id": "FS_the-free-hand"
+    "id": "the-free-hand"
   },
   {
-    "id": "EXL_drell",
-    "name": "Drell",
+    "name": "Ashla",
     "mechanics": [
       {
-        "type": "asi",
-        "amount": 2,
-        "ability": "dex"
-      },
-      {
-        "type": "asi",
-        "amount": 1,
-        "ability": "wis"
+        "name": "Ashla",
+        "moreInfo": {
+          "model": "force-affinities",
+          "id": "ashla"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "FA: Ashla"
       }
     ],
-    "html": "<div class=\"text-subtitle-1\">Ability Score Increase</div><p>+2 DEX, +1 WIS</p>",
-    "type": "exalted-lineages"
+    "html": "<p>When you successfully cast a light side power, either your or the target’s (your choice) hit point maximum and\ncurrent hit points increase by an amount equal to the power’s level. This effect lasts for 1 minute. You can only\nhave one instance of this effect active at a time.</p>\n",
+    "id": "ashla",
+    "type": "force-affinities"
+  },
+  {
+    "name": "Bendu",
+    "mechanics": [
+      {
+        "type": "augment",
+        "value": {
+          "model": "class-features",
+          "id": "consular.forcecasting",
+          "limit": [
+            "bonus-pc-resource"
+          ],
+          "instances": 0
+        },
+        "merge": {
+          "value": {
+            "type": "multiple",
+            "value": [
+              {
+                "type": "mod",
+                "value": "cha"
+              },
+              {
+                "type": "mod",
+                "value": "wis"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "html": "<p>When you successfully cast a light side power, either your or the target’s (your choice) hit point maximum and\ncurrent hit points increase by an amount equal to the power’s level. This effect lasts for 1 minute. You can only\nhave one instance of this effect active at a time.</p>\n",
+    "id": "bendu",
+    "type": "force-affinities"
+  },
+  {
+    "name": "Bogan",
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "power",
+          "modelTypes": "dark"
+        },
+        "augmentTypes": [
+          "damage"
+        ],
+        "minRollThreshold": true
+      }
+    ],
+    "html": "<p>When you successfully cast a light side power, either your or the target’s (your choice) hit point maximum and\ncurrent hit points increase by an amount equal to the power’s level. This effect lasts for 1 minute. You can only\nhave one instance of this effect active at a time.</p>\n",
+    "id": "bogan",
+    "type": "force-affinities"
+  },
+  {
+    "name": "Careful Power",
+    "mechanics": [
+      {
+        "name": "Careful Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "careful-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Careful Power"
+      }
+    ],
+    "html": "<p>When you cast a power that forces other creatures to make a saving throw, you can protect some of those creatures\nfrom the power’s full force. To do so, you spend 1 additional force point and choose a number of those\ncreatures up to your Wisdom or Charisma modifier (your choice, minimum of one). A chosen creature automatically succeeds\non its saving throw against the power.</p>\n",
+    "id": "careful-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Distant Power",
+    "mechanics": [
+      {
+        "name": "Distant Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "distant-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Distant Power"
+      }
+    ],
+    "html": "<p>When you cast a power that has a range of 5 feet or greater, you can spend 1 additional force point to double the range of the power.</p>\n<p>Alternatively, when you cast a power that has a range of touch, you can spend 1 additional force point to make the range of the power 30 feet.</p>\n",
+    "id": "distant-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Extended Power",
+    "mechanics": [
+      {
+        "name": "Extended Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "extended-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Extended Power"
+      }
+    ],
+    "html": "<p>When you cast a power that has a duration of 1 minute or longer, you can spend 1 additional force point to double its duration, to a maximum duration of 24 hours.</p>\n",
+    "id": "extended-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Heightened Power",
+    "mechanics": [
+      {
+        "name": "Heightened Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "heightened-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Heightened Power"
+      }
+    ],
+    "html": "<p>When you cast a power that forces a creature to make a saving throw to resist its effects, you can spend 3 additional force points to give one target of the power disadvantage on its first saving throw made against the power.</p>\n",
+    "id": "heightened-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Improved Power",
+    "mechanics": [
+      {
+        "name": "Improved Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "improved-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Improved Power"
+      }
+    ],
+    "html": "<p>When you roll damage for a power, you can spend 1 additional force point to reroll a number of the damage dice up to your Wisdom or Charisma modifier (your choice, minimum of one). You must use the new rolls.</p>\n<p>You can use Improved Power even if you have already used a different Force-Empowered Casting option during the casting of the power.</p>\n",
+    "id": "improved-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Lingering Power",
+    "mechanics": [
+      {
+        "name": "Lingering Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "lingering-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Lingering Power"
+      }
+    ],
+    "html": "<p>When you cast a power that requires concentration to maintain you can choose to spend 3 additional force points. If you do, when you lose concentration on the power, the power will not end until the end of your next turn.</p>\n",
+    "id": "lingering-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Pinpoint Power",
+    "mechanics": [
+      {
+        "name": "Pinpoint Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "pinpoint-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Pinpoint Power"
+      }
+    ],
+    "html": "<p>When you cast a power that allows you to force creatures in an area to make a saving throw you can instead spend 1\nforce point and make a ranged force attack against a single target that would be in the range. On a hit the target\nsuffers the effects as though they failed their saving throw.</p>\n",
+    "id": "pinpoint-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Quickened Power",
+    "mechanics": [
+      {
+        "name": "Quickened Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "quickened-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Quickened Power"
+      }
+    ],
+    "html": "<p>When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.</p>\n",
+    "id": "quickened-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Refocused Power",
+    "mechanics": [
+      {
+        "name": "Refocused Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "refocused-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Refocused Power"
+      }
+    ],
+    "html": "<p>When you are forced to make a Constitution saving throw to maintain concentration on a power you can use your reaction and spend 2 force points to automatically succeed on the saving throw.</p>\n<p>You can use Refocused Power even if you have already used a different Force-Empowered Casting option during the casting of the power.</p>\n",
+    "id": "refocused-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Seeking Power",
+    "mechanics": [
+      {
+        "name": "Seeking Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "seeking-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Seeking Power"
+      }
+    ],
+    "html": "<p>If you miss with a force power that calls for an attack roll, you can spend 2 force points to reroll the attack. You must use the new roll.</p>\n<p>You can use Seeking Power even if you have already used a different Force-Empowered Casting option during the casting of the power.</p>\n",
+    "id": "seeking-power",
+    "type": "force-empowered-castings"
+  },
+  {
+    "name": "Twinned Power",
+    "mechanics": [
+      {
+        "name": "Twinned Power",
+        "moreInfo": {
+          "model": "force-empowered-castings",
+          "id": "twinned-power"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Twinned Power"
+      }
+    ],
+    "html": "<p>When you cast a power that can only have one target and doesn’t have a range of self, you can spend a number of\nadditional force points equal to the power’s level to choose a second target in range with the same power\n(1 force point if the power is at-will).</p>\n",
+    "id": "twinned-power",
+    "type": "force-empowered-castings"
   }
 ]

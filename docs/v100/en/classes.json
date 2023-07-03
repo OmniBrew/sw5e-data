@@ -1,46 +1,35 @@
 [
   {
-    "name": "Adept",
-    "snippet": "The Adept is the ultimate biotic, able to affect the physical world with the power of the mind.",
+    "name": "Consular",
+    "snippet": "Refraining from drawing their lightsabers except as a measure of last resort, consulars spend a great deal of time studying the mysteries of the Force",
     "primaryAbility": [
-      "wis"
+      "wis",
+      "cha"
     ],
     "hitDie": 6,
     "profs": {
-      "armor": {
-        "text": "Light Armor",
-        "has": [
-          "light"
-        ]
-      },
+      "armor": false,
       "weapon": {
-        "text": "Heavy Pistols and choose either Melee or SMGs",
+        "text": "Simple lightweapons, simple vibroweapons",
         "has": [
-          "heavy_pistol"
-        ],
-        "choices": {
-          "items": [
-            "melee",
-            "smg"
-          ],
-          "count": 1
-        }
+          "simple_lightweapons",
+          "simple_vibroweapons"
+        ]
       },
       "tool": false,
       "skill": {
-        "text": "Choose three from Acrobatics, Deception, History, Insight, Intimidation, Performance, Sleight of Hand, and Survival",
+        "text": "Choose two from Deception, Insight, Intimidation, Investigation, Lore, Medicine, and Persuasion",
         "choices": {
           "items": [
-            "acrobatics",
             "deception",
-            "history",
             "insight",
             "intimidation",
-            "performance",
-            "sleight-of-hand",
-            "survival"
+            "investigation",
+            "lore",
+            "medicine",
+            "persuasion"
           ],
-          "count": 3
+          "count": 2
         }
       },
       "saving-throw": {
@@ -53,32 +42,17 @@
     },
     "startingEquipment": [
       {
-        "text": "(a) M-3 Predator or (b) M-4 Shuriken",
-        "choices": {
-          "items": [
-            "m-3-predator",
-            "m-4-shuriken"
-          ],
-          "count": 1
-        }
+        "text": "(a) a simple lightweapon or (b) a simple vibroweapon"
       },
       {
-        "text": "(a) Omni-Blade or (b) Monomolecular Blade",
-        "choices": {
-          "items": [
-            "omni-blade",
-            "monomolecular-blade"
-          ],
-          "count": 1
-        }
-      },
-      {
-        "text": "Stock Light Armor",
-        "has": [
-          "stock-light-armor"
-        ]
+        "text": "(a) a scholar’s pack, (b) an explorer’s pack, or (c) a diplomat’s pack"
       }
     ],
+    "startingWealth": {
+      "text": "In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:",
+      "value": "5d4"
+    },
+    "subclassLabel": "Consular Tradition",
     "progression": {
       "subclass": [
         2,
@@ -92,234 +66,9 @@
         12,
         16,
         19
-      ],
-      "columns": [
-        {
-          "label": "features"
-        },
-        {
-          "label": "barrier_uses",
-          "values": [
-            2,
-            2,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            5,
-            5,
-            5,
-            5,
-            5,
-            6,
-            6,
-            6,
-            6
-          ]
-        },
-        {
-          "label": "barrier_ticks",
-          "values": [
-            2,
-            2,
-            2,
-            2,
-            2,
-            2,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            5,
-            5
-          ]
-        },
-        {
-          "label": "cantrips",
-          "values": [
-            4,
-            4,
-            5,
-            5,
-            5,
-            5,
-            6,
-            6,
-            6,
-            6,
-            7,
-            7,
-            7,
-            7,
-            8,
-            8,
-            8,
-            8,
-            8,
-            8
-          ]
-        },
-        {
-          "label": "powers_known",
-          "values": [
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ]
-        },
-        {
-          "label": "power_slots_by_power_level",
-          "values": [
-            [
-              2,
-              4,
-              6,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7,
-              7
-            ],
-            [
-              0,
-              0,
-              0,
-              0,
-              2,
-              3,
-              4,
-              5,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6,
-              6
-            ],
-            [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              2,
-              3,
-              3,
-              3,
-              3,
-              3,
-              3,
-              3,
-              4,
-              5,
-              5
-            ],
-            [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              1,
-              2,
-              2,
-              2,
-              2,
-              2,
-              3
-            ],
-            [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              1,
-              1,
-              1
-            ]
-          ]
-        }
       ]
     },
-    "html": "<p>Adepts are biotic specialists, capable of disabling and killing enemies with raw biotic power. While they lack\nadvanced combat training, they are the best at defeating enemies without firing a shot. They are outfitted with L5x\nimplants that can spawn a micro-singularity, damaging enemies and pulling them into the air.</p>\n",
-    "id": "adept"
+    "html": "<p>A twi’lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his\nfingers, illuminating his red and black tattoos. The rodian’s pleas for mercy fall on deaf ears as the Sith channels\nhis lightning into his failed apprentice, leaving nothing but a charred husk behind.</p>\n<p>Sitting cross-legged on a dense patch of grass, a miraluka mystic meditates on the Force. With every breath, the trees\nsway with a rhythmic breeze. Though she lacks simple vision, she can see the Force as it moves everything around her.</p>\n<p>A drably-robed human focuses inward, channeling the Force into the ground around him. Slowly, all the debris within\narms reach rises into the air around him; with a flick of his wrist, he clears the air, sending his projectiles to\npound on the approaching tank.</p>\n<p>Consulars are the supreme wielders of the Force, defined and united by the powers they cast. Drawing on the omnipresent\nForce that permeates the universe, consulars cast powers of rejuvenating healing and destructive lightning, draining\nlife-force and manipulating minds; the most powerful with the Force can even experience brief glimpses of the future.</p>\n<h3>Strong with the force</h3>\n<p>Refraining from drawing their lightsabers except as a measure of last resort, consulars spend a great deal of time\nstudying the mysteries of the Force. Their knowledge allows them to channel the Force to greater heights, unlocking\nunrivaled power, and twisting those powers to greater effect.</p>\n<h3>Sage or Sorcerer</h3>\n<p>Consulars who follow the light side of the Force, using their powers to better their communities and people, are often\ncalled sages, while consulars who fall to the dark side and subjugate or cast aside all in their path are commonly\ncalled sorcerers. Alternatively, they may tend toward the middle, refraining from politics and war, spending their\ntime in isolation and study.</p>\n<p>While creating your consular, consider your personal philosophy in regards to the Force and its most famous\npractitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path?\nPerhaps you were ostracized from your primitive village out of superstition or jealousy. You may have been brutally\ntrained from a young age in the dark side, fueling your innate thirst for power, or perhaps you were trained as a\npadawan in one of the Jedi temples. How do you treat strangers, and how do they treat you once they know your abilities?\nWhat was your family like, or what did you have instead of a family? Do you see the Force as light and dark, or an\nimpartial river of gray?</p>\n<h4>Quick Build</h4>\n<p>You can make a consular quickly by following these suggestions. First, make Wisdom or Charisma your highest\nability score, followed by Dexterity. Second, choose the Jedi or Sith background.</p>\n",
+    "id": "consular"
   }
 ]

@@ -115,11 +115,65 @@ for (const lang of langs) {
     if (dir === 'changelog' && lang !== 'en') {
       continue
     }
+
+    // classes, subclasses, and class features
+    if (dir === 'classes') {
+      const classDirs = fs.readdirSync(`${dataPath}/${dir}`)
+      const classes = []
+      let subclasses = []
+      let classFeatures = []
+      for (const klassId of classDirs) {
+        // set up the class item
+        const classFile = fm(fs.readFileSync(`${dataPath}/${dir}/${klassId}/_class.md`, 'utf8'))
+        const item = classFile.attributes
+        const body = classFile.body
+        item.html = md.render(body)
+        item.id = klassId
+        if (item.mechanics?.length) {
+          item.mechanics = appendResourceIds(item.mechanics, item.id, item.name, 'classes')
+        }
+        classes.push(item)
+        classFeatures = classFeatures.concat(extractClassFeatures(`${dataPath}/${dir}/${klassId}`, klassId))
+
+        const scObject = extractSubclasses(`${dataPath}/${dir}/${klassId}`, klassId)
+        subclasses = subclasses.concat(scObject.items)
+        classFeatures = classFeatures.concat(scObject.classFeatures)
+      }
+      fs.writeFileSync(`${targetPath}/classes.json`, JSON.stringify(classes, null, 2))
+      fs.writeFileSync(`${targetPath}/subclasses.json`, JSON.stringify(subclasses, null, 2))
+      fs.writeFileSync(`${targetPath}/class-features.json`, JSON.stringify(classFeatures, null, 2))
+      continue
+    }
+
+    if (dir === 'edges') {
+      const edges = []
+      const edgeDirs = fs.readdirSync(`${dataPath}/${dir}`)
+      for (const edgeType of edgeDirs) {
+        const edgeCollection = fs.readdirSync(`${dataPath}/${dir}/${edgeType}`)
+        for (const edgeFile of edgeCollection) {
+          const fc = fm(fs.readFileSync(`${dataPath}/${dir}/${edgeType}/${edgeFile}`, 'utf8'))
+          const item = fc.attributes
+          const body = fc.body
+          item.html = md.render(body)
+          item.id = edgeFile.replace(/.md$/, '')
+          item.type = edgeType
+          if (item.mechanics?.length) {
+            item.mechanics = appendResourceIds(item.mechanics, item.id, item.name, edgeType)
+          }
+          edges.push(item)
+        }
+      }
+      fs.writeFileSync(`${targetPath}/edges.json`, JSON.stringify(edges, null, 2))
+      continue
+    }
+
+
     const modelDataPath = `${dataPath}/${dir}`
     const modelTextPath = `${textSourcePath}/${dir}`
     const modelTargetFile = `${targetPath}/${dir}.json`
     const modelFns = fs.readdirSync(modelDataPath)
     const items = []
+
     for (const file of modelFns) {
       let item = combineItem(file,dir, `${modelDataPath}/${file}`, `${modelTextPath}/${file}`)
       // changelog
@@ -180,114 +234,51 @@ for (const lang of langs) {
   }
 }
 
-/*
-function createSpellLevels (item) {
-  if (item.version === 1) {
-    const baseMechanics = _.cloneDeep(item.mechanics[0])
-    for (const [index, mechanic] of item.mechanics.entries()) {
-      if (index === 0) {
-        continue
-      }
-      item.mechanics[index] = _.merge(_.cloneDeep(baseMechanics), mechanic)
-    }
-    for (const [advIndex, adv] of item.advancements.entries()) {
-      const baseAdvancement = adv.mechanics.length ? {...adv.mechanics[0]} : {}
-      for (const [mechanicIndex, mechanic] of item.mechanics.entries()) {
-        const toMerge = adv.mechanics[mechanicIndex] || baseAdvancement
-        item.advancements[advIndex].mechanics[mechanicIndex] = _.merge({ ...mechanic}, toMerge)
-      }
-    }
-  }
-  return item
-}
-*/
-
-function getSpeciesInfo () {
-  const species = fs.readdirSync('./data/species').map(file => {
-    return combineItem(file, 'species', `./data/species/${file}`, `./text/en/species/${file}`)
-  })
-
-  const traits = fs.readdirSync('./data/traits').map(file => {
-    return combineItem(file, 'traits', `./data/traits/${file}`, `./text/en/traits/${file}`)
-  })
-  return { species, traits }
-}
-
-function generateExaltedLineages () {
-  const { species, traits } = getSpeciesInfo()
-  const exaltedLineages = []
-  const edgeType = 'exalted-lineages'
-  const asiRiciSSFilter = (mechanic) => {
-    // console.log(mechanic)
-    return ['resistance', 'sense', 'comdition-immunity', 'immunity'].includes(mechanic.type)
-      || mechanic.type === 'speed' && mechanic.speed !== 'walk'
-      || mechanic.type.startsWith('asi')
-  }
-  for (const sp of species) {
-    if (sp.id === 'kett' || sp.id === 'behemoth') {
+function extractClassFeatures (dir, klass, subclass) {
+  console.log('extractingcf', dir, klass, subclass)
+  const files = fs.readdirSync(dir)
+  const items = []
+  for (const file of files) {
+    if (['_subclass.md', '_class.md'].includes(file) || !file.endsWith('.md')) {
       continue
     }
-    let id = `EXL_${sp.id}`
-    let name = sp.name
-    let mechanics = []
-
-    if (['variant', 'subspecies'].includes(sp.type) && sp.id !== 'ardat-yakshi') {
-      const parent = species.find(i => i.id === sp.species)
-      const parentName = parent.name
-      name = `${parentName} (${name})`
-      if (sp.type === 'variant') {
-        mechanics.push(...(sp.mechanics || parent.mechanics))
-      } else {
-        mechanics.push(...[...sp.mechanics, ...parent.mechanics])
-      }
-    } else if (sp.subspecies) {
-      continue
-    } else {
-      mechanics.push(...sp.mechanics)
+    const fc = fm(fs.readFileSync(`${dir}/${file}`, 'utf8'))
+    const item = fc.attributes
+    const body = fc.body
+    item.html = md.render(body)
+    item.klass = klass
+    let idArray = [klass, file.replace(/.md$/, '')]
+    if (subclass) {
+      item.subclass = subclass
+      idArray.splice(1, 0, subclass)
     }
-
-    const exclusions = ['hermetic-suit', 'pressurized-suit', 'contra-gravitic-levitation']
-    const traitMechanics = traits.filter(i => i.species.includes(sp.id) && !exclusions.includes(i.id))
-      .reduce((acc, curr) => acc.concat(curr.mechanics), [])
-    mechanics.push(...traitMechanics)
-    mechanics = mechanics.filter(asiRiciSSFilter).sort((a, b) => a.type - b.type)
-    let html = ''
-    const asis = mechanics.filter(i => i.type === 'asi').map(i => `+${i.amount} ${i.ability.toUpperCase()}`)
-    html += '<div class="text-subtitle-1">Ability Score Increase</div>'
-    if (asis.length) {
-      html += `<p>${asis.join(', ')}</p>`
+    item.id = idArray.join('.')
+    if (item.mechanics?.length) {
+      item.mechanics = appendResourceIds(item.mechanics, item.id, item.name, 'class-features')
     }
-    const resistances = mechanics.filter(i => i.type === 'resistance').map(i => `${i.value || ''}${i.note ? ` (${i.note})` : ''}`)
-    if (resistances.length) {
-      html += '<div class="text-subtitle-1">Resistances</div>'
-      html += `<p>${resistances.join(', ')}</p>`
-    }
-    const conImms = mechanics.filter(i => i.type === 'condition-immunity').map(i => `${i.value || ''}${i.note || ''}`)
-    if (conImms.length) {
-      html += '<div class="text-subtitle-1">Condition Immunities</div>'
-      html += `<p>${conImms.join(', ')}</p>`
-    }
-    const speeds = mechanics.filter(i => i.type === 'speed' && i.speed !== 'walk').map(i => `${i.speed}ing <me-distance length="${i.distance}" />${i.note ? ` (${i.note})` : ''}`)
-    if (speeds.length) {
-      html += '<div class="text-subtitle-1">Speeds</div>'
-      html += `<p>${speeds.join(', ')}</p>`
-    }
-    const senses = mechanics.filter(i => i.type === 'sense').map(i => `${i.sense} <me-distance length="${i.distance}" />`)
-    if (senses.length) {
-      html += '<div class="text-subtitle-1">Senses</div>'
-      html += `<p>${senses.join(', ')}</p>`
-    }
-
-    exaltedLineages.push({
-      id,
-      name,
-      mechanics,
-      html,
-      type: edgeType
-    })
+    items.push(item)
   }
+  return items
+}
 
-  return exaltedLineages
+function extractSubclasses (dir, klass) {
+  const subclassDirs = fs.readdirSync(dir).filter(i => !i.endsWith('.md'))
+  const items = []
+  let classFeatures = []
+  for (const scDir of subclassDirs) {
+    const fc = fm(fs.readFileSync(`${dir}/${scDir}/_subclass.md`, 'utf8'))
+    const item = fc.attributes
+    const body = fc.body
+    item.html = md.render(body)
+    item.klass = klass
+    item.id = scDir
+    if (item.mechanics?.length) {
+      item.mechanics = appendResourceIds(item.mechanics, item.id, item.name, 'subclasses')
+    }
+    items.push(item)
+    classFeatures = classFeatures.concat(extractClassFeatures(`${dir}/${scDir}`, klass, scDir))
+  }
+  return { items, classFeatures }
 }
 
 function combineItem(id, dir, file1, file2 = null) {
@@ -340,7 +331,7 @@ function appendResourceIds (mechanics, id, name, model) {
         }
       }
     }
-    if (['action', 'reaction', 'other', 'bonus-action', 'attack'].includes(m.type)) {
+    if (['action', 'reaction', 'other', 'bonus-action', 'attack', 'global-note'].includes(m.type)) {
       newM = {
         name,
         moreInfo: {

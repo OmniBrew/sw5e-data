@@ -1,16 +1,17 @@
 ---
-# possible paths
-# species
-# species/subspecies
-# class
-# class/[n-level]
-# class/[n-level]/feat
-# class/subclass
-# class/subclass/[n-level]
+#############################################################################
+# New mechanics that need to be developed for SW5e
+#########
 
-# models
+## bonus powercasting resources (see consular forcecasting and consular bendu forcecasting affinity
+- type: bonus-pc-resource
+  value: @bonus
 
-# resource (e.g., x per rest)
+#############################################################################
+# Refs (i.e., reusable schema)
+# For example, if you see @resource or @bonus you should reference the resource schema in this section
+#########
+
 resource:
   displayType: enum [heat, counter, checkbox, hit-dice, omni-gel, barrier-ticks, gear-consumable] # default checkbox
   reset: enum [short, long, manual, off, cast] # 'manual' will display a "reload" button, default long, "off" will have no toggles
@@ -45,7 +46,6 @@ whenable:
   value: @bonus
   # or any other mechanic type
 
-# bonus
 bonus:
   type: enum [flat, mod, proficiency, level, hp, progressive, progressionColumn, modComparison, dice]
   value: any
@@ -91,22 +91,15 @@ damage:
   type: enum [damage types] or hp, sp, tempHp
   bonus: @bonus
 
-# used for looking up player selections
-# in theory, all selections are:
-{
-  path: '...'
-  value: [{type: 'type', value: 'value'}]
-}
-# so we can search for
-#   path.includes(model/id)
-#     .reduce to all values
-#     .filter(limit.includes(type))
-#     .map(value.value) for the value
 valueLookup:
   model: string
   id: string
   limit: enum of types
 
+
+#############################################################################
+# Important Notes
+#########
 
 # any mechanic that needs a selection should have
 #   options: true
@@ -127,9 +120,16 @@ progressionColumn:
 # 16-19 = custom before powercasting
 # 20 = point, then pact, then slot
 
+
+#############################################################################
+# Mechanics
+#########
+
 mechanics:
-# Ability Score Increases
-  # +X to a score
+##########################
+#
+# Ability score manipulation
+#
   - type: asi
     ability: int
     amount: 1
@@ -142,7 +142,11 @@ mechanics:
   - type: asi-minimum
     ability: enum abilities
     minimum: int
+
+##########################
+#
 # Proficiencies
+#
   - type: enum [skill, weapon, armor, saving-throw, tool, expertise] #note that 'saving-throw' has a double meaning. Could be rectified by adding -prof to the end of these
     value: enum [types of that prof]
     expertise: boolean
@@ -153,44 +157,76 @@ mechanics:
     expertise: boolean
   - type: skill-or-expertise
     value: [@skills]
+
+##########################
+#
 # AC
+#
   - type: ac
     bonus: @bonus
   - type: natural-armor
     base: integer
     mod: enum [abilities]
+
+##########################
+#
 # HP
+#
   - type: hp
     bonus: @bonus
-# IRVs
+
+##########################
+#
+# Immunities, resistances, and vulnerabilities
+#
   #resistances
   - type: resistance
-    value: enum or false #false used when the type is "special" for oddballs like "falling damage"
+    label: string
+    value: enum of damage types or null if using label
     note: string #optional, appends to damage type as a caveat or used to display text for special damage types
   # condition immunities
   - type: condition-immunity
     value: enum or false #false used when the type is "special" for oddballs like "falling damage"
     note: string #optional, appends to damage type as a caveat or used to display text for special damage types
+
+##########################
+#
 # Saving Throws
+#
   - type: saving-throw
     against: array
     value: enum [abilities]
     valueLookup: @valueLookup
     effect: @effect
+
+##########################
+#
 # Initiative
+#
   - type: initiative
     effect: @effect
-# skill checks
+
+##########################
+#
+# Skill check augments
+#
   - type: skill-check
     value: enum [skills]
     valueLookup: @valueLookup
     effect: @effect
-# Passive skills
+
+##########################
+#
+# Passive Skills
+#
   - type: passive
     value: enum @skills
     bonus: @bonus
+
+##########################
+#
 # Speeds
-  # when rendering, 1) take the farther of identical speeds and/or the one without a note
+#
   - type: speed
     speed: enum [walk, fly, burrow, swim, climb]
     distance: integer
@@ -200,14 +236,22 @@ mechanics:
     bonus: @bonus
   - type: speed-note
     note: string
+
+##########################
+#
 # Senses
+#
   - type: sense
     sense: enum [senses]
     distance: integer
     note: string
-# Attacks
+
+##########################
+#
+# Custom Attacks
+#
   - type: natural-weapon
-    replacesUnarmedStrike: # boolean
+    replacesUnarmedStrike: boolean
     value:
       noMod: boolean # see tentacles, damage doesn't add str
       type: enum [natural-melee,natural-ranged]
@@ -221,7 +265,11 @@ mechanics:
     value:
       damage: @damage
       notes: array of strings
-# Actions, Bonus Actions, Reactions, Other
+
+##########################
+#
+# Actions, Bonus actions, Reactions, and "Other"
+#
   - type: enum [action, bonus-action, reaction, other] # simply indicates where to render on the character sheet
     resource: @resource #optional, default null
     name: string # custom name
@@ -262,33 +310,25 @@ mechanics:
       bind: object
       model: string
       id: string
-# Model Choice (feats, edges, etc)
+
+##########################
+#
+# Selections/Model Choice, for example "Choose 2 powers from this list..." or "Choose a fighting style..."
+#
   - type: model-choice
     options: true
     label: string
     model: string
+    selections: int
     limits:
       - attr: string
         value: []
     append: any
-# Augments
-  - type: augment
-    value: # or value lookup
-      model: enum
-      id: string
-      limit: [enum types]
-      instances: 0
-    merge:
-      @type
-# Global Notes
-  - type: global-note
-    subType: enum [power, action, defenses]
-    attack: enum [melee, ranged]
-    value: string
-    moreInfo:
-      model: string
-      id: string
-# Powercasting
+
+##########################
+#
+# Spellcasting
+#
   # slots
   - type: powercasting-slots
     multiclassConversion: float (default 1)
@@ -323,26 +363,31 @@ mechanics:
     slotLevel: array
     numSlots: array
     mod: enum @abilities
-# cantrips
+
+##########################
+#
+# Cantrips
+#
   - type: cantrips
     columnName: string (default Cantrips)
     known: array
   - type: additional-cantrips
     bonus: @bonus
-# barrier
-  - type: barrier
-    multiclassConversion: float (default 1)
-    ticks: array
-    uses: array
-    dieType: int
-    dieCount: int
+
+##########################
+#
 # Extra Attack
+#
   # regular
-  - type: extra-attack # highest of all of these
+  - type: extra-attack
     value: int
   # additive
   - type: extra-attack-add # adds 1 to the extra attack total
-# Power resource recovery
+
+##########################
+#
+# Spellcasting resource recovery
+#
   - type: power-resource-recovery
     dieCount: int
     dieType: int
@@ -350,28 +395,42 @@ mechanics:
     limit: enum [points, slots]
     label: string
     maxSlot: int
-# Unique
+
+##########################
+#
+# Global Note
+#
+  - type: global-note
+    subType: enum [power, action, defenses]
+    attack: enum [melee, ranged]
+    value: string
+    moreInfo:
+      model: string
+      id: string
+
+
+#############################################################################
+# Unique or rare mechanics
+#########
+
+## Minimum hit die roll
+  - type: min-hit-die-roll
+    bonus: @bonus
+
+## Regain all hit dice on a long rest
   - type: regain-all-hit-dice
-# Shields
-  - type: shields
-    capacity: @bonus
-    regen: @bonus
-    additive: boolean
-  - type: cantrip-boost #see asari initiate armor
-# capacities
-  - type: grenade-capacity
-    value: int
-  - type: thermal-clip-capacity
-    value: int
-  - type: medi-gel-capacity
-    value: int
-  - type: weapon-slots
-    value: int
-# weapon heat (weapon mod only)
-  - type: weapon-heat-increase
-    multiplier: float
-    value: int
-# attack and damage bonuses
+
+## Cantrip boost (see asari initiate armor)
+  - type: cantrip-boost
+
+#############################################################################
+# Really complex mechanics
+#########
+##########################
+#
+# Attack and Damage bonuses
+# e.g., gain +1 to all weapon attacks
+#
   - type: attack-augment
     attackLimit: @attackLimit
     augmentTypes: [enum damage, dc, hit, range, notes]
@@ -382,14 +441,30 @@ mechanics:
     crit: int # hit only
     addCritDie: int # damage only
     notes: [@note]
-# Minimum hit die roll
-  - type: min-hit-die-roll
-    bonus: @bonus
-# weapon props (weapon mod only)
+##########################
+#
+# Augment an existing mechanic
+# i.e., "Your XYZ feature gains this other benefit at this level"
+#
+  - type: augment
+    value: # or value lookup
+      model: enum
+      id: string
+      limit: [enum types]
+      instances: 0
+    merge:
+      @type
+
+
+#############################################################################
+# Potentially Mass Effect only mechanics
+#########
+## weapon props (weapon mod only)
   - type: adjust-weapon-props
     add: [enum weapon properties]
     remove: [enum weapon properties]
-# ammo powers (weapon mod only)
+
+## ammo powers (weapon mod only)
   - type: weapon-augment
     hitBonus: int
     damageType: string
@@ -408,55 +483,78 @@ mechanics:
     longRangeMax: int
     shortRangeMultiplier: int
     longRangeMultiplier: int
-# weapon range maximum (weapon mod only)
+
+## weapon range maximum (weapon mod only)
   - type: weapon-range-maximum
     shortRange: int
     longRange: int
 
-# NOT IMPLEMENTED
+## Barrier
+  - type: barrier
+    multiclassConversion: float (default 1)
+    ticks: array
+    uses: array
+    dieType: int
+    dieCount: int
+
+# Shields
+  - type: shields
+    capacity: @bonus
+    regen: @bonus
+    additive: boolean
+
+# Armor Capacities
+  - type: grenade-capacity
+    value: int
+  - type: thermal-clip-capacity
+    value: int
+  - type: medi-gel-capacity
+    value: int
+  - type: weapon-slots
+    value: int
+
+# Weapon heat adjustments (mods only)
+  - type: weapon-heat-increase
+    multiplier: float
+    value: int
+
+
+
+#############################################################################
+# Not implemented/Ides
+#########
 - type: dual-wielder # +1 ac if 2 melee equipped, twf with non-light
   value: @bonus || array (for notes) || abilityMod
+
 - type: featherlight
+
 - type: melee-gunner #twf w/ two-handed weapon if other is gun strike and other is omni-tool?
+
 - type: nullify-armor-str-restriction # Do not check for STR requirements of armor (to reduce speed by 10)
+
 - type: medium-armor-master # seems worthless cause in me5e medium armor
+
 - type: prof-choice # need to retrofit or add this, for combined choices like fast learner and skilled
+
 - type: imprinted-enemies # can be model choice
+
 - type: advanced-medigel-application #d6 for medigel
+
 - type: ignore-armor-proficiency # see hyper guardian chestplate, n7 armor, requires additional mechanics on character sheet to impose disadvantage
+
 - type: gradient-condition-increase # could be exhaustion or indoctrination, see initiative helmet/life support webbing
   condition: enum [exhaustion, indoctrination]
   value: int
 
-# IDEAS
 - type: ??? # some way to "auto-upgrade" a selection at a certain level (see tracker affinity)
-- short/long rest note
+
+- short/long rest note # could be a new type on global note
+
 - type: companion
   options:
     - @companion
+
 - type: conditional-attack-bonus # displays an icon with a list of all conditional attack bonuses (potentially armor piercing, might be others)
+
 - type: conditional-damage-bonus # displays an icon with a list of all conditional damage bonus options
 ---
-
-- [ ] A link to omni-gel for hermetic and pressurized suit...could be a resource with type omni-gel,
-  or and id of omni-gel...but the quantity of omni-gel is stored on the equipment model
-
-Display (Attacks, Actions, Bonus Actions, Reactions)
-______________________________________________________________________________________
-| | $name |           [ $range ]  [ $attackHit / $dc ]         [ $damage ]  [$notes] |
-| | $properties OR $range-on-mobile |
-| | $shortDesc or $desc |
-| | $properties-on-mobile |                                            [ $resource ] |
-______________________________________________________________________________________
-
-Display Resource
-
-Heat
-| [$reload-if-manual] [progress-bar-md-and-up] [$fire] |
-|                     [$current] / [$max]              |
-
-Counter
-| [$minus] [$current] / [$max] [$plus] [$reset-if-manual]|
-
-Checkbox
-| [$checkboxes] [if reset === short || long ( / [$reset]) else [$reset-button] ]|
