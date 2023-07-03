@@ -1,21 +1,388 @@
 [
   {
-    "level": 14,
-    "klass": "adept",
-    "subclass": "commando",
-    "name": "Biotic Harmony",
+    "level": 2,
     "mechanics": [
       {
-        "type": "global-note",
-        "subType": "action",
-        "value": "1st-level Power Attack",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "biotic-harmony"
+        "type": "model-choice",
+        "options": true,
+        "model": "force-empowered-castings",
+        "selections": 2,
+        "progressionColumn": {
+          "label": "Force-Empowered Casting Options",
+          "values": [
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4
+          ],
+          "order": 21
         }
       }
     ],
-    "html": "<p>Starting at 14th level, you can harmonize more exhaustive biotic powers with ease. When you use Extra Attack, you\ncan cast a 1st level biotic power in place of one of those attacks.</p>\n",
-    "id": "biotic-harmony"
+    "name": "Force-Empowered Casting",
+    "html": "<p>You gain the ability to twist your powers to suit your needs. When you cast a force power, you can expend additional\nforce points to modify the power. You gain two Force-Empowered Casting options, located at the end of the class\ndescription, and you learn more at higher levels, as shown in the Force-Empowered Casting Options of the consular table.</p>\n<p>You can use only one Force-Empowered Casting option on a power when you cast it, unless otherwise noted.</p>\n",
+    "klass": "consular",
+    "id": "consular.force-empowered-casting-1"
+  },
+  {
+    "level": 9,
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "force-empowered-castings",
+        "hide": true
+      }
+    ],
+    "name": "Force-Cmpowered Casting",
+    "html": "<p>Choose an additional Force-Empowered Casting option.</p>\n",
+    "klass": "consular",
+    "id": "consular.force-empowered-casting-2"
+  },
+  {
+    "level": 17,
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "force-empowered-castings",
+        "hide": true
+      }
+    ],
+    "name": "Force-Cmpowered Casting",
+    "html": "<p>Choose an additional Force-Empowered Casting option.</p>\n",
+    "klass": "consular",
+    "id": "consular.force-empowered-casting-3"
+  },
+  {
+    "level": 1,
+    "name": "Force Recovery",
+    "mechanics": [
+      {
+        "type": "power-resource-recovery",
+        "bonus": {
+          "type": "multiple",
+          "value": [
+            {
+              "type": "level",
+              "value": "consular",
+              "multiplier": 0.5,
+              "min": 1,
+              "ceil": false
+            },
+            {
+              "type": "powercastingMod",
+              "value": "consular"
+            }
+          ]
+        },
+        "limit": "points",
+        "label": "Force Recovery: Consular"
+      }
+    ],
+    "html": "<p>You have learned to regain some of your energy by briefly meditating. When you finish a short rest, you can regain a\nnumber of force points equal to half your consular level + your Wisdom or Charisma modifier\n(your choice, minimum of one). Once you’ve used this feature, you must complete a long rest before you can use it again.</p>\n",
+    "klass": "consular",
+    "id": "consular.force-recovery"
+  },
+  {
+    "level": 2,
+    "mechanics": [
+      {
+        "name": "Force Shield",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.force-shield"
+        },
+        "type": "reaction",
+        "shortDesc": "When you are hit by an attack, gain +{{ powercastingMod:consular }} AC until the start of your next turn, including against the triggering attack.",
+        "resource": {
+          "reset": "long",
+          "max": {
+            "type": "progressive",
+            "limit": "consular",
+            "value": {
+              "2": 2,
+              "5": 3,
+              "9": 4,
+              "13": 5,
+              "17": 6
+            }
+          },
+          "id": "consular.force-shield"
+        }
+      }
+    ],
+    "name": "Force Shield",
+    "html": "<p>You learn how to defend yourself purely through your strength with the Force. When you are hit by an attack, you\ncan use your reaction to shroud yourself in Force energy. Until the start of your next turn,\nyou have a bonus to AC equal to your Wisdom or Charisma modifier (your choice, minimum of +1). This includes the triggering attack.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you finish a long rest.</p>\n",
+    "klass": "consular",
+    "id": "consular.force-shield"
+  },
+  {
+    "level": 1,
+    "mechanics": [
+      {
+        "type": "powercasting-points",
+        "multiclassConversion": 1,
+        "known": [
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          26,
+          28,
+          29,
+          31,
+          32,
+          34,
+          35,
+          37,
+          38,
+          39,
+          40
+        ],
+        "prepared": false,
+        "points": [
+          4,
+          8,
+          12,
+          16,
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          64,
+          68,
+          72,
+          76,
+          80
+        ],
+        "limit": [
+          1,
+          1,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          5,
+          5,
+          6,
+          6,
+          7,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9
+        ],
+        "mod": [
+          "wis",
+          "cha"
+        ]
+      },
+      {
+        "type": "bonus-pc-resource",
+        "value": {
+          "type": "powercastingMod",
+          "value": "consular"
+        }
+      }
+    ],
+    "name": "Forcecasting",
+    "html": "<p>In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an\nabiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.</p>\n<h3>FORCE POWERS KNOWN</h3>\n<p>You learn 9 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known\ncolumn of the consular table. You may not learn a force power of a level higher than your Max Power Level, and you\nmay learn a force power at the same time you learn its prerequisite.</p>\n<h3>FORCE POINTS</h3>\n<p>You have a number of force points equal to your consular level x 4, as shown in the Force Points column of the\nconsular table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers.\nYou regain all expended force points when you finish a long rest.</p>\n<h3>MAX POWER LEVEL</h3>\n<p>Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower\nthese abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the consular table.</p>\n<p>You may only cast force powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.</p>\n<h3>FORCECASTING ABILITY</h3>\n<p>Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers,\nCharisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever\na power refers to your forcecasting ability. Additionally, you use this ability modifier when setting the saving throw\nDC for a force power you cast and when making an attack roll with one.</p>\n<p><strong>Force save DC</strong> = 8 + your proficiency bonus + your forcecasting ability modifier</p>\n<p><strong>Force attack modifier</strong> = your proficiency bonus + your forcecasting ability modifier</p>\n",
+    "klass": "consular",
+    "id": "consular.forcecasting"
+  },
+  {
+    "level": 1,
+    "mechanics": [
+      {
+        "type": "asi-maximum",
+        "abilities": [
+          "wis",
+          "cha"
+        ],
+        "max": 24
+      },
+      {
+        "type": "asi",
+        "ability": "wis",
+        "amount": 4
+      },
+      {
+        "type": "asi",
+        "ability": "cha",
+        "amount": 4
+      },
+      {
+        "type": "model-choice",
+        "model": "powers",
+        "options": true,
+        "known": true,
+        "limits": [
+          {
+            "attr": "level",
+            "value": [
+              3
+            ]
+          }
+        ],
+        "hide": true,
+        "isolated": true,
+        "selections": 1,
+        "append": {
+          "type": "power-resource",
+          "levels": [
+            3
+          ],
+          "resource": {
+            "reset": "short",
+            "id": "one-with-the-force"
+          }
+        }
+      }
+    ],
+    "name": "One with the Force",
+    "html": "<p>Your attunement to the Force is absolute. Your Wisdom or Charisma score increases by 4, and your\nmaximum for this score increases by 4. Additionally, you gain mastery over a single force power, and can\ncast it with little effort. Choose one 3rd-level force power that you know as your signature power. You can cast it\nonce at 3rd level without expending force points. When you do so, you can’t do so again until you finish a short or long rest.</p>\n<p>If you want to cast it at a higher level, you must expend force points as normal.</p>\n",
+    "klass": "consular",
+    "id": "consular.one-with-the-force"
+  },
+  {
+    "level": 10,
+    "mechanics": [
+      {
+        "name": "At-Will Barrier",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.at-will-barrier"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "At-Will Barrier"
+      }
+    ],
+    "name": "At-Will Barrier",
+    "html": "<p>Your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will\nuniversal power, the barrier regains 1 hit point. You can’t restore your barrier above half its maximum hit points in this way.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-balance",
+    "id": "consular.way-of-balance.at-will-barrier"
+  },
+  {
+    "level": 3,
+    "mechanics": [
+      {
+        "name": "Force Barrier",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.force-barrier"
+        },
+        "type": "other",
+        "resource": {
+          "displayType": "counter",
+          "id": "force-barrier",
+          "reset": "off"
+        }
+      }
+    ],
+    "name": "Force Barrier",
+    "html": "<p>You can weave the Force around yourself for protection. When you cast a universal power of 1st level or higher,\nyou can simultaneously manipulate the Force to create a barrier on yourself that lasts until you finish a long rest.\nThe barrier has hit points equal to twice your consular level + your Wisdom or Charisma modifier (your choice).\nYour barrier can never have hit points greater than twice your consular level + your Wisdom or Charisma modifier (your choice).</p>\n<p>Whenever you take damage, the barrier takes the damage instead. If this damage reduces the barrier to 0 hit points, you take any remaining damage.</p>\n<p>While the barrier has 0 hit points, it can’t absorb damage, but its power remains. Whenever you cast a universal\npower of 1st level or higher, the barrier regains a number of hit points equal to twice the level of the power.</p>\n<p>Once you create the barrier, you can’t create it again until you finish a long rest.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-balance",
+    "id": "consular.way-of-balance.force-barrier"
+  },
+  {
+    "level": 18,
+    "mechanics": [
+      {
+        "type": "resistance",
+        "label": "Force Powers"
+      },
+      {
+        "type": "saving-throw",
+        "effect": {
+          "type": "advantage",
+          "note": "against force powers"
+        }
+      }
+    ],
+    "name": "Force Resistance",
+    "html": "<p>Your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will\nuniversal power, the barrier regains 1 hit point. You can’t restore your barrier above half its maximum hit points in this way.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-balance",
+    "id": "consular.way-of-balance.force-resistance"
+  },
+  {
+    "level": 14,
+    "mechanics": [
+      {
+        "name": "Improved Suppression",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.improved-suppression"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Improved Suppression"
+      }
+    ],
+    "name": "Improved Suppression",
+    "html": "<p>When you cast a force power that requires you to make an ability check as a part of casting that power, such as sever force or force suppression, you add your proficiency bonus to that ability check.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-balance",
+    "id": "consular.way-of-balance.improved-suppression"
+  },
+  {
+    "level": 6,
+    "mechanics": [
+      {
+        "name": "Projected Barrier",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.projected-barrier"
+        },
+        "type": "reaction",
+        "resource": {
+          "displayType": "counter",
+          "id": "force-barrier",
+          "reset": "off"
+        }
+      }
+    ],
+    "name": "Force Barrier",
+    "html": "<p>When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your\nForce Barrier to absorb that damage. If this damage reduces the barrier to 0 hit points, the warded creature takes any remaining damage.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-balance",
+    "id": "consular.way-of-balance.projected-barrier"
   }
 ]
