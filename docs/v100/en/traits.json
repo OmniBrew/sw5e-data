@@ -1,23 +1,165 @@
 [
   {
-    "name": "Body and Soul",
+    "name": "Detailed Oriented",
     "species": [
-      "drell"
+      "bith"
     ],
     "mechanics": [
       {
-        "name": "Body and Soul",
-        "moreInfo": {
-          "model": "traits",
-          "id": "body-and-soul"
-        },
-        "type": "other",
-        "resource": {
-          "id": "body-and-soul"
+        "type": "skill-check",
+        "value": "investigation",
+        "effect": {
+          "type": "advantage",
+          "note": "within 5 feet"
         }
       }
     ],
-    "html": "<p>If you spend 10 minutes in prayer, you can mentally focus your body and soul into a true Whole. The next time you are\nreduced to 0 hit points but not killed outright, you gain advantage on all death saving throws until you are\nstabilized or regain hit points, at which point you cannot benefit from this feature again until you finish a long rest.</p>\n",
-    "id": "body-and-soul"
+    "html": "<p>You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.</p>\n",
+    "id": "detailed-oriented"
+  },
+  {
+    "name": "Keen Hearing and Smell",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve hearing or smell"
+        }
+      }
+    ],
+    "html": "<p>You have advantage on Wisdom (Perception) checks that involve hearing or smell.</p>\n",
+    "id": "keen-hearing-and-smell"
+  },
+  {
+    "name": "Musician",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "tool-choice",
+        "options": true,
+        "limit": [
+          "instrument"
+        ],
+        "selections": 1
+      }
+    ],
+    "html": "<p>You are proficient in one musical instrument of your choice.</p>\n",
+    "id": "musician"
+  },
+  {
+    "name": "Naturally Stealthy",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [
+      {
+        "name": "Naturally Stealthy",
+        "moreInfo": {
+          "model": "traits",
+          "id": "naturally-stealthy"
+        },
+        "type": "global-note",
+        "subType": "action",
+        "value": "Naturally Stealthy"
+      }
+    ],
+    "html": "<p>You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.</p>\n",
+    "id": "naturally-stealthy"
+  },
+  {
+    "name": "Nimble Escape",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [
+      {
+        "name": "Disengage",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble-escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      },
+      {
+        "name": "Hide",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble-escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      }
+    ],
+    "html": "<p>You can take the Disengage or Hide action as a bonus action on each of your turns.</p>\n",
+    "id": "nimble-escape"
+  },
+  {
+    "name": "Programmer",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "technology",
+        "effect": {
+          "type": null,
+          "note": "Gain expertise on Intelligence (Technology) checks related to computers"
+        }
+      }
+    ],
+    "html": "<p>Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.</p>\n",
+    "id": "programmer"
+  },
+  {
+    "name": "Shrewd",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "insight",
+          "deception"
+        ]
+      }
+    ],
+    "html": "<p>You are proficient in the Insight and Deception skills.</p>\n",
+    "id": "shrewd"
+  },
+  {
+    "name": "Sonic Sensitivity",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "saving-throw",
+        "effect": {
+          "type": "disadvantage",
+          "note": "against effects that would deal sonic damage"
+        }
+      }
+    ],
+    "html": "<p>Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).</p>\n",
+    "id": "sonic-sensitivity"
+  },
+  {
+    "name": "Trance",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [],
+    "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
+    "id": "trance"
   }
 ]

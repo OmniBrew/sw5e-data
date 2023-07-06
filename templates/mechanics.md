@@ -7,6 +7,12 @@
 - type: bonus-pc-resource
   value: @bonus
 
+## Need to investigate things like proficiency in instruments and/or games...i don't think ME does profs in specific ones
+
+## Effect: type = null may not work for individual skills (see bith programmer)
+
+## add language as an option for profs
+
 #############################################################################
 # Refs (i.e., reusable schema)
 # For example, if you see @resource or @bonus you should reference the resource schema in this section

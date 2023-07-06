@@ -235,7 +235,6 @@ for (const lang of langs) {
 }
 
 function extractClassFeatures (dir, klass, subclass) {
-  console.log('extractingcf', dir, klass, subclass)
   const files = fs.readdirSync(dir)
   const items = []
   for (const file of files) {
