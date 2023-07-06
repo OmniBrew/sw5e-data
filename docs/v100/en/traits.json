@@ -1,5 +1,78 @@
 [
   {
+    "name": "Bite",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "natural-weapon",
+        "value": {
+          "type": "natural-melee",
+          "replacesUnarmedStrike": true,
+          "value": {
+            "damageModOverride": "noMod",
+            "name": "Unarmed Strike / Bite",
+            "type": "natural-melee",
+            "range": {
+              "short": 5
+            },
+            "damage": {
+              "dieCount": 1,
+              "dieType": 4,
+              "type": "kinetic"
+            },
+            "moreInfo": {
+              "model": "traits",
+              "id": "aleena-bite"
+            }
+          }
+        }
+      },
+      {
+        "name": "Bite",
+        "moreInfo": {
+          "model": "traits",
+          "id": "aleena-bite"
+        },
+        "type": "bonus-action",
+        "resource": {
+          "reset": "short",
+          "id": "aleena-bite"
+        },
+        "range": {
+          "short": 5
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 4,
+            "type": "kinetic"
+          }
+        ],
+        "shortDesc": "Gain {{ conMod }} temporary hit points."
+      }
+    ],
+    "html": "<p>Your sharp teeth are a natural weapon, which you can use to make unarmed strikes. Additionally,\nyour unarmed strikes deal 1d4 kinetic damage. Lastly, as a bonus action, you can perform a\nspecial bite attack. On a hit, the target suffers the attack’s normal effects, you gain\ntemporary hit points equal to your Constitution modifier (minimum of 1), and you can’t use this\ntrait again until you finish a short or long rest.</p>\n",
+    "id": "aleena-bite"
+  },
+  {
+    "name": "Cosmopolitan",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "lore"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in Lore.</p>\n",
+    "id": "cosmopolitan"
+  },
+  {
     "name": "Detailed Oriented",
     "species": [
       "bith"
@@ -76,7 +149,8 @@
   {
     "name": "Nimble Escape",
     "species": [
-      "bothan"
+      "bothan",
+      "aleena"
     ],
     "mechanics": [
       {
@@ -102,6 +176,20 @@
     "id": "nimble-escape"
   },
   {
+    "name": "Nimbleness",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "speed-note",
+        "note": "You can move through the space of any creature that is of a size larger than yours."
+      }
+    ],
+    "html": "<p>You can move through the space of any creature that is of a size larger than yours.</p>\n",
+    "id": "nimbleness"
+  },
+  {
     "name": "Programmer",
     "species": [
       "bith"
@@ -118,6 +206,29 @@
     ],
     "html": "<p>Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.</p>\n",
     "id": "programmer"
+  },
+  {
+    "name": "Racer's Reflexes",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "name": "Racer's Reflexes",
+        "moreInfo": {
+          "model": "traits",
+          "id": "racers-reflexes"
+        },
+        "type": "other",
+        "resource": {
+          "reset": "short",
+          "id": "racers-reflexes"
+        },
+        "shortDesc": "Add 1d4 to a Dexterity ability check, attack roll, or saving throw."
+      }
+    ],
+    "html": "<p>Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose\nto add 1d4 to the result. You can choose to do this after the check is rolled, but before the\nDM determines if you’ve passed or failed the check. You cannot do so again until you complete a\nshort or long rest.</p>\n",
+    "id": "racers-reflexes"
   },
   {
     "name": "Shrewd",
@@ -161,5 +272,14 @@
     "mechanics": [],
     "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
     "id": "trance"
+  },
+  {
+    "name": "Undersized",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [],
+    "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.\nAdditionally, you can’t use martial weapons with the two-handed property unless it also has the\nlight property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
+    "id": "undersized"
   }
 ]

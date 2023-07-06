@@ -1,5 +1,6 @@
 ---
 name: Bothan
+source: phb
 speedColor: ''
 alignment: >-
   Bothans’ duplicitous nature causes them to tend toward the dark side, though there are exceptions.

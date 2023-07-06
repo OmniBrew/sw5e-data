@@ -363,6 +363,17 @@ module.exports = {
     sizes,
     skills_title: 'Skills',
     slot: 'no slots | {n} slot | {n} slots',
+    source_title: 'Source',
+    sources: {
+        phb: {
+            title: 'Player\'s Handbook',
+            abbr: 'PHB'
+        },
+        ec: {
+            title: 'Extended Content',
+            abbr: 'EC'
+        }
+    },
     species_title: 'Species | Species',
     speed_title: 'Speed',
     speed_trait: 'Your base {type} speed is {distance}.',

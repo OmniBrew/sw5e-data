@@ -2,6 +2,7 @@
 name: Nimble Escape
 species:
   - bothan
+  - aleena
 mechanics:
   - type: bonus-action
     name: Disengage

@@ -137,7 +137,7 @@ mechanics:
 # Ability score manipulation
 #
   - type: asi
-    ability: int
+    ability: string
     amount: 1
   - type: asi-choice
     options: true

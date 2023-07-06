@@ -1,5 +1,6 @@
 ---
 name: Bith
+source: phb
 speedColor: ''
 alignment: >-
   Biths’ benevolent nature causes them to tend toward the light side, though there are exceptions.
@@ -35,7 +36,7 @@ mechanics:
     speed: walk
     distance: 30
   - type: language
-    value: [galactic-basic, bith]
+    value: [galactic_basic, bith]
   - type: language-choice
     options: true
 ---
