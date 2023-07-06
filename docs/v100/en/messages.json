@@ -786,14 +786,31 @@
   "size_title": "Size",
   "sizes": {
     "tiny": "tiny",
+    "tiny_title": "Tiny",
     "small": "small",
+    "small_title": "Small",
     "medium": "medium",
+    "medium_title": "Medium",
     "large": "large",
+    "large_title": "Large",
     "huge": "huge",
-    "gargantuan": "gargantuan"
+    "huge_title": "Hugh",
+    "gargantuan": "gargantuan",
+    "gargantuan_title": "Gargantuan"
   },
   "skills_title": "Skills",
   "slot": "no slots | {n} slot | {n} slots",
+  "source_title": "Source",
+  "sources": {
+    "phb": {
+      "title": "Player's Handbook",
+      "abbr": "PHB"
+    },
+    "ec": {
+      "title": "Extended Content",
+      "abbr": "EC"
+    }
+  },
   "species_title": "Species | Species",
   "speed_title": "Speed",
   "speed_trait": "Your base {type} speed is {distance}.",

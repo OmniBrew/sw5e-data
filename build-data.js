@@ -49,6 +49,15 @@ md.renderer.rules.link_close = function(tokens, idx) {
   }
 }
 
+md.renderer.rules.heading_open = function(tokens, idx) {
+  const token = tokens[idx]
+  return `<me-tpg e="div" s="${token.tag}">`
+}
+
+md.renderer.rules.heading_close = function(tokens, idx) {
+  return '</me-tpg><me-hr size="1" class="mb-2"/>'
+}
+
 const setLinkLocalePrefix = (lang = null) => {
   md.renderer.rules.link_open = function(tokens, idx) {
     const token = tokens[idx]
@@ -183,6 +192,16 @@ for (const lang of langs) {
       }
       // species
       if (dir === 'species') {
+        if (!item.abilityScoreIncrease) {
+          const asiMap = { str: 'Strength', dex: 'Dexterity', con: 'Constitution', wis: 'Wisdom', int: 'Intelligence', cha: 'Charisma' }
+          const asiMechanics = (item.mechanics || []).filter(i => ['asi'].includes(i.type)).sort((a, b) => b.amount - a.amount)
+          const asiText = asiMechanics.map(i => `+${i.amount} ${asiMap[i.ability]}`).join(', ')
+          item.abilityScoreIncrease = asiText
+        }
+        // create asi text
+        const asiMechanics = (item.mechanics || []).filter(i => ['asi'].includes(i.type))
+        const asiA = ''
+
         if (item.subspecies) {
           const subspecies = fm(fs.readFileSync(`${dataPath}/subspecies/${item.subspecies}.md`, 'utf8'))
           item.subspecies = {
@@ -235,7 +254,6 @@ for (const lang of langs) {
 }
 
 function extractClassFeatures (dir, klass, subclass) {
-  console.log('extractingcf', dir, klass, subclass)
   const files = fs.readdirSync(dir)
   const items = []
   for (const file of files) {

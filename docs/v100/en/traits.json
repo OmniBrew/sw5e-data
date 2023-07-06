@@ -1,23 +1,285 @@
 [
   {
-    "name": "Body and Soul",
+    "name": "Bite",
     "species": [
-      "drell"
+      "aleena"
     ],
     "mechanics": [
       {
-        "name": "Body and Soul",
+        "type": "natural-weapon",
+        "value": {
+          "type": "natural-melee",
+          "replacesUnarmedStrike": true,
+          "value": {
+            "damageModOverride": "noMod",
+            "name": "Unarmed Strike / Bite",
+            "type": "natural-melee",
+            "range": {
+              "short": 5
+            },
+            "damage": {
+              "dieCount": 1,
+              "dieType": 4,
+              "type": "kinetic"
+            },
+            "moreInfo": {
+              "model": "traits",
+              "id": "aleena-bite"
+            }
+          }
+        }
+      },
+      {
+        "name": "Bite",
         "moreInfo": {
           "model": "traits",
-          "id": "body-and-soul"
+          "id": "aleena-bite"
         },
-        "type": "other",
+        "type": "bonus-action",
         "resource": {
-          "id": "body-and-soul"
+          "reset": "short",
+          "id": "aleena-bite"
+        },
+        "range": {
+          "short": 5
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 4,
+            "type": "kinetic"
+          }
+        ],
+        "shortDesc": "Gain {{ conMod }} temporary hit points."
+      }
+    ],
+    "html": "<p>Your sharp teeth are a natural weapon, which you can use to make unarmed strikes. Additionally,\nyour unarmed strikes deal 1d4 kinetic damage. Lastly, as a bonus action, you can perform a\nspecial bite attack. On a hit, the target suffers the attack’s normal effects, you gain\ntemporary hit points equal to your Constitution modifier (minimum of 1), and you can’t use this\ntrait again until you finish a short or long rest.</p>\n",
+    "id": "aleena-bite"
+  },
+  {
+    "name": "Cosmopolitan",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "lore"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in Lore.</p>\n",
+    "id": "cosmopolitan"
+  },
+  {
+    "name": "Detailed Oriented",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "investigation",
+        "effect": {
+          "type": "advantage",
+          "note": "within 5 feet"
         }
       }
     ],
-    "html": "<p>If you spend 10 minutes in prayer, you can mentally focus your body and soul into a true Whole. The next time you are\nreduced to 0 hit points but not killed outright, you gain advantage on all death saving throws until you are\nstabilized or regain hit points, at which point you cannot benefit from this feature again until you finish a long rest.</p>\n",
-    "id": "body-and-soul"
+    "html": "<p>You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.</p>\n",
+    "id": "detailed-oriented"
+  },
+  {
+    "name": "Keen Hearing and Smell",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve hearing or smell"
+        }
+      }
+    ],
+    "html": "<p>You have advantage on Wisdom (Perception) checks that involve hearing or smell.</p>\n",
+    "id": "keen-hearing-and-smell"
+  },
+  {
+    "name": "Musician",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "tool-choice",
+        "options": true,
+        "limit": [
+          "instrument"
+        ],
+        "selections": 1
+      }
+    ],
+    "html": "<p>You are proficient in one musical instrument of your choice.</p>\n",
+    "id": "musician"
+  },
+  {
+    "name": "Naturally Stealthy",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [
+      {
+        "name": "Naturally Stealthy",
+        "moreInfo": {
+          "model": "traits",
+          "id": "naturally-stealthy"
+        },
+        "type": "global-note",
+        "subType": "action",
+        "value": "Naturally Stealthy"
+      }
+    ],
+    "html": "<p>You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.</p>\n",
+    "id": "naturally-stealthy"
+  },
+  {
+    "name": "Nimble Escape",
+    "species": [
+      "bothan",
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "name": "Disengage",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble-escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      },
+      {
+        "name": "Hide",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble-escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      }
+    ],
+    "html": "<p>You can take the Disengage or Hide action as a bonus action on each of your turns.</p>\n",
+    "id": "nimble-escape"
+  },
+  {
+    "name": "Nimbleness",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "speed-note",
+        "note": "You can move through the space of any creature that is of a size larger than yours."
+      }
+    ],
+    "html": "<p>You can move through the space of any creature that is of a size larger than yours.</p>\n",
+    "id": "nimbleness"
+  },
+  {
+    "name": "Programmer",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "technology",
+        "effect": {
+          "type": null,
+          "note": "Gain expertise on Intelligence (Technology) checks related to computers"
+        }
+      }
+    ],
+    "html": "<p>Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.</p>\n",
+    "id": "programmer"
+  },
+  {
+    "name": "Racer's Reflexes",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "name": "Racer's Reflexes",
+        "moreInfo": {
+          "model": "traits",
+          "id": "racers-reflexes"
+        },
+        "type": "other",
+        "resource": {
+          "reset": "short",
+          "id": "racers-reflexes"
+        },
+        "shortDesc": "Add 1d4 to a Dexterity ability check, attack roll, or saving throw."
+      }
+    ],
+    "html": "<p>Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose\nto add 1d4 to the result. You can choose to do this after the check is rolled, but before the\nDM determines if you’ve passed or failed the check. You cannot do so again until you complete a\nshort or long rest.</p>\n",
+    "id": "racers-reflexes"
+  },
+  {
+    "name": "Shrewd",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "insight",
+          "deception"
+        ]
+      }
+    ],
+    "html": "<p>You are proficient in the Insight and Deception skills.</p>\n",
+    "id": "shrewd"
+  },
+  {
+    "name": "Sonic Sensitivity",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [
+      {
+        "type": "saving-throw",
+        "effect": {
+          "type": "disadvantage",
+          "note": "against effects that would deal sonic damage"
+        }
+      }
+    ],
+    "html": "<p>Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).</p>\n",
+    "id": "sonic-sensitivity"
+  },
+  {
+    "name": "Trance",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [],
+    "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
+    "id": "trance"
+  },
+  {
+    "name": "Undersized",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [],
+    "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.\nAdditionally, you can’t use martial weapons with the two-handed property unless it also has the\nlight property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
+    "id": "undersized"
   }
 ]
