@@ -11,6 +11,9 @@ mechanics:
     ability: cha
     amount: 4
   - type: model-choice
+    model: asi
+    options: [cha, wis]
+  - type: model-choice
     model: powers
     options: true
     known: true

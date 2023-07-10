@@ -11,8 +11,8 @@ profs:
   weapon:
     text: Simple lightweapons, simple vibroweapons
     has:
-      - simple_lightweapons
-      - simple_vibroweapons
+      - simple_lightweapon
+      - simple_vibroweapon
   tool: false
   skill:
     text: Choose two from Deception, Insight, Intimidation, Investigation, Lore, Medicine, and Persuasion

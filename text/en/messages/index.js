@@ -424,7 +424,9 @@ module.exports = {
         melee: 'Melee | Melee',
         smg: 'SMG | SMGs',
         sniper_rifle: 'Sniper Rifle | Sniper Rifles',
-        shotgun: 'Shotgun | Shotguns'
+        shotgun: 'Shotgun | Shotguns',
+        simple_lightweapon: 'Simple Lightweapon | Simple Lightweapons',
+        simple_vibroweapon: 'Simple Vibroweapon | Simple Vibroweapons'
     },
     weapon_props_title: 'Weapon Properties',
     weight_title: 'Weight',

@@ -41,7 +41,24 @@
     "id": "medical-kit"
   },
   {
-    "type": "artisan",
+    "type": "instrument",
+    "choices": [
+      {
+        "clarinet": "Clarinet"
+      },
+      {
+        "saxaphone": "Saxaphone"
+      },
+      {
+        "guitar": "Guitar"
+      },
+      {
+        "xylophone": "Xylophone"
+      },
+      {
+        "bongos": "Bongo Drums"
+      }
+    ],
     "html": "",
     "id": "musical-instrument"
   },

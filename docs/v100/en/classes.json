@@ -12,8 +12,8 @@
       "weapon": {
         "text": "Simple lightweapons, simple vibroweapons",
         "has": [
-          "simple_lightweapons",
-          "simple_vibroweapons"
+          "simple_lightweapon",
+          "simple_vibroweapon"
         ]
       },
       "tool": false,
