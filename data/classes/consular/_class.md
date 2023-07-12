@@ -47,7 +47,7 @@ progression:
     - 16
     - 19
 ---
-A twi’lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his
+A Twi’lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his
 fingers, illuminating his red and black tattoos. The rodian’s pleas for mercy fall on deaf ears as the Sith channels
  his lightning into his failed apprentice, leaving nothing but a charred husk behind.
 
