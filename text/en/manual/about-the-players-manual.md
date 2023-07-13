@@ -2,7 +2,7 @@
 title: About the Player's Manual
 ---
 Mass Effect 5e is a homebrew for Dungeons and Dragons 5th edition which allows you to play a tabletop roleplaying game
-with D&D 5th edition rules but set in the Mass Effect Universe. If you have played 5th edition, many of the rules
+with D&D 5th edition rules but set in the Star Wars Universe. If you have played 5th edition, many of the rules
 and rule syntaxes will feel familiar to you. For your convenience, completely new rules will be tagged with a
 <v-chip color="info" small>new</v-chip> badge. This indicates an entirely new
 rule or mechanic. Changes to rules will be tagged with a
