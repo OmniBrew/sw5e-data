@@ -1,9 +1,9 @@
 ---
 title: Introduction
 ---
-The Dungeons & Dragons roleplaying game is about storytelling in worlds of swords and sorcery and Mass Effect 5e
+The Dungeons & Dragons roleplaying game is about storytelling in worlds of swords and sorcery and Star Wars 5e
 takes that storytelling to the stars. Both share elements with childhood games of make-believe. Like those games,
-Mass Effect 5e is driven by imagination. It’s about picturing the alien landscape beneath the two-sunned sky and imagining how an
+Star Wars 5e is driven by imagination. It’s about picturing the alien landscape beneath the two-sunned sky and imagining how an
 N7 soldier might react to the challenges that scene presents.
 
 > __Galaxy Master (GM)__: You arrived on Asteroid 2179 JK178 on a UT-47 Kodiak. Approaching the station’s hangar, a missile
@@ -18,7 +18,7 @@ __Amanda (playing Melphine)__: I want to scan the area for movement or any immed
 __Amie (playing Telos)__: The drop to the hanger door looks pretty far? I want to test how much gravity the asteroid has.
 Do I think we can easily drop down to it without injuring ourselves or flying off into space?
 
-Unlike a game of make-believe, Mass Effect 5e gives structure to the stories, a way of determining the consequences of the operatives’
+Unlike a game of make-believe, Star Wars 5e gives structure to the stories, a way of determining the consequences of the operatives’
 action. Players roll dice to resolve whether their attacks hit or miss or whether their operatives can scale a cliff,
 roll away from the strike of a biotic attack, or pull off some other dangerous task. Anything is possible,
 but the dice make some outcomes more probable than others.
@@ -38,7 +38,7 @@ __Amanda (rolling a d20)__: Rats. I rolled a six, plus two for my perception ski
 \
 __GM__: No movement that you can see. And Amie, Telos is assessing the drop to the hanger bay?
 
-In the Mass Effect 5e game, each player creates an operative (also called a character) and teams up with other
+In the Star Wars 5e game, each player creates an operative (also called a character) and teams up with other
 operatives (played by friends). Working together, the group might explore a derelict starship, the slums of an inhabited asteroid,
 the glorious streets of an advanced civilization, an ancient temple deep in a jungle, or the steppes of a mining colony.
 The operatives can solve puzzles, talk with other characters, battle alien monsters, and discover advanced technologies
@@ -49,7 +49,7 @@ missions for the characters, who navigate its hazards and decide which paths to 
 entrance to Osiris Station, and the players decide what they want their operatives to do. Will they jump down to the hanger bay?
 Propel themselves with jetpacks? Or use a biotic's powers to increase their mass, "affixing" themselves to the surface of
 the asteroid? Then the GM determines the results of the operatives’ actions and narrates what they experience. Because the GM
-can improvise to react to anything the players attempt, Mass Effect 5e is infinitely flexible, and each
+can improvise to react to anything the players attempt, Star Wars 5e is infinitely flexible, and each
 mission can be exciting and unexpected.
 
 The game has no real end; when one story or mission wraps up, another one can begin, creating an ongoing story called a
@@ -58,7 +58,7 @@ every week or so to pick up the story where they left off. The operatives grow i
 monster defeated, each mission completed, and each gadget recovered not only adds to the continuing story but also
 earns the operatives new capabilities. This increase in power is reflected by an operative’s level.
 
-There’s no winning and losing in the Mass Effect 5e game—at least, not the way those terms are usually understood.
+There’s no winning and losing in the Star Wars 5e game—at least, not the way those terms are usually understood.
 Together, the GM and the players create an exciting story of bold operatives who confront deadly perils. Sometimes an
 operative might come to a grisly end, torn apart by ferocious rachni or done in by a nefarious Cerberus assassin. Even so,
 the other operatives can search for breaking-edge medical experiments to revive (or clone!) their fallen comrade, or the

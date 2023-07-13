@@ -1,10 +1,10 @@
 ---
 title: Power Types
 ---
-Mass Effect divided powers into 3 distinct categories:
+Star Wars divided powers into 3 distinct categories:
 
 ### Biotics
-Biotics is the ability of some lifeforms to create mass effect fields using element zero nodules embedded in body
+Biotics is the ability of some lifeforms to create Star Wars fields using element zero nodules embedded in body
 tissues. These powers are accessed and augmented by using bio-amps. Biotic individuals can knock enemies over from a
 distance, lift them into the air, generate gravitational vortices to tear obstacles or enemies apart, or create
 protective barriers. Biotic powers are available for Adepts, Sentinels, and Vanguards.

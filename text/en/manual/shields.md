@@ -2,7 +2,7 @@
 title: Shields
 ---
 >Kinetic barriers, colloquially called "shields", provide protection against most mass accelerator weapons. Whether on
-a starship or a soldier's suit of armor, the basic principle remains the same. Kinetic barriers are repulsive mass effect
+a starship or a soldier's suit of armor, the basic principle remains the same. Kinetic barriers are repulsive Star Wars
 fields projected from tiny emitters. These shields safely deflect small objects traveling at rapid velocities. This
 affords protection from bullets and other dangerous projectiles but still allows the user to sit down without knocking
 away their chair. The shielding afforded by kinetic barriers does not protect against extremes of temperature, toxins,

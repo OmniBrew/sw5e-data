@@ -23,7 +23,7 @@ Because body armor is a combination of chest, legs, and arms, it's resulting tot
 An armor piece will indicate if it has an increase in any of these capacities.
 
 ### Mix & Match <v-chip color="info" small>new</v-chip>
-Unlike D&D 5th edition, armor in Mass Effect 5e can be mixed between armor placements on the body. There are 4 armor placements:
+Unlike D&D 5th edition, armor in Star Wars 5e can be mixed between armor placements on the body. There are 4 armor placements:
 __Head__, __Chest__, __Arms__, and __Legs__.
 
 Your base AC is 10 and each piece of armor provides an AC bonus depending on its type and placement as listed in

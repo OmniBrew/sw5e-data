@@ -23,7 +23,7 @@ Some powers, such as lance and first aid, have more powerful effects when cast a
 power's description.
 
 ### Tech Points <v-chip color="info" small>new</v-chip>
-In Mass Effect 5e, certain classes can use tech points to cast powers. Tech points represent the internal power of
+In Star Wars 5e, certain classes can use tech points to cast powers. Tech points represent the internal power of
 the operative's omni-tool. As the operative levels, the gain more tech points, representing the time they spend
 modifying their omni-tool and optimizing subroutines.
 

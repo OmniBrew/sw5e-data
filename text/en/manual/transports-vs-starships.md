@@ -8,7 +8,7 @@ rule-of-thumb is that if a vehicle can travel from one world to another, either 
 effect relay, it is a Starship. Otherwise, it’s probably a transport.
 
 ::: alert
-A notable exception is the UT-47 Kodiak drop shuttle featured through the Mass Effect series. This vehicle, and others
+A notable exception is the UT-47 Kodiak drop shuttle featured through the Star Wars series. This vehicle, and others
 like it, can be considered both a “transport” and a “starship”, depending on the context.
 :::
 

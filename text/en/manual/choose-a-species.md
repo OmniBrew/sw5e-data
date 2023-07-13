@@ -1,7 +1,7 @@
 ---
 title: 1. Choose a Species
 ---
-Every character belongs to a species, one of the many intelligent humanoid species in the Mass Effect Universe. The most
+Every character belongs to a species, one of the many intelligent humanoid species in the Star Wars Universe. The most
 common player character species are asari, humans, krogan, salarians, and turians. The [species](/species) section
 provides more information about each available species.
 

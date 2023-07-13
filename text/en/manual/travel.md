@@ -2,7 +2,7 @@
 title: Travel
 ---
 ![GalaxyMap](https://orig00.deviantart.net/ba03/f/2013/100/0/0/mass_effect_galaxy_map_by_otvert-d5u3tvb.png)
-Mass Effect Galaxy Map by otvert ([Full Size](https://orig00.deviantart.net/ba03/f/2013/100/0/0/mass_effect_galaxy_map_by_otvert-d5u3tvb.png))
+Star Wars Galaxy Map by otvert ([Full Size](https://orig00.deviantart.net/ba03/f/2013/100/0/0/mass_effect_galaxy_map_by_otvert-d5u3tvb.png))
 
 ### The Milky Way
 The Milky Way comprises a number of __Clusters__ (represented by the yellow, target icons <v-icon>filter_center_focus</v-icon> on the map).
@@ -49,7 +49,7 @@ longer as the ship enters and leaves orbit.
 Traveling between clusters requires a __Mass Relay__. Mass Relays are mass transit devices scattered throughout the
 Milky Way, forming an enormous network that allows interstellar travel. There is only one Mass Relay per cluster, located
 in a single system which is marked with a * on the map. To travel from cluster to cluster, you must first travel to
-the system that contains the mass effect relay. Then you can jump to another cluster.
+the system that contains the Star Wars relay. Then you can jump to another cluster.
 
 Mass Relays are connected as a network, but travel between relays might require additional jumps. I.e., unlike travel
 between planets and systems, you can only move between clusters following the lines on the map.

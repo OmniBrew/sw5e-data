@@ -51,7 +51,7 @@
   },
   {
     "name": "Lifted",
-    "html": "<ul>\n<li>A lifted creature is <me-condition id=\"restrained\"/>.</li>\n<li>The creature is <me-condition id=\"primed\" sub=\"force\"/>. Any detonating attack ends the lifted condition after resolving the\ndetonation effect.</li>\n<li>Any lifted object has no mass and is dangled in the air by a temporary mass effect field. Thus, a lifted creature can be\npushed, pulled, or otherwise manipulated for varying results.</li>\n</ul>\n",
+    "html": "<ul>\n<li>A lifted creature is <me-condition id=\"restrained\"/>.</li>\n<li>The creature is <me-condition id=\"primed\" sub=\"force\"/>. Any detonating attack ends the lifted condition after resolving the\ndetonation effect.</li>\n<li>Any lifted object has no mass and is dangled in the air by a temporary Star Wars field. Thus, a lifted creature can be\npushed, pulled, or otherwise manipulated for varying results.</li>\n</ul>\n",
     "id": "lifted"
   },
   {

@@ -12,7 +12,7 @@ The helm is the pilot seat. Players at the helm are able to take the Maneuver ac
 AC of their starship or vehicle, representing the pilot’s ability to evade oncoming attacks.
 
 ### Navigation
-A starships navigation system is necessary to plot jumps between Mass Effect Relays. More about using your ships
+A starships navigation system is necessary to plot jumps between Star Wars Relays. More about using your ships
 navigation can be found in the Travelling the Galaxy section below.
 
 ### Weapons

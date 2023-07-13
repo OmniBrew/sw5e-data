@@ -29,7 +29,7 @@ Any increase or decrease to your speed changes this additional movement by the s
 is reduced to <me-distance length="10" />, for instance, you can move up to <me-distance length="20" /> this turn if you dash.
 
 ### Disengage <v-chip color="warning" text-color="black" small>change</v-chip>
-If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn. In  Mass Effect 5e,
+If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn. In  Star Wars 5e,
 the Disengage action can also kick off your shield regeneration, detailed later.
 
 ### Dodge <v-chip color="warning" text-color="black" small>change</v-chip>

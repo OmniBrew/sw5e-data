@@ -1,7 +1,7 @@
 ---
 title: Discounts
 ---
-Longtime Mass Effect players will certainly want to reference Shepard's ability to secure discounts from local shops. One option
+Longtime Star Wars players will certainly want to reference Shepard's ability to secure discounts from local shops. One option
 is to have players make Intimidation or Persuasion checks (with or without Paragon/Renegade scores). However, for
 added variety and randomness, you can use the following set of rules.
 

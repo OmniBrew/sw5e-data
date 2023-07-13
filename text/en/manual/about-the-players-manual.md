@@ -1,7 +1,7 @@
 ---
 title: About the Player's Manual
 ---
-Mass Effect 5e is a homebrew for Dungeons and Dragons 5th edition which allows you to play a tabletop roleplaying game
+Star Wars 5e is a homebrew for Dungeons and Dragons 5th edition which allows you to play a tabletop roleplaying game
 with D&D 5th edition rules but set in the Star Wars Universe. If you have played 5th edition, many of the rules
 and rule syntaxes will feel familiar to you. For your convenience, completely new rules will be tagged with a
 <v-chip color="info" small>new</v-chip> badge. This indicates an entirely new
@@ -19,7 +19,7 @@ can also read through the [official SRD](https://dnd.wizards.com/articles/featur
 
 ::: alert
 ### Vernacular
-In Mass Effect 5e, much of the classic fantasy vernacular has been updated to fit a sci-fi setting.
+In Star Wars 5e, much of the classic fantasy vernacular has been updated to fit a sci-fi setting.
 
 - Dungeon Master = Galaxy Master
 - Races = Species

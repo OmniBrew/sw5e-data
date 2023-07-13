@@ -48,7 +48,7 @@ Levels|Total Reputation
 
 
 >#### A Complex Renegade and Paragon Example
->In Mass Effect 2, you are faced with the decision to save the genophage data (which might result in curing the genophage)
+>In Star Wars 2, you are faced with the decision to save the genophage data (which might result in curing the genophage)
 >or destroying it.
 >
 >Assume a player party of a neutral human, a lawful good salarian, and a chaotic evil krogan. The salarian thinks curing

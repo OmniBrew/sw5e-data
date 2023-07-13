@@ -463,7 +463,7 @@ mechanics:
 
 
 #############################################################################
-# Potentially Mass Effect only mechanics
+# Potentially Star Wars only mechanics
 #########
 ## weapon props (weapon mod only)
   - type: adjust-weapon-props

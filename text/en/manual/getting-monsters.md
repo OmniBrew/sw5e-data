@@ -1,8 +1,8 @@
 ---
 title: Getting Monsters
 ---
-### Mass Effect 5e Bestiary
-There is a growing collection of unique Mass Effect monsters in the [Bestiary](/bestiary),
+### Star Wars 5e Bestiary
+There is a growing collection of unique Star Wars monsters in the [Bestiary](/bestiary),
 but you might be at a loss when it comes to finding the perfect creature for part of a mission. Feel free to tweak an
 existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different
 monster or by creating your own!

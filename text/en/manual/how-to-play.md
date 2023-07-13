@@ -1,7 +1,7 @@
 ---
 title: How to Play
 ---
-The play of the Dungeons & Dragons game (and by extension, Mass Effect 5e) unfolds according to this basic pattern.
+The play of the Dungeons & Dragons game (and by extension, Star Wars 5e) unfolds according to this basic pattern.
 
 ### 1. The GM describes the environment.
 The GM tells the players where their operatives are and what’s around them, detailing the basic scope of options that

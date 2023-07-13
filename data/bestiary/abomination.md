@@ -4,6 +4,7 @@ image: >-
   https://vignette.wikia.nocookie.net/masseffect/images/8/8e/AbominationME3.jpg/revision/latest/scale-to-width-down/316?cb=20121201211954
 type: synorg
 unit: reaper
+size: medium
 alignment: le
 profBonus: 2
 ac: 11
@@ -22,7 +23,7 @@ savingThrows:
   - wis
 senses:
   darkvision: 30
-size: medium
+cr: '01000'
 skills: false
 speed:
   walk: 30
@@ -54,6 +55,5 @@ entries:
       hit: >-
         The creature is grappled (escape DC 11). At the start of the
         abomination's next turn, it uses Post-Mortem Explosion
-cr: '01000'
 shields: false
 ---

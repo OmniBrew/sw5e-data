@@ -1,14 +1,14 @@
 module.exports = {
-    title: 'Mass Effect + D&D 5th Edition',
-    subtitle: 'An Unofficial D&D 5th Edition homebrew for Mass Effect',
+    title: 'Star Wars + D&D 5th Edition',
+    subtitle: 'An Unofficial D&D 5th Edition homebrew for Star Wars',
     get_started: 'Get Started',
     begin: 'Begin Your Journey',
     begin_text: `
-        Mass Effect 5e lets you take the immersive and cooperative story-telling gameplay of Dungeons & Dragons 
-        5th edition and experience new adventures in the Mass Effect universe. Go exploring in the Outer Terminus.
+        Star Wars 5e lets you take the immersive and cooperative story-telling gameplay of Dungeons & Dragons 
+        5th edition and experience new adventures in the Star Wars universe. Go exploring in the Outer Terminus.
         Stop a political assassination on Thessia. Battle the Reaper invasion on Earth, Palavan, or Sur'Kesh. 
-        Solve crimes as a C-SEC officer on the Citadel. With Mass Effect 5e, the adventure is in your hands. 
-        You can play anywhere in the Mass Effect timeline, create new worlds, or revisit old ones. So, gear up 
+        Solve crimes as a C-SEC officer on the Citadel. With Star Wars 5e, the adventure is in your hands. 
+        You can play anywhere in the Star Wars timeline, create new worlds, or revisit old ones. So, gear up 
         and start making your own journey.
     `,
     play_text: 'Play with the best tech',
@@ -17,9 +17,9 @@ module.exports = {
         {
             title: 'Mix & Match',
             text: `
-                Mass Effect 5e lets you mix and match a variety of classic alien races with your favorite Mass Effect class.
+                Star Wars 5e lets you mix and match a variety of classic alien races with your favorite Star Wars class.
                 Wreak havoc on the front lines as a Krogan Shocktrooper. Crush your enemies like a biotic god as a
-                Volus Commando. With 12 races, 6 classes, and 18 specializations, Mass Effect 5e has options to fit any
+                Volus Commando. With 12 races, 6 classes, and 18 specializations, Star Wars 5e has options to fit any
                 play style.
             `
         },
@@ -34,7 +34,7 @@ module.exports = {
         {
             title: 'Unique Enemies',
             text: `
-                Our bestiary is filled with iconic Mass Effect enemies custom-made using D&D's Dungeon Master Guide
+                Our bestiary is filled with iconic Star Wars enemies custom-made using D&D's Dungeon Master Guide
                 to ensure balanced combat. From Reaper forces to Blue Sun grunts, we've got enough monsters to keep your
                 players engaged and challenged.
             `

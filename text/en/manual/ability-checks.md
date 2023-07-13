@@ -45,7 +45,7 @@ the door remains shut.
 
 
 ### Skills <v-chip color="warning" text-color="black" small>change</v-chip>
-Mass Effect 5e is a sci-fi setting, thus some of the fantasy skills (like religion and arcana) have been replaced with new
+Star Wars 5e is a sci-fi setting, thus some of the fantasy skills (like religion and arcana) have been replaced with new
 skills.
 
 __Removed Skills__: _Animal Handling_, _Arcana_, _Nature_, _Religion_
@@ -104,7 +104,7 @@ the character is proficient in Athletics, the character's proficiency bonus is a
 lacks that proficiency, he or she just makes a Strength check.
 
 ### Variant: Paragon & Renegade <v-chip color="info" small>new</v-chip>
-In Mass Effect 5e, you may also choose to use the [Variant: Paragon & Renegade](/manual/beyond-first-level#paragon-renegade).
+In Star Wars 5e, you may also choose to use the [Variant: Paragon & Renegade](/manual/beyond-first-level#paragon-renegade).
 This new rule allows you to apply another bonus to your ability checks, pending the context of your action is "Paragon-ish"
 or "Renegade-ish".
 

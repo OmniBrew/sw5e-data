@@ -2,7 +2,7 @@
 title: Learning Powers
 ---
 ### Known Powers
-Biotics rely on physical mnemonics and a biotic implant to harness the power of mass effect fields. Learning the mnemonics
+Biotics rely on physical mnemonics and a biotic implant to harness the power of Star Wars fields. Learning the mnemonics
 takes years of practice. Once mastered, biotic users can learn new varieties of controlling the fields. As biotic characters
 progress in levels, they learn new varieties of biotic powers or can augment the power or utility of an existing one.
 In any case, once a biotic user learns a power, it is always at their disposal.
@@ -16,6 +16,6 @@ tech users are limited in the number of powers they can bring into combat. This 
 in the class's description.
 
 ### Advancing Powers <v-chip color="info" small>new</v-chip>
-The class progression tables indicate when a class learns a new power. In Mass Effect 5e, characters can choose
+The class progression tables indicate when a class learns a new power. In Star Wars 5e, characters can choose
 to augment a power they've already learned rather than learning a new one. You may only have one advancement of a power at a time.
 

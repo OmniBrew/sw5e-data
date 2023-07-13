@@ -20,7 +20,7 @@ This number assumes short bursts of energetic movement in the midst of a life-th
 determine how far a character or monster can move in a minute, an hour, or a day.
 
 ::: alert
-By default, Mass Effect 5e uses meters instead of feet. You can toggle to imperial measurements at the bottom of the left-hand navigation.
+By default, Star Wars 5e uses meters instead of feet. You can toggle to imperial measurements at the bottom of the left-hand navigation.
 ### 5ft = 2m
 ### On a playmat: 2m = 1 square
 :::

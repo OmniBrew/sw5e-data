@@ -15,7 +15,7 @@ You must be proficient with a weapon type to add your proficiency modifier to th
 types and all weapons fall into one of the following types.
 
 - __Assault Rifles__. The most common weapons of the military. These are generally medium-range weapons that deal average damage with a high heat capacity.
-- __Heavy Pistols__. The most common gun type in the Mass Effect universe. Simple but effective.
+- __Heavy Pistols__. The most common gun type in the Star Wars universe. Simple but effective.
 - __Sub-machine Guns (SMGs)__. Single-handed, rapid fire weapons that have a short range.
 - __Shotguns__. Close-range, high-damage blasts.
 - __Sniper Rifles__. Precision instruments meant for long range or stealthy combat.

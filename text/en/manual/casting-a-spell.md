@@ -50,7 +50,7 @@ Once a power is cast, its effects aren't limited by its range, unless the power'
 
 
 ### Components <v-chip color="warning" text-color="black" small>change</v-chip>
-In Mass Effect 5e, all powers are Somatic, meaning they require some amount of gesturing. To cast any of the power types
+In Star Wars 5e, all powers are Somatic, meaning they require some amount of gesturing. To cast any of the power types
 a caster must have free use of at least one hand to perform these gestures.
 
 There are no other power components (such as verbal or material, as in D&D).

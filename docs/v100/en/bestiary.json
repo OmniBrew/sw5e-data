@@ -4,6 +4,7 @@
     "image": "https://vignette.wikia.nocookie.net/masseffect/images/8/8e/AbominationME3.jpg/revision/latest/scale-to-width-down/316?cb=20121201211954",
     "type": "synorg",
     "unit": "reaper",
+    "size": "medium",
     "alignment": "le",
     "profBonus": 2,
     "ac": 11,
@@ -26,7 +27,7 @@
     "senses": {
       "darkvision": 30
     },
-    "size": "medium",
+    "cr": "01000",
     "skills": false,
     "speed": {
       "walk": 30
@@ -59,7 +60,6 @@
         }
       ]
     },
-    "cr": "01000",
     "shields": false,
     "html": "",
     "id": "abomination"

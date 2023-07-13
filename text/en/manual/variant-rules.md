@@ -46,7 +46,7 @@ Rich | d12
 
 
 ### Variant: Fuel
-Fuel in Mass Effect 5e is an abstract concept. Most ships can mine and create fuel using on-board fabricators as it travels
+Fuel in Star Wars 5e is an abstract concept. Most ships can mine and create fuel using on-board fabricators as it travels
 the Galaxy. Fuel is represented by the __range__ of the ship (how far it can travel in 24 hours). If you would like to keep track
 of fuel, the GM can use the following Variant: Fuel rules.
 

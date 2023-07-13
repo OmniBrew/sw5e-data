@@ -56,11 +56,11 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 >
 >__Fire.__ Many tech powers use plasma and flames to deal fire damage
 >
->__Force.__ One of the primary biotic damage types. Mass effect fields that pummel, pierce, or apply pressure deal force damage.
+>__Force.__ One of the primary biotic damage types. Star Wars fields that pummel, pierce, or apply pressure deal force damage.
 >
 >__Lightning.__ Shock damage. Any damage done by an electrical discharge or source. Deals double damage to shields.
 >
->__Necrotic.__ The second biotic damage type. Necrotic damage uses dark energy and  mass effect fields on a subatomic level.
+>__Necrotic.__ The second biotic damage type. Necrotic damage uses dark energy and  Star Wars fields on a subatomic level.
 >
 >__Piercing.__ Puncturing and impaling attacks, including bullets and monsters' bites, deal piercing damage.
 >

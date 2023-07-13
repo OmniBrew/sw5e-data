@@ -1,7 +1,7 @@
 ---
 title: Social Interaction
 ---
-Exploring planets, overcoming obstacles, and surviving death squads are key parts of Mass Effect missions. No less important,
+Exploring planets, overcoming obstacles, and surviving death squads are key parts of Star Wars missions. No less important,
 though, are the social interactions that operatives have with other inhabitants of the galaxy.
 
 Interaction takes on many forms. You might need to convince an unscrupulous spy to confess to some malfeasance, or you
@@ -53,7 +53,7 @@ When interacting with an NPC, pay close attention to the GM’s portrayal of the
 You might be able to determine an NPC’s personality traits, ideals, flaws, and bonds, then play on them to influence
 the NPC’s attitude.
 
-Interactions in Mass Effect 5e are much like interactions in real life. If you can offer NPCs something they want, threaten
+Interactions in Star Wars 5e are much like interactions in real life. If you can offer NPCs something they want, threaten
 them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want.
 On the other hand, if you insult a proud warrior or speak ill of a politician’s allies, your efforts to convince or
 deceive will fall short.

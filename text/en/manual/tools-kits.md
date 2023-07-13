@@ -8,7 +8,7 @@ a single ability since proficiency with a tool represents broader knowledge of i
 
 ### Tool Proficiency <v-chip color="warning" text-color="black" small>change</v-chip>
 
-Mass Effect 5e utilizes the Tool Proficiency rules found in Xanathar's Guide to Everything (pg. 78). In summary, it's
+Star Wars 5e utilizes the Tool Proficiency rules found in Xanathar's Guide to Everything (pg. 78). In summary, it's
 unclear when a player should use a tool proficiency and a skill proficiency. The rule of thumb is that tools have
 specific applications whereas skills are very broad, but this limits the use of tools.
 
