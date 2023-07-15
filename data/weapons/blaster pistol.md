@@ -1,7 +1,7 @@
 ---
 name: Blaster Pistol
 rarity: unenhanced
-type: blaster_pistol
+type: simple_blaster
 cost: 175
 manufacturer: Unaffiliated
 weight: 2.5
