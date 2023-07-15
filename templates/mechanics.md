@@ -560,7 +560,7 @@ mechanics:
   options:
     - @companion
 
-- type: conditional-attack-bonus # displays an icon with a list of all conditional attack bonuses (potentially armor piercing, might be others)
+- type: conditional-attack-bonus # displays an icon with a list of all conditional attack bonuses (potentially armor kinetic, might be others)
 
 - type: conditional-damage-bonus # displays an icon with a list of all conditional damage bonus options
 ---

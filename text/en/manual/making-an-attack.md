@@ -84,12 +84,12 @@ Most creatures have a 2-meter reach and can thus attack targets within <me-dista
 creatures (typically those larger than Medium) have melee attacks with a greater reach than <me-distance length="5" />, as noted in their descriptions.
 
 Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar
-forceful blow. On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your
+forceful blow. On a hit, an unarmed strike deals energy damage equal to 1 + your
 Strength modifier. You are proficient with your unarmed strikes and your unarmed strikes count as weapons.
 
 #### Gun strikes <v-chip color="info" x-small>new</v-chip>
 Instead of using a melee weapon to make a melee weapon attack, you can use your ranged weapon, hitting a target with the butt of
-the gun. On a hit, a gun strike deals bludgeoning damage equal to 1d4 + your Strength modifier. You are proficient with
+the gun. On a hit, a gun strike deals energy damage equal to 1d4 + your Strength modifier. You are proficient with
 gun strikes if you are proficient with the type of ranged weapon.
 
 #### Opportunity Attacks

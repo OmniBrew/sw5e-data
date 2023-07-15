@@ -16,6 +16,6 @@ flavor: >-
   energy of incoming projectiles away from the body.
 mechanics:
   - type: resistance
-    value: piercing
+    value: kinetic
 ---
-Resistance to piercing damage.
+Resistance to kinetic damage.

@@ -46,7 +46,7 @@ entries:
       damage:
         - dieCount: 3
           dieType: 8
-          type: piercing
+          type: kinetic
           mod: str
     wail:
   # legendary actions
@@ -72,7 +72,7 @@ irv:
   res:
     - necrotic
   vul:
-    - radiant
+    - true
 savingThrows:
   - dex
   - wis

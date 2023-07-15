@@ -50,7 +50,7 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 
 >__Acid.__ The corrosive spray of a chemical and the dissolving enzymes secreted by thresher maw spit deal damage.
 >
->__Bludgeoning.__ Blunt force attacks - hammers, falling, constriction, and the like - deal bludgeoning damage.
+>__energy.__ Blunt force attacks - hammers, falling, constriction, and the like - deal energy damage.
 >
 >__Cold.__ The painful chill from a cryo beam breath deal cold damage.
 >
@@ -62,17 +62,17 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 >
 >__Necrotic.__ The second biotic damage type. Necrotic damage uses dark energy and  Star Wars fields on a subatomic level.
 >
->__Piercing.__ Puncturing and impaling attacks, including bullets and monsters' bites, deal piercing damage.
+>__kinetic.__ Puncturing and impaling attacks, including bullets and monsters' bites, deal kinetic damage.
 >
 >__Poison.__ Venomous stings, poisoned blades, and the toxic gas deal poison damage.
 >
 >__Psychic.__ A shock to the nervous system, rather than fear or mental damage. But the latter is possible.
 >
->__Radiant.__ Radiation or damage on a nuclear level, rather than divine light.
+>__true.__ Radiation or damage on a nuclear level, rather than divine light.
 >
->__Slashing.__ Swords, axes, and monsters' claws deal slashing damage.
+>__ion.__ Swords, axes, and monsters' claws deal ion damage.
 >
->__Thunder.__ Shockwaves and explosions. Thunder damage is primarily caused by grenades.
+>__sonic.__ Shockwaves and explosions. sonic damage is primarily caused by grenades.
 
 ### Damage Resistance and Vulnerability
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
@@ -81,7 +81,7 @@ If a creature or an object has resistance to a damage type, damage of that type 
 an object has vulnerability to a damage type, damage of that type is doubled against it.
 
 Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance
-to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a tech aura
+to energy damage and is hit by an attack that deals 25 energy damage. The creature is also within a tech aura
 that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
 
 Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example,

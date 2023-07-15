@@ -26,7 +26,7 @@ systems:
       - EWS
 weapons:
   - name: M350 mass-accelerator autocannons
-    damage: 70 (2d6[x10]) piercing damage
+    damage: 70 (2d6[x10]) kinetic damage
   - name: Inferno PKRs (16 charges)
     damage: >-
       160 (3d10[x10]) fire damage to a <me-distance length="30" adj />-radius

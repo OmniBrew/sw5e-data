@@ -28,6 +28,6 @@ Imogen wants to create a fancy chest piece for her character Tiiva. She wants to
 maximum of 3 armor mods. Tiiva spends 4 long rests (8 hours in each rest) and 20 omni-gel to create a medium piece of
 chest armor. Alternatively, she could have spent 30,000 credits to purchase the armor piece. Next Imogen spends 30,000 credits
 on the ablative coating mod. She also looted an asymmetric defense layer mod from a previous
-mission. She spends 2 more long rests applying those mods, giving her chest armor resistance to piercing damage
+mission. She spends 2 more long rests applying those mods, giving her chest armor resistance to kinetic damage
 and +2 AC. She leaves her third slot empty for the time being, hoping to loot another mod and fit it in later.
 :::

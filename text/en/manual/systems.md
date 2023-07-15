@@ -67,7 +67,7 @@ Crash Couches|Special|125,000|-|When you succeed on a Hard Maneuver, characters 
 Exonet Array|Special|150,000|-|Advantage on Investigation and History checks made while onboard.<br>__Downtime Activities__. Practice a Profession, Research, or Training in hacking tools
 Experimental AI|-|1,000,000|-|Starts as a level 1 NPC with a proficiency bonus of +2. When you take the Defer action in starship combat, add the AI's proficiency bonus to the roll. After a starship encounter, divvy up experience among all players and the AI. The AI's level and proficeincy bonus increases at the same rate of a player character.
 Extended Fuel Cells|Special|150,000|-|Your fuel capacity is equal to your ship's range multiplied by 6.
-GARDIAN|-|3,000,000|-|Once per round, the GARDIAN system targets up to 4 transports within range (~1 km), dealing 250 (1d4[x100]) radiant damage to each target. This can also be used as a reaction to a torpedo or missile attack, immediately nullifying the attack.
+GARDIAN|-|3,000,000|-|Once per round, the GARDIAN system targets up to 4 transports within range (~1 km), dealing 250 (1d4[x100]) true damage to each target. This can also be used as a reaction to a torpedo or missile attack, immediately nullifying the attack.
 GEB Mobius Algorithm|EWS|75,000|-|+1 to Harden and Sabotage rolls.
 Heavy Ship Armor I|-|300,000|-|+1 AC
 Heavy Ship Armor II|-|350,000|Heavy Ship Armor I|+2 AC

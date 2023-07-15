@@ -18,10 +18,10 @@
     "mechanics": [
       {
         "type": "resistance",
-        "value": "piercing"
+        "value": "kinetic"
       }
     ],
-    "html": "<p>Resistance to piercing damage.</p>\n",
+    "html": "<p>Resistance to kinetic damage.</p>\n",
     "id": "ablative-coating"
   },
   {

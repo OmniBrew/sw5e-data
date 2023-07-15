@@ -44,10 +44,10 @@ Increase Medi-gel capacity|2|2000
 While you're wearing it, any critical hit against you becomes a normal hit.|-|20000
 Ignore movement penalties of difficult terrain.|-|10000
 If an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to <me-distance length="10" />.|-|5000
-Resistance to piercing damage|-|50000
+Resistance to kinetic damage|-|50000
 Resistance to cold, fire, force, lightning, or necrotic damage|1 damage type|20000
-Resistance to acid, poison, psychic, radiant, or thunder|1 damage type|15000
-Resistance to bludgeoning or slashing|1 damage type|25000
+Resistance to acid, poison, psychic, true, or sonic|1 damage type|15000
+Resistance to energy or ion|1 damage type|25000
 Once per short rest, as a reaction to taking damage, you may jump-start your shield regen and immediately gain shield points equal to your regen amount.|-|15000
 Increase shield regen|5|8000
 Additional shield points (regen remains base 5)|5|10000

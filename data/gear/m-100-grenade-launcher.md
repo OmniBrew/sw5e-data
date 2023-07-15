@@ -14,7 +14,7 @@ mechanics:
     damage:
       - dieCount: 3
         dieType: 6
-        type: thunder
+        type: sonic
     dc:
       save: dex
       base: 14
@@ -36,4 +36,4 @@ equippable: true
 ---
 Target an area within <me-distance length="90" /> that you can see and fire a grenade at it. Each creature
 within a <me-distance length="10" adj /> radius sphere must make a DC 14 Dexterity saving throw.
-On a failed save a creature takes 3d6 thunder damage or half as much on a successful one.
+On a failed save a creature takes 3d6 sonic damage or half as much on a successful one.

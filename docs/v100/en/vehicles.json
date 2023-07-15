@@ -37,7 +37,7 @@
     "weapons": [
       {
         "name": "M350 mass-accelerator autocannons",
-        "damage": "70 (2d6[x10]) piercing damage"
+        "damage": "70 (2d6[x10]) kinetic damage"
       },
       {
         "name": "Inferno PKRs (16 charges)",

@@ -14,7 +14,6 @@ range:
   short: 50
   long: 200
 image: https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
-andromeda: false
 properties:
   - Power cell
 slots: 0
