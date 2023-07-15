@@ -15,7 +15,7 @@ range:
   long: 420
 image: https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
 properties:
-  - power cell, two-Handed
+  - power cell, two-handed
 slots: 0
 ---
 Blaster rifle are a type of rifle-shaped blaster weaponry, typically with a longer barrel than other types of blasters.
