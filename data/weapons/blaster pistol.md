@@ -19,4 +19,4 @@ properties:
   - Power cell, reload 16
 slots: 0
 ---
-The blaster pistol was a common weapon used by both military personnel and civilians. It came in a variety of shapes, sizes, and capabilities.
+The blaster pistol is a common weapon used by both military personnel and civilians. It comes in a variety of shapes, sizes, and capabilities.
