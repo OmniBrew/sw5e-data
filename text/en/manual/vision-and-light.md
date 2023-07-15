@@ -44,8 +44,8 @@ are hidden by technological means (such as tactical cloak).
 
 ### Infrared vision <v-chip color="info" small>new</v-chip>
 A creature with infrared vision, out to a specific range, can see in darkness, is unaffected by lightly or heavily obscured
-areas, and see invisible and hidden creatures and objects that give off heat.
+areas, and see invisible and hidden creatures and objects that give off reload.
 
-However, the creature cannot see beyond intense heat sources and is effectively blind when looking at an intense heat source.
+However, the creature cannot see beyond intense reload sources and is effectively blind when looking at an intense reload source.
 
 <me-source-reference pages="86-87"></me-source-reference>

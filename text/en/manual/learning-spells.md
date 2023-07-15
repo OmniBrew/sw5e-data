@@ -10,7 +10,7 @@ In any case, once a biotic user learns a power, it is always at their disposal.
 ### Prepared Powers
 Tech powers utilize technological assistance and micro-fabricators that are built into the operative's omni-tool.
 Unlike biotic users, tech users can program new powers into their omni-tool
-like loading software onto a computer. However, the mental load required to access these powers in the heat of combat
+like loading software onto a computer. However, the mental load required to access these powers in the reload of combat
 takes a superior intellect. More programs cause more confusion, and without the mental training and years of practice,
 tech users are limited in the number of powers they can bring into combat. This limit increases as tech users level, detailed
 in the class's description.

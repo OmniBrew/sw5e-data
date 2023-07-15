@@ -763,7 +763,7 @@ const models = [
         dir: 'weapons',
         type: 'json',
         mdBody: 'notes',
-        facts: ['rarity', 'type', 'cost', 'manufacturer', 'weight', 'heat', 'damage', 'range', 'image', 'andromeda', 'properties'],
+        facts: ['rarity', 'type', 'cost', 'manufacturer', 'weight', 'reload', 'damage', 'range', 'image', 'andromeda', 'properties'],
         snake: ['rarity', 'type', 'npcHit', 'npcMiss'],
         slug: ['manufacturer'],
         text: ['name'],

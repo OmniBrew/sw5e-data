@@ -56,7 +56,7 @@ Crawling <me-distance length="1" override="extra {metric}" /> in difficult terra
 ### Interacting with Objects
 Around You Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 
-- draw *or* sheathe a sword
+- draw *or* sreloadhe a sword
 - open or close a door
 - withdraw a medi-gel from your armor
 - pick up a dropped weapon

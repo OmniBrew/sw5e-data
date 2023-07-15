@@ -20,7 +20,7 @@ Finally, the GM or player rolls a d100 adding the modifier from the previous ste
 
 1d100 | Result
 --- | ---
-<= 10 | The shopkeeper is furious that you would attempt to cheat them out of their wares. They will not do business with you or your party.
+<= 10 | The shopkeeper is furious that you would attempt to creload them out of their wares. They will not do business with you or your party.
 11-30 | The shopkeeper sees through your ruse. If you're going to play it that way, you'll have to pay 10% more.
 31-50 | The shopkeeper is unmoved. They aren't going to give you a discount, but they're not shutting their doors either.
 51-70 | The shopkeeper has seen these ploys before, but you gave him a good chuckle, for that, you get a 10% discount.

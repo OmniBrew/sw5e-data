@@ -5,7 +5,7 @@ type: heavy_pistol
 cost: 13500
 manufacturer: asari
 weight: 4
-heat: 6
+reload: 6
 damage:
   dieCount: 1
   dieType: 6
@@ -20,5 +20,5 @@ properties:
 slots: 1
 ---
 Damage done by this weapon cannot be reduced by using barrier ticks. Use a bonus action to charge 
-the weapon before firing, consuming 2 heat. On a hit, it deals an additional 2d6 force 
+the weapon before firing, consuming 2 reload. On a hit, it deals an additional 2d6 force 
 damage.

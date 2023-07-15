@@ -6,7 +6,7 @@
     "cost": 13500,
     "manufacturer": "asari",
     "weight": 4,
-    "heat": 6,
+    "reload": 6,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -22,7 +22,7 @@
       "light"
     ],
     "slots": 1,
-    "html": "<p>Damage done by this weapon cannot be reduced by using barrier ticks. Use a bonus action to charge\nthe weapon before firing, consuming 2 heat. On a hit, it deals an additional 2d6 force\ndamage.</p>\n",
+    "html": "<p>Damage done by this weapon cannot be reduced by using barrier ticks. Use a bonus action to charge\nthe weapon before firing, consuming 2 reload. On a hit, it deals an additional 2d6 force\ndamage.</p>\n",
     "id": "acolyte"
   },
   {
@@ -32,7 +32,7 @@
     "cost": 175,
     "manufacturer": "Unaffiliated",
     "weight": 2.5,
-    "heat": 16,
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -57,7 +57,7 @@
     "cost": 525,
     "manufacturer": "Unaffiliated",
     "weight": 7.5,
-    "heat": 12,
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,

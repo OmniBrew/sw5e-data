@@ -16,7 +16,7 @@ for (const file of files) {
         damage: item.damage,
         range: Number.parseInt(item.range, 10) / 2 * 5,
         damageType: item.dmgType,
-        rounds: item.heat,
+        rounds: item.reload,
         image: item.image
     }
     // name
@@ -25,7 +25,7 @@ for (const file of files) {
     // cost
     delete(item.manufacturer)
     item.weight = item.weight * 2
-    delete(item.heat)
+    delete(item.reload)
     delete(item.damage)
     delete(item.range)
     const body = item.notes

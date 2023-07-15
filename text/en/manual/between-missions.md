@@ -33,7 +33,7 @@ downtime performing an activity not covered here, discuss it with your GM.
 #### Crafting
 You can craft weapons, mods, armor, other equipment and works of art. You must be proficient with tools related to the
 object you are trying to create (typically artisan's tools). You might also need access to special materials or locations
-necessary to create it. For example, someone proficient with armorsmith's tools needs a source of power and intense heat
+necessary to create it. For example, someone proficient with armorsmith's tools needs a source of power and intense reload
 in order to craft armor or install mods.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 500 credits,

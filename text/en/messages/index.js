@@ -213,7 +213,7 @@ module.exports = {
         creating_vehicles: 'Creating Vehicles',
     },
     grenade_name_w_mark: `{name} {mark}`,
-    heat_title: 'Heat',
+    reload_title: 'reload',
     hit_dice_title: 'Hit Dice',
     hit_dice_per_level: '{hitDice} per level',
     hit_points_title: 'Hit Points',

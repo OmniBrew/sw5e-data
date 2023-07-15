@@ -98,7 +98,7 @@ apiece, you loose the +1 AC bonus from the set.
 
 ### Environmental Protection <v-chip color="info" small>new</v-chip>
 All armor provides basic environmental protection from the vacuum of space or hazardous atmospheres. Armor supplies enough
-air and heat to the wearer for 8 hours of activity or 16 hours if the operative remains motionless. Your GM may require
+air and reload to the wearer for 8 hours of activity or 16 hours if the operative remains motionless. Your GM may require
 that your character wear a helmet to gain this benefit, or they may use the __bubble rule__ and claim that all armor suits
 can cast an energy "bubble" around your characters head to keep air in and the environment out.
 

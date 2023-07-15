@@ -1,7 +1,7 @@
 module.exports = {
     ability_skill_bonus: 'Ability/Skill',
     ac: 'AC',
-    additional_heat: 'Additional Heat',
+    additional_reload: 'Additional reload',
     attack_bonus: 'Attack',
     augmentation: 'Augmentation',
     buff: 'Buff',

@@ -78,9 +78,9 @@ release lance with your reaction, your concentration might be broken.
 
 
 ### Reload <v-chip color="info" small>new</v-chip>
-All guns have a heat property which indicates the number of times it can be fired before the thermal clip must be exchanged.
+All guns have a reload property which indicates the number of times it can be fired before the thermal clip must be exchanged.
 When you take the Reload Action, you expend a Thermal Clip from your inventory and insert it into the weapon you're currently
-holding, returning the weapon's heat to its maximum value.
+holding, returning the weapon's reload to its maximum value.
 
 #### Variant: Rapid Reload
 At the start of your turn, if you are holding only a single weapon, you may use a Bonus Action to attempt a Rapid Reload.
@@ -94,12 +94,12 @@ potential rolls per combat, which can be cumbersome and distracting. It's up to 
 is right for their group.
 
 #### Variant: Venting
-Instead of thermal clips, each weapon's heat indicates the number of times it can be fired before it overheats. Replace
+Instead of thermal clips, each weapon's reload indicates the number of times it can be fired before it overreloads. Replace
 any reference to Reloading with Venting. Venting works exactly the same as reloading, taking some amount of time to vent
-the weapons heat (instead of reloading a thermal clip).
+the weapons reload (instead of reloading a thermal clip).
 
-If a weapon is not fired for a full round of combat, it naturally regains 1 heat. Additionally, any weapon that is at 0
-heat can be fired, but it automatically jams and cannot be used until after a long rest.
+If a weapon is not fired for a full round of combat, it naturally regains 1 reload. Additionally, any weapon that is at 0
+reload can be fired, but it automatically jams and cannot be used until after a long rest.
 
 
 

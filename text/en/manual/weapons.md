@@ -14,7 +14,7 @@ a distance.
 You must be proficient with a weapon type to add your proficiency modifier to the attack roll. There are 6 distinct weapon
 types and all weapons fall into one of the following types.
 
-- __Assault Rifles__. The most common weapons of the military. These are generally medium-range weapons that deal average damage with a high heat capacity.
+- __Assault Rifles__. The most common weapons of the military. These are generally medium-range weapons that deal average damage with a high reload capacity.
 - __Heavy Pistols__. The most common gun type in the Star Wars universe. Simple but effective.
 - __Sub-machine Guns (SMGs)__. Single-handed, rapid fire weapons that have a short range.
 - __Shotguns__. Close-range, high-damage blasts.
@@ -41,7 +41,7 @@ Light improvised thrown weapons have ranges of <me-distance length="30" /> and <
 improvised ranged weapons have ranges of <me-distance length="15" /> and <me-distance length="30" />.
 
 ### Thermal Clips <v-chip color="info" small>new</v-chip>
-Ranged weapons (guns) use thermal clips to abate heat, requiring an action to load a new thermal clip into the weapon. More information
+Ranged weapons (guns) use thermal clips to abate reload, requiring an action to load a new thermal clip into the weapon. More information
 about reloading can be found in [Combat > Actions in Combat](/manual/combat#actions-in-combat).
 
 ### Carrying, Holstering, and Drawing Weapons <v-chip color="info" small>new</v-chip>

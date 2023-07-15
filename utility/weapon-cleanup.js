@@ -7,7 +7,7 @@ for (const file of files) {
     const item = require(fn)
     item.cost = Number.parseInt(item.cost, 10)
     item.weight = Number.parseInt(item.weight, 10)
-    item.heat = Number.parseInt(item.heat, 10)
+    item.reload = Number.parseInt(item.reload, 10)
     item.range = Number.parseInt(item.range, 10)
     item.andromeda = item.andromeda === 'x'
     fs.writeFileSync(fn, JSON.stringify(item, null, 2))

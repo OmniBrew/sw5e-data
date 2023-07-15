@@ -19,7 +19,7 @@
 #########
 
 resource:
-  displayType: enum [heat, counter, checkbox, hit-dice, omni-gel, barrier-ticks, gear-consumable] # default checkbox
+  displayType: enum [reload, counter, checkbox, hit-dice, omni-gel, barrier-ticks, gear-consumable] # default checkbox
   reset: enum [short, long, manual, off, cast] # 'manual' will display a "reload" button, default long, "off" will have no toggles
   resetTo: enum [min, max] #optional, default min
   max: @bonus
@@ -479,7 +479,7 @@ mechanics:
     detonates: boolean
     addDamage: @damage
     notes: [@note]
-    heatConsumption: string
+    reloadConsumption: string
     damageMultiplier: boolean
     onlyShortRange: boolean
     dc: @dc (removes weapon attack)
@@ -519,8 +519,8 @@ mechanics:
   - type: weapon-slots
     value: int
 
-# Weapon heat adjustments (mods only)
-  - type: weapon-heat-increase
+# Weapon reload adjustments (mods only)
+  - type: weapon-reload-increase
     multiplier: float
     value: int
 

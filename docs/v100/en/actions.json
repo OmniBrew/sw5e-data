@@ -63,7 +63,7 @@
   {
     "name": "Reload",
     "type": "action",
-    "html": "<p>Most ranged weapons have a heat property which indicates the number of times it can be fired before the thermal clip\nmust be exchanged. When you take the Reload Action, you expend a Thermal Clip from your inventory and insert it into\nthe weapon you're currently holding, returning the weapon's heat to its maximum value.</p>\n",
+    "html": "<p>Most ranged weapons have a reload property which indicates the number of times it can be fired before the thermal clip\nmust be exchanged. When you take the Reload Action, you expend a Thermal Clip from your inventory and insert it into\nthe weapon you're currently holding, returning the weapon's reload to its maximum value.</p>\n",
     "id": "reload"
   },
   {
