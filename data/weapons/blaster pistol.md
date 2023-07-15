@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 175
 manufacturer: Unaffiliated
 weight: 2.5
-reload: 16
+heat: 16
 damage:
   dieCount: 1
   dieType: 6
