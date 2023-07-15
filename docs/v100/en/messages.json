@@ -950,14 +950,12 @@
   "weapon_item_subtitle": "{rarity} {weaponType}",
   "weapon_title": "Weapon | Weapons",
   "weapon_types": {
-    "assault_rifle": "Assault Rifle | Assault Rifles",
-    "heavy_pistol": "Heavy Pistol | Heavy Pistols",
-    "melee": "Melee | Melee",
-    "smg": "SMG | SMGs",
-    "sniper_rifle": "Sniper Rifle | Sniper Rifles",
-    "shotgun": "Shotgun | Shotguns",
+    "simple_blaster": "Simple Blaster | Simple Blasters",
+    "martial_blaster": "Martial Blaster | Martial Blasters",
     "simple_lightweapon": "Simple Lightweapon | Simple Lightweapons",
-    "simple_vibroweapon": "Simple Vibroweapon | Simple Vibroweapons"
+    "martial_lightweapon": "Martial Lightweapon | Martial Lightweapons",
+    "simple_vibroweapon": "Simple Vibroweapon | Simple Vibroweapons",
+    "martial_vibroweapon": "Martial Vibroweapon | Martial Vibroweapons"
   },
   "weapon_props_title": "Weapon Properties",
   "weight_title": "Weight",

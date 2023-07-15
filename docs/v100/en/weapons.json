@@ -28,7 +28,7 @@
   {
     "name": "Blaster Pistol",
     "rarity": "unenhanced",
-    "type": "blaster_pistol",
+    "type": "simple_blaster",
     "cost": 175,
     "manufacturer": "Unaffiliated",
     "weight": 2.5,
@@ -48,7 +48,7 @@
       "Power cell, reload 16"
     ],
     "slots": 0,
-    "html": "<p>The blaster pistol was a common weapon used by both military personnel and civilians. It came in a variety of shapes, sizes, and capabilities.</p>\n",
+    "html": "<p>The blaster pistol is a common weapon used by both military personnel and civilians. It comes in a variety of shapes, sizes, and capabilities.</p>\n",
     "id": "blaster pistol"
   }
 ]
