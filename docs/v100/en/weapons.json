@@ -44,7 +44,7 @@
     },
     "image": "https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943",
     "properties": [
-      "power cell"
+      "power-cell"
     ],
     "slots": 0,
     "html": "<p>The blaster pistol is a common weapon used by both military personnel and civilians. It comes in a variety of shapes, sizes, and capabilities.</p>\n",
@@ -69,7 +69,8 @@
     },
     "image": "https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943",
     "properties": [
-      "power cell, two-handed"
+      "power-cell",
+      "two-handed"
     ],
     "slots": 0,
     "html": "<p>Blaster rifle are a type of rifle-shaped blaster weaponry, typically with a longer barrel than other types of blasters.</p>\n",

@@ -327,14 +327,16 @@ module.exports = {
     },
     range_title: 'Range',
     range_area_title: 'Range (Area)',
-    "rarities": {
-      "varies": "Common",
-      "varies": "Varies",
-      "common": "Standard",
-      "uncommon": "Premium",
-      "rare": "Prototype",
-      "very_rare": "Legendary",
-      "spectre": "Artifact"
+    rarities: {
+        unenhanced: "Unenhanced",
+        basic: "Basic",
+        varies: "Varies",
+        standard: "Standard",
+        premium: "Premium",
+        prototype: "Prototype",
+        advanced: "Advanced",
+        legendary: "Legendary",
+        artifact: "Artifact"
     },
     rarity_title: 'Rarity',
     regen: 'regen',
