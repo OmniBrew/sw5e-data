@@ -13,7 +13,7 @@ damage:
 range:
   short: 50
   long: 200
-image: https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
+image: https://vignette.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
 properties:
   - power cell
 slots: 0

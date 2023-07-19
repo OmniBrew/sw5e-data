@@ -13,7 +13,7 @@ damage:
 range:
   short: 105
   long: 420
-image: https://static.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
+image: https://vignette.wikia.nocookie.net/starwars/images/c/c8/A280BlasterRifle-CVD.png/revision/latest?cb=20221114064346
 properties:
   - power cell, two-handed
 slots: 0
