@@ -15,7 +15,7 @@ range:
   long: 200
 image: https://vignette.wikia.nocookie.net/starwars/images/8/85/DL18BlasterPistol-SWBF.png/revision/latest?cb=20160518002943
 properties:
-  - power cell
+  - power-cell
 slots: 0
 ---
 The blaster pistol is a common weapon used by both military personnel and civilians. It comes in a variety of shapes, sizes, and capabilities.
