@@ -57,22 +57,6 @@
     "id": "aleena-bite"
   },
   {
-    "name": "Cosmopolitan",
-    "species": [
-      "aleena"
-    ],
-    "mechanics": [
-      {
-        "type": "skill",
-        "value": [
-          "lore"
-        ]
-      }
-    ],
-    "html": "<p>You have proficiency in Lore.</p>\n",
-    "id": "cosmopolitan"
-  },
-  {
     "name": "Detailed Oriented",
     "species": [
       "bith"
@@ -107,6 +91,22 @@
     ],
     "html": "<p>You have advantage on Wisdom (Perception) checks that involve hearing or smell.</p>\n",
     "id": "keen-hearing-and-smell"
+  },
+  {
+    "name": "Cosmopolitan",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "lore"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in Lore.</p>\n",
+    "id": "lore"
   },
   {
     "name": "Musician",
@@ -145,6 +145,40 @@
     ],
     "html": "<p>You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.</p>\n",
     "id": "naturally-stealthy"
+  },
+  {
+    "name": "Dexterious Claws",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [
+      {
+        "type": "natural-weapon",
+        "value": {
+          "type": "natural-melee",
+          "replacesUnarmedStrike": true,
+          "value": {
+            "damageModOverride": "noMod",
+            "name": "Unarmed Strike / Claw",
+            "type": "natural-melee",
+            "range": {
+              "short": 5
+            },
+            "damage": {
+              "dieCount": 1,
+              "dieType": 6,
+              "type": "kinetic"
+            },
+            "moreInfo": {
+              "model": "traits",
+              "id": "finesse-claw"
+            }
+          }
+        }
+      }
+    ],
+    "html": "<p>Your unarmed strikes deal 1d6 kinetic damage and have the finesse property.</p>\n",
+    "id": "naturalweapon_claws_finesse"
   },
   {
     "name": "Nimble Escape",
@@ -263,6 +297,22 @@
     ],
     "html": "<p>Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).</p>\n",
     "id": "sonic-sensitivity"
+  },
+  {
+    "name": "Silent Step",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "stealth"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in the Stealth skill.</p>\n",
+    "id": "stealth"
   },
   {
     "name": "Trance",
