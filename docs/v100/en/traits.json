@@ -93,7 +93,7 @@
     "id": "keen-hearing-and-smell"
   },
   {
-    "name": "Cosmopolitan",
+    "name": "Loremaster",
     "species": [
       "aleena"
     ],
@@ -178,7 +178,7 @@
       }
     ],
     "html": "<p>Your unarmed strikes deal 1d6 kinetic damage and have the finesse property.</p>\n",
-    "id": "naturalweapon_claws_finesse"
+    "id": "naturalweapon_claws_1d6_finesse"
   },
   {
     "name": "Nimble Escape",
@@ -282,6 +282,47 @@
     "id": "shrewd"
   },
   {
+    "name": "Cosmopolitan",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "lore"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in Lore.</p>\n",
+    "id": "skill_lore"
+  },
+  {
+    "name": "Silent Step",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [
+      {
+        "type": "skill",
+        "value": [
+          "stealth"
+        ]
+      }
+    ],
+    "html": "<p>You have proficiency in the Stealth skill.</p>\n",
+    "id": "skill_stealth"
+  },
+  {
+    "name": "Undersized",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [],
+    "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.\nAdditionally, you can’t use martial weapons with the two-handed property unless it also has the\nlight property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
+    "id": "small_undersized"
+  },
+  {
     "name": "Sonic Sensitivity",
     "species": [
       "bith"
@@ -299,22 +340,6 @@
     "id": "sonic-sensitivity"
   },
   {
-    "name": "Silent Step",
-    "species": [
-      "cathar"
-    ],
-    "mechanics": [
-      {
-        "type": "skill",
-        "value": [
-          "stealth"
-        ]
-      }
-    ],
-    "html": "<p>You have proficiency in the Stealth skill.</p>\n",
-    "id": "stealth"
-  },
-  {
     "name": "Trance",
     "species": [
       "bith"
@@ -322,14 +347,5 @@
     "mechanics": [],
     "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
     "id": "trance"
-  },
-  {
-    "name": "Undersized",
-    "species": [
-      "aleena"
-    ],
-    "mechanics": [],
-    "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.\nAdditionally, you can’t use martial weapons with the two-handed property unless it also has the\nlight property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
-    "id": "undersized"
   }
 ]

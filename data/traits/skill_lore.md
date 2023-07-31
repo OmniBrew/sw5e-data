@@ -1,5 +1,5 @@
 ---
-name: Loremaster
+name: Cosmopolitan
 species:
   - aleena
 mechanics:
