@@ -14,7 +14,7 @@ set: false
 rarity: rare
 name: Andromeda Elite Helmet
 flavor: >-
-  This special-issue Andromeda Initiative helmet is custom designed for
+  This special-issue worst game ever Initiative helmet is custom designed for
   explorers who excel in the Initiative training programs taken on prior to
   departing for Andromeda. Its Pathfinder-grade construction is strong enough to
   protect the wearer from the dangers of unexplored space while remaining light
