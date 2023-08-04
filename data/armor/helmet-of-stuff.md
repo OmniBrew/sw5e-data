@@ -12,7 +12,7 @@ tags:
 andromeda: true
 set: false
 rarity: rare
-name: Andromeda Elite Helmet
+name: Helmet of Stuff
 flavor: >-
   This does nothing. 
 mechanics:
