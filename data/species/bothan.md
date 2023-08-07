@@ -32,6 +32,10 @@ mechanics:
   - type: asi
     amount: 1
     ability: dex
+  - type: skill
+    value: insight
+  - type: skill
+    value: deception
   - type: speed
     speed: walk
     distance: 30
