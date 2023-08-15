@@ -32,6 +32,9 @@ mechanics:
   - type: asi
     amount: 1
     ability: wis
+  - type: skill-choice
+  - options: true
+    limits: [nature, perception]
   - type: speed
     speed: walk
     distance: 30

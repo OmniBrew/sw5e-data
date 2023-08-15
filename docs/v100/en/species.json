@@ -142,6 +142,14 @@
         "ability": "dex"
       },
       {
+        "type": "skill",
+        "value": "insight"
+      },
+      {
+        "type": "skill",
+        "value": "deception"
+      },
+      {
         "type": "speed",
         "speed": "walk",
         "distance": 30
@@ -209,6 +217,810 @@
     "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The Cathar have fur-covered bodies with thick manes as well as prominent, retractable claws that can deliver powerful killing attacks on foes and prey. Their bodies also possess rapid healing abilities. These traits make them the perfect hand-to-hand specialists.</p>\n<p>The Cathar species also has two subspecies, known as the Juhani and the Myr Rho. Both of these are notably less catlike but are physicaly disimilar from mainline Cathar.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>AOn their homeworld, Cathar live in cities built into giant trees, and are organized into clans governed by elders. Stories of their great heroes were often carved into the trunks of these tree-homes for following generations to see. The Cathar mate for life, to the extent that when one mate dies, the survivor never has a relationship with another. Cathar clan society includes great pageants and celebrations, especially for their heroes. Their religion includes a ritual known as the &quot;Blood Hunt,&quot; in which Cathar warriors individually engaged in combat against entire nests of Kiltik in order to gain honor and purge themselves of inner darkness. The native language of the Cathar is Catharese, which included the emphasis of some spoken words with a growl.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Cathar names can sound both melodic and fairly gutteral, but they almost always sound strong and fierce. Female names are typically longer than male names. Surnames are usually one syllable.</p>\n<p><strong>Male Names.</strong> Crurbirr, Isyrr, Nynorr, Suro, Tukarr</p>\n<p><strong>Female Names.</strong> Cuwin, Jyvohr, Mulahr, Solyri</p>\n<p><strong>Surnames.</strong> Jin, Ki, Mak, Rhir, Ta</p>\n",
     "id": "cathar",
     "abilityScoreIncrease": "+2 Dexterity, +1 Charisma",
+    "subspecies": false
+  },
+  {
+    "name": "Cerean",
+    "source": "phb",
+    "speedColor": "",
+    "skinColor": "Light Tones",
+    "hairColor": "Blond, Brown, or White",
+    "eyeColor": "Yellow",
+    "distinctions": "Cone-like skull, binary brain",
+    "height": {
+      "base": "5'8\"",
+      "mod": "+2d8\""
+    },
+    "weight": {
+      "base": "120 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "homeworld": "Cerea",
+    "language": "Cerean",
+    "age": "Cereans reach adulthood in their late teens and live less than a century.",
+    "alignment": "Cereans' altruistic nature causes them to lean toward the light side, though there are exceptions.",
+    "size": "Cereans typically stand between 6 and 7 feet tall and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+    "languageColor": "You can speak, read, and write Galactic Basic and Cerean. Cerean is characterized by its gravelly sounds.",
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "int"
+      },
+      {
+        "type": "asi",
+        "amount": 1,
+        "ability": "wis"
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic",
+          "cerean"
+        ]
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Cereans are distinguished by their enlarged skulls, which house complex binary brains. This binary structure aids Cereans in pondering two sides of an issue simultaneously, processing information rapidly, and concentrating deeply. Their extra heart supplies sufficient blood to their brains. Despite their quick-thinking nature and reflexes, Cereans are usually not as well-coordinated as humans.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Cereans have developed a low-tech society on their homeworld, Cerea, and prefer to live in isolation from the wider galaxy. Preserving the natural beauty of Cerea is crucial to them. They are permitted to use off-world technology in Outsider Citadels, but it cannot be removed from there. Meditation, often assisted by kasha crystals, is a core part of a Cerean's daily ritual. Cerean Jedi sometimes incorporate these crystals into their lightsabers, which provides exceptional focus during intense physical combat.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Cerean male first names are often hyphenated, while female names are not. Surnames are familial.</p>\n<p><strong>Male Names.</strong> Ji-Cheelia, Ki-Adi, Pick-toh, Sauli-Fanz</p>\n<p><strong>Female Names.</strong> Dreash, Kilniavy, Melm, Rharoth</p>\n<p><strong>Surnames.</strong> Codux, Emkom, Kyureft, Lonnik, Mundi</p>\n",
+    "id": "cerean",
+    "abilityScoreIncrease": "+2 Intelligence, +1 Wisdom",
+    "subspecies": false
+  },
+  {
+    "name": "Chiss",
+    "source": "phb",
+    "speedColor": "",
+    "skinColor": "Blue or Silver",
+    "hairColor": "Black, Blue, or Silver",
+    "eyeColor": "Red",
+    "distinctions": "Glowing red eyes, above-average night vision",
+    "height": {
+      "base": "4'11\"",
+      "mod": "+2d10\""
+    },
+    "weight": {
+      "base": "110 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "homeworld": "Csilla",
+    "language": "Cheunh",
+    "age": "Chiss reach adulthood in their late teens and live less than a century.",
+    "alignment": "Chiss' tactical and selfish nature causes them to lean toward the lawful dark side, though there are exceptions.",
+    "size": "Chiss typically stand between 5 and 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.",
+    "languageColor": "You can speak, read, and write Galactic Basic, Cheunh, and your choice of Minnisiat or Sy Bisti.",
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "int"
+      },
+      {
+        "type": "asi",
+        "amount": 1,
+        "ability": "cha"
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic",
+          "cheunh"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": "minnisiat, sy_bisti"
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The Chiss are a near-human species notable for their blue skin and glowing red eyes. Genetic analysis indicates they are an offshoot of humanity, having diverged after moving underground. Their striking physical features, which include blue skin, jet black hair, and red eyes, make them instantly recognizable.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Chiss society is highly structured and ordered. It is governed by a group of four affiliations known as the Ruling Families: the Csapla, Nuruodo, Inrokini, and Sabosen. These are not biological families but represent different branches of their government. Every Chiss aligns with one of the four families, determined by tradition and birthplace. The family names are a cultural holdover, as any Chiss can claim affiliation with any of the ruling families. Political assassinations are an unfortunate reality within the Ruling Families, indicating internal tensions.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>A Chiss true-name consists of three parts, each separated by an apostrophe. The first part is their family name, the second part is their root name, and the third part indicates their occupation. Chiss usually go by their root name and rarely share their true-name with non-Chiss.</p>\n<p><strong>Names.</strong> Crorcu'ecuk'unist, Dash'esoru'ishur, Jerd'ecer'lonii, Kisk'egauw'eqhi, Marag'aliphil'eduo, Pommo'icuote'nlerme, Vornu'wuzi'lerdim</p>\n",
+    "id": "chiss",
+    "abilityScoreIncrease": "+2 Intelligence, +1 Charisma",
+    "subspecies": false
+  },
+  {
+    "name": "Devaronian",
+    "source": "phb",
+    "speedColor": "",
+    "skinColor": "Red, Pink, Brown, or White",
+    "hairColor": "Brown, Black, or White",
+    "eyeColor": "Black",
+    "distinctions": "Horns or horn spots, long pointed ears",
+    "height": {
+      "base": "4'10\"",
+      "mod": "+2d8\""
+    },
+    "weight": {
+      "base": "120 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "homeworld": "Devaron",
+    "language": "Devaronese",
+    "age": "Devaronians reach adulthood in their late teens and live less than a century.",
+    "alignment": "Devaronians' greediness causes them to tend toward chaotic balance, though there are exceptions.",
+    "size": "Devaronians typically stand between 5 and 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.",
+    "languageColor": "You can speak, read, and write Galactic Basic and Devaronese. ",
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "con"
+      },
+      {
+        "type": "asi",
+        "amount": 1,
+        "ability": "cha"
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "proficiency",
+        "value": [
+          "Survival or Investigation"
+        ]
+      },
+      {
+        "type": "advantage",
+        "description": "You have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat."
+      },
+      {
+        "type": "trait",
+        "description": "You don’t treat jungle terrain as difficult terrain."
+      },
+      {
+        "type": "proficiency",
+        "value": [
+          "Deception or Persuasion"
+        ]
+      },
+      {
+        "type": "advantage",
+        "description": "You have advantage on Dexterity and Intelligence saving throws against tech powers."
+      },
+      {
+        "type": "resistance",
+        "description": "You have advantage on saving throws against poison, and you have resistance against poison damage."
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic",
+          "devaronese"
+        ]
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>A bipedal mammalian species, Devaronians evolved in the dense jungles of Devaron as hunter-gatherers. They possess dense bodies that are heavier than they appear. Devaronians have silver-based blood, which appears thick and black when exposed. They have a unique blood filtration system with two livers, making them highly resistant to toxins. Inhaling sulfur is used as a stimulant on Devaron to enhance speed and strength.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Devaronian males are driven by wanderlust, often traveling the galaxy as tramp freighter captains and scouts. In contrast, female Devaronians tend to stay in one place, raising children and running the government. The males send money back to support their families but rarely return, a situation the females are content with as they view restless males as disruptive.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Devaronian names are dark, complex, and often guttural, with harsh tones interspersed.</p>\n<p><strong>Male Names.</strong> Cir, Gremegris, Keirtihk, Kucx, Niruhk</p>\n<p><strong>Female Names.</strong> Crilnuy, Ghal, Milma, Nola, Taoluel</p>\n<p><strong>Surnames.</strong> Breiz, Droddost, G'vaulnel, Raokt</p>\n",
+    "id": "devaronian",
+    "abilityScoreIncrease": "+2 Constitution, +1 Charisma",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class I",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class I Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class I droids stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you can not speak it.",
+    "skinColor": "Metallic",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Human-like size, slow speed, specialized knowledge",
+    "homeworld": "Varies",
+    "language": "Varies based on location",
+    "height": {
+      "base": "4'5\"",
+      "mod": "+2d10\""
+    },
+    "weight": {
+      "base": "115 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "int"
+      },
+      {
+        "type": "asi-choice",
+        "options": "wis, cha",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 25
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": true
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class I droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although some are smaller. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class I droids are programmed for the mathematical, medical, or physical sciences. Subcategories of the first degree are medical droids, biological science droids, physical science droids, and mathematics droids. Medical droids, also known as meddroids, med droids, medical units or surgical droids are a type of droid designed to heal living beings, and are the most commonly found Class I droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> 2MED2 (Toomedtoo), GH-7 (Geeaych-Seven), TX-20 (Tee-Ex Twenty)</p>\n",
+    "id": "droid-class-i",
+    "abilityScoreIncrease": "+2 Intelligence",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class II",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class II droids stand 2 to 4 feet tall and weigh about 70 lbs. Regardless of your position in that range, your size is Small.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak them.",
+    "skinColor": "Varies",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Retractible arms, integrated tools, diminutive size",
+    "homeworld": "Varies",
+    "language": "Binary",
+    "height": {
+      "base": "2'5\"",
+      "mod": "+2d8\""
+    },
+    "weight": {
+      "base": "60 lb.",
+      "mod": "x(1d4) lb."
+    },
+    "cSize": "small",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "int"
+      },
+      {
+        "type": "asi-choice",
+        "options": "wis, dex",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 25
+      },
+      {
+        "type": "language",
+        "value": [
+          "binary",
+          "galactic_basic"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": true
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class II droids are typically small, standing between two and four feet. Their form and color scheme vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their distinct, function-oriented form.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class II droids are programmed for engineering and other technical sciences. They differ from class one droids because they apply the science to real-life situations. Class II droids are rarely equipped with Basic vocabulators, instead communicating through Binary. There are five subcategories of class II droids. Astromech, exploration, environmental, engineering, and maintenance droids are all class II droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> BB-5 (Beebees), CH-33P (Cheep), OC-JK14 (Seejay), PT-7 (Poot), RG-G1 (G-G)</p>\n",
+    "id": "droid-class-ii",
+    "abilityScoreIncrease": "+2 Intelligence",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class III",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class III Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class III droids stand around the height of humans and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write all registered languages.",
+    "skinColor": "Metallic",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Human-like size, shuffling gait, typically talkative",
+    "homeworld": "Varies",
+    "language": "Varies based on location",
+    "height": {
+      "base": "5'6\"",
+      "mod": "+2d4\""
+    },
+    "weight": {
+      "base": "120 lb.",
+      "mod": "x(2d6) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "cha"
+      },
+      {
+        "type": "asi-choice",
+        "options": "int, wis",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 25
+      },
+      {
+        "type": "language",
+        "value": [
+          "all_registered_languages"
+        ]
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class III droids are typically human-like in both shape and size, standing at around 6 feet. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their slow, shuffling gait and typically overly talkative nature.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class III droids are programmed to interact with humans. They are said to be the most advanced droids ever invented. Protocol, servant, tutor, and child care droids are all class III droids. They are usually equipped with protocol chips which give them the cognitive functionality to engage socially.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> K-OHN (Kone), I-5YQ (I-Five), O-MR1 (Omri), TC-14 (Teesee Fourteen)</p>\n",
+    "id": "droid-class-iii",
+    "abilityScoreIncrease": "+2 Charisma",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class IV",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class IV Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class IV droids typically stand between 5 and 7 feet and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you cannot speak it.",
+    "skinColor": "Varies",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Variable size, combat-designed nature, often humanoid",
+    "homeworld": "Varies",
+    "language": "Galactic Basic",
+    "height": {
+      "base": "5'2\"",
+      "mod": "+2d8\""
+    },
+    "weight": {
+      "base": "110 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "con"
+      },
+      {
+        "type": "asi-choice",
+        "options": "str, dex",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "resistance",
+        "value": "necrotic"
+      },
+      {
+        "type": "resistance",
+        "value": "poison"
+      },
+      {
+        "type": "resistance",
+        "value": "psychic"
+      },
+      {
+        "type": "immunity",
+        "value": "poison"
+      },
+      {
+        "type": "immunity",
+        "value": "disease"
+      },
+      {
+        "type": "vulnerability",
+        "value": "ion"
+      },
+      {
+        "name": "Droid, Class IV",
+        "moreInfo": {
+          "model": "species",
+          "id": "droid-class-iv"
+        },
+        "type": "bonus-action",
+        "resource": {
+          "displayType": "hit-dice",
+          "label": false,
+          "id": "droid-class-iv"
+        },
+        "shortDesc": "Spend a hit die to recover hit points."
+      },
+      {
+        "type": "weapon",
+        "value": true
+      },
+      {
+        "type": "armor",
+        "value": "light"
+      },
+      {
+        "type": "armor",
+        "value": "medium"
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic",
+          "one_of_your_choice"
+        ]
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class IV droids are typically human-like in both shape and size, though there are many advanced models (such as droidekas) that forgo this standardization. They are usually colored to match their affiliation, though personally owned class IV droids might not be. Certain models of class IV droids, such as the HK-series, are made to look like class III droids to disguise their martial nature.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class IV droids are programmed for military and security purposes. Such droids tend to perform tasks where violence or combat might be expected. Almost all class IV droids carry weapons. Armed combat droids are among the first droids ever created. Security, gladiator, battle, and assassin droids are all class IV droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> K-2SO (Kay-Tuesso), PZ-99 (Peezee-Ninety-Nine), VL-44 (Vee-El Forty-Four)</p>\n<p>Sure! Here's the Class IV Droid template based on your provided details:</p>\n<hr>\n<p>name: Droid, Class IV\nsource: phb\nspeedColor: ''\nalignment: &gt;-\nDroids tend toward no particular alignment. The best and worst are found among them.\nsize: &gt;-\nClass IV droids typically stand between 5 and 7 feet and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.\nage: &gt;-\nDroids don't age, though they require maintenance to retain functionality.\nlanguageColor: &gt;-\nYou can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you cannot speak it.\nskinColor: Typically colored to match affiliation or personal preference.\nhairColor: None\neyeColor: Varies based on model or function\ndistinctions: Can be humanoid or possess specialized forms like droidekas; some may resemble class III droids.\nhomeworld: Varies\nlanguage: Galactic Basic, Binary (understood)\nheight:\nbase: &gt;-\n5'0&quot;\nmod: &gt;-\n+2d12&quot;\nweight:\nbase: 150 lb.\nmod: x(2d8) lb.\ncSize: medium\nmechanics:</p>\n<ul>\n<li>type: asi\namount: 2\nability: con</li>\n<li>type: asi-choice\noptions: str, dex\ntotal: 1\nselections: 1\nmax: 1</li>\n<li>type: resistance\nvalue: necrotic</li>\n<li>type: resistance\nvalue: poison</li>\n<li>type: resistance\nvalue: psychic</li>\n<li>type: immunity\nvalue: poison</li>\n<li>type: immunity\nvalue: disease</li>\n<li>type: vulnerability\nvalue: ion</li>\n<li>type: skill\nvalue: technology (based on Droid Systems)</li>\n<li>type: bonus-action\nresource:\ndisplayType: hit-dice\nlabel: false\nshortDesc: &gt;-\nSpend a hit die to recover hit points.</li>\n<li>type: skill\nvalue: martial weapons proficiency (based on Martial Protocol)</li>\n<li>type: speed\nspeed: walk\ndistance: 30</li>\n<li>type: language\nvalue: [galactic_basic, binary (understand)]</li>\n<li>type: language-choice\noptions: true\nlimit: [any]</li>\n</ul>\n<hr>\n<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class IV droids can take on a myriad of appearances, from humanoid shapes to specialized models like the droidekas. While they are often colored to signify affiliation, personalized droids may not adhere to this. Some, like the HK-series, might even be designed to resemble class III droids to camouflage their combative nature.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class IV droids are structured for military and security roles. Anticipated to engage in combat, almost all of them are armed. The first droids ever crafted were among this category. This class includes security, gladiator, battle, and assassin droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Often named by their designation from creation or by an affectation from their owner, droids sometimes have their designations played upon for a nickname. Certain droids may also earn titles through feats and achievements.\n<strong>Designations (Names).</strong> K-2SO (Kay-Tuesso), PZ-99 (Peezee-Ninety-Nine), VL-44 (Vee-El Forty-Four)</p>\n",
+    "id": "droid-class-iv",
+    "abilityScoreIncrease": "+2 Constitution",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class V",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class V Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class V droids typically stand between 5 and 7 feet and weigh around 260 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you cannot speak it.",
+    "skinColor": "Typically metallic",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Vaguely human-like size and shape, typically quiet",
+    "homeworld": "Varies",
+    "language": "Binary",
+    "height": {
+      "base": "5'2\"",
+      "mod": "+2d12\""
+    },
+    "weight": {
+      "base": "140 lb.",
+      "mod": "x(2d8) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "str"
+      },
+      {
+        "type": "asi-choice",
+        "options": "dex, con",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "resistance",
+        "value": "necrotic"
+      },
+      {
+        "type": "resistance",
+        "value": "poison"
+      },
+      {
+        "type": "resistance",
+        "value": "psychic"
+      },
+      {
+        "type": "immunity",
+        "value": "poison"
+      },
+      {
+        "type": "immunity",
+        "value": "disease"
+      },
+      {
+        "type": "vulnerability",
+        "value": "ion"
+      },
+      {
+        "type": "skill",
+        "value": "athletics"
+      },
+      {
+        "type": "tool-choice",
+        "options": true,
+        "limit": [
+          "artisan"
+        ]
+      },
+      {
+        "name": "Droid, Class V",
+        "moreInfo": {
+          "model": "species",
+          "id": "droid-class-v"
+        },
+        "type": "bonus-action",
+        "resource": {
+          "displayType": "hit-dice",
+          "label": false,
+          "id": "droid-class-v"
+        },
+        "shortDesc": "Expend a hit die, roll it, and gain that many hit points."
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "binary",
+          "galactic_basic"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": true
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although many can be larger. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their simple programming and quiet, focused work habits.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation. Labor droids are fifth-degree droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> CO-34 (See-Oh Three Four), FX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)</p>\n",
+    "id": "droid-class-v",
+    "abilityScoreIncrease": "+2 Strength",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class V",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class V Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class V droids typically stand between 5 and 7 feet and weigh around 260 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you cannot speak it.",
+    "skinColor": "Typically metallic",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Vaguely human-like size and shape, typically quiet",
+    "homeworld": "Varies",
+    "language": "Binary",
+    "height": {
+      "base": "5'2\"",
+      "mod": "+2d12\""
+    },
+    "weight": {
+      "base": "140 lb.",
+      "mod": "x(2d8) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "str"
+      },
+      {
+        "type": "asi-choice",
+        "options": "dex, con",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "binary",
+          "galactic_basic"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": true
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although many can be larger. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their simple programming and quiet, focused work habits.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation. Labor droids are fifth-degree droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> CO-34 (See-Oh Three Four), FX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)</p>\n",
+    "id": "duros",
+    "abilityScoreIncrease": "+2 Strength",
+    "subspecies": false
+  },
+  {
+    "name": "Cerean",
+    "source": "phb",
+    "speedColor": "",
+    "skinColor": "SKIN",
+    "hairColor": "HAIR",
+    "eyeColor": "EYE",
+    "distinctions": "OTHER",
+    "height": {
+      "base": "4'9\"",
+      "mod": "+2d12\""
+    },
+    "weight": {
+      "base": "130 lb.",
+      "mod": "x(2d4) lb."
+    },
+    "homeworld": "Cathar",
+    "language": "Catharese",
+    "age": "Cathar reach adulthood in their late teens and live less than a century.",
+    "alignment": "Cathar tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Cathar range from 5 to 7 feet tall, and can weigh up to 300 lbs. Regardless of your position in that range, your size is Medium.",
+    "languageColor": "You can speak, read, and write Galactic Basic and Catharese.",
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "dex"
+      },
+      {
+        "type": "asi",
+        "amount": 1,
+        "ability": "cha"
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "galactic_basic",
+          "catharese"
+        ]
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The Cathar have fur-covered bodies with thick manes as well as prominent, retractable claws that can deliver powerful killing attacks on foes and prey. Their bodies also possess rapid healing abilities. These traits make them the perfect hand-to-hand specialists.</p>\n<p>The Cathar species also has two subspecies, known as the Juhani and the Myr Rho. Both of these are notably less catlike but are physicaly disimilar from mainline Cathar.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>AOn their homeworld, Cathar live in cities built into giant trees, and are organized into clans governed by elders. Stories of their great heroes were often carved into the trunks of these tree-homes for following generations to see. The Cathar mate for life, to the extent that when one mate dies, the survivor never has a relationship with another. Cathar clan society includes great pageants and celebrations, especially for their heroes. Their religion includes a ritual known as the &quot;Blood Hunt,&quot; in which Cathar warriors individually engaged in combat against entire nests of Kiltik in order to gain honor and purge themselves of inner darkness. The native language of the Cathar is Catharese, which included the emphasis of some spoken words with a growl.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Cathar names can sound both melodic and fairly gutteral, but they almost always sound strong and fierce. Female names are typically longer than male names. Surnames are usually one syllable.</p>\n<p><strong>Male Names.</strong> Crurbirr, Isyrr, Nynorr, Suro, Tukarr</p>\n<p><strong>Female Names.</strong> Cuwin, Jyvohr, Mulahr, Solyri</p>\n<p><strong>Surnames.</strong> Jin, Ki, Mak, Rhir, Ta</p>\n",
+    "id": "temp",
+    "abilityScoreIncrease": "+2 Dexterity, +1 Charisma",
+    "subspecies": false
+  },
+  {
+    "html": "<p>DROID, CLASS V\nVISUAL CHARACTERISTICS\nColor\nScheme\nTypically metallic\nDistinctions\nVaguely human-like size and shape,\ntypically quiet\nPHYSICAL CHARACTERISTICS\nHeight 5'2&quot; +2d12&quot;\nWeight 140 lb. x(2d8) lb.\nCREATION CHARACTERISTICS\nManufacturer\nCybot Galactica,\nIndustrial Automaton\nPrimary Language Binary</p>\n<p>APPEARANCE\nClass V droids are typically vaguely human-like in both\nshape and size, standing at around 6 feet, although\nmany can be larger. They are usually a polished\nmetallic color, though this can vary based on tasks for\nwhich they are created, their affiliation, or quirks of\ntheir owner.\nThey are noteworthy for their simple programming\nand quiet, focused work habits.\nUTILITY\nClass V droids are programmed for menial and low-skill\ntasks. Such droids tend to perform basic tasks such as\nconstruction, lifting, maintenance, mining, sanitation,\nand transportation. Labor droids are fifth-degree\ndroids.\nNAMES\nDroids are typically called by their designation, given to\nthem when they are created, or some affectation given\nto them by their owner. Often this affectation is a play\non their designation. Occasionally, noteworthy droids\nwill earn monikers based on their accomplishments.\nDesignations (Names). CO-34 (See-Oh Three Four),\nFX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)\nCLASS V DROID TRAITS\nAs a class V droid, you have the following special traits.\nAbility Score Increase. Your Strength score\nincreases by 2, and your Dexterity or Constitution\nscore increases by 1.\nAge. Droids don't age, though they require\nmaintenance to retain functionality.\nAlignment. Droids tend toward no particular\nalignment. The best and worst are found among them.\nSize. Class V droids typically stand between 5 and 7\nfeet and weigh around 260 lbs. Regardless of your\nposition in that range, your size is Medium.\nSpeed. Your base walking speed is 30 feet.\nType. Your creature type is droid.\nArmor Integration. You can not wear armor, but you\ncan have the armor professionally integrated into your\nchassis over the course of a long rest. This work must\nbe done by someone proficient with astrotech's\nimplements. You must be proficient in armor in order\nto have it integrated.\nDroid Resistances. You are resistant to necrotic,\npoison, and psychic damage, and are immune to\npoison and disease.\nDroid Systems. You do not need to eat, drink, or\nbreathe. Additionally, you no longer require a tech\nfocus to cast tech powers.\nDroid Vulnerabilities. You are vulnerable to ion\ndamage. Additionally, you have disadvantage on saving\nthrows against effects that would deal ion or lightning\ndamage.\nForce-Insensitive. While droids can be manipulated\nby many force powers, they can not sense the Force.\nYou can not use force powers or take levels in\nforcecasting classes.\nMaintenance Mode. Rather than sleep, you must\nspend 3 hours performing routine maintenance during\na long rest to gain its benefits, during which you have\ndisadvantage on Wisdom (Perception) checks.\nAdditionally, if your long rest would be interrupted, you\nonly need to complete the long rest instead of\nrestarting it.\nManual Laborer. You have proficiency in Athletics\nand one set of artisan's implements of your choice.\nPowerful Build. Your carrying capacity and the\nweight you can push, drag, or lift doubles. If it would\nalready double, it instead triples.\nRapid Reconstruction. You are built with internal\nrepair mechanisms. As a bonus action, you can choose\nto spend one of your Hit Dice to recover hit points.\nLanguages. You can speak, read, and write Binary.\nYou can understand spoken and written Galactic Basic\nand one language of your choice, but you can not\nspeak it.\nCareful\nYou have proficiency in Insight and Perception. But your careful nature makes you slow to act, giving you disadvantage on Initiative rolls.</p>\n",
+    "id": "z-ignore-master-flavor.txt",
+    "abilityScoreIncrease": "",
+    "subspecies": false
+  },
+  {
+    "name": "Droid, Class V",
+    "source": "phb",
+    "speedColor": "",
+    "alignment": "Class V Droids tend toward no particular alignment. The best and worst are found among them.",
+    "size": "Class V droids typically stand between 5 and 7 feet and weigh around 260 lbs. Regardless of your position in that range, your size is Medium.",
+    "age": "Droids don't age, though they require maintenance to retain functionality.",
+    "languageColor": "You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you cannot speak it.",
+    "skinColor": "Typically metallic",
+    "hairColor": "None",
+    "eyeColor": "Varies",
+    "distinctions": "Vaguely human-like size and shape, typically quiet",
+    "homeworld": "Varies",
+    "language": "Binary",
+    "height": {
+      "base": "5'2\"",
+      "mod": "+2d12\""
+    },
+    "weight": {
+      "base": "140 lb.",
+      "mod": "x(2d8) lb."
+    },
+    "cSize": "medium",
+    "mechanics": [
+      {
+        "type": "asi",
+        "amount": 2,
+        "ability": "str"
+      },
+      {
+        "type": "asi-choice",
+        "options": "dex, con",
+        "total": 1,
+        "selections": 1,
+        "max": 1
+      },
+      {
+        "type": "resistance",
+        "value": "necrotic"
+      },
+      {
+        "type": "resistance",
+        "value": "poison"
+      },
+      {
+        "type": "resistance",
+        "value": "psychic"
+      },
+      {
+        "type": "immunity",
+        "value": "poison"
+      },
+      {
+        "type": "immunity",
+        "value": "disease"
+      },
+      {
+        "type": "vulnerability",
+        "value": "ion"
+      },
+      {
+        "type": "skill",
+        "value": "athletics"
+      },
+      {
+        "type": "tool-choice",
+        "options": true,
+        "limit": [
+          "artisan"
+        ]
+      },
+      {
+        "name": "Droid, Class V",
+        "moreInfo": {
+          "model": "species",
+          "id": "z-ignore-master"
+        },
+        "type": "bonus-action",
+        "resource": {
+          "displayType": "hit-dice",
+          "label": false,
+          "id": "z-ignore-master"
+        },
+        "shortDesc": "Expend a hit die, roll it, and gain that many hit points."
+      },
+      {
+        "type": "skill",
+        "value": "insight"
+      },
+      {
+        "type": "skill",
+        "value": "perception"
+      },
+      {
+        "type": "initiative",
+        "effect": {
+          "type": "disadvantage"
+        }
+      },
+      {
+        "type": "speed",
+        "speed": "walk",
+        "distance": 30
+      },
+      {
+        "type": "language",
+        "value": [
+          "binary",
+          "galactic_basic"
+        ]
+      },
+      {
+        "type": "language-choice",
+        "options": true
+      }
+    ],
+    "html": "<me-tpg e=\"div\" s=\"h3\">APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although many can be larger. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their simple programming and quiet, focused work habits.</p>\n<me-tpg e=\"div\" s=\"h3\">UTILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation. Labor droids are fifth-degree droids.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.\n<strong>Designations (Names).</strong> CO-34 (See-Oh Three Four), FX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)</p>\n",
+    "id": "z-ignore-master",
+    "abilityScoreIncrease": "+2 Strength",
     "subspecies": false
   }
 ]

@@ -32,13 +32,33 @@ mechanics:
   - type: asi
     amount: 1
     ability: cha
+  - type: armor
+    value: light
+  - type: armor
+    value: medium
+  - type: weapon
+    value: heavy-pistol
+  - type: weapon
+    value: sniper-rifle
+  - type: skill
+    value: insight
+  - type: saving-throw
+    value: [int]
+    effect:
+      type: advantage
+      note: against tech powers
+  - type: saving-throw
+    value: [dex]
+    effect:
+      type: advantage
+      note: against tech powers
   - type: speed
     speed: walk
     distance: 30
   - type: language
     value: [galactic_basic, cheunh]
   - type: language-choice
-    options: minnisiat, sy_bisti
+    options: [minnisiat, sy_bisti]
 ---
 ### BIOLOGY AND APPEARANCE
 The Chiss are a near-human species notable for their blue skin and glowing red eyes. Genetic analysis indicates they are an offshoot of humanity, having diverged after moving underground. Their striking physical features, which include blue skin, jet black hair, and red eyes, make them instantly recognizable.

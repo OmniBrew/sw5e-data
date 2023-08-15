@@ -32,6 +32,8 @@ mechanics:
   - type: asi
     amount: 1
     ability: cha
+  - type: skill
+    value: stealth
   - type: speed
     speed: walk
     distance: 30

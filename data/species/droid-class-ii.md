@@ -34,6 +34,24 @@ mechanics:
     total: 1
     selections: 1
     max: 1
+  - type: resistance
+    value: necrotic
+  - type: resistance
+    value: poison
+  - type: resistance
+    value: psychic
+  - type: immunity
+    value: poison
+  - type: immunity
+    value: disease
+  - type: vulnerability
+    value: ion
+  - type: bonus-action
+    resource:
+      displayType: hit-dice
+      label: false
+    shortDesc: >-
+      Spend a hit die to recover hit points.
   - type: speed
     speed: walk
     distance: 25

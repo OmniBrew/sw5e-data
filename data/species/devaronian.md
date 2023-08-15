@@ -35,18 +35,17 @@ mechanics:
   - type: speed
     speed: walk
     distance: 30
-  - type: proficiency
-    value: [Survival or Investigation]
-  - type: advantage
+  - type: skill-choice
+    options: true
+    limit: [survival, investigation]
+  - type: saving-throw
+    value: [con]
     description: You have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat.
-  - type: trait
-    description: You don’t treat jungle terrain as difficult terrain.
-  - type: proficiency
-    value: [Deception or Persuasion]
-  - type: advantage
-    description: You have advantage on Dexterity and Intelligence saving throws against tech powers.
+  - type: skill-choice
+    options: true
+    limit: [deception, persuasion]
   - type: resistance
-    description: You have advantage on saving throws against poison, and you have resistance against poison damage.
+    value: poison
   - type: language
     value: [galactic_basic, devaronese]
 ---
