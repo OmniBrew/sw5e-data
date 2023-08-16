@@ -1,54 +1,80 @@
 ---
-name: Droid, Class V
+name: DUROS
 source: phb
 speedColor: ''
 alignment: >-
-  Class V Droids tend toward no particular alignment. The best and worst are found among them.
+  Duros tend toward no particular alignment. The best and worst are found among them.
 size: >-
-  Class V droids typically stand between 5 and 7 feet and weigh around 260 lbs. Regardless of your position in that range, your size is Medium.
+  Duros stand around 6 feet tall and weigh around 160 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Droids don't age, though they require maintenance to retain functionality.
+  Duros reach adulthood in their 20s and live an average of 150 years.
 languageColor: >-
-  You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you cannot speak it.
-skinColor: Typically metallic
+  You can speak, read, and write Galactic Basic and Durese. Durese is a common interstellar tongue used by prominent spacers and traders.
+skinColor: Blue, green
 hairColor: None
-eyeColor: Varies
-distinctions: Vaguely human-like size and shape, typically quiet
-homeworld: Varies
-language: Binary
+eyeColor: Red
+distinctions: Noseless, large red eyes, affinity for space travel
+homeworld: Duro
+language: Durese
 height:
   base: >-
-    5'2"
+    5'5"
   mod: >-
-    +2d12"
+    +2d10"
 weight:
-  base: 140 lb.
-  mod: x(2d8) lb.
+  base: 115 lb.
+  mod: x(2d4) lb. 
 cSize: medium
 mechanics:
   - type: asi
     amount: 2
-    ability: str
-  - type: asi-choice
-    options: dex, con
-    total: 1
-    selections: 1
-    max: 1
+    ability: dex
+  - type: asi
+    amount: 1
+    ability: int
   - type: speed
     speed: walk
     distance: 30
   - type: language
-    value: [binary, galactic_basic]
-  - type: language-choice
-    options: true
+    value: [galactic_basic, durese]
+
 ---
+### BIOLOGY AND APPEARANCE
+The duros are humanoids with smooth blue-green
+skin, red eyes, lipless mouths, long thin noseless faces
+and green blood. Olfactory organs beneath their eyes
+are responsible for their sense of smell. Both females
+and males are bald, though both genders are easily
+distinguished. Their large red goggle-like eyes have slit
+pupils. Duros females lay eggs as they are descended
+from ancient reptiles, and they are born in a larval grub
+stage. Unlike similar species, the duros take care of
+their offspring from birth.
 
-### APPEARANCE
-Class V droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although many can be larger. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner. They are noteworthy for their simple programming and quiet, focused work habits.
-
-### UTILITY
-Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation. Labor droids are fifth-degree droids.
+### SOCIETY AND CULTURE
+Their home planet Duro is primarily uninhabited due to
+massive pollution on the world over time. Instead, it is
+covered with automated farms for food production.
+The duros live in twenty orbital space cities above the
+planet.
+The duros also established a vast, grand starship
+construction industry in the Duro system. The duros
+set up their government around a consortium of
+starship construction corporations, with all important
+political decisions made by the stockholders of the
+corporations. This meant that any duros that held
+stock in a company could participate in the
+administration of the system.
+With their strong memories, some duros also choose
+to become extraordinary storytellers, renowned
+galaxy-wide for their ability to learn a wide range of
+narratives by heart, and perform them all with
+stunning accuracy.
 
 ### NAMES
-Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation. Occasionally, noteworthy droids will earn monikers based on their accomplishments.
-__Designations (Names).__ CO-34 (See-Oh Three Four), FX-9 (Effex), PK-4 (Pook), SAE-B13 (Sable)
+Duros names are generally melodic, with female
+names having softer intonations. Surnames are
+familial.
+Male Names. Cir, Fod, Mom, Rur, Zim
+Female Names. Chochi, Fumsu, Kaleshef, Raada
+Surnames. Dektuks, Jimoks, Silt, Tuzig, Zhoks

@@ -21,8 +21,7 @@ speak it.
 skinColor: Gray
 hairColor: Different shades of black, brown, and white in varying combinations
 eyeColor: Blue, green, yellow, golden, brown, or red
-distinctions: Tall, hair covered, retractable climbing
-claws, long life spans
+distinctions: Tall, hair covered, retractable climbing claws, long life spans
 homeworld: Kashyyyk
 language: Shyriiwook
 height:

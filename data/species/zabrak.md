@@ -3,18 +3,13 @@ name: ZABRAK
 source: phb
 speedColor: ''
 alignment: >-
-  Zabraks tend toward no particular
-alignment. The best and worst are found among them.
+  Zabraks tend toward no particular alignment. The best and worst are found among them.
 size: >-
-  Zabraks stand anywhere from 5 to 7 feet tall
-and weigh up to 300 lbs. Regardless of your position in
-that range, your size is Medium.
+  Zabraks stand anywhere from 5 to 7 feet tall and weigh up to 300 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Zabraks reach adulthood in their late teens and
-live less than a century.
+  Zabraks reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Zabraki.
+  You can speak, read, and write Galactic Basic and Zabraki.
 skinColor: Pale to dark brown, red, orange and yellow
 hairColor: Black, blonde, brown, red, or purple
 eyeColor: Yellow, green, orange, brown, blue, red, or purple
@@ -48,7 +43,7 @@ mechanics:
     speed: walk
     distance: 30
   - type: language
-    value: ['galactic_basic', 'zabraki']
+    value: [galactic_basic, zabraki]
 
 ---
 ### BIOLOGY AND APPEARANCE

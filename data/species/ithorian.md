@@ -3,24 +3,17 @@ name: ITHORIAN
 source: phb
 speedColor: ''
 alignment: >-
-  Ithorians tend toward the light side,
-though there are exceptions.
+  Ithorians tend toward the light side, though there are exceptions.
 size: >-
-  Shorter Ithorians stand around 6 feet while
-taller reach over 7 and a half. Regardless of your
-position in that range, your size is Medium.
+  Shorter Ithorians stand around 6 feet while taller reach over 7 and a half. Regardless of your position in that range, your size is Medium.
 age: >-
-  Ithorians reach adulthood in their late teens
-and live an average of 85 years.
+  Ithorians reach adulthood in their late teens and live an average of 85 years.
 languageColor: >-
-  You can speak, read, and write Ithorese.
-You can understand spoken and written Galactic Basic,
-but your vocal cords do not allow you to speak it
+  You can speak, read, and write Ithorese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it
 skinColor: Brown, dark red or green
 hairColor: Brown, gray, or white
 eyeColor: Black or blue
-distinctions: Curved neck, two mouths, aural flaps,
-locomotion tubes, throat sack
+distinctions: Curved neck, two mouths, aural flaps, locomotion tubes, throat sack
 homeworld: Ithor
 language: Ithorese
 height:

@@ -3,26 +3,17 @@ name: GAMORREAN
 source: phb
 speedColor: ''
 alignment: >-
-  Gamorrean culture causes them to tend
-toward chaos, though there are exceptions.
+  Gamorrean culture causes them to tend toward chaos, though there are exceptions.
 size: >-
-  Gamorreans typically stand between 5 and 6
-feet tall and weigh up to 200 lbs. Regardless of your
-position in that range, your size is Medium.
+  Gamorreans typically stand between 5 and 6 feet tall and weigh up to 200 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Gamorreans reach adulthood in their early
-teens and live no more than 70 years.
+  Gamorreans reach adulthood in their early teens and live no more than 70 years.
 languageColor: >-
-  You can speak, read, and write
-Gamorrese. You can understand spoken and written
-Galactic Basic, but your vocal cords do not allow you to
-speak it. Gamorrese is characterized by its grunts and
-squeals, and its writing is a crude, pictographic style.
+  You can speak, read, and write Gamorrese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Gamorrese is characterized by its grunts and squeals, and its writing is a crude, pictographic style.
 skinColor: Black, brown, green, pink, or yellow
 hairColor: None
 eyeColor: Blue, black, brown, or gold
-distinctions: Porcine humanoids with tusks and
-horns
+distinctions: Porcine humanoids with tusks and horns
 homeworld: Gamorr
 language: Gamorrese
 height:
@@ -35,11 +26,21 @@ weight:
   mod: x(2d6) lb. 
 cSize: medium
 mechanics:
+  - type: asi
+    amount: 2
+    ability: str
+  - type: asi
+    amount: 1
+    ability: con
+  - type: hp
+    bonus:
+      type: level
+      multiplier: 1
   - type: speed
     speed: walk
     distance: 30
   - type: language
-    value: ['gamorrese']
+    value: [gamorrese]
 
 ---
 ### BIOLOGY AND APPEARANCE

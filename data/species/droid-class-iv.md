@@ -62,7 +62,9 @@ mechanics:
     speed: walk
     distance: 30
   - type: language
-    value: [galactic_basic, one_of_your_choice]
+    value: [galactic_basic]
+  - type: language-choice
+    options: true
 ---
 
 ### APPEARANCE

@@ -6,17 +6,11 @@ alignment: >-
   Gungans tend toward the light side,
 though there are exceptions.
 size: >-
-  Gungans typically stand 6 to 7 feet tall and
-weigh about 170 lbs. Regardless of your position in that
-range, your size is Medium.
+  Gungans typically stand 6 to 7 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Gungans reach adulthood in their early teens
-and live about 70 years.
+  Gungans reach adulthood in their early teens and live about 70 years.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Gungan. When speaking Galactic Basic, you
-often have trouble with word tenses and innitives;
-this usually has a comical effect
+  You can speak, read, and write Galactic Basic and Gungan. When speaking Galactic Basic, you often have trouble with word tenses and innitives; this usually has a comical effect
 skinColor: Blue, brown, or green
 hairColor: None
 eyeColor: Light colors

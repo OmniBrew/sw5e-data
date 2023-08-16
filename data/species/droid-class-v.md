@@ -30,7 +30,8 @@ mechanics:
     amount: 2
     ability: str
   - type: asi-choice
-    options: dex, con
+    options: true
+    limits: [dex, con]
     total: 1
     selections: 1
     max: 1

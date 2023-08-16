@@ -1,5 +1,5 @@
 ---
-name: SITH
+name: SITH PUREBLOOD
 source: phb
 speedColor: ''
 alignment: >-

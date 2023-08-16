@@ -3,20 +3,14 @@ name: EWOK
 source: phb
 speedColor: ''
 alignment: >-
-  Ewoks are inherently accepting, albeit
-naive, and tend toward the light side, though there are
-exceptions.
+  Ewoks are inherently accepting, albeit naive, and tend toward the light side, though there are exceptions.
 size: >-
-  Ewoks stand between 3 and 4 feet tall and
-weigh about 50 lbs. Regardless of your position in that
-range, your size is Small.
+  Ewoks stand between 3 and 4 feet tall and weigh about 50 lbs. Regardless of your position in that range, your size is Small.
 age: >-
   Ewoks reach adulthood in their early teens and
 live about 50 years.
 languageColor: >-
-  You can speak, read, and write Ewokese.
-You can understand spoken and written Galactic Basic,
-but your vocal cords do not allow you to speak it.
+  You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 skinColor: Brown
 hairColor: Shades of white, brown, red, and black
 eyeColor: Black
@@ -37,7 +31,7 @@ mechanics:
     speed: walk
     distance: 25
   - type: language
-    value: ['ewokese']
+    value: [ewokese]
 
 ---
 ### BIOLOGY AND APPEARANCE

@@ -1,5 +1,5 @@
 ---
-name: MON
+name: MON CALAMARI
 source: phb
 speedColor: ''
 alignment: >-

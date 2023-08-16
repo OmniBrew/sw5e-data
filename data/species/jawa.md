@@ -3,31 +3,17 @@ name: JAWA
 source: phb
 speedColor: ''
 alignment: >-
-  Jawas tendency to steal and swindle
-causes them to tend towards the dark side, though
-there are exceptions.
+  Jawas tendency to steal and swindle causes them to tend towards the dark side, though there are exceptions.
 size: >-
-  Jawas stand around 3 to 4 feet tall and weigh
-about 40 lbs. Regardless of your position in that range,
-your size is Small.
+  Jawas stand around 3 to 4 feet tall and weigh about 40 lbs. Regardless of your position in that range, your size is Small.
 age: >-
-  Jawas are considered adults when they make
-their first sale and live less than a century.
+  Jawas are considered adults when they make their first sale and live less than a century.
 languageColor: >-
-  You can speak, read, and write Jawaese
-(and the Jawa Trade Language). You can understand
-spoken and written Galactic Basic, but your vocal cords
-do not allow you to speak it. Jawaese blends quickly
-spoken, semi-meaningless syllables with scents to be
-understood. To more easily bargain and trade with
-other species, they rely on a simplified variant called
-the Jawa Trade language which removes the use of
-scent.
+  You can speak, read, and write Jawaese (and the Jawa Trade Language). You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Jawaese blends quickly spoken, semi-meaningless syllables with scents to be understood. To more easily bargain and trade with other species, they rely on a simplified variant called the Jawa Trade language which removes the use of scent.
 skinColor: Black
 hairColor: Black
 eyeColor: Yellow
-distinctions: Diminutive stature, mechanical aptitude,
-thieving nature
+distinctions: Diminutive stature, mechanical aptitude, thieving nature
 homeworld: Tatooine
 language: Jawaese
 height:

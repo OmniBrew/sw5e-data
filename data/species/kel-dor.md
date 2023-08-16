@@ -1,5 +1,5 @@
 ---
-name: KEL
+name: KEL DOR
 source: phb
 speedColor: ''
 alignment: >-
