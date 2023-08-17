@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 35
@@ -43,4 +43,12 @@ Ssi-ruuk are a predatory, warm-blooded saurian species gifted with ferocious str
 
 ### SOCIETY AND CULTURE
 The citizens of the Ssi-ruuvi Imperium follow a rigid caste system in which their station in society is determined by the color of the scales they are born with. Among these, the brown-scaled outcasts are regarded as the lowest of the low, and have no place in the Imperium beyond menial labor or death at birth. Deeply xenophobic and religious, the Ssi-ruuk view the rest of the galaxy as populated by lesser beings whose worlds rightfully belong to the Imperium. Despite their fierce nature, most ssi-ruuk are afraid of dying on a world unconsecrated by their priest caste, as they believe their souls would be doomed, so they harvest and “entech” the life-energy of other species to power droids that fight for them. The entechment process is torturous and painful to its victims, and is the main power source of Ssi-ruuvi technology.
+
+### NAMES
+Ssi-ruuvi names are difficult to pronounce and gender neutral. Many ssi-ruuk adopt nicknames to make the lives of their associates easier. Ssi-ruuk do not have surnames.
+
+__Names.__ Firwirrung, Ivpikkis, Sh’tk’ith, Th’twirirl, Yifaii
+
+
+
     

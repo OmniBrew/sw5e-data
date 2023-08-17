@@ -28,10 +28,17 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
     ability: cha
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +50,16 @@ The original appearance of the theelin is officially uncertain, as almost all kn
 
 ### SOCIETY AND CULTURE
 Theelin performers and artists created many of the galaxy’s greatest works of art. The Theelin Divas, an all-female religious order, are recognized by many scholars of music as the greatest singers in the galaxy. Because of the rarity of the theelin, many female theelin and part-theelin are named “Diva” at birth, in hopes that they will develop the musical talent necessary to continue the traditions of the Diva order.
+
+### NAMES
+Theelin use names similar to those in their community, typically human-similar names with exotic tinges.
+
+__Male Names.__ Dhess, Gooti, J nsone, Qylett
+
+__Female Names.__ F niss, Diva, Prystill, Saqua
+
+__Surnames.__ Joolie, Masozi, Oasay, Rellik
+
+
+
     

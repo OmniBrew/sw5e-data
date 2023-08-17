@@ -28,10 +28,12 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+    ability: wis
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +45,14 @@ Gotals possess cranial horns as receptors to sense electromagnetism and other en
 
 ### SOCIETY AND CULTURE
 Since their natural empathy makes them instantly sensitive to the feelings of others, Gotals have little use for government or laws on their homeworld, resulting in problems when dealing with other societies. No central authority figure can speak for Antar 4 as a whole in a crisis, and no organized Gotal military or police force can act on their behalf. Other species respect the Gotals for their discretion and restraint, but some individuals fear interacting with the horned beings for fear of having their emotional state revealed to others.
+
+### NAMES
+Gotal names are quite guttural, though there are also many harsher tones within their names. Gotal names do not vary significantly based on gender, and surnames are familial.
+
+__First Names.__ Thon, Fern, Fuu’rash, Jir, Vluphol
+
+__Surnames.__ Gratlul, Klux, Vathon, Zilat, Krigh, Rahxem
+
+
+
     

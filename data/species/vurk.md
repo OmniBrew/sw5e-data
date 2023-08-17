@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 35
@@ -45,4 +45,16 @@ Vurks are the predominant sentient species of the planet Sembla. They are tall, 
 Young Vurk males are married off by their parents; those who failed to marry before reaching adulthood remain bachelors for the rest of their lives. Because their way of living resulted in virtually no sizable permanent settlement whatsoever, Vurks were generally considered primitive by the rest of the galaxy; however, that was not true. They are very intelligent and believe in a highly developed philosophical tradition that emphasizes personal integrity and individual freedom and encourage personal honesty. Their compassionate and calm manner made them better than average diplomats.
 
 Vurks are very family-oriented. It is common for multiple generations to remain in the same location as a single household, with the eldest family member being the patriarch or matriarch and making the decision for the entire family.
+
+### NAMES
+Vurk names are traditionally two to three syllables. Female names typically end with a vowel, while male names vary. Surnames are familial.
+
+__Male Names.__ Coleman, Jadran, Milanko, Zlatko
+
+__Female Names.__ Elka, Iryna, Miglena, Tanya, Verka
+
+__Surnames.__ Cheevochik, Provric, Trebor, Vorgecz
+
+
+
     

@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +37,16 @@ Pantorans are a sentient species native to Pantora, a moon orbiting the planet O
 
 ### SOCIETY AND CULTURE
 Pantoran society developed on Pantora, a world located in a region flush with slavers and spice merchants. Constant run-ins with these types led the pantorans to become fiercely independent and proud. While the pantoran society is democratic, the feudal traditions of marking their foreheads, and cheeks with yellow markings to symbolize lineage persists into the common era. These traditions spurred a cultural interest in genealogy and history, and many pantorans cherish relics from the past such as jewelry which connect them to their noble ancestors or helmets that belonged to great heroes of a bygone age. The old nation states of Pantora are unified under a democratic planetary government, the politics of which are considered an art form. Governed by the Pantoran Assembly, the elected body is led by a Speaker, who balance the power of the chief executive officer, known as the Chairman.
+
+### NAMES
+Pantoran use sophisticated names with numerous vowels, though often sound similar human names.
+
+__Male Names.__ Charl, Ikurrece, Maatsu, Pulengo
+
+__Female Names.__ Freyu, Jicelli, Nandia, Suya
+
+__Surnames.__ Ipujarero, Molidias, Tuteru, Vagana
+
+
+
     

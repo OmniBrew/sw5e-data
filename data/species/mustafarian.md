@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +39,16 @@ Mustafarians are an insectoid species of sentients native to the volcanic planet
 Mustafarians evolved from arthropods living in the slightly cooler hollows within dormant volcanoes on the surface of Mustafar. As a result of such close living, mustafarian culture is isolationist by nature, though they tolerate trade with other systems. Mustafar hosts scarce minerals and rare metals, making mustafarians an invaluable trade partner.
 
 Native mustafarians rarely take sides when galactic conflicts rage, instead preferring to keep to themselves and control their own planet. They are daunting enemies when provoked, however.
+
+### NAMES
+Mustafarian names are often inspired by displays of competency or bravery, such as recovering large quantities of rare minerals, or successfully taming a lava flea. Their surnames are familial.
+
+__Male Names.__ Aumstrogh, Chivos, Ikt, Ulon
+
+__Female Names.__ Altoa, Hailith, Saonji, Yura
+
+__Surnames.__ Fal’co, Glost, Mensix, Nek’dem
+
+
+
     

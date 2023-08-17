@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 25
@@ -43,4 +43,12 @@ Ugors are sentient, unicellular protozoans. Considered exotic for being one of t
 
 ### SOCIETY AND CULTURE
 Ugor society revolves around trading and scavenging; they are famed for providing equipment to nascent civilizations and for salvaging wreckage from failed ones. The beings are supremely adaptable and astutely able to get what they want from others. Ugor business deals are extremely complex, incorporating opaque knots of loans, interest, and payment plans. Ugors have an intense love of trash, which they base their religions off, and excel at those skills that are useful in their pursuit of rubbish collection: a member of the species’ education emphasizes skills related to scavenging and starship operation (although members of the species rarely became more than passable pilots).
+
+### NAMES
+Ugor names typically consisted of two parts, with no notable difference between the genders. Ugor do not use surnames.
+
+__Names.__ ArrGack, GrrKack, SplrMuck
+
+
+
     

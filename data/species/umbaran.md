@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +39,16 @@ Umbarans, called the “Shadow People” by some, are a near-human species chara
 Umbaran society is strictly divided into a leveled caste system, with most Umbarans constantly scheming to improve their social rank, using tactics such as blackmail, subterfuege, and even assassination if necessary. Only those within the ten highest caste tiers were given opportunities to leave their homeworld. Because of the cutthroat machinations required to get there, Umbarans in the wider galaxy are known as skilled, ruthless politicians. This reputation is enhanced by the Umbarans’ talents for reading and influencing the emotions of others.
 
 Umbara developed its own technological advances separate from galactic society, and possessed technology that was in many fields far more advanced than the galactic standard.
+
+### NAMES
+Umbaran names are typically no more than one or two syllables. Surnames are familial.
+
+__Male Names.__ Mee, Pir, Nyss, Moshenu
+
+__Female Names.__ Sly, Syll, Myn, Sata
+
+__Surnames.__ Deechi, Moore, Phobi, Nenn
+
+
+
     

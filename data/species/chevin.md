@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,14 @@ Chevin have long snouts which hang down nearly to their ankles. Combined with th
 Chevin live in small, mobile communities, with homes mounted on great wheeled carts. Even after they gained access to galactic technology, they continued to live as nomads (though more affluent Chevin mounted their lodges on large repulsorlift vehicles instead.) Their Chev slaves are usually forced to follow on foot. Nomadic groups of Chevin keep in touch via comlinks, and often converge on a single location to deal with danger.
 
 The only Chevin settlements that stay in place for more than one standard month are the Government Villages, where Chevin dictators live with their hand-picked advisors. Even these settlements are movable when necessary. Each of the roughly two dozen Government Villages rules a Chevin nation.
+
+### NAMES
+Chevin names do not vary significantly based on gender. Surnames are based on community.
+
+__First Names.__ Buula, Ephant, Perre, Phylus, Reseros
+
+__Surnames.__ Meh, Mon, Nen, Needmo, Phrusaani
+
+
+
     

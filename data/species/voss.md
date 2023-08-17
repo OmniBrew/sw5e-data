@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Voss are humanoid sentients with a high rate of Force-sensitivity who display pr
 
 ### SOCIETY AND CULTURE
 The Voss species resides in the isolated mountain-top city of Voss-Ka and is vastly outnumbered on their homeworld by its other native sentient species, the Gormak, who are extremely hostile toward them and from whom they arose. Most Voss live peacefully in Voss-Ka, caring for their families, cultivating the wild plants and maintaining equipment for the Voss commandos in the war against the Gormak, although some Voss do live outside the capital city, such as the Voss Mystics who reside in the Shrine of Healing. The Voss are great lovers of art, and their architecture features a distinctive artistic style. The entire Voss society is guided by the Force visions of Voss Mystics, which are considered infallible without exception.
+
+### NAMES
+All Voss have two short names, connected by a hyphen, with the family name being the second one.
+
+__Male Names.__ Char, Edan, Fadith, Nodin, Orin
+
+__Female Names.__ Amin, Magra, Tala, Weylin, Yana
+
+__Surnames.__ -Ko, -La, -Po, -Rae, -Va
+
+
+
     

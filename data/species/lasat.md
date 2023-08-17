@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
     ability: cha
@@ -45,4 +45,16 @@ A humanoid sentient species, Lasats are notable for their impressive height, str
 Lasat society is held together by a long-standing oral tradition, featuring clever and stealthy heroes. Within the species, those with fighting skills are highly respected, often being members of the Lasan High Honor Guard, a group of highly trained, highly intelligent warriors sworn to protect their homeworld of Lira San. Bo-rifles are a long-standing tradition in Lasat culture, used exclusively by the Honor Guard of Lasan. The warrior way of the Lasat is the Boosahn Keeraw. When a Lasat is bested by a superior opponent in combat, they would give them their weapon.
 
 Facial hair is an important status symbol in Lasat culture. Those with green eyes and prominent purple stripes are considered to be attractive by others of their species. Juvenile Lasat are noted to climb tree branches.
+
+### NAMES
+Lasat names tend to be melodic, with the occasionally harsh tone sprinkled in. Surnames are born by communities within Lasat culture rather than individual families.
+
+__Male Names.__ Brob, Drim, Krus, Parred, Volares
+
+__Female Names.__ Denazo, Gume, Hado, Zanisa
+
+__Surnames.__ Dragarr, Ellias, Krod, Roleb, Vuzan
+
+
+
     

@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ The average Chagrian stands taller than a Human. They are distinguished by two f
 
 ### SOCIETY AND CULTURE
 As a species, Chagrians are generally peaceful and law-abiding to the point of becoming stoic and obstinate. Many Chagrians are motivated only by basic desires such as sustenance, shelter, and healthcare. Chagrian government ensures that every citizen is cared and provided for, so the standard of living for the poorest Chagrian is high compared to the members of other species. Chagrians who expect violence often wear red.
+
+### NAMES
+Chagrian names have a very melodic tone. Male names are typically shorter than female names. Surnames are familial.
+
+__Male Names.__ Bom, Chen, Fiet, Nedd, Touk
+
+__Female Names.__ Chavik, Dabai, Fisil, Oolya, Tinto
+
+__Surnames.__ Kassin, Molya, Nigna, Onirali, Treen
+
+
+
     

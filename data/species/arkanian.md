@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Arkanians are capable of seeing into the infrared spectrum, and their eyes are s
 Arkanians are notoriously arrogant, a trait which came from generations of producing some of the galaxy’s greatest advancements in genetics and technology. Their homeworld, Arkania, has vast quantities of precious gems; thus, the arkanians have never wanted for much in trade. This wealth went into funding their ambitious scientific projects, the most elaborate of which take generations to be completed.
 
 Many arkanians have come to see their species as the pinnacle of evolution, and amongst the most if not the most intelligent beings in the galaxy. Those species that are not already put off by their aloof nature often fear them, as tales of “mad scientists” and horrific experiments tend to surround them.
+
+### NAMES
+Arkanian names are simultaneously dignified and succinct. Surnames are familial.
+
+__Male Names.__ Arkoh, Hyrim, Zeta, Suprin
+
+__Female Names.__ Shenna, Elizie, Cratala, Hanna
+
+__Surnames.__ Focela, Barzane, Nasdra, Athacorr
+
+
+
     

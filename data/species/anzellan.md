@@ -28,10 +28,17 @@ cSize: Tiny
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+    ability: int
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 20
@@ -47,4 +54,16 @@ Due to their volcanic homeworld, anzellans are also adapted towards heat. This, 
 Anzella is a tropical planet covered in thousands of small volcanic islands. Many of these islands are developed as small villages, with the largest islands designed to accommodate larger species. Anzellan culture is generally based around tourism and crafting; in fact, anzellans are renowned craftsmen due to their discerning eyesight and ability to fit into small spaces.
 
 Anzellan government is generally casual. Each village has its own governing council of rotating members; these villages act independently from one another unless their decisions would affect more than a single island. In that case, all of the councils work together to come to a planet-wide decision.
+
+### NAMES
+Anzellan names are rarely longer than two syllables, with a bouncy intonation to them. Their surnames are familial.
+
+__Male Names.__ Babu, Gridel, Moru, Rano, Yodel
+
+__Female Names.__ Dibi, Fing, Nooni, Teena, Zazi
+
+__Surnames.__ E’ayoo, Frik, Meer, Tanni, Vrut
+
+
+
     

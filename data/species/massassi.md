@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Unknown
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +37,14 @@ The warrior caste of the sith purebloods, the massassi have genetically turned i
 
 ### SOCIETY AND CULTURE
 The massassi are fearsome, ruthless, and efficient soldiers. As with the sith, war and violence are just as much a part of the natural order of life as peace or serenity for the massassi. They are not only fearsome, but both loyal and formidable warriors that are dedicated to their sith masters. Though they engage in supposedly primitive practices such as sacrifice and hold a strong caste system, their civilization is quite sophisticated. In addition to the focus on war and fighting, the massassi are also loyal and organized. Even though they are not extremely intelligent, they can be trained to carry out complex battle plans and maintain their equipment, starships, and weaponry.
+
+### NAMES
+Originating from the pureblood sith, massassi abominations follow many similiar naming conventions. Their names represent primitive virtues in the Sith tongue, and have no surname.
+
+Males __Names.__ Asha, Derriphan, H sk, Jen,
+
+__Female Names.__ Kintik, Midwan, Siqsa, Ty k
+
+
+
     

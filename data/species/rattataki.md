@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 35
@@ -45,4 +39,16 @@ The Rattataki are a near-human species characterized by their nimble movements, 
 While most other inhabitants of Rattatak came from the Unknown Regions, there are a significant number of off-worlder mercenaries who come to Rattatak from time to time, likely to view or participate in gladiatorial combat, only to be stranded there permanently. The remarkably harsh conditions on the planet nearly drove its population to extinction. For eons, the Rattataki constantly battled amongst themselves and their fellow inhabitants (represented primarily by Humans, Zabraks, Siniteens, Vollick, and Weequay) over the planet’s limited resources. Despite being nearly completely isolated from the outside galaxy, the Rattataki displayed remarkable initiative and continually created new ways to kill each other.
 
 Rattataki culture is bloody and unforgiving. Punishment for even the smallest crimes is unnecessarily harsh, which does little to quell that behavior. In fact, Rattataki who are known to commit crimes without being caught are celebrated.
+
+### NAMES
+Rattataki names are harsh sounding and short. Surnames are familial, though many Rattataki abandon them in favor of self-aggrandizing titles.
+
+__Male Names.__ Aidus, Charnagus, Karok, Veran
+
+__Female Names.__ Amaran, Kassien, Silas, Sraja, Vol
+
+__Surnames.__ Anjek, Danvik, Degger, Kolla, Venkorr
+
+
+
     

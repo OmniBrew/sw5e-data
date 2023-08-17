@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +37,14 @@ Tiss’shar are bipedal therapods descended from predatory reptilians native to 
 
 ### SOCIETY AND CULTURE
 Tiss’shar social structure is inextricably tied to business. Nearly all tiss’shar families have a corporation as a patron, which provides the family with its material needs in exchange for the dedicated labor of its members. Patron corporations regularly supply food, housing, health care, education, and security services. The predatory instincts of the tiss’shar, redirected into the realm of business, often serve them well. While no stereotype fully defines the species, they often were considered aggressive, resourceful, calculating businessbeings. These traits also made them excellent assassins and gunfighters, renowned galaxywide for their efficiency. Most tiss’shar had an appreciation for the art of the deal, and conducted their business legitimately; even those who chose the path of the assassin remembered that they were conducting business and respected their contracts.
+
+### NAMES
+Tiss’shar names are segmented, with males receiving an additional “tail name.” Surnames always come last.
+
+__Male Names.__ Si-Di-Ri, Tra-Skan-Lor, Geor-Dan-Thi
+
+__Female Names.__ Von-Ra, Ura-Vaza, Shu-Xangiz, Sav-Lork
+
+
+
     

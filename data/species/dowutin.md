@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,12 @@ The Dowutin species evolved from a type of omnivorous herd animal on the planet 
 
 ### SOCIETY AND CULTURE
 Dowutin are a very straightforward people, and their society is among the most simple in the galaxy. They have few cities, governments, or even organized social structures, as they often survive entirely on their own. Children are left behind by their families at a very young age and must learn to fend for themselves. Because of this, those who quickly learned hunting skills survived. Their size and strength made them prized as hired muscle, but most Dowutins’ pride dissuaded them from such work, as they viewed other species as weak, absolutely refusing to take orders from anyone who is physically weaker than them. As such, those who employ Dowutin will command them in more subtle ways, typically phrasing their commands as suggestions or advice. Strength in the literal sense is very important to them; it is a measure of worth and earns them respect.
+
+### NAMES
+Dowutin names are harsh and guttural, and roll off the tongue like a rock slide. Dowutin do not use surnames.
+
+__First Names.__ Dursuc, Grimgorl, Maucro, Tornak
+
+
+
     

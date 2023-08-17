@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
     ability: cha
@@ -45,4 +45,16 @@ Muuns are tall, gaunt humanoids with thin bodies, long limbs, and elongated hair
 Muuns believe in tradition, with an established culture based on intelligence and merit. A class-based hierarchy, Muuns consider the the intellectual pursuits   financiers, lawyers, engineers, diplomats, scientists   as the highest levels of society. Muun culture, and life, revolves around economics and finance. Intense competition among coworkers encourages economic growth, increased productivity, and superior work ethic. Muuns also have a fundamental respect for justice, though they typically adhere to the letter of the law rather than the spirit.
 
 Since Muuns tend to shy away from fighting and physical pursuits, Muun society relies on alternative means for their planet’s protection, using vast financial resources to purchase massive floating defense platforms to defend their civilization from attack.
+
+### NAMES
+Muun names are typically clear and concise, rarely containing more than two syllables, with familial surnames.
+
+__Male Names.__ Clu, Hego, Nix, Pors, San
+
+__Female Names.__ Dax, Efra, Gil, Rel, Ter
+
+__Surnames.__ Card, Damask, Hill, Lesser, Tonith
+
+
+
     

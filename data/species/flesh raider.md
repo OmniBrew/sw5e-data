@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -49,4 +43,14 @@ Unlike contemporary rakata, flesh raiders did not lose their ability to tap into
 Flesh raiders are known to form small clan structures, with a war boss in charge of the clan. Those flesh raiders who are born Force-sensitive can be found imitating a temple structure, with a powerful Force-sensitive, usually from another species, leading them.
 
 Flesh raiders still speak the rakatan language, though it has developed into a cruder variant.
+
+### NAMES
+Flesh raider names tend to be short and concise, embodying strength and virility. Flesh raider names make no distinction between male and female names. Surnames are clan-based, though they are rarely used.
+
+__First Names.__ Cha’nagh, Fashk, Gorshh, Keshk, Mar’govrok
+
+__Surnames.__ Ban, Fel, Kuir, Penk, Teeshk
+
+
+
     

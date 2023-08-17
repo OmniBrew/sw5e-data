@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,10 @@ Rishii are a sentient, avian species of carnivores which possess two legs ending
 
 ### SOCIETY AND CULTURE
 Native to the planet Rishi, the Rishii live in loose primitive tribes, known as nests, clustered high upon the planet’s mountains, away from the hot and humid lowland swamps. Each nest consists of a small number of family units led by a chieftain, with neighbouring nests respecting each others territories and living in harmony. This peaceful and accepting attitude goes beyond just other Rishii and was extended to all neighbours of a nest, including the many other species who colonise the lowlands of Rishi. Due to the unfavorable conditions found in the lowlands, the native avians do not understand the off-worlders’ choice to live there, but were not opposed to their presence.
+
+### NAMES
+As with much of their speech, Rishii names include clicks, trills, and whistles to the point that other peoples have a difficult time pronouncing them. Typically, a name has two to four syllables with the sounds acting as connectors. Rishii names do not vary based on gender. Rishii are responsive to nicknames given by outsiders.
+
+
+
     

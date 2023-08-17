@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
     ability: cha
@@ -49,4 +49,14 @@ Despite the thick skin Dashade possess, they have the uncanny ability to control
 Dashade’s brute strength and Force resistance makes them prime candidates for mercenary and assassin work.
 
 Dashade society is clan-based. Theses clan’s often feud over honor and reputation, a trait that the dashade as a species exhibit.
+
+### NAMES
+Many dashade names are short, dominated by harsher sounds, while others are longer and seperated by an apostrophe. Dashade names are gender neutral. Surnames are clan-based, but most dashade don’t share or use them.
+
+__First Names.__ Anarin, Rak’vhul, Set, Vattix, Vos
+
+__Surnames.__ Ferrex, Gusar, Kruyel, Orath, Xeng, Zath
+
+
+
     

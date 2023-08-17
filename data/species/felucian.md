@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Felucians are mysterious sentient beings native to the vast fungal swamps and ju
 The Felucians are an unusual, amphibious species. They are highly adapted to surviving the wilds of their home planet, and fade easily into its confusing mass of plant life. They are equally at home on land or in the water, and they traverse the swamps with ease.
 
 All Felucians are part of a single, planetwide tribe that is broken down into smaller villages and communities, each one led by shamans and chieftains. These shamans are very strong in the Force, using it to their own ends with incredible skill.
+
+### NAMES
+Felucian names are usually two syllables and full of hard consonants. Surnames are a combination of tribe lineage.
+
+__Male Names.__ Gokkuul, Kargrek, Hagark, Ruggorn
+
+__Female Names.__ Lakko, Taarell, Duuna, Frula
+
+__Surnames.__ s’Gokuul, d’Lakko, s’Kargrek, d’Frula
+
+
+
     

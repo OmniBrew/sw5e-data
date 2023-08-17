@@ -27,11 +27,14 @@ weight:
 cSize: Medium
 mechanics:
   - type: asi
-    amount: 2
+    amount: 1
+    ability: str
+  - type: asi
+    amount: 1
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +46,12 @@ Tognath are a sentient species native to Yar Togna. Yar Togna is a foul-smelling
 
 ### SOCIETY AND CULTURE
 Tognath live in stilted homes with lava channels near the main mountain range of Yar Togna, where they have access to mountain springwater. Most of tognath society believes that mate selection and egg laying should occur late in life, after having dedicated most of one’s prime years to a career. This means that parents are generally retired and dote on their children relentlessly, often homeschooling them after their transformation.
+
+### NAMES
+Tognath use generally simple, nongendered names, without bothering with surnames.
+
+__First Names.__ Darjia, Essec, Irion, Tathak
+
+
+
     

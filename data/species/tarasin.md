@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,12 @@ Tarasins are tall reptilians covered in translucent scales that allows the speci
 
 ### SOCIETY AND CULTURE
 Tarasins live in a tribal system in the jungle underbrush of Cularin, grouping together in clans called irstat. The tarasin believe they have a symbiotic relationship with Cularin, and their religion is based around the appreciation of the natural world. This closeness with their homeworld is what makes the tarasin reluctant to leave it for an extended time. The tarasin have a strong connection with the Force, and their spiritual leaders are often able to call upon the Force in small ways. The tarasin believe that the ch’hala tree is sacred. This may have been influenced by the trees having a similar ability to shift their colors as the tarasin, but it is also the most unique tree on Cularin.
+
+### NAMES
+Tarasin names are generally very soft and melodic. Names are agendered, and surnames are not used.
+
+__Names.__ Feliosa, Misona, Nissira, Vylana, Ziransa
+
+
+
     

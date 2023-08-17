@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Echani are characterized by their white skin, hair, and eyes, and their remarkab
 A matriarchal, caste-based society originating from the Inner Rim world of Eshan, the echani spread to encompass a confederacy of six worlds including Bengali and Thyrsus, known as the Six Sisters, governed by the all-female Echani Command.
 
 Echani generals are sometimes seen by others as having the ability to predict their opponent’s next move. This is no biologicial trait inherent to the species, but rather stems from the fact that combat is so ingrained into every level of echani culture; the echani hold to the idea that combat is the truest form of communication, and to know someone fully, you must fight them. While their combat rituals require complete freedom of movement and unarmed martial arts, in warfare, they tend towards light armor and melee weapons, and are considered excellent craftsmen of such.
+
+### NAMES
+Echani names tend to lack hard consonants, but are otherwise as variable as human ones. Echani surnames are tied directly to their place in the caste system.
+
+__Male Names.__ Caelian, Inarin, Losor, Uelis, Yusanis
+
+__Female Names.__ Astri, Brianna, Isena, Raskta, Senriel
+
+__Surnames.__ Authal, Elysi, Fenni, Kinro, Lsu
+
+
+
     

@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 25
@@ -45,4 +45,16 @@ Lannik are short, bipedal humanoids with droopy, long ears. Males and females ar
 The Lannik culture is apparently war loving, and Lanniks feel a great respect for warriors. At the same time, though, they follow a strict centuries-old code of honour. Lannik soldiers have the custom of tying all their hair in a single topknot over their head. Their species is one of fierce warriors, whose abilities have developed fighting against terrible predators and other Lanniks in a long history of wars. Although many regard the Lannik as hotheaded and temperamental, they are quite fearless and clear-headed even in combat, giving them the ability to think their way out of a dangerous situation.
 
 The Lannik do not show their thoughts through their facial expressions, and seem always angry to other species. They are also very stubborn, and are not likely to change career once they chose it. Most males - and many females - serve in the planetary militia, celebrating the species’ past as a warrior species. Some take on off-world mercenary work.
+
+### NAMES
+Lannik names are generally short. Lanniks don’t often give out their surnames.
+
+__Male Names.__ Minch, Oteg, Vandar, Yaddle, Yoda
+
+__Female Names.__ Giro, Lina, Penny, Vona, Zeya
+
+__Surnames.__ Bek, Kaz, Mon, Var, Zin
+
+
+
     

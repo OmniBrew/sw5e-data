@@ -29,9 +29,16 @@ mechanics:
   - type: asi
     amount: 2
     ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 20
@@ -47,4 +54,16 @@ Zilkin also have bulbous chins which inflate with excess air while they are spea
 Their short lifespans cause zilkins to be one of the fastest learners in the galaxy, capable of learning in weeks what takes other species months. Zilkins live in large communities woven into the thick clumps of trees on Zilk. Whenever a dispute occurs, zilkins turn to a ritualistic form of debate where everyone affected voices their opinion on the matter. Whoever croaks their views the loudest and most confidently, wins. As a result, zilkins tend to be quite opinionated.
 
 For a long time, the zilkins remained unknown to the galaxy at large, simply because few individuals had any interest in visiting Zilk, let alone exploring its notoriously impenetrable jungles. Having lived in isolation for so many generations, and often mocked for their size, zilkins tend to exhibit cantankerous behavior toward other species. Despite this, a number of zilkins leave their homeworld and take an active role in galactic politics, gaining the planet representation in the Senate.
+
+### NAMES
+Zilkin names are usually clear and concise. Surnames are familial.
+
+__Male Names.__ Belip, Jegg, Meebur, Ponix
+
+__Female Names.__ Fula, Nili, Sia, Vo
+
+__Surnames.__ Bestrein, Cruu, Odebre, Telvet
+
+
+
     

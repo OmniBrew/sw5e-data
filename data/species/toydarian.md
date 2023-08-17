@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 25
@@ -45,4 +45,16 @@ A mammalian species of winged, stout bodied humanoids, the Toydarians have stubb
 Despite being ruled by the Hutts, the Toydarian people are able to govern themselves free of major outside intervention through the establishment of a feudal monarchy. A ruling king sits on the planet’s throne, allowing vassals to form allegiances and have minor disputes to solve their own problems. The king makes sure to keep his vassals happy and to have their allegiance, but will occasionally encourage infighting to reveal the true character of the vassals and weed out treachery.
 
 Toydarians are known as shrewd businessmen.
+
+### NAMES
+Toydarian names are fairly simple and guttural, but a few harsher elements can be found here and there. Male names are generally shorter than female names. Female names always end in a vowel.
+
+__Male Names.__ Dod, Nesteddo, Tul, Zloomroo
+
+__Female Names.__ Fefiffe, Lenlibo, Nugni, Zoldibu
+
+__Surnames.__ Daab, Faabb, Kepo, Mitra, Vulba
+
+
+
     

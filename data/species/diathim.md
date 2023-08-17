@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,14 @@ Diathim are a mysterious species of winged sentients famed for their radiance an
 The diathim give off an aura of kindness, and are consistently described as benevolent by spacers, causing tales of their rare appearances to morph over time into the grandiose mythology of the “Angels.” The diathim are reputed for their beauty, and the way in which they appear varies depending on the beholder. Diathim are fascinated by spacecraft, which often prompted them to mob any ships that found themselves in the vicinity of their homeworld Iego and its largest moon Millius Prime.
 
 Diathim have only commonly been seen gathering in flocks to welcome arriving ships, and knowledge of their habitat remains a mystery to outsiders. Although they have no apparent language of their own, they have readily adopted Galactic Basic, the common language of the galaxy.
+
+### NAMES
+Traditional diathim names are difficult to pronounce. When among other species, they tend to simply go by shortened nicknames for others to refer to them by.
+
+Birth __Names.__ Aiubhirr’merh, D’yz’xarh, Ihuithrhe, Vyxendel’ahitraxr
+
+Nicknames. Mirra, Diz, Huu, Vix
+
+
+
     

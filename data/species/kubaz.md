@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Kubaz are distinctive for their short, prehensile facial snouts which were used 
 
 ### SOCIETY AND CULTURE
 The Kubazi society is based on a clan structure which dwell in underground nests. Ruled by a queen, each clan takes the name of their queen they are descended from. Developing a non-verbal language of hand gestures which indicated their intentions, Kubaz are able to speak Galactic Basic, though with a strong nasally accent. When interacting with other species, some Kubaz will share certain hand signals with non-Kubaz in order to ease communications. Obsessed with tact and decorum, the Kubaz place a high emphasis on the family unit and proper courtesies, displaying truthfulness to a fault. Valuing art and literature with such vigor as to sometimes practice smuggling of great works, the Kubaz do not find such pursuits to be wrong or unlawful. Due to their diet on Kubindi, the Kubaz have poor relations with sentient insectile species.
+
+### NAMES
+Kubaz names are usually dominated by harsher sounds, but some names lean more melodic. Surnames are clan-based.
+
+__Male Names.__ Shaf, Rizor, Duldril, Kurn, Schnaldiz
+
+__Female Names.__ Zhanro, Dizi, Tavo, Agoz, Nuzrem
+
+__Surnames.__ Re, Eadzan, Hai, Khu’nar, Mairvuc, Va
+
+
+
     

@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ A sentient species, the pykes are humanoid, although slimmer and taller than mos
 
 ### SOCIETY AND CULTURE
 Pykes hail from Oba Diah, a terrestrial planet marked by obsidian cliffs. Visitors to Oba Diah view both the population and terrain as unwelcoming. The pyke homeworld serves as the headquarters of the Pyke Syndicate, a criminal dealership within the Spice Cartel that operates in the criminal underworld distributing spice, an illicit substance harvested by slaves in the spice mines of the planet Kessel. To deliver spice to their customers, such as crime families on Coruscant, the Pyke Syndicate relies on smugglers and freighter captains to complete the dangerous Kessel Run. The Pyke Syndicate almost completely controls the production of raw spice in the galaxy, while maintaining tentative alliances with other criminal organizations throughout the galaxy, such as the Black Sun and the Crimson Dawn.
+
+### NAMES
+Pyke names are often influenced by naming conventions of other species, with their rarely-used surnames being familial.
+
+__Male Names.__ Dor, Eife, Qalo, Thok, Zret
+
+__Female Names.__ Gali, Taela, Shethni, Vent, Zeeren
+
+__Surnames.__ Kemtol, Nek, Pyke, Safet, Welkor
+
+
+
     

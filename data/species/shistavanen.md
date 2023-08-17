@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Shistavanen have pronounced muzzles, sharp claws, long pointed teeth, and pointe
 As a species, the Shistavanen are isolationists. The species colonized all the unpopulated worlds in the Uvena system to prevent them from being settled by non-Shistavanen, and their restrictive trade laws (which are unapologetic in how they favor their own kind over off-world traders). Most of their society uses technology similar to the rest of the galaxy, though some parts of Uvena Prime use slightly less sophisticated technology.
 
 A minority of Shistavanen are more outgoing, and travel the galaxy’s hyperlanes. Even these Shistavanen usually remain by themselves or with other Shistavanen. Due to their natural predatory instincts, Shistavanen commonly find employment as scouts, mercenaries and bounty hunters. Many other species react badly to Shistavanen, since their isolationist culture makes them an unfamiliar sight, and their predatory appearance put other species on edge.
+
+### NAMES
+Shistavanen first names typically sound graceful, while their surnames are more gutteral. Surnames are familial.
+
+__Male Names.__ Bustuc, Hulvav, Kembol, Nemdav, Sirul
+
+__Female Names.__ Gaeft, Laer, Recloz, Shaalir, Thovnim
+
+__Surnames.__ Ghirat, Lakrevl, Meq, Nukroft, Rosk
+
+
+
     

@@ -28,7 +28,7 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
     ability: cha
@@ -45,4 +45,14 @@ Chadra-Fan are covered from head to foot in fur. Their species evolved from smal
 The society of Chadra-Fan is divided into a clan structure in which every member is responsible for parenting the clan’s children; a fact of life is that every household is open at any time. Leadership within the clan is a temporary role that is passed from one individual to another as the situation calls for a particular expertise. Children are the centerpiece of a Chadra-Fan community, and only leave when wed. However the new Chadra-Fan couple remain with the smaller clan so it was possible that a Chadra-Fan never leaves his or her home.
 
 Chadra-Fan left by themselves suffer depression, so they regularly seek the company of others; thus, Chadra-Fan are not very picky when it came to friends and prefer complete strangers to loneliness
+
+### NAMES
+Chadra-Fan names do not vary significantly based on sex. Surnames are clan based.
+
+__First Names.__ Dubi, Kattar, Naska, T’yabah, O’yasha
+
+__Surnames.__ Abalomm, Fandy, Nemm, Nuz, Yedit
+
+
+
     

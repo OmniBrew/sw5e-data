@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Draethos possess a limited telepathy, granting the ability to communicate with a
 
 ### SOCIETY AND CULTURE
 Partly due to their long lives, Draethos society was slow to evolve and relies heavily on tradition. The Draethos’ culture is warrior-based, and those living on the homeworld are expected to demonstrate their martial or hunting prowess. Life on Draethos is harsh, with arrogant aristocrats squabbling among one another for social standing and wealth. Warriors are perpetually in high demand as gladiators, mercenaries, hunters, and soldiers. Those who make a conscious decision to abandon the way of the warrior are exiled to seek a new life among aliens. Consequently, despite their reputation as fierce combatants, most Draethos encountered offworld are peaceful and intellectual.
+
+### NAMES
+Due to their lack of lips, Draethos names typically lack hard consonants. Surnames are familial.
+
+__Male Names.__ Odan, Gyeto, Hurl, Jan, Talon
+
+__Female Names.__ Gillen, Teria, Kat’h, Yul, Aswe
+
+__Surnames.__ Urr, Slyter, Qelu’tlapa, Ayahu, Jek
+
+
+
     

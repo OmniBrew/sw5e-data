@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Created by arkanian scientists from the DNA of the xexto species, the quermians 
 
 ### SOCIETY AND CULTURE
 Quermians are a gentle, unassuming people. They embrace reason, shun violence, and enjoy interacting with members of other species and cultures. A peaceful society developed on Quermia without arkanian interference, as the quermians evolved on their own in the absence of any predators or outside intervention. As a race they are dedicated to complex philosophical ideas, and many of the galaxy’s most prominent diplomats and thinkers are found among their ranks. While they have four arms and are capable of using both sets with ease, they prefer to keep the lower set hidden beneath their robes when dealing with offworlders.
+
+### NAMES
+Quermian names are usually one to three syllables long, featuring hard or soft consonants.
+
+__Male Names.__ Murk, Koa, Jedoo, Vinian
+
+__Female Names.__ Gouren, Kindee, Meroo, Kiaa
+
+__Surnames.__ Kreen, Lundi, Raelo, Bactra
+
+
+
     

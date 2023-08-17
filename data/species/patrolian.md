@@ -26,12 +26,6 @@ weight:
   mod: x1 lbs.
 cSize: Small
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 25
@@ -49,4 +43,14 @@ Patrolians are a notably innovative and resourceful species, and many of their n
 Unfortunately, patrolians tend to pursue these businesses in a shady manner, and most tend to operate such ventures in the criminal underworld, working as bounty hunters, thieves, fences, slicers and other such technically-demanding criminal roles.
 
 This inclination towards crime stems from their homeworld, which is perpetually stalled in a state of economic decay due to wartime. With the advent of multiple wars fought in the system, different armies continue to see the aquatic world as a strategic bulwark in the region. Because of this, patrolians have to find work not only off-world, but typically in fields not falling under governmental purview; unfortunately, criminal activities are the most common path.
+
+### NAMES
+Patrolian names are usually multisyllabic and sing-songy with lots of open vowels and few fricatives. Patrolians are not known to use family names or other surnames.
+
+__Male Names.__ Dalladu, Feddi, Nogagai, Teconica
+
+__Female Names.__ Kakeda, Machibido, Rinimma, Talla
+
+
+
     

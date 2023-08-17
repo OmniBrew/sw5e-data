@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Zeltrons are one of the few near-human species that differentiated from the base
 
 ### SOCIETY AND CULTURE
 Zeltron culture is highly influenced by sexuality and the pursuit of pleasure in general. Most of their art and literature is devoted to the subject, producing some of the raciest pieces in the galaxy. Zeltrons are known to dress in wildly colorful or revealing attire. It’s common to see Zeltrons wearing shockingly bright shades of neon colors in wildly designed bikinis, or nearly skin tight clothing of other sorts with bizarre color designs, patterns, and symbols.
+
+### NAMES
+Zeltron names often have an air of mystique to them, to evoke sensuality. For a Zeltron, a beautiful face is nothing without an equally beautiful name. It’s not uncommon for a Zeltron to forsake their familial surname in favor of a more attractive-sounding one.
+
+__Male Names.__ Marruc, Bahb, Rahulh, Demagol
+
+__Female Names.__ Lyshaa, Dani, Vianna, Chantique
+
+__Surnames.__ D’Pow, Blue, Duare, Sapphire
+
+
+
     

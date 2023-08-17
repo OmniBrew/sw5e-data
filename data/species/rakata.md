@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,12 @@ Long term abuse of the Force in their society, exacerbated by a plague, culled t
 Rakatan technology and structures hold the unique property of blending with the Force, creating powerful and long-lasting monuments that are almost impossibly to replicate. Rakatan society is devoted to conquering and enslaving those they deem weak. At the height of its power, the Rakatan Infinite Empire had conquered and enslaved dozens of worlds. They would strip entire planets of their resources and then terraform them to fit their own needs.
 
 After a plague ravaged their civilization and caused the fall of the Infinite Empire, rakata broke off into smaller tribes rather than a unified organization. Despite their newfound tribal nature, rakata retained their ability to quickly adapt to and appropriate technology.
+
+### NAMES
+Rakatan names do not distinguish by gender, and they do not use surnames.
+
+__Names.__ Ceh’let, Orsaa, Skal’nas, Soa, Tul’kar
+
+
+
     

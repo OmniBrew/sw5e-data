@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Neimoidians are distant genetic relatives of the duros and retain many similarit
 
 ### SOCIETY AND CULTURE
 Neimoidians spend their formative years as puny grubs in the communal hives of Neimoidia, until the age of seven standard years. They are knowingly neglected by being given limited amounts of food. This way, the weaker individuals are weeded out, while the most acquisitive grubs hoard more food than they can eat by themselves. Neimoidian education ensures the survival of the greediest. Neimoidians place tremendous value on wealth and material possessions, and would go to great lengths to gain money and power. This has resulted in a stereotype of neimoidians being greedy and cowardly. While not all neimoidians are easily intimidated, many prefer to avoid direct combat.
+
+### NAMES
+Neimoidian names are usually short and easy to pronounce, to make them more memorable to other species that approach them as consumers. Their surnames are familial.
+
+__Male Names.__ Lok, Gap, Krinit, Mar, Nute
+
+__Female Names.__ Bu, Fia, Feza, Vissi
+
+__Surnames.__ Dod, How, Kethe, Preelli, Tuuk
+
+
+
     

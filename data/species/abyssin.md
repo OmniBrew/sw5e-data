@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,12 @@ A distinctive trait of the abyssin is their ability to heal quickly; their fast 
 A primitive tribal society, the abyssin of Byss are known as violent and brutish, and their planet is avoided by most beings in the civilized galaxy. Unstable resources on Byss do not allow for mass population growth or for the stabilization of a central government, economy or trade system.
 
 Existing simply in nomadic tribes, abyssin groups can interact peacefully with one another, though only if both groups have plentiful water and food supplies. Otherwise, they began a ‘Blooding’, a brawl that ends only when one tribe’s warriors are all killed, captured, or incapacitated. Warriors who survive a Blooding are usually allowed to join the winning tribe once they finish their regeneration. This tradition led to some violent incidents when spacers tried to make first contact and trade with Abyssin tribes with scarce water resources, especially since the abyssin assumed the alien traders could regenerate as quickly as they did.
+
+### NAMES
+There does not appear to be any distinction between male and female names for abyssin. Abyssin don’t use surnames.
+
+__Names.__ Anami, Easym, Myo, Qawohl, Seh-run, Sidie
+
+
+
     

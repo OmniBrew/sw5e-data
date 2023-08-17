@@ -28,10 +28,12 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+    ability: wis
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +47,14 @@ Mikkians are a species of brightly colored humanoids. The mikkians’ most disti
 Mikkians place kinship and integrity above all. In fact, their honesty can come across as blunt or even rude to other sentients. Conversely, mikkians often have trouble adjusting to the more flexible views of other races. Their complex code of honor encompass all things in life, with a particular insistance on matters of warfare. Although they respect warrior traditions, the Mikkians nevertheless value discipline and honor over victory or physical might.
 
 Different religious traditions exist among the Mikkians, but belief in the Force plays a central role in all of them. In Mikkian society, their head-tendrils have important cultural significance, and as such tendril-reading is used by Mikkian mystics to predict their future. Every facet of the head-tendril contributes to that meaning.
+
+### NAMES
+Mikkian names are often short and disyllabic, with a melodic quality to them. Mikkians typically don’t use surnames, though some may adopt them.
+
+__Male Names.__ Cage, Fedlas, Mekko, Sakas
+
+__Female Names.__ Beyra, Fenvar, Tiplee, Zelna
+
+
+
     

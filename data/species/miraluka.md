@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
     ability: cha
@@ -47,4 +47,14 @@ Miraluka are a thoughtful, cautious, and deliberative species. They have little 
 Many Miraluka worship two gods, Ashla and Bogan, through the philosophy of the Greater Force. They do not believe in good or evil, but were taught to accept both life and death.
 
 Miraluka Force-sensitives are an order of their own called the Luka Sene. Academic in atmosphere and culture, the Luka Sene focus primarily on developing the sense-related powers of their members. However, unlike the Jedi, Sith and other traditions, the Luka Sene does not dictate a member’s personal life.
+
+### NAMES
+Miraluka names are generally two syllables. Miraluka don’t use surnames, as they believe they are one family.
+
+__Male Names.__ Aakih, Pafil, Rikhor, Vociif, Xuwuth
+
+__Female Names.__ Auchaod, Favom, Mucem, Wilierth
+
+
+
     

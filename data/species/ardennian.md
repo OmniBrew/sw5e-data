@@ -45,4 +45,16 @@ Ardennians are sentient humanoid simians hailing from the tropical paradise of A
 The Ardennian people themselves are a friendly communal species that are well known for welcoming visitors and inviting newcomers to traditional feasts and dances on the sandy beaches of Ardennia. Rural Ardiennan’s live in modern tree-villages in the thick, dim jungle canopy on the majority of the islands. Ground level accommodations are available for off world visitors even in the smaller villages. Most off-worlders stay in the large modern resort complexes which boast having miles of private beaches or in the modern cities. Several large cities exist, scattered around the world, which typically encompass an entire island or a series of smaller islands joined together.
 
 Ardennia’s distance from the main hyperlanes makes it one of the lesser-known vacation destinations, but it’s a popular one for those who don’t mind the extra travel time. Some affluent visitors prefer the solitude that Ardennia offers, and occasionally end up purchasing one of the smaller islands to build their own home. Ardennia is notable for having the most beach per square meter in the galaxy.
+
+### NAMES
+Ardennian’s names are typically concise and rarely more than two syllables, with a familal surname.
+
+__Male Names.__ Rio, Jakar, Hul, Lup, Quil, Jerno
+
+__Female Names.__ Rac, Bras, Nuc, Kua, Karta, Sanya
+
+__Surnames.__ Betal, Durant, Jabut, Karon, Rambuan
+
+
+
     

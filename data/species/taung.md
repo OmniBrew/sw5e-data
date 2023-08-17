@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,14 @@ Taung society is one steeped in war, and the taung are warriors above all else. 
 Despite their volatile nature, the taung are far from primitive, and maintain a high priority in procuring the latest technological advancements whenever possible.
 
 The Mandalorian armor that has become iconic throughout the galaxy originally began with the culture’s taung founders, with their unique helmets and war masks being forged in the image of the taung’s face, including slanted outer angles and a pointed chin. However, the armor is quite sparse among the taung as they believe that unarmed combat brings the highest honor.
+
+### NAMES
+Taung names reflect their practical nature, typically choosing names that correspond to traits they deem desirable. Their names are rarely gender specific and can apply to either male or female. Their surnames reflect that of the clan they hail from.
+
+__First Names.__ Adenn (merciless), Atin (stubborn), Kot (strength), Kotep (brave), Tor (justice), Verd (soldier)
+
+__Surnames.__ Cadera, Fett, Keldau, Lok, Ordo, Vizla
+
+
+
     

@@ -28,10 +28,12 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
     ability: cha
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 30
@@ -49,4 +51,16 @@ Not all clawdites use their shapeshifting abilities due to the pain the transfor
 On Zolan, clawdites are feared and shunned by the zolanders, who are a deeply religious people, believing that clawdites are impure and sinful. Zolanders force clawdites to live in slums scattered across the planet.
 
 Those clawdites who leave their homeworld tend to gravitate toward professions that celebrate their shapeshifting, such as smuggling, bounty hunting, or espionage.
+
+### NAMES
+Clawdite names often have a rolling or hissing quality to them. Surnames are familial, though clawdites rarely use them.
+
+__Male Names.__ Nuri, Pol, Renneyn, Rosat, Turman
+
+__Female Names.__ Bargu, Cato, Murna, Sora, Zam
+
+__Surnames.__ Durra, Noviee, Parasitti, Virten, Wesell
+
+
+
     

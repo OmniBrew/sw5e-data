@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 25
@@ -43,4 +43,14 @@ Xexto are spindly invertebrates with four arms with six fingers and two legs wit
 
 ### SOCIETY AND CULTURE
 Although the Old Republic had long since outlawed experimentation on sentient beings, unscrupulous arkanian geneticists continued to search for primitive sentients on distant planets as fodder for their experiments. One such group found the xexto’s forbears- a society of loosely organized hunter-gatherer tribes taking shelter in the trees of Troiken. Independently, they developed technologically advanced civilizations, and were on the verge of attaining interstellar travel when Republic scouts contacted them. Difficult terrain and dangerous predators found on their homeworld have led many Xexto to admire and encourage risk-taking. Despite their thrillseeking nature and willingness to take risks, xexto are generally well mannered and even-tempered. Questioning a Xexto’s bravery is one way to make him or her angry.
+
+### NAMES
+Xexto have very unique names, often sounding odd to outsiders. Surnames are familiar but optional.
+
+__First Names.__ Babading, Cicity, Gastoro, Maila, Qinla
+
+__Surnames.__ Cherum, Hevad, Qatabas, Riived, Serap
+
+
+
     

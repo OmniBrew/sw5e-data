@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Anx have long necks and limbs, and would appear taller if they didn’t walk wit
 The anx are serene giants who assume many roles in the Republic. Evolving from herd animals, the anx are a placid, sociable race known for developing a near fanatical interest in groups they related to. Living in complicated clan structures, anx enjoy the company of their large families and are more comfortable in groups.
 
 An innate trait among the anx is a formidable knowledge of anatomy, especially in regard to nerves, muscles and bone structures. Due to this extensive knowledge, even by species they have never encountered, the anx are considered dangerous unarmed combatants and skilled warriors, capable of incapacitating opponents with a single, well-placed strike.
+
+### NAMES
+Anx names are less harsh-sounding compared to those of other reptilian species. Surnames are familial.
+
+__Male Names.__ Drexol, Graxol, Horox, Theen
+
+__Female Names.__ Kendiula, Madurrin, Pipalidi, Quiyya
+
+__Surnames.__ Fida, Jur, Kelvyyn, Ryyd
+
+
+
     

@@ -47,4 +47,16 @@ Despite their appearance, culisetto are an exceptionally hygenic species, with a
 Culisetto are often shunned by other species, if not for their grotesque appearance, then usually for their habit of drinking blood. They prefer to do so while their victims are alive, but tolerate it if they are recently dead. While they have evolved beyond needing to drink blood to survive, its taste remains quite enticing to many culisetto, who will indulge in it at their pleasure.
 
 Culisetto tend to favor the company of their own kind, particularly their siblings. Broodlings frequently travel in groups of three or more, inseparable from birth.
+
+### NAMES
+Culisetto names are distinctively antiquated in their etymology. Surnames are familial.
+
+__Male Names.__ Kreon, Sosilu, Ocyto, Phino
+
+__Female Names.__ Hecuba, Anophe, Xeina, Adeia
+
+__Surnames.__ Dengue, Chontos, Kazan, Vazil
+
+
+
     

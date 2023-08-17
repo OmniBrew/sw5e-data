@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ A species of furry mammalians, the caamasi are covered in dense fur and have a s
 
 ### SOCIETY AND CULTURE
 A pacifist race, culture on Caamas evolved around the basic tenets of peace and social justice; influencing the evolution of the Jedi Order. Working as explorers, diplomats, and artists, the caamasi are a monogamous people who value single partners while mating and starting a family. However following the devastation of their homeworld by the Empire, caamasi who were off-world at the time considered evolving to a position of polygamy so as to regrow the population. While the argument is one of survival, many sociologists familiar with the culture of the caamasi believe that they will not accept the idea.
+
+### NAMES
+Caamasi surnames are often composed of two parts, with the second part designating clan membership.
+
+__Male Names.__ Althanic, Gelerit, Ryg’gos, Shren
+
+__Female Names.__ Eeshraq, Heshrisa, Nulana, Yr’na
+
+__Surnames.__ A’kriy, I’tela, O’Tul, Sho’cyl
+
+
+
     

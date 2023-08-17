@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Talz are large, bulky, bipedal creatures, that are covered head to toe in thick 
 Talz are a hunter-gatherer, clan-based society. They work in unison, and treat the entire clan as one single familial entity. Resources on Ordo Plutonia are often scarce, which leads to warring among Talz tribes. However, the clans are adept at forming a unified front when they face a common enemy.
 
 Talz are large, brutal creatures and are often used as guards and enforcers. Sometimes they are taken as slaves, though it’s rare; they are rebellious against authority and don’t take well to slavery. There are rumors that Talz are captured for scientific experimentation.
+
+### NAMES
+Talz names are fairly gutteral and are characterized by their harsh nature. Female names are typically longer than male names. Surnames are clan-based, though it’s rare that a Talz shares them with non-Talz.
+
+__Male Names.__ Drak, Fedirk, Imom, Ke, Twift
+
+__Female Names.__ Ilnuno, Ontuga, Utrukk, Zimtucc
+
+__Surnames.__ Dic, Noetoc, Suptat, Wume, Zapak
+
+
+
     

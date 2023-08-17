@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ The kage are a pale-skinned sentient species native to the caverns in the planet
 The kage are a dedicated people of physical excellence; they train tireless and elite fighter-monks known as Kage warriors. They tend to use weapons with electric or disruptive properties, but they are also great fighters in unarmed combat. Kage warriors are respected in Kage society as the greatest calling a kage might follow.
 
 Kage also share an affinity with animals, most notably the native multi-legged milodon, developing a symbiotic relationship. They use the milodon as transport; they can keep pace with the subtram transports that supply belugan strongholds, and launch raids that often catch the belugan security forces off-guard.
+
+### NAMES
+Kage names are generally multisyllable with melodic intonations. Surnames are familial.
+
+__Male Names.__ Baalin, Forta, Krismo, Rafa, Timko
+
+__Female Names.__ Chena, Fari, Moora, Ooni, Pluma
+
+__Surnames.__ Buno, Keeli, Nima, Sodi, Tani
+
+
+
     

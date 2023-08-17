@@ -45,4 +45,16 @@ Physically similar to humans, balosars appear to be sickly and gaunt when compar
 Early in its history, the balosar homeworld was overrun by galactic megacorporations eager to exploit the world’s lax ecological protection laws. The planet was home to the balo mushroom, a key ingredient in death sticks, one of the galaxy’s most infamous narcotics. After its discovery, Balosar was wrought with corruption, addiction, and pollution from the production and usage of death sticks.
 
 Since there is little opportunity to flourish on their homeworld, balosars often leave in search of fortune elsewhere. Their natural resistance to the lethal but not the addictive effects of the drug encourages some to enter the death stick business.
+
+### NAMES
+Balosar names have a slight exotic tinge to them often because Balosar parents name their children while on a death stick high. Their surnames are familial.
+
+__Male Names.__ Barin, Elan, Fantes, Zerba
+
+__Female Names.__ Delaana, Ferrika, Reki, Vetyl
+
+__Surnames.__ Cher’dak, Mer’darro, Sel’Sabagno
+
+
+
     

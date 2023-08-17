@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ A lanky, bipedal humanoid species, the Kyuzo originate on the gravity-heavy Oute
 
 ### SOCIETY AND CULTURE
 A species known for its strong sense of justice and honor, most Kyuzo regard oaths and contracts as unbreakable and many species seek them as mercenaries, law-enforcement personnel and bounty hunters. A highly political species, the Kyuzo developed societies that span considerable geographical areas, and most identify as members of a particular country or region. Most major islands and continents on Phatrong are their own political units, though they do form a loose confederacy.
+
+### NAMES
+Male names typically end in vowels, while female names end in consonants. Surnames are based on region.
+
+__Male Names.__ Drego, Embo, Khalu, Mhali, Zuvio
+
+__Female Names.__ Catras, Garing, Streehn, Turung
+
+__Surnames.__ Brihney, Ghall, Khambey, Maway, Vori
+
+
+
     

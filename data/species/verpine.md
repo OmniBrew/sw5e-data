@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,14 @@ Verpine eyes are keen enough to pick out microscopic details. Their antennae con
 The Verpine people hail from the Roche asteroid field, which is the fractured remnants of their home planet. The Roche live in artificial, self-sustaining environments inside these fragments.
 
 Verpine culture is oriented around crafting; they are noteworthy manufacturers of weapons, shield generators, armor, as well as personal use items such as breathing apparatuses. They are also gifted pilots.
+
+### NAMES
+Verpine had variable naming customs. Not all Verpines adopt surnames. Male and female Verpine names do not differentiate.
+
+__First Names.__ Fxz’et, Kuli, Moegid, Ss’s, Zix
+
+__Surnames.__ And’et, Ned’Ix, Ned’lx, Niskooen, Zes’sx
+
+
+
     

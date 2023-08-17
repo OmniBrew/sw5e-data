@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Ho’dins are tall humanoids with multi-colored skin, naturally webbed and sucti
 
 ### SOCIETY AND CULTURE
 Ho’dins are known to be self-conscious and vain, particularly when it comes to their looks and their work, and do not take criticism or insults well. Their religion, Dinante Fli’R, is centered around worshipping and communing with nature, a trait that has sent many ho’din out into the galaxy to rejuvenate damaged planets. The ho’din have an aversion to technology and avoid surface mining and manufacturing, opting instead to dwell in trees. They have learned to make incredibly advanced pharmaceuticals and gardens using their botanical skills to concoct natural medicines, some of which have cured plagues on distant worlds. The title of “Master Gardener” is one of high esteem and great respect in ho’din society.
+
+### NAMES
+Ho’din names are quite diverse. Some names look complicated and difficult to pronounce, while others are quite simple. Surnames are familial.
+
+__Male Names.__ Baji, Gra’tau, Iwo, Oojoh, Thrung, Vala
+
+__Female Names.__ Chela, Kutu, Lohje, Par’tah, Sirta, Tal
+
+__Surnames.__ Alewune, Kulko, Oolos, Plett, Ustu, Wen
+
+
+
     

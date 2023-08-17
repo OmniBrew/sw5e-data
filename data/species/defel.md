@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 25
@@ -49,4 +49,8 @@ Defel live in tight-knit, interdependent communites underground. The harsh envir
 Defel have a strong sense of honor and will not associate with individuals that do not keep their word.
 
 Because defel have yet to achieve interplanetary travel, they are a rare sight in the galaxy.
+
+### NAMES
+
+
     

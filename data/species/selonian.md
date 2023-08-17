@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 35
@@ -43,4 +43,14 @@ The selonians are carnivores who are believed to have descended from aquatic mam
 
 ### SOCIETY AND CULTURE
 Despite the massive starship traffic to Corellia, many visitors and even native Corellians know very little of the selonians and their distinctive unique alien culture. In mindset, they are a thoroughly grounded and serious race who are primarily concerned with the safety of their people. This means that the protection of their family dens and their species as a whole was a chief concern. The basis for this line of thinking is because they viewed that the needs of the society outweighed the needs of the individual. To those unaware of the deeper intricacies of the race, the selonians appear as an outgoing, friendly and charitable species. However, their interests rarely go beyond securing the good of their respective den.
+
+### NAMES
+Selonian use punctual names with no surnames.
+
+__Male Names.__ Duldayd, Gov, Krez, Qaran
+
+__Female Names.__ Chu, Driacnear, Fiircasa, Shilis
+
+
+
     

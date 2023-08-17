@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,14 @@ The Quarren are squid-like with four facial tentacles which protrude from their 
 Quarren are a very self-centered and proud species, almost to the point of being xenophobic, would coincides with their isolationist behavior. Quarren find Humans to be very crude beings and think Galactic Basic to be very cumbersome and unsuitable for speech. The Quarren instead speak their native language more frequently.
 
 The Quarren are conservative and practical in their thinking, yet they reminisce more than they look to the future. The Quarren are isolationist, preferring to stay in the depths of the oceans of their homeworld. However, some Quarren make their living in the galaxy as business managers and accountants. The Quarren diligently mine metal ore from the deepest parts of the ocean, where they live deep beneath the waves. Their cities stretch far below the surface.
+
+### NAMES
+Quarren names are typically harsh. Male and female names do not significantly deviate. Surnames are familial.
+
+__Names.__ Bagker, Jujon, Kibkyl, Qiockish, Yuntoz
+
+__Surnames.__ Chobnek, Geeckol, Nukranx, Tsastanx
+
+
+
     

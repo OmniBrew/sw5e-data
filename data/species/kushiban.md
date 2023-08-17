@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 25
@@ -47,4 +47,14 @@ Kushibans are inherently cute and fuzzy, and more nefarious species often attemp
 
 ### SOCIETY AND CULTURE
 Kushibans live in a simple, peaceful society on the non-industrialized, lush green planet of Kushibah in the Outer Rim. Kushibans are typically kind and generous, with a playful sense of humor and a penchant for practical jokes. However, if betrayed or angered, Kushibans can be cruel or vindictive, and they have little patience for bullies, simpletons, and misanthropes.
+
+### NAMES
+Kushiban names are a single word combining both their first and familial names.
+
+__Male Names.__ Cerlyk, Etyk, Mabbik, Tieko, Widdimur
+
+__Female Names.__ Asani, Pritsi, Sibble, Mirax
+
+
+
     

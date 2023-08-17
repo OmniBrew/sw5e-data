@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Barabel are a bipedal species of reptilians who are covered in very tough dark c
 
 ### SOCIETY AND CULTURE
 Living in low tech communities ranging from a few dozen individuals to no more than ten thousand, the Barabel community is built around a warren where the group thrives and hunted from. The Barabel species is noted for its hunting and tracking prowess; many of their actions are fueled by their hunting instincts, leading to the general feeling that Barabel are always angry. They are well known for their aggression but are also extremely loyal. They also have a great deal of respect for the Jedi because of their first experiences with a Jedi Master who settled a dangerous clan dispute. Apologies, whether for a misdeed or in sympathy, are an unknown concept to Barabel and are considered insulting.
+
+### NAMES
+Barabel names are harsh and gutteral. Female names are often softer. Surnames are warren-based.
+
+__Male Names.__ Anidroks, Bridiz, Trurzuk, Vilzinok
+
+__Female Names.__ Alge, Bulzo, Ekthamo, Inako, Nolku
+
+__Surnames.__ Akken, Dutarca, Khigta, Srabulgid, Zhomo
+
+
+
     

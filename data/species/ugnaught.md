@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: Unknown
@@ -47,4 +47,16 @@ Ugnaughts are ruled by councils comprised of elected officers. Ugnaughts live th
 When greeting an Ugnaught, it is advised to bow silently, then wait for a guttural purring as a positive response. Usage of the common galactic greeting “yaa-yaah” is considered a personal insult to Ugnaughts. If this occurrs, it was advisable to duck and cover, as various mechanical implements will be thrown one’s way.
 
 Ugnaughts are often enslaved as they are fairly meek.
+
+### NAMES
+Ugnaught names are generally concise. Female names sound more cheerful. Surnames are determined by blood profession.
+
+__Male Names.__ Banax, Dral, Durn, Togre, Yirkux
+
+__Female Names.__ Admeva, Olnito, Ruskor, Vurlilli
+
+__Surnames.__ Col, Gnatro, Mikk, Roc, Sag
+
+
+
     

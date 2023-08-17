@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 25
@@ -43,4 +43,14 @@ Squibs are small, sentient, humanoid mammals with both rodent and canine charact
 
 ### SOCIETY AND CULTURE
 Squibs are friendly and cheerful to such an extent that, over time, they are considered quite annoying. Squibs are inherently curious, handling items with little regard to care. They are unabashed pack rats, and they wear clothing for the excess storage rather than necessity. The Squibs’ overconfidence is a defining trait. The typical Squib response to a threat is not to fight or flee, but to bluff and bluster, especially when not face-to-face. In person, their sharp teeth are their favored means of intimidation. Squibs believe that bargaining is the highest form of communication, and they believe haggling is more important than the goods themselves. A deal is a binding oath to Squibs, and they are incredibly loyal to their business partners.
+
+### NAMES
+Squibs combine their first and last names, which are familial, into one long, hyphenated name. They often go by nicknames derived from their full names. Male and female names do not significantly deviate.
+
+Full __Names.__ Galaneever-marmalios, Meelawin-demort, Sleerinwilpher-remalior
+
+Nicknames. Galan, Meela, Wilpher
+
+
+
     

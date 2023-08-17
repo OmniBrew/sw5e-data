@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ The Falleen are semi-aquatic, being able to hold their breath underwater for an 
 Falleen society is of a feudal nature, with noble houses ruling over the lower classes. The upper echelons of Falleen aristocracy are rife with politics and intrigue, though they rarely spill blood over disputes or reduce themselves to open warfare.
 
 As a cold-blooded species, the Falleen respect discipline and control, particularly self-control. They tend to shun public displays of emotion, and are very patient. As a result of this attitude, they tend to look down on the more openly passionate, whom they see as lacking self-control. Indeed, the Falleen as a species have a towering sense of superiority, reflecting on their view of Falleen as the civilized and cultural center of the galaxy, rather than Coruscant.
+
+### NAMES
+Falleen favor names with Z and X sounds. They are usually accompanied by a surname, which is familial.
+
+__Male Names.__ Xomit, Xizor, Xist, Zenex, Zurros
+
+__Female Names.__ Xora, Trezza, Mylla, Zule, Annaz
+
+__Surnames.__ Grunseit, Croom, Moz, Xiss, Mythric
+
+
+
     

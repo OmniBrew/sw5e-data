@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ The Iktotchi are a fiercely guarded and isolationist species - vaunted for their
 Iktotchi society is a stratified society. Upward mobility is both possible and encouraged. Iktotchi are an outwardly dispassionate people, which is evidenced by their culture. They have a robust legal system, and suffer little crime. Iktotchi are respectful of cultures other than their own and can easily integrate with others.
 
 Iktotchi who distinguish themselves often earn a titular nickname, by which they are referred to in place of their name. Generally, this is done by accomplishing a remarkable feat that benefits the Iktotchi as whole.
+
+### NAMES
+Iktotchi names are generally two syllables. Surnames are familial. Respected Iktotchi often adopt a nickname, which they use in place of their birth name.
+
+__Male Names.__ Dilnam, Imruth, Kashkil, Yellam
+
+__Female Names.__ Kemkal, Onyeth, Reshu, Zorlu
+
+__Surnames.__ Hevil, Kaawi, Mimir, Nudaal, Zelend
+
+
+
     

@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Karkarodons hail from the planet Karkaris, which is located in a star system nei
 Karkarodon culture is a warmongering, strength-based culture. Clans often fight eachother for dominance, natural resources, and to cull the weak. Each clan on the planet has a ruling triumvirate, usually comprised of venerated warriors who rule for life. When a younger Karkarodon wants to replace one of the ruling body, they challenge them to single, mortal combat. Occasionally, the challenged may spare the life of the challenger when they win, though that usually leads to resentment from the loser.
 
 Karkarodons do not believe in lying or duplicity. They believe in approaching problems head on and saying what they mean, and are generally demeaing towards those they deem their lessers.
+
+### NAMES
+Karkarodon names are harsh and gutteral. They are generally one syllable. Surnames are clan-based rather than familial.
+
+__Male Names.__ Aurb, Rend, Riff, Trak, Vour
+
+__Female Names.__ Dewb, Garr, Rast, Scrat, Zend
+
+__Surnames.__ Alben, Gerdall, Kibben, Tamson, Zendall
+
+
+
     

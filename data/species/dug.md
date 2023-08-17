@@ -28,10 +28,10 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 25
@@ -45,4 +45,16 @@ Dugs are slender, powerfully built beings with a somewhat humanoid build and a u
 Due to their oppression under their Gran rulers who colonized Malastare, many Dugs often feel the need to throw around their strength in bids to establish dominance. As a result, they are known for their ill-tempered demeanor, and many are bullying thugs.
 
 On their homeworld of Malastare, the vast majority of Dugs are little more than laborers toiling for the enrichment of the Gran. With the species excluded from much of the power and money on Malastare, many Dugs turn to swoop racing or bounty hunting as their only means to achieve fame and fortune. In all other areas, the Dugs are exploited.
+
+### NAMES
+Dug names are often 3 syllables long, mostly through big sounds rather than harsh tones. There are harsher tones in their names as well though, often in the forms of x’s and k’s. Female Dugs have softer names, but no one would call them beautiful. Surnames are usually passed down through family or clan.
+
+__Male Names.__ Bawugri, Gadwouhx, Rorgukwa,
+
+__Female Names.__ Bosix, Grugne, Jiwous, Pragiba,
+
+__Surnames.__ Brundaare, Gninsaidi, Kedwir, Randaine
+
+
+
     

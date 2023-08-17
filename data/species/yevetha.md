@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,14 @@ Physically, the Yevetha are tall beings with a ghoulish appearance that is beref
 
 ### SOCIETY AND CULTURE
 Within their society, blood is an important aspect of their culture and is a central focus of their religious belief system. This has resulted in them becoming a particularly violent species. For the Yevetha, death is not to be feared. They are described as being dutiful, attentive, cautious but also fatalistic in their view of the universe. When fighting against other foes, Yevetha are notable for being ruthless fighters who never surrender even in the face of certain defeat. Due to the brutal nature of their society, the Yevetha do not possess a single jail, penitentiary or stockade as they believe there is no need for such facilities. In fact, they do not possess a word in their language for either convict or incarcerate.
+
+### NAMES
+Yevetha names are sharp and are kept to one syllable, not varying significantly based on gender. Surnames are familial.
+
+__First Names.__ Ral, Var, Cax, Tav, Fol, Sip, Nov
+
+__Surnames.__ Faalk, Naalar, Giinn, Ralle, Xoota
+
+
+
     

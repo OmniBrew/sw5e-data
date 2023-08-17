@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Kaleesh society is divided into numerous autonomous tribes. War is viewed as an 
 The Kaleesh are a spiritual people, believing that those who perform great deeds in life became gods in death; therefore, burial places are sacred to them. A large number of temples are devoted to their ancestor gods, the holiest of which was called Shrupak.
 
 Abesmi, a great monolith of stone in the Jenuwaa Sea, is the place the Kaleesh believed the gods ascended to the heavens. Pilgrims take the perilous voyage to Abesmi to beseech the gods.
+
+### NAMES
+Male Kaleesh names are typically one syllable while female are two. Kaleesh surnames are tribal and often use two words.
+
+__Male Names.__ Bir, Grost, Jick, Xygh, Yles
+
+__Female Names.__ Dduzu, Glaglo, Runda, Yugdo, Zodey
+
+__Surnames.__ Jal Greennath, Lij Jum, San Syrro,
+
+
+
     

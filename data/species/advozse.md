@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,14 @@ Advozsec evolved from herbivorous reptile-analogs which fed on the vegetation kn
 
 ### SOCIETY AND CULTURE
 Since so much of the sunlight on Riflor is blocked by volcanic eruptions, advozsec tend to settle near geothermal springs for heat. Unfortunately, these springs also tend to be in geologically unstable regions, and anything built near them is often destroyed or abandoned due to eruptions or groundquakes. As a result, the advozse people ended up having little attachment to material goods or long-term plans, and developed a pessimistic, selfish, and even paranoid outlook on life. This facet of their culture remained long after contact with the Galactic Republic gave them access to modern construction techniques allowing for more permanent buildings. Seeing financial stability as the only truly achievable stability one could find in life, the advozsec constantly strive to accumulate as much monetary wealth as they can in a lifetime in order to have the ability to rebuild when the worst happens.
+
+### NAMES
+Advozsec have simple names that do not distinguish between genders, using familiar surnames.
+
+__First Names.__ Dleck, Fjemm, Gorde, Rollar, Xon
+
+__Surnames.__ Ghantere, Leventraim, Timack, Vy, Zimda
+
+
+
     

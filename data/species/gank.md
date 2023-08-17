@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 35
@@ -43,4 +37,14 @@ The ganks are a species of fur-covered carnivores. The typical member of the spe
 
 ### SOCIETY AND CULTURE
 Precious little is known about gank culture. The exception is that the ganks are fabled for their violent and ruthless nature; even the slightest perceived insult is enough to throw a gank into a violent rage of retaliation. Outsiders similarly know little of the organization of gank society, or whether they have any central rulers at all. What is well known was that the ganks are a war-loving and regimented species, whose members enjoy occupations that allow them to fight and shed blood, such as that of assassin, bodyguard, bounty hunter, and mercenary. They are in particular demand by the hutts, who have enough ganks on retainer to constitute a small army. Their warlike ways and physical strength ranks the ganks among the galaxy’s most redoubtable fighters. The species have no compunctions about premeditated murder, which lends them the nickname “Gank Killers.”
+
+### NAMES
+Gank names do not differentiate between genders, and instead of surnames, they give themselves epithets.
+
+__First Names.__ Darakk, Frent, Shett, Yorrath
+
+Epithets. the Feared, the Keen, the Slayer, the Tough
+
+
+
     

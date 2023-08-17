@@ -26,12 +26,14 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
+  - type: asi-choice
+    options: int, cha
+    total: 2
+    selections: 1
+    max: 1
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +45,14 @@ Their homeworld long lost from memory and time, the ryn are a humanoid race of m
 
 ### SOCIETY AND CULTURE
 Wanderlust consumes the ryn. The ryn are a nomadic species, their original homeworld forgotten, even to them. They cannot abide confinement and constraint, and they itch to move on shortly after they arrive in a new place. Due to their homelessness, musical talent, natural secrecy, and avoidance of written records, ryn developed a nomadic culture and a reputation for confidence games, leaving many species prejudiced against them. In some sectors it is legal to enslave or hunt ryn. Their language is outlawed in many locations, and a large number of ryn women are used as slave breeding stock. They claim that sabaac, the popular card game that took the place of Pazaak in terms of card game prominence, is derived from their use of it as a fortune telling tool in their auguries. These auguries are today favored by hutts, who have a superstitious belief in the card tellings. A peculiar habit is that a ryn cannot sleep in the same location twice.
+
+### NAMES
+Ryn names have a very melodic tone, taking cues from many different languages from across the galaxy. Ryn do not use surnames.
+
+__Male Names.__ Corfat, Dirygat, Garya, Nemagary
+
+__Female Names.__ Cogesama, Giani, Gypopha, Simeti
+
+
+
     

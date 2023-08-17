@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,14 @@ Houk are hulking bipeds with thick skin, hairless heads marked with bony ridges 
 
 ### SOCIETY AND CULTURE
 The houk have well-earned reputations as bullies, cheaters, and backstabbers. They are often compared to wookiees because of their great strength and violent disposition. Houk are humorless, short-tempered beings who use their strength to antagonize weaker beings. Their propensity for deceit and skulduggery is matched only by the hutts. Though their tempers are not as explosive as those of wookiees, houk are known for their tendency to solve problems violently. In politics, they will often wage war without formal declarations, negotiate in bad faith, and ignore treaties. Though this preference for violence tend to cause the houk problems in dealing with other societies, it often gets them what they want. Surprisingly though, in personal combat, houk prefer to use stealth rather than direct confrontation. This gives them a reputation for deceit and cowardice. However, just as each houk colony has a different culture and government, houk individuals have varied personalities. Though all houk come from a culture with high levels of corruption and violence, many houk are hard workers who have learned to get along with other sentients. The houk produce little technology of their own, though they adapt themselves to the standard technology of the rest of the galaxy.
+
+### NAMES
+Houk names are gruff and primitive in nature, and don’t vary by gender.
+
+__First Names.__ Agamor, Krelba, Morg, Roath
+
+__Surnames.__ Krin, Nar, Vogog, Voss
+
+
+
     

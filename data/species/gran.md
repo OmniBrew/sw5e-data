@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Gran can easily be identified by their three eyes and their goat-like snout. Fem
 The peaceful nature of Gran society is a reflection of their homeworld, Kinyen. Kinyen boasted large and rolling grasslands and highlands, a dense and beautiful forest, and one of the longest and clearest rivers in the Bes Ber Bikade sector. The beauty of this planet, and the need for primitive Gran to band together for defense against predatory animals, helped the Gran develop strong bonds of home and family in their society.
 
 The Grans are also very protective of their families, and were some of the most devoted parents in the galaxy. This is because of their very powerful and sensitive sight, which can sense the emotions of their mates and their children. Gran society maintains its balance by setting up strict career quotas, and making sure young Gran are educated for a specific job that best served his or her talents.
+
+### NAMES
+Gran names typically are monosyllabic and accompanied by a surname, which is familial.
+
+__Male Names.__ Ask, Dree, Ree, Pax, Nic
+
+__Female Names.__ Yan, Alijia, Meeb, Sir, Zeek
+
+__Surnames.__ Moe, Leem, Yees, Wix, Naaq
+
+
+
     

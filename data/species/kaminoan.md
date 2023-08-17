@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +39,16 @@ Kaminoans’ evolution from aquatic creatures in the vast oceans of Kamino is re
 The kaminoans see themselves as a superior form of life, but nevertheless remained polite to outsiders. To them any species seeking self-improvement is worthy of respect, but those who do not are obviously inferior; self-improvement has a central role in Kaminoan society. Through the development and mastery of selective breeding, genetics, and cloning, the kaminoans were able to overcome a cataclysm that pushed them to the brink of extinction.
 
 Kaminoans live in a caste based society, determined by the color of the kaminoan’s eyes. Gray eyed individuals handle administration and are considered of the highest-level caste; middle castes had yellow eyes and handle the skilled work; and lower castes had blue eyes and perform manual labor and other menial tasks. Although it is extremely rare, kaminoans are sometimes born with green eyes. Those are viewed as genetically inferior and as a threat to the kaminoans’ well ordered society and as such are exterminated shortly after birth.
+
+### NAMES
+Kaminoan names typically are composed by around two syllables and a brief surname.
+
+__Male Names.__ Lama, Ni, Orun, Koa
+
+__Female Names.__ Taun, Ko, Nala, Kina
+
+__Surnames.__ Ha, Su, We, Sai, Wa
+
+
+
     

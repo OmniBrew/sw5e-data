@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Near-humans possessing golden, flaky skin, nothoiins feature fair to brown hair 
 Although nothoiins hail from their eponymous homeworld and star system in the Anoat Sector, they are ubiquitous throughout the Greater Javin Region and Corporate Sectors. Their history of interstellar exploration and colonization was facilitated by their species’ natural spacefaring abilities in both piloting and navigation and necessitated by their home planet’s periodically harsh, dry climate. Droughts on Nothoiin can last for decades, and the wildfires they foster have served as one of the primary factors behind the limited development of the planet’s economy beyond the ur-diamond mining industry, which produces the system’s chief export.
 
 Large-scale emigration from Nothoiin has led members of its native species to seek careers as pilots, navigators, and operatives in numerous criminal enterprises. Various nothoiin colonies have given rise to a number of different governmental systems running the gamut from representative democracies to autocracies.
+
+### NAMES
+Nothoiin typically receive a gendered given name and a familial surname.
+
+__Male Names.__ Amrosio, Jado, Kosimas, Troov
+
+__Female Names.__ Elayah, Giranti, Lorinah, Sil
+
+__Surnames.__ Caban, Mordu, Plintus, Starstrider
+
+
+
     

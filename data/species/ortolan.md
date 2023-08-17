@@ -28,7 +28,7 @@ cSize: Small
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
     ability: cha
@@ -45,4 +45,16 @@ Ortolans are squat, heavily-built humanoid bipeds with long, trunklike noses and
 Ortolan society is reasonably industrialised, though not as technologically advanced as other species. Despite this, their economy is mostly based on barter, with credits primarily used to trade with offworlders. Education is the responsibility of their parents, though gifted youngsters are often traded to other families to get specialized education.
 
 While most Ortolans appear to have blue skin, Ortolans are actually covered in short velvety fur which they often dyed in bright colors, most often blue and pink. This tradition began when a Devaronian trader tried to sell Ortolans a shipment of food dyes they considered dyeing their food a waste of time, but found dyed fur to be quite stylish.
+
+### NAMES
+Ortolan names are generally short with big sounds. Female names are typically softer. Surnames are familial.
+
+Male names. Donmb, Hegh, Nax, Parm, Teeb
+
+Female names. Bedla, Folfe, Nelni, Phoff, Sallo
+
+__Surnames.__ Bigek, Lubum, Nad, Rojool, Somo
+
+
+
     

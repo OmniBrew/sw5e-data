@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,14 @@ Thisspiasians are easily recognized by their abundant beards and their long tail
 Thisspiasian culture is one of proud warriors who keep their emotions well-concealed and their rages checked. Many outsiders see only a thisspiasian’s outward facade of tranquility, and to most being it seems as if thisspiasians existed in a sea of calm. This is far from the truth, however, as they are in truth a very passionate species below the surface. A thisspiasian who doesn’t meditate as often as they should will often be prone to otherwise atypical emotional outbursts.
 
 Thisspias is ruled by a hereditary leader called the Blood Monarch. Due to their seemingly archaic ruling structure, thisspiasians are often considered out-of-touch.
+
+### NAMES
+Thisspiasian names typically are composed of two similar sounding syllables. Surnames are familial.
+
+__First Names.__ Annak, Effed, Emmet, Gorro, Koto
+
+__Surnames.__ Albarn, Braibel, Kirsingr, Raledurn
+
+
+
     

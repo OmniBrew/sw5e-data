@@ -26,12 +26,6 @@ weight:
   mod: x(2d4) lbs.
 cSize: Medium
 mechanics:
-  - type: asi
-    amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
   - type: speed
     speed: walk
     distance: 25
@@ -45,4 +39,14 @@ Some members are colicoid queens that are different as they are more than twice 
 
 ### SOCIETY AND CULTURE
 Though highly intelligent, colicoids are emotionless and cannibalistic in nature. Their ruthless cunning serves them well on the battlefield as it does on the negotiating table. It is known that long ago that they transferred these ruthless characteristics to their commerce activities. As a result, they are known to be brutally efficient in their business practices. They are noted for being vicious and calculating creatures that are driven by greed whilst showing little regard for others. The colicoids have numerous successful commercial ventures and hold strict business protocols.
+
+### NAMES
+Colicoid names are typically very short and gender neutral, with surnames being based on the queen from which they spawned.
+
+__First Names.__ Gal, Het, Kaf, Lyp, Nok, Yin
+
+__Surnames.__ Bek, Dor, Set, Tel, Wim, Zal
+
+
+
     

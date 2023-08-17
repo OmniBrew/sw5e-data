@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ Pau’ans have large, sunken black eyes in red eye sockets and jagged, fang-like
 
 ### SOCIETY AND CULTURE
 Pau’ans fulfill most of the governmental and administrative duties on Utapau, as the utai do not desire such work, serving as laborers instead. Most pau’ans served as leaders early in their lives, often managing teams of Utai laborers. This gives them experience that will be used later in their lives. Pau’ans are kind leaders, and sympathetic to their subordinates. Each city on Utapau is controlled by a Master of Port Administration, a hereditary title reserved for pau’ans. These administrators are assisted by advisory councils for making important decisions about their city, and each administrator serves on the Utapauan Committee and oversees planetary governance. However, the committee rarely makes crucial decisions, as the cities are able to function on their own most of the time.
+
+### NAMES
+Pau’an names are fairly simple, and generally melodic. Surnames are familial.
+
+__Male Names.__ Kernul, Sivrol, Tar, Vizun, Yal, Zeolbud
+
+__Female Names.__ Cas, Jevoh, Nesim, Sizil, Ten, Yofan
+
+__Surnames.__ Gesat, Kluneln, Nom, Vley, Voy, Zet
+
+
+
     

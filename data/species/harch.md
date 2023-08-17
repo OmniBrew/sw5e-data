@@ -27,11 +27,14 @@ weight:
 cSize: Medium
 mechanics:
   - type: asi
-    amount: 2
-    ability: dex
+    amount: 1
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
+  - type: asi
+    amount: 1
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +50,12 @@ The Harch are distantly related to the Aqualish species and there is much debate
 Not much is known about the Harch, as few of them have mingled with the galactic community, preferring to stay on Secundus Ando. Harch that leave the planet tend to have a more aspirant nature than their fellows, and often reach great heights in their chosen professions in the galaxy. Such Harch are considered outliers most apparently care little for titles.
 
 Like the Arcona species, female Harch are seen as more domineering and aggressive than their male counterparts. It is not unheard of for a male Harch to raise entire broods of hatchlings alone.
+
+### NAMES
+Harch names are not gender-specific. Harch do not use surnames.
+
+__Names.__ Cubach, Quixoch, Trench, Turch
+
+
+
     

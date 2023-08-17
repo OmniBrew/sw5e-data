@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: wis
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,14 @@ The aing-tii are a species of sentient, toothless mammals who stand on two clawe
 The aing-tii are native to a planet whose location in the Kathol Rift is a closely guarded secret. Although in a dangerous area of space, the majority of Aing-Tii never leave their homeworld nor have any contact with the outside world. Those who do commonly called aing-tii warrior monks are often xenophobic and reclusive. The monks spend their entire lives performing errands for their gods, in the hope that they will receive “an answer” from them. The aing-tii hate slavery, and often attack slavers who roam the Kathol Outback.
 
 While the aing-tii are Force-sensitive, they avoid wielding the Force, which they see as sacred. The aing-tii believe that everything is somehow guided by the Force. They do not believe in the light or dark sides of the Force. Instead, they hold that there are many different aspects to the Force.
+
+### NAMES
+Aing-tii names are, in reality, non-verbal and only truly understandable via taste, smell, and touch. The few aing-tii who have been known to the outside world have used translators to convey an auditory identifier.
+
+__Male Names.__ Ben’Sur, Looshen’Fel, Tadar’Ro
+
+__Female Names.__ Kulan’Pa, Laman’So, Te’Nuriel
+
+
+
     

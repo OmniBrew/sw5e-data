@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
     ability: cha
@@ -45,4 +45,16 @@ While Force-sensitive Aqualish are rare, members of the species have trained as 
 
 ### SOCIETY AND CULTURE
 The Aqualish hate the image they have in the galaxy as thugs, regardless of its veracity, and blame it on any- and everyone else. Because of this, the species are considered pariahs on Ando, which has a lower population of Aqualish than the galaxy itself. All Aqualish speak mutually intelligible dialects of the same language. Quarrelsome and thug-like, the Aqualish culture revolved around aggression and toughness, with diplomacy being one of their weakest attributes.
+
+### NAMES
+Aqualish names are intended to sound strong. Surnames are not familial, but are chosen by each individual Aqualish.
+
+__Male Names.__ Bung, Gu, Opege, Soni, Tubop
+
+__Female Names.__ Cestirki, Duni, Iftu, Sifre, Umi
+
+__Surnames.__ Dogomurra, Julo, Kronem, Nidoal, Utix
+
+
+
     

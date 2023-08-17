@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Codru-Ji children are actually sapient, six-legged canid creatures that cannot s
 
 ### SOCIETY AND CULTURE
 The Codru-Ji are proud and protective of their ancient customs, and they carefully manage their homeworld’s economy to keep a degree of anonymity from the galaxy at large. They fear the tainting of their long-held practices by outside influence as well as prejudice against them for the almost barbaric level of callousness they will display towards one another in pursuit of personal gain. The kidnapping of a political rivals’ children or the ransoming of off-worlders back to their people are both common practices.
+
+### NAMES
+Codru-Ji names are often kept to two syllables. Clan names are appended to the given name as a hyphenated affix.
+
+__Male Names.__ Kossok, Tirrit, Uttar, Yunnan
+
+__Female Names.__ Davvi, Kella, Russa, Zollu
+
+Clan __Names.__ -Fa, -Mu, Ro-, -Sy, Yi-
+
+
+
     

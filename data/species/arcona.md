@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: cha
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,16 @@ Arcona are highly susceptible to addiction to spice and common salt, which serve
 
 ### SOCIETY AND CULTURE
 Arcona normally think of themselves not as individuals but as a collective whole. Largely forsaking individuality, they often refer to themselves as “we” even when alone. The arcona live in loose, family-based communities called nests, which are ruled by a Grand Nest. Because arcona are born in nests underground, they obtain a close sense of family living in close quarters with siblings. Males raise the young, since females are typically impulsive thrill-seekers.
+
+### NAMES
+Arcona names are quite diverse, named by their fathers in the nest. Surnames are either familial or nest-based.
+
+__Male Names.__ Bijrik, El, Jat, Kazat, Onalol, Shle
+
+__Female Names.__ Ak, Cimam, Cuten, He, Madan, Omik
+
+__Surnames.__ Cheen, -drell, -faxel, Shran, Takonak, -voll
+
+
+
     

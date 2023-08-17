@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 25
@@ -43,4 +43,14 @@ A hunchbacked species of sentient reptilians, the bipedal baragwin are easily re
 
 ### SOCIETY AND CULTURE
 Baragwin culture, since it does not derive from a single homeworld, is highly dependent on a baragwin’s planet of origin, with Tatooinian baragwin behaving quite differently from those from Denuhi-Eight. Baragwin generally have little prejudice, treating all other beings equally regardless of species, culture, or planetary origins; though criminal baragwin will exploit all beings equally instead. Baragwin settlements are generally small and anarchic, with short-term leaders selected by informal democratic processes. Baragwin are famous as skilled weapon-smiths and introduced many different weapons to different worlds. Baragwin-made blasters and vibroblades are among the most powerful personal weapons in the galaxy.
+
+### NAMES
+Baragwin have names with wide tones, spoken using the entire mouth, that don’t differentiate by gender. Baragwin use familial surnames.
+
+__First Names.__ Dagel, Eskaul, Idalli, Migo
+
+__Surnames.__ Fadani, Igara, Kodrue, Wylbas
+
+
+
     

@@ -31,7 +31,7 @@ mechanics:
     ability: dex
   - type: asi
     amount: 1
-    ability: cha
+    ability: str
   - type: speed
     speed: walk
     distance: 30
@@ -47,4 +47,16 @@ Noghri culture relies heavily on honor, with society being clan-based, revolving
 Noghri are loathe to fight with weapons larger than small daggers, believing combat to be a personal celebration to be sullied by use of heavier weapons. As such, it is rare (though not impossible) to see a Noghri wielding a weapon larger than their forearm.
 
 Each Noghri clan village centers around the Dukha, with each clan being led by a Dynast. The Dukha is inhabited by the clan’s Maitrakh, who functions as the storyteller, spiritual leader, and lore keep of the clan.
+
+### NAMES
+Noghri names vary from short to long, with female names being typically softer. Surnames are clan-based.
+
+__Male Names.__ Cakhmaim, Ezrakh, Khabarakh, Rukh
+
+__Female Names.__ Cilnaas, Edvir, Kahr’corvh, Meewalh
+
+__Surnames.__ Bakh’tor, Eikh’mir, Hakh’khar, Khim’bar
+
+
+
     

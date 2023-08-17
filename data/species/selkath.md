@@ -28,7 +28,7 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
     ability: cha
@@ -43,4 +43,14 @@ Unknown
 
 ### SOCIETY AND CULTURE
 Unknown
+
+### NAMES
+Selkath names tend to have a flowing quality to it, like a stream of water. They rarely use surnames.
+
+__Male Names.__ Chata, Galas, Qual, Morgo, Shaelas
+
+__Female Names.__ Halsuna, Dolmas, Shasa, Ulsuru
+
+
+
     

@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: con
   - type: asi
     amount: 1
-    ability: cha
+    ability: int
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,14 @@ Gand are sentient, stocky humanoids whose insectoid bodies are covered in a chit
 
 ### SOCIETY AND CULTURE
 Gand society places heavy importance on the achievements of an individual and holds that an individual has no name, and thus no worth, until he or she proves otherwise. The speech patterns of Gands utilize third-person self-reference within each level of identity earned. Young or unproven Gands are all called “Gand,” as they are considered merely aspects of the same whole. Major accomplishments earn the use of a family surname. Mastering a skill, such as becoming a findsman, allows for the use of the given name, all with third-person self-reference. This manner of speaking is common within the spoken and written Gand language but is more predominant when a Gand speaks Basic; it is often a source of amusement to outsiders.
+
+### NAMES
+Until a Gand has earned the use of a name, they go simply by the term “Gand.” Gand speak in the third person and refer to themselves by name. Often, when a Gand feels shamed, they will stop referring to themselves by their name and revert to calling themselves “Gand” until they prove themselves again. Male and female names are not distinct.
+
+__First Names.__ C’nyir, Dash, Iglid, Kyuffax, T’rix
+
+Surname. Diqlu, Krakee, Praafri, Quudya, Zooq
+
+
+
     

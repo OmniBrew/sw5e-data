@@ -28,10 +28,12 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+    ability: con
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +45,14 @@ Nikto are reptilian humanoids that are noted for their leathery skin. They hold 
 
 ### SOCIETY AND CULTURE
 Although lacking in personal charisma, nikto posses a single-minded tenacity that makes them excellent followers. Their lives made nikto cunning combatants. Most nikto are content with a life of servitude as in their eyes a life in slavery was preferable to the hardship and toil on their homeworld. Not all nikto work for the hutts though most free members of their kind were formerly enslaved. Whilst nikto are known to escape from their master, most tend to fall into service of another hutt who “inherited” them according to custom should their previous employer die. However, some escaped nikto did instead use some opportunities to genuinely become free beings. Any such emancipated nikto have to be constantly on guard as they risked capture by hutt-employed slavers who return their prey to their “rightful owners”. In addition, they lacked charisma and preferred to follow orders instead of giving them. As a result, the Nikto were most identified with their Hutt masters.
+
+### NAMES
+Nikto names are very complex, hard to pronounce, and harsh sounding. Name length also differs a lot, longer names having apostrophes or dashes. Their names are unisex, with surnames being familiar and optional.
+
+__First Names.__ Jydabaum, N’rok’ratu, Sussa, Vydgish
+
+__Surnames.__ Gozorc, Irtitt, Qegmarg, Umpluurg
+
+
+
     

@@ -28,10 +28,17 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
-  - type: asi
-    amount: 1
-    ability: cha
+    ability: con
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
+  - type: asi-choice
+    options: true
+    total: 1
+    selections: 1
+    max: 1
   - type: speed
     speed: walk
     distance: 20
@@ -45,4 +52,14 @@ Hutts are a massive slug-like species who have large mouths and stubby arms. The
 Most hutts are crime lords who live opulent lives overseeing criminal underworld activities like spice smuggling, slavery, gambling and bounty hunting. This is not true for all, however, as some eschew the life of a decadent, obese version of their species and prefer a more mobile existence. Hutt society is divided into families known as kajidics, a social structure that is both familial and a crime gang.
 
 Hutts are encouraged to make a name for themselves around the age of 150 while simultaneously not threatening the welfare of the clan. At around 200, they will likely stop being saved by the clan and encouraged even further to fend for themselves while benefiting the kajidic; they may even be granted a star system or two. Nomadic or kajidic-less hutts are often hunted or killed by other hutts in fear of the nomad coming to claim a territory.
+
+### NAMES
+Hutt names with a suffix title as “the Hutt” are usually reserved for noteworthy huts, with the name of a hutt’s kajidic coming before the title. Because hutts are hermaphroditic, choosing a gender at will, their names are considered androgynous.
+
+__First Names.__ Arok, Gorga, Jabba, Mama, Ziro,
+
+Kajidic __Names.__ Besadii, Desilijic, Fenn’ak, Gnuda
+
+
+
     

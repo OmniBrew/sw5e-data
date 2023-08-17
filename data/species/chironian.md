@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: wis
   - type: speed
     speed: walk
     distance: 40
@@ -45,4 +45,14 @@ Each year, chironian heads grows two horns above the temples. These horns start 
 
 ### SOCIETY AND CULTURE
 Chironians express emotions through the mannerisms of their hooves: when impatient, they stamp them; when excited, they tap them in a quick dance, or canter in a spot. The centauriforms frequently shake their heads and manes, and when angry, their faces flush a deeper shade. Young chironians, when frightened, are known to rub or press their velvet-covered horns against the foreheads of other beings to whom they are emotionally close.
+
+### NAMES
+Chironian names are soft and melodic, despite the thick nature of their native language. Important family names are passed down through generations. They don’t use surnames.
+
+__Male Names.__ Jefin, Slaturn, Cinall, Leathes
+
+__Female Names.__ Olachi, Luna, Sinall, Trespen
+
+
+
     

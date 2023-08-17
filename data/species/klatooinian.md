@@ -27,11 +27,14 @@ weight:
 cSize: Medium
 mechanics:
   - type: asi
-    amount: 2
-    ability: dex
+    amount: 1
+    ability: str
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
+  - type: asi
+    amount: 1
+    ability: wis
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +48,16 @@ Klatooinians are a humanoid species with canine features, having short muzzles o
 For centuries, klatooinians have been slaves to the hutts, whom they view as almost godlike, immortal beings. Although the hutts allow a council of elders to rule on Klatooine, all off-world affairs are wholly under hutt control. Under the hutts, the klatooinians serve as soldiers and guards. Even those klatooinians who do not serve the hutts are often employed as hired muscle by other masters.
 
 Klatooinian society was known for a strong belief in tradition and the wisdom of the elders, although some younger klatooinians rebelled against this norm and sought out freedom from enslavement. Others attempted to gain their own fortunes as smugglers, pirates, bounty hunters, or raiders.
+
+### NAMES
+Klatooinian names are often derived from the names of great heroes and historical figures. Surnames are familial, and are usually shorter than klatooinian given names.
+
+__Male Names.__ Barada, Castas, Sta-Den, Tarados
+
+__Female Names.__ Gelis, Petkara, Sterasi, Yelmith
+
+__Surnames.__ Eek, Gort, Gon, Ovin
+
+
+
     

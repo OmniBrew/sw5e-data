@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: dex
   - type: speed
     speed: walk
     distance: 30
@@ -43,4 +43,16 @@ A diminutive species of near-humans, Sullustans bear round, tapered skulls. Sull
 
 ### SOCIETY AND CULTURE
 Sullustans are outgoing and mercantile, friendly and pragmatic. As a species they are altogether lacking in xenophobia. Though fond of practical jokes and extremely shrewd in their business dealings, they are eager to explore and travel the galaxy. Inquisitive by nature, some have described Sullustans as reckless, especially for their preference to learn and discover whenever possible through personal experience. Sullustans organize themselves into familial units known as Warren-clans. Each clan consists of one polyandrous female, several husbands, and their young. Unmated females, known as “Fems”, are active members of their communities until they reach breeding status, called “Ready”, when they choose their mates.
+
+### NAMES
+Male names are typically longer than female names. Surnames are based on Warren-clan.
+
+__Male Names.__ Duedt, Oshror, Partheen, Throthinnitz
+
+__Female Names.__ Asulu, Eldo, Tri, Vo, We
+
+__Surnames.__ Frovarr, Jeard, Plonr, Tsah, Vhiibb
+
+
+
     

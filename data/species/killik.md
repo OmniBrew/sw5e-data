@@ -28,10 +28,10 @@ cSize: Medium
 mechanics:
   - type: asi
     amount: 2
-    ability: dex
+    ability: int
   - type: asi
     amount: 1
-    ability: cha
+    ability: con
   - type: speed
     speed: walk
     distance: 30
@@ -45,4 +45,10 @@ Killiks possess a strong chitinous exoskeleton that is glossy and greenish with 
 The Killiks have a communal society, with each and every Killik being in mental contact with another. Due to their hive mind, every Killik nest is virtually one individual. Killiks are also peaceful in nature. Their telepathic connection is capable of extending to other species which includes non-insectoids. A willing creature can submit to this telepathy to become a Joiner. They effectively become another vessel of the hive mind.
 
 Killiks lose connection to their hive mind at great distances. Those who voluntarily leave the hive mind are referred to as Leavers. It is rare that they are allowed to rejoin their hive without reason.
+
+### NAMES
+Killiks are a hive-mind insectoid that typically don’t use names. On the offchance they do, it’s usually an incomprehensible series of clicking noises. They are receptive to nicknames given by others.
+
+
+
     
