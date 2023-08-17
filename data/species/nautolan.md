@@ -3,28 +3,17 @@ name: NAUTOLAN
 source: phb
 speedColor: ''
 alignment: >-
-  Nautolans' benevolence cause them to
-tend toward the light side, though there are
-exceptions.
+  Nautolans' benevolence cause them to tend toward the light side, though there are exceptions.
 size: >-
-  Nautolans typically stand 5 to 6 feet tall and
-rarely weigh more than 160 lbs. Regardless of your
-position in that range, your size is Medium.
+  Nautolans typically stand 5 to 6 feet tall and rarely weigh more than 160 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Nautolans reach adulthood in their early teens
-and live about 70 years on average.
+  Nautolans reach adulthood in their early teens and live about 70 years on average.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Nautila. Nautila is unique in that it can only
-be properly pronounced underwater due to its use of
-pheromones in addition to spoken sounds. In any
-other environment, the language loses a great amount
-of detail; that nautolans nd this annoying.
+  You can speak, read, and write Galactic Basic and Nautila. Nautila is unique in that it can only be properly pronounced underwater due to its use of pheromones in addition to spoken sounds. In any other environment, the language loses a great amount of detail; that nautolans nd this annoying.
 skinColor: Blue, brown, green, purple, or grey
 hairColor: None
 eyeColor: Black, brown, or red
-distinctions: Extrasensory head tentacles capable of
-detecting chemicals
+distinctions: Extrasensory head tentacles capable of detecting chemicals
 homeworld: Glee Anselm
 language: Nautila
 height:

@@ -3,27 +3,17 @@ name: RODIAN
 source: phb
 speedColor: ''
 alignment: >-
-  Rodian culture's violent focus causes
-them to tend toward the dark side, though there are
-exceptions.
+  Rodian culture's violent focus causes them to tend toward the dark side, though there are exceptions.
 size: >-
-  Rodians typically stand 5 to 6 feet tall and
-weigh 160 lbs. Regardless of your position in that
-range, your size is Medium.
+  Rodians typically stand 5 to 6 feet tall and weigh 160 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Rodians reach adulthood in their late teens and
-live less than a century.
+  Rodians reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Rodese. Rodians can communicate with each
-other using pheromones. Force-sensitives can detect
-this communication, though they can’t understand it.
+  You can speak, read, and write Galactic Basic and Rodese. Rodians can communicate with each other using pheromones. Force-sensitives can detect this communication, though they can’t understand it.
 skinColor: Blue, green, purple, turquoise, or yellow
 hairColor: None
 eyeColor: Blue, black, green, purple, or red
-distinctions: Large and round pupil-less eyes, snouts,
-pointed ears, antennae, scaled and
-usually green skin
+distinctions: Large and round pupil-less eyes, snouts, pointed ears, antennae, scaled and usually green skin
 homeworld: Rodia
 language: Rodese
 height:

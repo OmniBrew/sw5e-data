@@ -3,26 +3,17 @@ name: SITH PUREBLOOD
 source: phb
 speedColor: ''
 alignment: >-
-  The cruelty of the Sith causes them to
-tend toward chaotic dark side, though there are
-exceptions.
+  The cruelty of the Sith causes them to tend toward chaotic dark side, though there are exceptions.
 size: >-
-  Sith generally stand between 5 and 6 feet tall
-and weigh less than 200 lbs. Regardless of your
-position in that range, your size is Medium.
+  Sith generally stand between 5 and 6 feet tall and weigh less than 200 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Sith reach adulthood in their late teens and live
-less than a century.
+  Sith reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Sith. Sith is an agglutinative language, in
-which words or even phrases were made up of linears
-sequences of distinct meaningful units.
+  You can speak, read, and write Galactic Basic and Sith. Sith is an agglutinative language, in which words or even phrases were made up of linears sequences of distinct meaningful units.
 skinColor: Black or red
 hairColor: Black, brown, gray, red, or white
 eyeColor: Orange, red, or yellow
-distinctions: Tentacle facial appendages, often wear
-jewelry or have tattoos, bone spurs
+distinctions: Tentacle facial appendages, often wear jewelry or have tattoos, bone spurs
 homeworld: Korriban
 language: Sith
 height:

@@ -3,24 +3,17 @@ name: MON CALAMARI
 source: phb
 speedColor: ''
 alignment: >-
-  Mon calamaris' love of the arts cause
-them to tend toward the light side, though there are
-exceptions.
+  Mon calamaris' love of the arts cause them to tend toward the light side, though there are exceptions.
 size: >-
-  Mon calamari stand between 5 and 6 feet tall
-and rarely weigh more than 150 lbs. Regardless of your
-position in that range, your size is Medium.
+  Mon calamari stand between 5 and 6 feet tall and rarely weigh more than 150 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Mon calamari reach adulthood in their late
-teens and live less than a century.
+  Mon calamari reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic, Mon Cal, and one language of your choice
+  You can speak, read, and write Galactic Basic, Mon Cal, and one language of your choice
 skinColor: Reddish brown, brown, red, cyan, mottle, salmon, gold, blue, grey, or white
 hairColor: None
 eyeColor: Yellow, orange, blue, or gray
-distinctions: Large, goggle-like eyes, high-domed
-heads, webbed hands
+distinctions: Large, goggle-like eyes, high-domed heads, webbed hands
 homeworld: Mon Cala
 language: Mon Cal
 height:

@@ -3,21 +3,13 @@ name: WOOKIEE
 source: phb
 speedColor: ''
 alignment: >-
-  Wookiees tend toward the light side,
-though there are exceptions.
+  Wookiees tend toward the light side, though there are exceptions.
 size: >-
-  Wookiees tend to tower over other species,
-reaching heights over 8 feet and weighing 300 pounds.
-Regardless of your position in that range, your size is
-Medium.
+  Wookiees tend to tower over other species, reaching heights over 8 feet and weighing 300 pounds. Regardless of your position in that range, your size is Medium.
 age: >-
-  Wookiees reach adulthood at about 40 and can
-live to be 400.
+  Wookiees reach adulthood at about 40 and can live to be 400.
 languageColor: >-
-  You can speak, read, and write
-Shyriiwook. You can understand spoken and written
-Galactic Basic, but your vocal cords do not allow you to
-speak it.
+  You can speak, read, and write Shyriiwook. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 skinColor: Gray
 hairColor: Different shades of black, brown, and white in varying combinations
 eyeColor: Blue, green, yellow, golden, brown, or red

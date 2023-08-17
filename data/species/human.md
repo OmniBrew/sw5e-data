@@ -3,28 +3,17 @@ name: HUMAN
 source: phb
 speedColor: ''
 alignment: >-
-  Humans tend toward no particular
-alignment. The best and worst are found among them.
+  Humans tend toward no particular alignment. The best and worst are found among them.
 size: >-
-  Humans vary widely in height and build, from
-barely 5 feet to well over 6 feet tall. Regardless of your
-position in that range, your size is Medium.
+  Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 age: >-
-  Humans reach adulthood in their late teens and
-live less than a century.
+  Humans reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and one extra language of your choice. Humans
-typically learn the languages of other peoples they deal
-with, including obscure dialects. They are fond of
-sprinkling their speech with words borrowed from
-other tongues: trandoshan curses, twi'lek musical
-expressions, chiss military phrases, and so on.
+  You can speak, read, and write Galactic Basic and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: trandoshan curses, twi'lek musical expressions, chiss military phrases, and so on.
 skinColor: Light to dark tones
 hairColor: Black, blond, orange, brown, gray to
 eyeColor: Amber, blue, brown, gray, green, hazel,
-distinctions: Biped with bilateral symmetry,
-opposable thumbs
+distinctions: Biped with bilateral symmetry, opposable thumbs
 homeworld: Coruscant
 language: Galactic Basic
 height:

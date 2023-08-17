@@ -3,25 +3,17 @@ name: TRANDOSHAN
 source: phb
 speedColor: ''
 alignment: >-
-  Trandoshans tend toward the dark side,
-though there are exceptions.
+  Trandoshans tend toward the dark side, though there are exceptions.
 size: >-
-  Trandoshans stand as tall as 7 and a half feet
-and can weigh over 300 lbs. Regardless of your
-position in that range, your size is Medium.
+  Trandoshans stand as tall as 7 and a half feet and can weigh over 300 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Trandoshans reach adulthood in their early
-teens and rarely live to be older than 70.
+  Trandoshans reach adulthood in their early teens and rarely live to be older than 70.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Dosh. Dosh is characterized by its harsh
-grunts, hisses and growls, and its written form that
-used alphabetic glyphs.
+  You can speak, read, and write Galactic Basic and Dosh. Dosh is characterized by its harsh grunts, hisses and growls, and its written form that used alphabetic glyphs.
 skinColor: Green, yellow, brown, orange, red
 hairColor: None
 eyeColor: Yellow, orange
-distinctions: Reptilian, scaly skin, regenerative
-properties
+distinctions: Reptilian, scaly skin, regenerative properties
 homeworld: Trandosha
 language: Dosh
 height:

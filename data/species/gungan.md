@@ -3,8 +3,7 @@ name: GUNGAN
 source: phb
 speedColor: ''
 alignment: >-
-  Gungans tend toward the light side,
-though there are exceptions.
+  Gungans tend toward the light side, though there are exceptions.
 size: >-
   Gungans typically stand 6 to 7 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
@@ -14,8 +13,7 @@ languageColor: >-
 skinColor: Blue, brown, or green
 hairColor: None
 eyeColor: Light colors
-distinctions: Extendable tongues, long ears, eye
-stalks, three toes, aquatic species
+distinctions: Extendable tongues, long ears, eye stalks, three toes, aquatic species
 homeworld: Naboo
 language: Gungan
 height:
@@ -27,7 +25,22 @@ weight:
   base: 115 lb.
   mod: x(2d4) lb. 
 cSize: medium
-mechanics: [{'type': 'asi', 'amount': 1, 'ability': 'strength'}]
+mechanics: 
+  - type: asi
+    amount: 2
+    ability: con
+  - type: asi
+    amount: 1
+    ability: cha
+  - type: skill
+    value: animal_handling
+  - type: skill
+    value: survival
+  - type: speed
+    speed: walk
+    distance: 30
+  - type: language
+    value: [galactic_basic, tusken]
 ---
 ### BIOLOGY AND APPEARANCE
 Starting life as tadpoles, Gungans develop into tall

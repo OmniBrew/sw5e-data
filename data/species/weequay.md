@@ -3,27 +3,17 @@ name: WEEQUAY
 source: phb
 speedColor: ''
 alignment: >-
-  Weequay ruthlessness and greed cause
-them to tend toward chaotic dark side, though there
-are exceptions.
+  Weequay ruthlessness and greed cause them to tend toward chaotic dark side, though there are exceptions.
 size: >-
-  Weequay typically stand about 6 feet tall and
-weigh 150 lbs. Regardless of your position in that
-range, your size is Medium.
+  Weequay typically stand about 6 feet tall and weigh 150 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Weequay reach adulthood in their late teens
-and live less than a century.
+  Weequay reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Sriluurian. You can communicate with other
-Weequay within 30 feet without speaking through use
-of pheromones. Force attuned individuals can detect
-the communication but can’t understand it.
+  You can speak, read, and write Galactic Basic and Sriluurian. You can communicate with other Weequay within 30 feet without speaking through use of pheromones. Force attuned individuals can detect the communication but can’t understand it.
 skinColor: Brown, gray, red, or yellow
 hairColor: Black or blond
 eyeColor: Black, gold, or gray
-distinctions: Tough, leathery skin that provided
-resistance to blasterfire
+distinctions: Tough, leathery skin that provided resistance to blasterfire
 homeworld: Sriluur
 language: Sriluurian
 height:
@@ -49,7 +39,7 @@ mechanics:
     speed: walk
     distance: 30
   - type: language
-    value: ['galactic_basic', 'sriluurian']
+    value: [galactic_basic, sriluurian]
 
 ---
 ### BIOLOGY AND APPEARANCE

@@ -3,23 +3,13 @@ name: TOGRUTA
 source: phb
 speedColor: ''
 alignment: >-
-  Togruta culture focuses on unity which
-causes them to tend toward the light side, though
-there are exceptions.
+  Togruta culture focuses on unity which causes them to tend toward the light side, though there are exceptions.
 size: >-
-  Togruta typically stand between 5 and 6 feet tall
-and weigh 150 lbs. Regardless of your position in that
-range, your size is Medium.
+  Togruta typically stand between 5 and 6 feet tall and weigh 150 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Togruta reach adulthood in their late teens and
-live less than a century.
+  Togruta reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Togruti. Togruti is an ornate language
-characterized by trills and long vowel sounds which are
-modified by subtle tremors in the togruta’s head-tails.
-This language is heavily influenced by Basic, but also
-incorporates some native idioms, which cause Basicspeaking togruta to use seemingly strange expressions
+  You can speak, read, and write Galactic Basic and Togruti. Togruti is an ornate language characterized by trills and long vowel sounds which are modified by subtle tremors in the togruta’s head-tails. This language is heavily influenced by Basic, but also incorporates some native idioms, which cause Basicspeaking togruta to use seemingly strange expressions
 skinColor: Blue, green, orange, purple, red, white, or yellow
 hairColor: None
 eyeColor: Black, blue, green, orange, purple, yellow, or red

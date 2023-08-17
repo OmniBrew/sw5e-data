@@ -7,8 +7,7 @@ alignment: >-
 size: >-
   Ewoks stand between 3 and 4 feet tall and weigh about 50 lbs. Regardless of your position in that range, your size is Small.
 age: >-
-  Ewoks reach adulthood in their early teens and
-live about 50 years.
+  Ewoks reach adulthood in their early teens and live about 50 years.
 languageColor: >-
   You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 skinColor: Brown

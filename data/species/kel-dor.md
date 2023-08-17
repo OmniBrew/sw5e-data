@@ -3,24 +3,17 @@ name: KEL DOR
 source: phb
 speedColor: ''
 alignment: >-
-  Kel dors' structured nature causes them
-to tend toward lawful balanced, though there are
-exceptions.
+  Kel dors' structured nature causes them to tend toward lawful balanced, though there are exceptions.
 size: >-
-  Kel dor typically stand around 6 feet tall and
-weigh about 160 lbs. Regardless of your position in that
-range, your size is Medium.
+  Kel dor typically stand around 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.
 age: >-
-  Kel dor reach adulthood in their late teens and
-live less than a century.
+  Kel dor reach adulthood in their late teens and live less than a century.
 languageColor: >-
-  You can speak, read, and write Galactic
-Basic and Kel Dor.
+  You can speak, read, and write Galactic Basic and Kel Dor.
 skinColor: Orange, red
 hairColor: None
 eyeColor: Black, silver
-distinctions: Rebreathers to survive in oxygen
-environments
+distinctions: Rebreathers to survive in oxygen environments
 homeworld: Dorin
 language: Kel Dor
 height:
