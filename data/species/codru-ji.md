@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Codru-Ji.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Codru-Ji.png
 name: Codru-Ji
 source: ec
 speedColor: ''

@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Arkanian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Arkanian.png
 name: Arkanian
 source: ec
 speedColor: ''

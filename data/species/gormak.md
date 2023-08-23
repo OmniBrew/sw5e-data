@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gormak.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gormak.png
 name: Gormak
 source: ec
 speedColor: ''

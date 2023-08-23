@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Zeltron.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Zeltron.png
 name: Zeltron
 source: ec
 speedColor: ''

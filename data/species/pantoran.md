@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Pantoran.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Pantoran.png
 name: Pantoran
 source: ec
 speedColor: ''

@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Talz.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Talz.png
 name: Talz
 source: ec
 speedColor: ''

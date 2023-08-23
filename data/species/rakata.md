@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Rakata.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Rakata.png
 name: Rakata
 source: ec
 speedColor: ''

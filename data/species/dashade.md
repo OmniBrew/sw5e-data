@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Dashade.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Dashade.png
 name: Dashade
 source: ec
 speedColor: ''

@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Tiss’shar.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Tiss’shar.png
 name: Tiss’shar
 source: ec
 speedColor: ''

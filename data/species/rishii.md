@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Rishii.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Rishii.png
 name: Rishii
 source: ec
 speedColor: ''

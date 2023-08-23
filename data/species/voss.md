@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Voss.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Voss.png
 name: Voss
 source: ec
 speedColor: ''
@@ -22,8 +24,8 @@ height:
   mod: >-
     +2d8"
 weight:
-  base: 105 lbs.
-  mod: x(2d4) lbs.
+  base: Unknown
+  mod: Unknown
 cSize: Medium
 mechanics:
   - type: asi

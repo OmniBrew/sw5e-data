@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chironian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chironian.png
 name: Chironian
 source: ec
 speedColor: ''

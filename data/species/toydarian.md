@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Toydarian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Toydarian.png
 name: Toydarian
 source: ec
 speedColor: ''

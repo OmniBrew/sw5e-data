@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Neimoidian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Neimoidian.png
 name: Neimoidian
 source: ec
 speedColor: ''

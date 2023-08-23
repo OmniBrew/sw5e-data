@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ryn.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ryn.png
 name: Ryn
 source: ec
 speedColor: ''

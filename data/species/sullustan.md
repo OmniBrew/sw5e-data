@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Sullustan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Sullustan.png
 name: Sullustan
 source: ec
 speedColor: ''

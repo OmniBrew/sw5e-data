@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Pyke.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Pyke.png
 name: Pyke
 source: ec
 speedColor: ''

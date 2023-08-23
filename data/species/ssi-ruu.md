@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ssi-Ruu.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ssi-Ruu.png
 name: Ssi-Ruu
 source: ec
 speedColor: ''

@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_droidclass01.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_droidclass01.png
 name: Droid, Class I
 source: phb
 speedColor: ''

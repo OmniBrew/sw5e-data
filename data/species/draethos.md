@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Draethos.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Draethos.png
 name: Draethos
 source: ec
 speedColor: ''

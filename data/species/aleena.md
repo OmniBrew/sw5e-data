@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aleena.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aleena.png
 name: Aleena
 source: ec
 speedColor: ''
@@ -9,7 +11,7 @@ size: >-
 age: >-
   Aleena reach adulthood in their late teens and live to be about 80.
 languageColor: >-
-  You can speak, read, and write Galactic Basic and Aleena. Aleena is characterized by its use of short syllables and energetic movements to convey urgency and emotion.
+  You can speak, read, and write Galactic Basic and Aleena. 
 skinColor: Blue, gray, purple, tan
 hairColor: None
 eyeColor: Blue
@@ -18,13 +20,13 @@ homeworld: Aleen
 language: Aleena
 height:
   base: >-
-    2'1"
+    2’1"
   mod: >-
     +2d4"
 weight:
-  base: 35 lb.
-  mod: x1 lb.
-cSize: small
+  base: 35 lbs.
+  mod: x1 lbs.
+cSize: Small
 mechanics:
   - type: asi
     amount: 2
@@ -36,7 +38,7 @@ mechanics:
     speed: walk
     distance: 25
   - type: language
-    value: [galactic_basic, aleena]
+    value: [galactic_basic, Aleena]
 ---
 ### BIOLOGY AND APPEARANCE
 Aleena are short, reptilian bipeds with large eyes and wide mouths full of small, sharp teeth. Aleena’s bodies are long compared to their short arms and stubby legs. Warm-blooded reptiles, they possess exceptional reflexes as well as a fast metabolism which allow them to convert food into energy very rapidly in order to escape predators on their harsh home planet.
@@ -54,3 +56,7 @@ __Male Names.__ Batts, Gratz, Wakka, Zakan, Zetts
 __Female Names.__ Arkei, Harza, Sutci, Tsuon, Yenn,
 
 __Surnames.__ Anares, Kylar, Ors, Practes, Targae
+
+
+
+    

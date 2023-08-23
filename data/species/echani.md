@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Echani.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Echani.png
 name: Echani
 source: ec
 speedColor: ''

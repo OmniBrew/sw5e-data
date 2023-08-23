@@ -26,6 +26,270 @@
     "id": "acolyte"
   },
   {
+    "name": "Affixed Rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 700,
+    "manufacturer": "Unaffiliated",
+    "weight": 8,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Power cell (range 90/360)",
+        "Fixed",
+        "Rapid 4",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "affixed-rifle"
+  },
+  {
+    "name": "Anti-materiel blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2500,
+    "manufacturer": "Unaffiliated",
+    "weight": 18.5,
+    "reload": 2,
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 180,
+      "long": 720
+    },
+    "properties": [
+      [
+        "Power cell (range 180/720)",
+        "Auto",
+        "Reload 2",
+        "Penetrating 2",
+        "Strength 19",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "anti-materiel-blaster"
+  },
+  {
+    "name": "Anti-materiel rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1900,
+    "manufacturer": "Unaffiliated",
+    "weight": 17,
+    "reload": 2,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 180,
+      "long": 720
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 180/720)",
+        "Reload 2",
+        "Penetrating 2",
+        "Strength 19",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "anti-materiel-rifle"
+  },
+  {
+    "name": "ARC caster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2125,
+    "manufacturer": "Unaffiliated",
+    "weight": 9,
+    "reload": 9,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Lightning"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Burst 8",
+        "Rapid 4",
+        "Reload 9",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "arc-caster"
+  },
+  {
+    "name": "Assault cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1550,
+    "manufacturer": "Unaffiliated",
+    "weight": 15,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Burst 4",
+        "Power cell (range 90/360)",
+        "Reload 4",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "assault-cannon"
+  },
+  {
+    "name": "Atlatl",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disguised",
+        "Light",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "atlatl"
+  },
+  {
+    "name": "Beam rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1850,
+    "manufacturer": "Unaffiliated",
+    "weight": 16,
+    "reload": 2,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Penetrating 2",
+        "Power cell (range 150/600)",
+        "Reload 2",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "beam-rifle"
+  },
+  {
+    "name": "Bitesaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Acid"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Biting 13",
+        "Hidden",
+        "Luminous",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "bitesaber"
+  },
+  {
+    "name": "BKG",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2750,
+    "manufacturer": "Unaffiliated",
+    "weight": 19,
+    "reload": 2,
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 2",
+        "Disintegrate 13",
+        "Power cell (range 120/480)",
+        "Reload 2",
+        "Strength 19",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "bkg"
+  },
+  {
     "name": "Blaster Pistol",
     "rarity": "unenhanced",
     "type": "simple_blaster",
@@ -75,5 +339,5706 @@
     "slots": 0,
     "html": "<p>Blaster rifle are a type of rifle-shaped blaster weaponry, typically with a longer barrel than other types of blasters.</p>\n",
     "id": "blaster rifle"
+  },
+  {
+    "name": "Blaster cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 5500,
+    "manufacturer": "Unaffiliated",
+    "weight": 18.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst",
+        "Rapid",
+        "Special (range 120/480)",
+        "Strength 19",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "blaster-cannon"
+  },
+  {
+    "name": "Blaster carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 425,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.5,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 70,
+      "long": 280
+    },
+    "properties": [
+      [
+        "Power cell (range 70/280)",
+        "Reload 16",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "blaster-carbine"
+  },
+  {
+    "name": "Blightsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Necrotic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Corruption 13",
+        "Hidden",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "blightsaber"
+  },
+  {
+    "name": "Bo-rifle",
+    "rarity": "unenhanced",
+    "type": "Exotic_Vibroweapon",
+    "cost": 1075,
+    "manufacturer": "Unaffiliated",
+    "weight": 0,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Modal (blaster rifle and techstaff)"
+      ]
+    ],
+    "html": "",
+    "id": "bo-rifle"
+  },
+  {
+    "name": "Bolas",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 100,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 20,
+      "long": 60
+    },
+    "properties": [
+      [
+        "Light",
+        "Special",
+        "Thrown (range 20/60)"
+      ]
+    ],
+    "html": "",
+    "id": "bolas"
+  },
+  {
+    "name": "Bolt-thrower",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1825,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.5,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Reload 1",
+        "Silent",
+        "Special (range 90/360)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "bolt-thrower"
+  },
+  {
+    "name": "Bowcaster",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1150,
+    "manufacturer": "Unaffiliated",
+    "weight": 11,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 50,
+      "long": 200
+    },
+    "properties": [
+      [
+        "Burst 4",
+        "Power cell (range 50/200)",
+        "Reload 4",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "bowcaster"
+  },
+  {
+    "name": "Brightsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Fire"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Bright 13",
+        "Hidden",
+        "Luminous",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "brightsaber"
+  },
+  {
+    "name": "Broadsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1000,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Dire 1",
+        "Luminous",
+        "Versatile (1d8)"
+      ]
+    ],
+    "html": "",
+    "id": "broadsaber"
+  },
+  {
+    "name": "Bustersaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 2900,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 19",
+        "Heavy",
+        "Keen 1",
+        "Luminous",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "bustersaber"
+  },
+  {
+    "name": "Carbine rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 925,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Auto",
+        "Power cell (range 90/360)",
+        "Rapid 3",
+        "Reload 12",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "carbine-rifle"
+  },
+  {
+    "name": "Cesta",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 975,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disguised",
+        "Double (1d8) finesse",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "cesta"
+  },
+  {
+    "name": "Chained dagger",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 350,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disarming",
+        "Finesse",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "chained-dagger"
+  },
+  {
+    "name": "Chained lightdagger",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 800,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disarming",
+        "Finesse",
+        "Luminous",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "chained-lightdagger"
+  },
+  {
+    "name": "Chaingun",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1325,
+    "manufacturer": "Unaffiliated",
+    "weight": 10.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Auto",
+        "Rapid 2",
+        "Reload 8",
+        "Slug cartridge (range 80/320)",
+        "Strength 13",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "chaingun"
+  },
+  {
+    "name": "Chakram",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 175,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 90
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Returning",
+        "Thrown (range 30/90)"
+      ]
+    ],
+    "html": "",
+    "id": "chakram"
+  },
+  {
+    "name": "Claymoresaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 2300,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Luminous",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "claymoresaber"
+  },
+  {
+    "name": "Compound bow",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 6.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Mighty",
+        "Silent",
+        "Special (range 75/300)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "compound-bow"
+  },
+  {
+    "name": "Crossguard saber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Dexterity 13",
+        "Heavy",
+        "Luminous",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "crossguard-saber"
+  },
+  {
+    "name": "Crosssaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1650,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 15",
+        "Double (2d4 energy)",
+        "Heavy",
+        "Luminous",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "crosssaber"
+  },
+  {
+    "name": "Cryo cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3300,
+    "manufacturer": "Unaffiliated",
+    "weight": 12.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Cold"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 2",
+        "Power cell (range 75/300)",
+        "Reload 4",
+        "Strength 13",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "cryo-cannon"
+  },
+  {
+    "name": "Cryo carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1250,
+    "manufacturer": "Unaffiliated",
+    "weight": 6,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Cold"
+    },
+    "range": {
+      "short": 45,
+      "long": 180
+    },
+    "properties": [
+      [
+        "Power cell (range 45/180)",
+        "Reload 12",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "cryo-carbine"
+  },
+  {
+    "name": "Cryo pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 750,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Cold"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Power cell (range 30/120)",
+        "Reload 8",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "cryo-pistol"
+  },
+  {
+    "name": "Cryo rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2400,
+    "manufacturer": "Unaffiliated",
+    "weight": 10.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Cold"
+    },
+    "range": {
+      "short": 50,
+      "long": 200
+    },
+    "properties": [
+      [
+        "Power cell (range 50/200)",
+        "Reload 4",
+        "Strength 11",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "cryo-rifle"
+  },
+  {
+    "name": "Cycler rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 825,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Rapid 2",
+        "Reload 8",
+        "Slug cartridge (range 90/360)",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "cycler-rifle"
+  },
+  {
+    "name": "Dire vibroblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 550,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Dire 1",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "dire-vibroblade"
+  },
+  {
+    "name": "Diresword",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 300,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Dire 1",
+        "Heavy"
+      ]
+    ],
+    "html": "",
+    "id": "diresword"
+  },
+  {
+    "name": "Disguised blade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 125,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disarming",
+        "Disguised",
+        "Finesse",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "disguised-blade"
+  },
+  {
+    "name": "Disruptor carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1450,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Acid"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Disintegrate 13",
+        "Power cell (range 60/240)",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "disruptor-carbine"
+  },
+  {
+    "name": "Disruptor pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 750,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Acid"
+    },
+    "range": {
+      "short": 45,
+      "long": 180
+    },
+    "properties": [
+      [
+        "Disintegrate 13",
+        "Power cell (range 45/180)",
+        "Reload 12",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "disruptor-pistol"
+  },
+  {
+    "name": "Disruptor rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2900,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Acid"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Disintegrate 13",
+        "Power cell (range 60/240)",
+        "Reload 4",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "disruptor-rifle"
+  },
+  {
+    "name": "Disruptor sniper",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3300,
+    "manufacturer": "Unaffiliated",
+    "weight": 15,
+    "reload": 2,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Acid"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Disintegrate 13",
+        "Power cell (range 120/480)",
+        "Reload 2",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "disruptor-sniper"
+  },
+  {
+    "name": "Disruptorshiv",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 425,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disruptive",
+        "Finesse",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "disruptorshiv"
+  },
+  {
+    "name": "Doubleblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 400,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d6 kinetic)",
+        "Finesse",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "doubleblade"
+  },
+  {
+    "name": "Doublesaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d8 energy)",
+        "Finesse",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "doublesaber"
+  },
+  {
+    "name": "Doubleshoto",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 700,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d6 energy)",
+        "Finesse",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "doubleshoto"
+  },
+  {
+    "name": "Doublesword",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 450,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d8 kinetic)",
+        "Finesse"
+      ]
+    ],
+    "html": "",
+    "id": "doublesword"
+  },
+  {
+    "name": "Dual-phase saber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1250,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Hidden",
+        "Luminous",
+        "Versatile (1d12)",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "dual-phase-saber"
+  },
+  {
+    "name": "Echostaff",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d6 kinetic)",
+        "Finesse",
+        "Sonorous 13"
+      ]
+    ],
+    "html": "",
+    "id": "echostaff"
+  },
+  {
+    "name": "Electrobaton",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 275,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Light",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "electrobaton"
+  },
+  {
+    "name": "Electrohammer",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 950,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Heavy",
+        "Shocking 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "electrohammer"
+  },
+  {
+    "name": "Electroprod",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 650,
+    "manufacturer": "Unaffiliated",
+    "weight": 6,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disruptive",
+        "Shocking 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "electroprod"
+  },
+  {
+    "name": "Electrostaff",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d6 kinetic)",
+        "Finesse",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "electrostaff"
+  },
+  {
+    "name": "Electrovoulge",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1250,
+    "manufacturer": "Unaffiliated",
+    "weight": 10,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Reach",
+        "Shocking 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "electrovoulge"
+  },
+  {
+    "name": "Electrowhip",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Disruptive",
+        "Reach",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "electrowhip"
+  },
+  {
+    "name": "Energy bow",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 475,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Power cell (range 80/320)",
+        "Mighty",
+        "Reload 4",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "energy-bow"
+  },
+  {
+    "name": "Energy slingshot",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 425,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": 20,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 20,
+      "long": 80
+    },
+    "properties": [
+      [
+        "Power cell (range 20/80)",
+        "Disruptive",
+        "Fixed",
+        "Mighty",
+        "Reload 20",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "energy-slingshot"
+  },
+  {
+    "name": "Flechette cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2300,
+    "manufacturer": "Unaffiliated",
+    "weight": 13,
+    "reload": 6,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Reload 6",
+        "Special (range special)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "flechette-cannon"
+  },
+  {
+    "name": "Great-saber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1725,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Luminous",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "great-saber"
+  },
+  {
+    "name": "Grenade launcher",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 11.5,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Reload 1",
+        "Special (range 90/360)",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "grenade-launcher"
+  },
+  {
+    "name": "Guard shoto",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Finesse",
+        "Hidden",
+        "Light luminous"
+      ]
+    ],
+    "html": "",
+    "id": "guard-shoto"
+  },
+  {
+    "name": "Hand BKG",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1550,
+    "manufacturer": "Unaffiliated",
+    "weight": 10,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 50,
+      "long": 200
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Disintegrate 13",
+        "Keen 1",
+        "Power cell (range 50/200)",
+        "Reload 4",
+        "Strength 15"
+      ]
+    ],
+    "html": "",
+    "id": "hand-bkg"
+  },
+  {
+    "name": "Hand blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 500,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Keen 1",
+        "Light",
+        "Power cell (range 40/160)",
+        "Reload 8"
+      ]
+    ],
+    "html": "",
+    "id": "hand-blaster"
+  },
+  {
+    "name": "Hand cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1300,
+    "manufacturer": "Unaffiliated",
+    "weight": 10.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 25,
+      "long": 100
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Slug cartridge (range 25/100)",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "hand-cannon"
+  },
+  {
+    "name": "Heavy blaster rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1025,
+    "manufacturer": "Unaffiliated",
+    "weight": 10,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 100,
+      "long": 400
+    },
+    "properties": [
+      [
+        "Power cell (range 100/400)",
+        "Rapid 2",
+        "Reload 8",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-blaster-rifle"
+  },
+  {
+    "name": "Heavy bowcaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1750,
+    "manufacturer": "Unaffiliated",
+    "weight": 15.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Burst 2",
+        "Power cell (range 90/360)",
+        "Reload 4",
+        "Strength 17",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-bowcaster"
+  },
+  {
+    "name": "Heavy carbine",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 775,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Rapid 4",
+        "Reload 16",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-carbine"
+  },
+  {
+    "name": "Heavy pistol",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 300,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 45,
+      "long": 180
+    },
+    "properties": [
+      [
+        "Power cell (range 45/180)",
+        "Reload 16"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-pistol"
+  },
+  {
+    "name": "Heavy repeater",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1225,
+    "manufacturer": "Unaffiliated",
+    "weight": 11,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 4",
+        "Power cell (range 80/320)",
+        "Rapid 4",
+        "Reload 8",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-repeater"
+  },
+  {
+    "name": "Heavy shotgun",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1125,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Burst 2",
+        "Reload 8",
+        "Slug cartridge (range 60/240)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-shotgun"
+  },
+  {
+    "name": "Heavy slugpistol",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Rapid 8",
+        "Reload 12",
+        "Slug cartridge (range 30/120)"
+      ]
+    ],
+    "html": "",
+    "id": "heavy-slugpistol"
+  },
+  {
+    "name": "Hidden blade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 75,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Fixed",
+        "Hidden",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "hidden-blade"
+  },
+  {
+    "name": "Hold-out",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 225,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Hidden",
+        "Light",
+        "Power cell (range 30/120)",
+        "Reload 8"
+      ]
+    ],
+    "html": "",
+    "id": "hold-out"
+  },
+  {
+    "name": "Hooked vibroblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 225,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disarming",
+        "Finesse"
+      ]
+    ],
+    "html": "",
+    "id": "hooked-vibroblade"
+  },
+  {
+    "name": "Hunting rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1000,
+    "manufacturer": "Unaffiliated",
+    "weight": 11,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 125,
+      "long": 500
+    },
+    "properties": [
+      [
+        "Reload 4",
+        "Slug cartridge (range 125/500)",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "hunting-rifle"
+  },
+  {
+    "name": "Incinerator carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1650,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Fire"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Dire 1",
+        "Disintegrate 13",
+        "Power cell (range 60/240)",
+        "Reload 12",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "incinerator-carbine"
+  },
+  {
+    "name": "Incinerator pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1250,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Fire"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Dire 1",
+        "Disintegrate 13",
+        "Power cell (range 40/160)",
+        "Reload 16",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "incinerator-pistol"
+  },
+  {
+    "name": "Incinerator rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1950,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Fire"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Dire 1",
+        "Disintegrate 13",
+        "Power cell (range 80/320)",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "incinerator-rifle"
+  },
+  {
+    "name": "Incinerator sniper",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3300,
+    "manufacturer": "Unaffiliated",
+    "weight": 14.5,
+    "reload": 2,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Fire"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Dire 1",
+        "Disintegrate 13",
+        "Power cell (range 120/480)",
+        "Reload 2",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "incinerator-sniper"
+  },
+  {
+    "name": "Ion cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3800,
+    "manufacturer": "Unaffiliated",
+    "weight": 16.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Ion"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 4",
+        "Power cell (range 90/360)",
+        "Reload 4",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "ion-cannon"
+  },
+  {
+    "name": "Ion carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 6,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Ion"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Reload 12",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "ion-carbine"
+  },
+  {
+    "name": "Ion pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 3,
+      "type": "Ion"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Power cell (range 40/160)",
+        "Reload 16"
+      ]
+    ],
+    "html": "",
+    "id": "ion-pistol"
+  },
+  {
+    "name": "Ion rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1150,
+    "manufacturer": "Unaffiliated",
+    "weight": 8,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Ion"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Power cell (range 80/320)",
+        "Reload 8",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "ion-rifle"
+  },
+  {
+    "name": "IWS",
+    "rarity": "unenhanced",
+    "type": "Exotic_Blaster",
+    "cost": 3625,
+    "manufacturer": "Unaffiliated",
+    "weight": 23,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Modal (blaster rifle",
+        "grenade launcher",
+        "and sniper rifle)"
+      ]
+    ],
+    "html": "",
+    "id": "iws"
+  },
+  {
+    "name": "Jagged vibroblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 650,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Keen 1",
+        "Versatile (1d12)"
+      ]
+    ],
+    "html": "",
+    "id": "jagged-vibroblade"
+  },
+  {
+    "name": "Light pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Light",
+        "Power cell (range 40/160)",
+        "Reload 8"
+      ]
+    ],
+    "html": "",
+    "id": "light-pistol"
+  },
+  {
+    "name": "Light repeater",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 625,
+    "manufacturer": "Unaffiliated",
+    "weight": 6,
+    "reload": 20,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 50,
+      "long": 200
+    },
+    "properties": [
+      [
+        "Auto",
+        "Power cell (range 50/200)",
+        "Rapid 5",
+        "Reload 20",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "light-repeater"
+  },
+  {
+    "name": "Light slugpistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 35,
+      "long": 140
+    },
+    "properties": [
+      [
+        "Light",
+        "Reload 8",
+        "Slug cartridge (range 35/140)"
+      ]
+    ],
+    "html": "",
+    "id": "light-slugpistol"
+  },
+  {
+    "name": "Lightaxe",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1550,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Heavy",
+        "Luminous",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightaxe"
+  },
+  {
+    "name": "Lightbaton",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 400,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Hidden",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "lightbaton"
+  },
+  {
+    "name": "Lightblade",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "lightblade"
+  },
+  {
+    "name": "Lightbow",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 14,
+    "reload": 2,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Piercing 1",
+        "Power cell (range 60/240)",
+        "Reload 2",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightbow"
+  },
+  {
+    "name": "Lightclub",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 1300,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Heavy",
+        "Luminous",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightclub"
+  },
+  {
+    "name": "Lightcutlass",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Hidden",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "lightcutlass"
+  },
+  {
+    "name": "Lightdagger",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 425,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 20,
+      "long": 60
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Light",
+        "Luminous",
+        "Thrown (range 20/60)"
+      ]
+    ],
+    "html": "",
+    "id": "lightdagger"
+  },
+  {
+    "name": "Lightfist",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 650,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disguised",
+        "Disruptive",
+        "Fixed",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "lightfist"
+  },
+  {
+    "name": "Lightfoil",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 475,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "lightfoil"
+  },
+  {
+    "name": "Lightglaive",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 2050,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 13",
+        "Luminous",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightglaive"
+  },
+  {
+    "name": "Lightkatana",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 925,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Hidden",
+        "Luminous",
+        "Piercing 1",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "lightkatana"
+  },
+  {
+    "name": "Lightning cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 4400,
+    "manufacturer": "Unaffiliated",
+    "weight": 16,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Lightning"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Power cell (range 90/360)",
+        "Auto",
+        "Penetrating 2",
+        "Reload 4",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightning-cannon"
+  },
+  {
+    "name": "Lightning carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 1150,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Lightning"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Penetrating 6",
+        "Reload 12",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightning-carbine"
+  },
+  {
+    "name": "Lightning pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 550,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Lightning"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Power cell (range 30/120)",
+        "Penetrating 8",
+        "Reload 16"
+      ]
+    ],
+    "html": "",
+    "id": "lightning-pistol"
+  },
+  {
+    "name": "Lightning rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2125,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Lightning"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Penetrating 2",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightning-rifle"
+  },
+  {
+    "name": "Lightnodachi",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 3050,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 17",
+        "Luminous",
+        "Piercing 1",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "lightnodachi"
+  },
+  {
+    "name": "Lightring",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 575,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 25,
+      "long": 75
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Luminous",
+        "Returning",
+        "Thrown (range 25/75)"
+      ]
+    ],
+    "html": "",
+    "id": "lightring"
+  },
+  {
+    "name": "Lightsaber pike",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1175,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Double (1d8 energy)",
+        "Luminous",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "lightsaber-pike"
+  },
+  {
+    "name": "Lightsaber",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 450,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Hidden",
+        "Luminous",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "lightsaber"
+  },
+  {
+    "name": "Lightstaff",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 1275,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Luminous",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "lightstaff"
+  },
+  {
+    "name": "Mancatcher",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 800,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Reach",
+        "Special",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "mancatcher"
+  },
+  {
+    "name": "Marksman blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1100,
+    "manufacturer": "Unaffiliated",
+    "weight": 12,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 125,
+      "long": 500
+    },
+    "properties": [
+      [
+        "Power cell (range 125/500)",
+        "Reload 8",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "marksman-blaster"
+  },
+  {
+    "name": "Martial lightsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 550,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Hidden",
+        "Luminous",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "martial-lightsaber"
+  },
+  {
+    "name": "Mortar launcher",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3500,
+    "manufacturer": "Unaffiliated",
+    "weight": 25,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Special (range 150/600)",
+        "Reload 1",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "mortar-launcher"
+  },
+  {
+    "name": "Needler",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 475,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 30/160)",
+        "Piercing 1",
+        "Reload 12",
+        "Silent",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "needler"
+  },
+  {
+    "name": "Nervebaton",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disruptive",
+        "Neuralizing 13"
+      ]
+    ],
+    "html": "",
+    "id": "nervebaton"
+  },
+  {
+    "name": "Net",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 300,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Light",
+        "Finesse",
+        "Special",
+        "Thrown (range 15)"
+      ]
+    ],
+    "html": "",
+    "id": "net"
+  },
+  {
+    "name": "Neuronic whip",
+    "rarity": "unenhanced",
+    "type": "Exotic_Vibroweapon",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 0,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Reach",
+        "Shocking 15",
+        "Specialized (shocking)"
+      ]
+    ],
+    "html": "",
+    "id": "neuronic-whip"
+  },
+  {
+    "name": "Nightstinger rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1075,
+    "manufacturer": "Unaffiliated",
+    "weight": 11,
+    "reload": 2,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 125,
+      "long": 500
+    },
+    "properties": [
+      [
+        "Power cell (range 125/500)",
+        "Reload 2",
+        "Silent",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "nightstinger-rifle"
+  },
+  {
+    "name": "Phase knife",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1025,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Disguised",
+        "Hidden",
+        "Keen 1",
+        "Light",
+        "Luminous",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "phase-knife"
+  },
+  {
+    "name": "Pikesaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1675,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Luminous",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "pikesaber"
+  },
+  {
+    "name": "Radiation cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3900,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Necrotic"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Power cell (range 75/300)",
+        "Auto",
+        "Burst 2",
+        "Disrupt ive",
+        "Piercing 1",
+        "Reload 4",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "radiation-cannon"
+  },
+  {
+    "name": "Radrifle",
+    "rarity": "unenhanced",
+    "type": "Exotic_Blaster",
+    "cost": 1575,
+    "manufacturer": "Unaffiliated",
+    "weight": 14,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Necrotic"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Disintegrate 15",
+        "Power cell (range 120/480)",
+        "Reload 8",
+        "Specialized (disintegrate)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "radrifle"
+  },
+  {
+    "name": "Railgun",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1900,
+    "manufacturer": "Unaffiliated",
+    "weight": 16,
+    "reload": 2,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Piercing 1",
+        "Reload 2",
+        "Slug cartridge (range 150/600)",
+        "Strength 17",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "railgun"
+  },
+  {
+    "name": "Repeating blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1025,
+    "manufacturer": "Unaffiliated",
+    "weight": 9,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 4",
+        "Power cell (range 75/300)",
+        "Rapid 4",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "repeating-blaster"
+  },
+  {
+    "name": "Retrosaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 950,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Dire 1",
+        "Reckless 1",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "retrosaber"
+  },
+  {
+    "name": "Revolver",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 625,
+    "manufacturer": "Unaffiliated",
+    "weight": 6.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 60/240)",
+        "Rapid 4",
+        "Reload 8",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "revolver"
+  },
+  {
+    "name": "Riot baton",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "riot-baton"
+  },
+  {
+    "name": "Riot shocker",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 425,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Light",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "riot-shocker"
+  },
+  {
+    "name": "Rocket launcher",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2250,
+    "manufacturer": "Unaffiliated",
+    "weight": 14,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Reload 1",
+        "Special (range 150/600)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "rocket-launcher"
+  },
+  {
+    "name": "Rocket rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2250,
+    "manufacturer": "Unaffiliated",
+    "weight": 12,
+    "reload": 6,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Reload 6",
+        "Special (range 60/240)",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "rocket-rifle"
+  },
+  {
+    "name": "Rotary cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1500,
+    "manufacturer": "Unaffiliated",
+    "weight": 12.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Auto",
+        "Power cell (range 75/300)",
+        "Rapid 2",
+        "Reload 8",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "rotary-cannon"
+  },
+  {
+    "name": "Saberaxe",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "saberaxe"
+  },
+  {
+    "name": "Sabergauntlet",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 475,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Fixed",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "sabergauntlet"
+  },
+  {
+    "name": "Sabermace",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 950,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 13",
+        "Hidden",
+        "Luminous",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "sabermace"
+  },
+  {
+    "name": "Saberspear",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 450,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 20,
+      "long": 60
+    },
+    "properties": [
+      [
+        "Luminous",
+        "Thrown (range 20/60)",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "saberspear"
+  },
+  {
+    "name": "Saberstaff",
+    "rarity": "unenhanced",
+    "type": "Exotic_Vibroweapon",
+    "cost": 1375,
+    "manufacturer": "Unaffiliated",
+    "weight": 0,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Modal (double-saber and tech-staff)"
+      ]
+    ],
+    "html": "",
+    "id": "saberstaff"
+  },
+  {
+    "name": "Saberwhip",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 750,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Luminous",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "saberwhip"
+  },
+  {
+    "name": "Scatter blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1175,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Power cell (range 40/160)",
+        "Burst 3",
+        "Reload 12",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "scatter-blaster"
+  },
+  {
+    "name": "Scattergun",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 625,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Burst 2",
+        "Reload 8",
+        "Slug cartridge (range 30/120)",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "scattergun"
+  },
+  {
+    "name": "Sentry gun",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3250,
+    "manufacturer": "Unaffiliated",
+    "weight": 16.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 120,
+      "long": 480
+    },
+    "properties": [
+      [
+        "Brutal",
+        "Keen 1",
+        "Reload 4",
+        "Special (range 120/480)",
+        "Strength 19",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "sentry-gun"
+  },
+  {
+    "name": "Shatter cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1625,
+    "manufacturer": "Unaffiliated",
+    "weight": 14,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 75/300)",
+        "Auto",
+        "Burst 4",
+        "Reload 8",
+        "Silent",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "shatter-cannon"
+  },
+  {
+    "name": "Shatter pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 60/240)",
+        "Light",
+        "Reload 12",
+        "Silent",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "shatter-pistol"
+  },
+  {
+    "name": "Shatter rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 750,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 100,
+      "long": 400
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 100/400)",
+        "Reload 8",
+        "Silent",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "shatter-rifle"
+  },
+  {
+    "name": "Shock whip",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 475,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Reach",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "shock-whip"
+  },
+  {
+    "name": "Shortbow",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 550,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Mighty",
+        "Silent",
+        "Special (range 60/240)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "shortbow"
+  },
+  {
+    "name": "Shotgun",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 725,
+    "manufacturer": "Unaffiliated",
+    "weight": 6.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Burst 2",
+        "Reload 4",
+        "Slug cartridge (range 30/120)",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "shotgun"
+  },
+  {
+    "name": "Shotosaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 450,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Hidden",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "shotosaber"
+  },
+  {
+    "name": "Shoulder blaster",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1275,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Power cell (range 40/160)",
+        "Rapid 4",
+        "Reload 16",
+        "Smart (15/+2)",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "shoulder-blaster"
+  },
+  {
+    "name": "Shoulder cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1625,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 8",
+        "Power cell (range 60/240)",
+        "Reload 8",
+        "Smart (15/+2)",
+        "Special",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "shoulder-cannon"
+  },
+  {
+    "name": "Sicklesaber",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 700,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Dire 1",
+        "Hidden",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "sicklesaber"
+  },
+  {
+    "name": "Sith saber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 925,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Hidden",
+        "Keen 1",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "sith-saber"
+  },
+  {
+    "name": "Slugpistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 325,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Rapid 8",
+        "Reload 16",
+        "Slug cartridge (range 40/160)",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "slugpistol"
+  },
+  {
+    "name": "Slugthrower",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 525,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 105,
+      "long": 420
+    },
+    "properties": [
+      [
+        "Reload 12",
+        "Slug cartridge (range 105/420)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "slugthrower"
+  },
+  {
+    "name": "Smart cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2250,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 75,
+      "long": 300
+    },
+    "properties": [
+      [
+        "Auto",
+        "Burst 2",
+        "Rapid 2",
+        "Reload 4",
+        "Slug cartridge (range 75/300)",
+        "Smart (15/+2)",
+        "Strength 15",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "smart-cannon"
+  },
+  {
+    "name": "Smart pistol",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1075,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Piercing 1",
+        "Rapid 2",
+        "Reload 16",
+        "Slug cartridge (range 40/160)",
+        "Smart (15/+2)",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "smart-pistol"
+  },
+  {
+    "name": "Sniper rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1300,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.5,
+    "reload": 2,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Power cell (range 150/600)",
+        "Reload 2",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "sniper-rifle"
+  },
+  {
+    "name": "Sonic cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2100,
+    "manufacturer": "Unaffiliated",
+    "weight": 16.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Sonic"
+    },
+    "range": {
+      "short": 90,
+      "long": 360
+    },
+    "properties": [
+      [
+        "Power cell (range 90/360)",
+        "Auto",
+        "Burst 2",
+        "Disruptive",
+        "Reload 4",
+        "Strength 17",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "sonic-cannon"
+  },
+  {
+    "name": "Sonic carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 675,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Sonic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Disruptive",
+        "Reload 12",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "sonic-carbine"
+  },
+  {
+    "name": "Sonic pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Sonic"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Power cell (range 30/120)",
+        "Disruptive",
+        "Reload 16"
+      ]
+    ],
+    "html": "",
+    "id": "sonic-pistol"
+  },
+  {
+    "name": "Sonic rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 875,
+    "manufacturer": "Unaffiliated",
+    "weight": 9,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Sonic"
+    },
+    "range": {
+      "short": 80,
+      "long": 320
+    },
+    "properties": [
+      [
+        "Power cell (range 80/320)",
+        "Disruptive",
+        "Reload 8",
+        "Strength 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "sonic-rifle"
+  },
+  {
+    "name": "Splitsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1500,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (2d4 energy)",
+        "Interlocking",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "splitsaber"
+  },
+  {
+    "name": "Splitshoto",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 1150,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Double (1d8 energy)",
+        "Interlocking",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "splitshoto"
+  },
+  {
+    "name": "Stealth carbine",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 500,
+    "manufacturer": "Unaffiliated",
+    "weight": 6,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 70,
+      "long": 280
+    },
+    "properties": [
+      [
+        "Power cell (range 70/280)",
+        "Reload 16",
+        "Silent",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "stealth-carbine"
+  },
+  {
+    "name": "Stun gauntlet",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 400,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Disruptive",
+        "Fixed",
+        "Shocking 13"
+      ]
+    ],
+    "html": "",
+    "id": "stun-gauntlet"
+  },
+  {
+    "name": "Subrepeater",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 625,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Auto",
+        "Rapid 4",
+        "Light",
+        "Power cell (range 30/120)",
+        "Reload 16",
+        "Strength 11"
+      ]
+    ],
+    "html": "",
+    "id": "subrepeater"
+  },
+  {
+    "name": "Sunsaber",
+    "rarity": "unenhanced",
+    "type": "Exotic_Lightweapon",
+    "cost": 1875,
+    "manufacturer": "Unaffiliated",
+    "weight": 0,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Fire"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Bright 15",
+        "Dexterity 11",
+        "Hidden",
+        "Specialized (bright)",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "sunsaber"
+  },
+  {
+    "name": "Switch cannon",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 3350,
+    "manufacturer": "Unaffiliated",
+    "weight": 12.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 100,
+      "long": 400
+    },
+    "properties": [
+      [
+        "Power cell (range 100/400)",
+        "Burst 2",
+        "Reload 4",
+        "Strength 15",
+        "Switch (2d4 acid/cold/fire/lightning)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "switch-cannon"
+  },
+  {
+    "name": "Switch carbine",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 925,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": 16,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 70,
+      "long": 280
+    },
+    "properties": [
+      [
+        "Power cell (range 70/280)",
+        "Reload 16",
+        "Switch (1d4 acid)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "switch-carbine"
+  },
+  {
+    "name": "Switch pistol",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 675,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.5,
+    "reload": 20,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 40,
+      "long": 160
+    },
+    "properties": [
+      [
+        "Power cell (range 40/160)",
+        "Reload 20",
+        "Switch (1d4 fire)"
+      ]
+    ],
+    "html": "",
+    "id": "switch-pistol"
+  },
+  {
+    "name": "Switch rifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1025,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 105,
+      "long": 420
+    },
+    "properties": [
+      [
+        "Power cell (range 105/420)",
+        "Reload 8",
+        "Switch (1d6 lightning)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "switch-rifle"
+  },
+  {
+    "name": "Switch sniper",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 1800,
+    "manufacturer": "Unaffiliated",
+    "weight": 15.5,
+    "reload": 2,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 150,
+      "long": 600
+    },
+    "properties": [
+      [
+        "Power cell (range 150/600)",
+        "Reload 2",
+        "Strength 13",
+        "Switch (1d10 cold)",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "switch-sniper"
+  },
+  {
+    "name": "Techaxe",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 75,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 25,
+      "long": 75
+    },
+    "properties": [
+      [
+        "Light",
+        "Thrown (range 25/75)"
+      ]
+    ],
+    "html": "",
+    "id": "techaxe"
+  },
+  {
+    "name": "Techblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 100,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "techblade"
+  },
+  {
+    "name": "Techstaff",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 650,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Double (2d4 kinetic)",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "techstaff"
+  },
+  {
+    "name": "Torpedo launcher",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 15000,
+    "manufacturer": "Unaffiliated",
+    "weight": 30,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 1200,
+      "long": 3600
+    },
+    "properties": [
+      [
+        "Special (range 1200/3600)",
+        "Reload 1",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "torpedo-launcher"
+  },
+  {
+    "name": "Tranquilizer rifle",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 275,
+    "manufacturer": "Unaffiliated",
+    "weight": 2.5,
+    "reload": 4,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Slug cartridge (range 60/240)",
+        "Reload 4",
+        "Silent",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "tranquilizer-rifle"
+  },
+  {
+    "name": "Vapor projector",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 2300,
+    "manufacturer": "Unaffiliated",
+    "weight": 13,
+    "reload": 6,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Reload 6",
+        "Special (range special)",
+        "Strength 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vapor-projector"
+  },
+  {
+    "name": "Vibroaxe",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 950,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Heavy",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibroaxe"
+  },
+  {
+    "name": "Vibrobaton",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "—"
+      ]
+    ],
+    "html": "",
+    "id": "vibrobaton"
+  },
+  {
+    "name": "Vibrobattleaxe",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1200,
+    "manufacturer": "Unaffiliated",
+    "weight": 10,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 13",
+        "Heavy",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibrobattleaxe"
+  },
+  {
+    "name": "Vibroblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 200,
+    "manufacturer": "Unaffiliated",
+    "weight": 5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "vibroblade"
+  },
+  {
+    "name": "Vibrobuster",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1850,
+    "manufacturer": "Unaffiliated",
+    "weight": 13.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 19",
+        "Heavy",
+        "Keen 1",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibrobuster"
+  },
+  {
+    "name": "Vibroclaw",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 50,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Fixed",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "vibroclaw"
+  },
+  {
+    "name": "Vibroclaymore",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1700,
+    "manufacturer": "Unaffiliated",
+    "weight": 10.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibroclaymore"
+  },
+  {
+    "name": "Vibrocutlass",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11"
+      ]
+    ],
+    "html": "",
+    "id": "vibrocutlass"
+  },
+  {
+    "name": "Vibrocutter",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 50,
+    "manufacturer": "Unaffiliated",
+    "weight": 3,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Heavy"
+      ]
+    ],
+    "html": "",
+    "id": "vibrocutter"
+  },
+  {
+    "name": "Vibrodagger",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 50,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 20,
+      "long": 60
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Light",
+        "Thrown (range 20/60)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrodagger"
+  },
+  {
+    "name": "Vibrodart",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 5,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 20,
+      "long": 60
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Special",
+        "Thrown (range 20/60)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrodart"
+  },
+  {
+    "name": "Vibroflail",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 500,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Reckless 1"
+      ]
+    ],
+    "html": "",
+    "id": "vibroflail"
+  },
+  {
+    "name": "Vibroglaive",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1200,
+    "manufacturer": "Unaffiliated",
+    "weight": 10,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Brutal 1",
+        "Dexterity 13",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibroglaive"
+  },
+  {
+    "name": "Vibrohammer",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 600,
+    "manufacturer": "Unaffiliated",
+    "weight": 7.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Heavy",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "vibrohammer"
+  },
+  {
+    "name": "Vibrokatana",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 450,
+    "manufacturer": "Unaffiliated",
+    "weight": 5.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Piercing 1",
+        "Versatile (1d10)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrokatana"
+  },
+  {
+    "name": "Vibroknife",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 225,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Light",
+        "Piercing 1"
+      ]
+    ],
+    "html": "",
+    "id": "vibroknife"
+  },
+  {
+    "name": "Vibroknuckler",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 75,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Hidden",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "vibroknuckler"
+  },
+  {
+    "name": "Vibrolance",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1500,
+    "manufacturer": "Unaffiliated",
+    "weight": 8.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 12,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 13",
+        "Reach",
+        "Special"
+      ]
+    ],
+    "html": "",
+    "id": "vibrolance"
+  },
+  {
+    "name": "Vibromace",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 700,
+    "manufacturer": "Unaffiliated",
+    "weight": 7,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Heavy",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibromace"
+  },
+  {
+    "name": "Vibronodachi",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 2200,
+    "manufacturer": "Unaffiliated",
+    "weight": 12,
+    "reload": "None",
+    "damage": {
+      "dieCount": 3,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 17",
+        "Piercing 1",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "vibronodachi"
+  },
+  {
+    "name": "Vibropike",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 950,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 10,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Reach",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibropike"
+  },
+  {
+    "name": "Vibrorapier",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 150,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse"
+      ]
+    ],
+    "html": "",
+    "id": "vibrorapier"
+  },
+  {
+    "name": "Vibrosabre",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 300,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Keen 1",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "vibrosabre"
+  },
+  {
+    "name": "Vibroshield",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 325,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Fixed"
+      ]
+    ],
+    "html": "",
+    "id": "vibroshield"
+  },
+  {
+    "name": "Vibrospear",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 125,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 25,
+      "long": 75
+    },
+    "properties": [
+      [
+        "Thrown (range 25/75)",
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrospear"
+  },
+  {
+    "name": "Vibrostaff",
+    "rarity": "unenhanced",
+    "type": "Simple_Vibroweapon",
+    "cost": 100,
+    "manufacturer": "Unaffiliated",
+    "weight": 4,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Versatile (2d4)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrostaff"
+  },
+  {
+    "name": "Vibrostiletto",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 90
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Keen 1",
+        "Light",
+        "Thrown (range 30/90)"
+      ]
+    ],
+    "html": "",
+    "id": "vibrostiletto"
+  },
+  {
+    "name": "Vibrosword",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1150,
+    "manufacturer": "Unaffiliated",
+    "weight": 9.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 11",
+        "Two-handed"
+      ]
+    ],
+    "html": "",
+    "id": "vibrosword"
+  },
+  {
+    "name": "Vibrotonfa",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 225,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Finesse",
+        "Light"
+      ]
+    ],
+    "html": "",
+    "id": "vibrotonfa"
+  },
+  {
+    "name": "Vibrowhip",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 275,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.5,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Reach"
+      ]
+    ],
+    "html": "",
+    "id": "vibrowhip"
+  },
+  {
+    "name": "War hat",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 350,
+    "manufacturer": "Unaffiliated",
+    "weight": 3.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": 30,
+      "long": 90
+    },
+    "properties": [
+      [
+        "Defensive 1",
+        "Disguised",
+        "Returning",
+        "Thrown (range 30/90)"
+      ]
+    ],
+    "html": "",
+    "id": "war-hat"
+  },
+  {
+    "name": "Warsaber",
+    "rarity": "unenhanced",
+    "type": "Martial_Lightweapon",
+    "cost": 2175,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.25,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 15",
+        "Reckless 1",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "warsaber"
+  },
+  {
+    "name": "Warsword",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 1650,
+    "manufacturer": "Unaffiliated",
+    "weight": 10.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 2,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Dexterity 15",
+        "Reckless 1",
+        "Two-handed",
+        "Vicious 1"
+      ]
+    ],
+    "html": "",
+    "id": "warsword"
+  },
+  {
+    "name": "Wrist launcher",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 400,
+    "manufacturer": "Unaffiliated",
+    "weight": 2,
+    "reload": 1,
+    "damage": {
+      "dieCount": 1,
+      "dieType": "None",
+      "type": "None"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Fixed",
+        "Reload 1",
+        "Special (range 30/120)"
+      ]
+    ],
+    "html": "",
+    "id": "wrist-launcher"
+  },
+  {
+    "name": "Wristblade",
+    "rarity": "unenhanced",
+    "type": "Martial_Vibroweapon",
+    "cost": 275,
+    "manufacturer": "Unaffiliated",
+    "weight": 1.75,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 6,
+      "type": "Kinetic"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Fixed",
+        "Light",
+        "Piercing 1"
+      ]
+    ],
+    "html": "",
+    "id": "wristblade"
+  },
+  {
+    "name": "Wristblaster",
+    "rarity": "unenhanced",
+    "type": "Simple_Blaster",
+    "cost": 200,
+    "manufacturer": "Unaffiliated",
+    "weight": 0.5,
+    "reload": 8,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 30,
+      "long": 120
+    },
+    "properties": [
+      [
+        "Disguised",
+        "Fixed",
+        "Light",
+        "Power cell (range 30/120)",
+        "Reload 8"
+      ]
+    ],
+    "html": "",
+    "id": "wristblaster"
+  },
+  {
+    "name": "Wristrifle",
+    "rarity": "unenhanced",
+    "type": "Martial_Blaster",
+    "cost": 250,
+    "manufacturer": "Unaffiliated",
+    "weight": 4.5,
+    "reload": 12,
+    "damage": {
+      "dieCount": 1,
+      "dieType": 8,
+      "type": "Energy"
+    },
+    "range": {
+      "short": 60,
+      "long": 240
+    },
+    "properties": [
+      [
+        "Power cell (range 60/240)",
+        "Fixed",
+        "Reload 12"
+      ]
+    ],
+    "html": "",
+    "id": "wristrifle"
+  },
+  {
+    "name": "Wristsaber",
+    "rarity": "unenhanced",
+    "type": "Simple_Lightweapon",
+    "cost": 375,
+    "manufacturer": "Unaffiliated",
+    "weight": 1,
+    "reload": "None",
+    "damage": {
+      "dieCount": 1,
+      "dieType": 4,
+      "type": "Energy"
+    },
+    "range": {
+      "short": "None",
+      "long": "None"
+    },
+    "properties": [
+      [
+        "Finesse",
+        "Fixed",
+        "Light",
+        "Luminous"
+      ]
+    ],
+    "html": "",
+    "id": "wristsaber"
   }
 ]

@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Baragwin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Baragwin.png
 name: Baragwin
 source: ec
 speedColor: ''

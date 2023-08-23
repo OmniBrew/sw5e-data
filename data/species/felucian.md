@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Felucian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Felucian.png
 name: Felucian
 source: ec
 speedColor: ''

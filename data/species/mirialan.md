@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Mirialan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Mirialan.png
 name: Mirialan
 source: ec
 speedColor: ''

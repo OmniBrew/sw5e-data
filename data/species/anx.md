@@ -1,4 +1,6 @@
 ---
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Anx.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Anx.png
 name: Anx
 source: ec
 speedColor: ''
