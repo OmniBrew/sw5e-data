@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png
 name: Pau’an
 source: ec
 speedColor: ''

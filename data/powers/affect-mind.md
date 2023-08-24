@@ -13,10 +13,8 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-
     dc:
-      save: wisdom
-
+      save: wis
     duration:
       length: 1
       unit: minute

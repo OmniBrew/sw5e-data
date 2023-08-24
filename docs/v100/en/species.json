@@ -1,7 +1,5 @@
 [
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
     "name": "Abyssin",
     "source": "ec",
     "speedColor": "",
@@ -54,8 +52,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png",
     "name": "Advozse",
     "source": "ec",
     "speedColor": "",
@@ -108,8 +104,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png",
     "name": "Aing-Tii",
     "source": "ec",
     "speedColor": "",
@@ -164,8 +158,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png",
     "name": "Aleena",
     "source": "ec",
     "speedColor": "",
@@ -218,8 +210,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png",
     "name": "Anomid",
     "source": "ec",
     "speedColor": "",
@@ -272,8 +262,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anx.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anx.png",
     "name": "Anx",
     "source": "ec",
     "speedColor": "",
@@ -326,8 +314,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png",
     "name": "Anzellan",
     "source": "ec",
     "speedColor": "",
@@ -389,8 +375,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png",
     "name": "Aqualish",
     "source": "ec",
     "speedColor": "",
@@ -443,8 +427,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png",
     "name": "Arcona",
     "source": "ec",
     "speedColor": "",
@@ -497,8 +479,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png",
     "name": "Ardennian",
     "source": "ec",
     "speedColor": "",
@@ -551,8 +531,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arkanian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arkanian.png",
     "name": "Arkanian",
     "source": "ec",
     "speedColor": "",
@@ -605,8 +583,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png",
     "name": "Balosar",
     "source": "ec",
     "speedColor": "",
@@ -659,8 +635,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png",
     "name": "Barabel",
     "source": "ec",
     "speedColor": "",
@@ -713,8 +687,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_baragwin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_baragwin.png",
     "name": "Baragwin",
     "source": "ec",
     "speedColor": "",
@@ -767,8 +739,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png",
     "name": "Besalisk",
     "source": "ec",
     "speedColor": "",
@@ -937,8 +907,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png",
     "name": "Caamasi",
     "source": "ec",
     "speedColor": "",
@@ -1109,8 +1077,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
     "name": "Chadra-Fan",
     "source": "ec",
     "speedColor": "",
@@ -1163,8 +1129,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png",
     "name": "Chagrian",
     "source": "ec",
     "speedColor": "",
@@ -1217,8 +1181,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png",
     "name": "Chevin",
     "source": "ec",
     "speedColor": "",
@@ -1271,8 +1233,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chironian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chironian.png",
     "name": "Chironian",
     "source": "ec",
     "speedColor": "",
@@ -1424,8 +1384,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png",
     "name": "Clawdite",
     "source": "ec",
     "speedColor": "",
@@ -1480,8 +1438,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png",
     "name": "Codru-Ji",
     "source": "ec",
     "speedColor": "",
@@ -1534,8 +1490,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_colicoid.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_colicoid.png",
     "name": "Colicoid",
     "source": "ec",
     "speedColor": "",
@@ -1578,8 +1532,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png",
     "name": "Culisetto",
     "source": "ec",
     "speedColor": "",
@@ -1632,8 +1584,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dashade.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dashade.png",
     "name": "Dashade",
     "source": "ec",
     "speedColor": "",
@@ -1686,8 +1636,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png",
     "name": "Defel",
     "source": "ec",
     "speedColor": "",
@@ -1819,8 +1767,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png",
     "name": "Diathim",
     "source": "ec",
     "speedColor": "",
@@ -1873,8 +1819,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png",
     "name": "Dowutin",
     "source": "ec",
     "speedColor": "",
@@ -1927,8 +1871,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png",
     "name": "Draethos",
     "source": "ec",
     "speedColor": "",
@@ -2483,8 +2425,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png",
     "name": "Dug",
     "source": "ec",
     "speedColor": "",
@@ -2589,8 +2529,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_echani.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_echani.png",
     "name": "Echani",
     "source": "ec",
     "speedColor": "",
@@ -2643,8 +2581,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png",
     "name": "Esh-Kha",
     "source": "ec",
     "speedColor": "",
@@ -2740,8 +2676,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png",
     "name": "Falleen",
     "source": "ec",
     "speedColor": "",
@@ -2794,8 +2728,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png",
     "name": "Felucian",
     "source": "ec",
     "speedColor": "",
@@ -2848,8 +2780,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
     "name": "Flesh Raider",
     "source": "ec",
     "speedColor": "",
@@ -2950,8 +2880,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png",
     "name": "Gand",
     "source": "ec",
     "speedColor": "",
@@ -3004,8 +2932,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png",
     "name": "Gank",
     "source": "ec",
     "speedColor": "",
@@ -3048,8 +2974,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png",
     "name": "Geonosian",
     "source": "ec",
     "speedColor": "",
@@ -3092,8 +3016,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png",
     "name": "Gormak",
     "source": "ec",
     "speedColor": "",
@@ -3146,8 +3068,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png",
     "name": "Gotal",
     "source": "ec",
     "speedColor": "",
@@ -3202,8 +3122,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png",
     "name": "Gran",
     "source": "ec",
     "speedColor": "",
@@ -3316,8 +3234,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png",
     "name": "Harch",
     "source": "ec",
     "speedColor": "",
@@ -3375,8 +3291,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png",
     "name": "Houk",
     "source": "ec",
     "speedColor": "",
@@ -3429,8 +3343,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
     "name": "Ho’Din",
     "source": "ec",
     "speedColor": "",
@@ -3525,8 +3437,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png",
     "name": "Hutt",
     "source": "ec",
     "speedColor": "",
@@ -3588,8 +3498,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png",
     "name": "Iktotchi",
     "source": "ec",
     "speedColor": "",
@@ -3719,8 +3627,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png",
     "name": "Kage",
     "source": "ec",
     "speedColor": "",
@@ -3773,8 +3679,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png",
     "name": "Kaleesh",
     "source": "ec",
     "speedColor": "",
@@ -3827,8 +3731,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png",
     "name": "Kaminoan",
     "source": "ec",
     "speedColor": "",
@@ -3872,8 +3774,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png",
     "name": "Karkarodon",
     "source": "ec",
     "speedColor": "",
@@ -3961,8 +3861,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png",
     "name": "Kiffar",
     "source": "ec",
     "speedColor": "",
@@ -4005,8 +3903,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_killik.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_killik.png",
     "name": "Killik",
     "source": "ec",
     "speedColor": "",
@@ -4059,8 +3955,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png",
     "name": "Klatooinian",
     "source": "ec",
     "speedColor": "",
@@ -4119,8 +4013,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png",
     "name": "Kubaz",
     "source": "ec",
     "speedColor": "",
@@ -4173,8 +4065,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png",
     "name": "Kushiban",
     "source": "ec",
     "speedColor": "",
@@ -4227,8 +4117,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png",
     "name": "Kyuzo",
     "source": "ec",
     "speedColor": "",
@@ -4281,8 +4169,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png",
     "name": "Lannik",
     "source": "ec",
     "speedColor": "",
@@ -4335,8 +4221,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png",
     "name": "Lasat",
     "source": "ec",
     "speedColor": "",
@@ -4389,8 +4273,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png",
     "name": "Lurmen",
     "source": "ec",
     "speedColor": "",
@@ -4443,8 +4325,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png",
     "name": "Massassi",
     "source": "ec",
     "speedColor": "",
@@ -4487,8 +4367,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png",
     "name": "Mikkian",
     "source": "ec",
     "speedColor": "",
@@ -4543,8 +4421,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png",
     "name": "Miraluka",
     "source": "ec",
     "speedColor": "",
@@ -4597,8 +4473,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png",
     "name": "Mirialan",
     "source": "ec",
     "speedColor": "",
@@ -4694,8 +4568,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png",
     "name": "Mustafarian",
     "source": "ec",
     "speedColor": "",
@@ -4738,8 +4610,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png",
     "name": "Muun",
     "source": "ec",
     "speedColor": "",
@@ -4827,8 +4697,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_neimoidian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_neimoidian.png",
     "name": "Neimoidian",
     "source": "ec",
     "speedColor": "",
@@ -4881,8 +4749,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png",
     "name": "Nikto",
     "source": "ec",
     "speedColor": "",
@@ -4938,8 +4804,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png",
     "name": "Noghri",
     "source": "ec",
     "speedColor": "",
@@ -4992,8 +4856,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png",
     "name": "Nothoiin",
     "source": "ec",
     "speedColor": "",
@@ -5046,8 +4908,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png",
     "name": "Ortolan",
     "source": "ec",
     "speedColor": "",
@@ -5100,8 +4960,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png",
     "name": "Pantoran",
     "source": "ec",
     "speedColor": "",
@@ -5144,8 +5002,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png",
     "name": "Patrolian",
     "source": "ec",
     "speedColor": "",
@@ -5188,8 +5044,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
     "name": "Pau’an",
     "source": "ec",
     "speedColor": "",
@@ -5242,8 +5096,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png",
     "name": "Pyke",
     "source": "ec",
     "speedColor": "",
@@ -5296,8 +5148,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png",
     "name": "Quarren",
     "source": "ec",
     "speedColor": "",
@@ -5350,8 +5200,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png",
     "name": "Quermian",
     "source": "ec",
     "speedColor": "",
@@ -5404,8 +5252,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rakata.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rakata.png",
     "name": "Rakata",
     "source": "ec",
     "speedColor": "",
@@ -5458,8 +5304,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png",
     "name": "Rattataki",
     "source": "ec",
     "speedColor": "",
@@ -5502,8 +5346,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rishii.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rishii.png",
     "name": "Rishii",
     "source": "ec",
     "speedColor": "",
@@ -5598,8 +5440,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ryn.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ryn.png",
     "name": "Ryn",
     "source": "ec",
     "speedColor": "",
@@ -5654,8 +5494,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png",
     "name": "Selkath",
     "source": "ec",
     "speedColor": "",
@@ -5708,8 +5546,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png",
     "name": "Selonian",
     "source": "ec",
     "speedColor": "",
@@ -5762,8 +5598,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png",
     "name": "Shistavanen",
     "source": "ec",
     "speedColor": "",
@@ -5876,8 +5710,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png",
     "name": "Squib",
     "source": "ec",
     "speedColor": "",
@@ -5930,8 +5762,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png",
     "name": "Ssi-Ruu",
     "source": "ec",
     "speedColor": "",
@@ -5984,8 +5814,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_sullustan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_sullustan.png",
     "name": "Sullustan",
     "source": "ec",
     "speedColor": "",
@@ -6038,8 +5866,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png",
     "name": "Talz",
     "source": "ec",
     "speedColor": "",
@@ -6092,8 +5918,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png",
     "name": "Tarasin",
     "source": "ec",
     "speedColor": "",
@@ -6146,8 +5970,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_taung.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_taung.png",
     "name": "Taung",
     "source": "ec",
     "speedColor": "",
@@ -6200,8 +6022,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png",
     "name": "Theelin",
     "source": "ec",
     "speedColor": "",
@@ -6263,8 +6083,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png",
     "name": "Thisspiasian",
     "source": "ec",
     "speedColor": "",
@@ -6317,8 +6135,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
     "name": "Tiss’shar",
     "source": "ec",
     "speedColor": "",
@@ -6361,8 +6177,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png",
     "name": "Tognath",
     "source": "ec",
     "speedColor": "",
@@ -6476,8 +6290,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_toydarian.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_toydarian.png",
     "name": "Toydarian",
     "source": "ec",
     "speedColor": "",
@@ -6723,8 +6535,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png",
     "name": "Ugnaught",
     "source": "ec",
     "speedColor": "",
@@ -6777,8 +6587,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png",
     "name": "Ugor",
     "source": "ec",
     "speedColor": "",
@@ -6831,8 +6639,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_umbaran.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_umbaran.png",
     "name": "Umbaran",
     "source": "ec",
     "speedColor": "",
@@ -6875,8 +6681,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png",
     "name": "Verpine",
     "source": "ec",
     "speedColor": "",
@@ -6929,8 +6733,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png",
     "name": "Voss",
     "source": "ec",
     "speedColor": "",
@@ -6983,8 +6785,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png",
     "name": "Vurk",
     "source": "ec",
     "speedColor": "",
@@ -7151,8 +6951,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png",
     "name": "Xexto",
     "source": "ec",
     "speedColor": "",
@@ -7205,8 +7003,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png",
     "name": "Yevetha",
     "source": "ec",
     "speedColor": "",
@@ -7328,8 +7124,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zeltron.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zeltron.png",
     "name": "Zeltron",
     "source": "ec",
     "speedColor": "",
@@ -7382,8 +7176,6 @@
     "subspecies": false
   },
   {
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png",
     "name": "Zilkin",
     "source": "ec",
     "speedColor": "",

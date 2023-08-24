@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png
 name: Yevetha
 source: ec
 speedColor: ''

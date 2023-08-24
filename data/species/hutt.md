@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png
 name: Hutt
 source: ec
 speedColor: ''

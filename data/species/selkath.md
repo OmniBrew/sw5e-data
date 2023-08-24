@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png
 name: Selkath
 source: ec
 speedColor: ''

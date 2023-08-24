@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png
 name: Anzellan
 source: ec
 speedColor: ''

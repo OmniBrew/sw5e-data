@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: dexterity
+      save: dex
     damage:
       - dieCount: 3
         dieType: 12

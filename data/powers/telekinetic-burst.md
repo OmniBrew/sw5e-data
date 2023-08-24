@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: constitution
+      save: con
     damage:
       - dieCount: 8
         dieType: 6

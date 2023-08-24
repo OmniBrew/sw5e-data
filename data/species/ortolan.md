@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png
 name: Ortolan
 source: ec
 speedColor: ''

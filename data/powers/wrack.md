@@ -38,6 +38,6 @@ e􀃠ect that removes a disease allows a creature's hit
 point maximum to return to normal immediately.
 Force Potency. If you cast this power using a force
 slot of 7th level or higher, the power deals an extra 2d6
-damage for each slot level above 6th.cha
+damage for each slot level above 6th.
 
     

@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: wisdom
+      save: wis
 
     duration:
       length: 24

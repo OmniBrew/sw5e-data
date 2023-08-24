@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: constitution
+      save: con
 
     duration:
       length: 1

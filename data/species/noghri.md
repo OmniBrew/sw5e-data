@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png
 name: Noghri
 source: ec
 speedColor: ''

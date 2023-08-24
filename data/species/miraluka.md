@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png
 name: Miraluka
 source: ec
 speedColor: ''

@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png
 name: Gank
 source: ec
 speedColor: ''

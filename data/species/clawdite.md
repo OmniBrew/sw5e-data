@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png
 name: Clawdite
 source: ec
 speedColor: ''

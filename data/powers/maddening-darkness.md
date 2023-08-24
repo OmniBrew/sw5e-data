@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: wisdom
+      save: wis
     damage:
       - dieCount: 8
         dieType: 8

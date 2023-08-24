@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png
 name: Anomid
 source: ec
 speedColor: ''

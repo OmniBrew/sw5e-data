@@ -18,7 +18,7 @@ mechanics:
       wp: power
       proficient: True
     dc:
-      save: constitution
+      save: con
     damage:
       - dieCount: 2
         dieType: 8

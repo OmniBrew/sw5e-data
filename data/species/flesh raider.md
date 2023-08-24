@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png
 name: Flesh Raider
 source: ec
 speedColor: ''

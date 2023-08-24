@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: strength
+      save: str
     damage:
       - dieCount: 2
         dieType: 4

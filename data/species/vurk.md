@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png
 name: Vurk
 source: ec
 speedColor: ''

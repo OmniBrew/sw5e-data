@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png
 name: Klatooinian
 source: ec
 speedColor: ''

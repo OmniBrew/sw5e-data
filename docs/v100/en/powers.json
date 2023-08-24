@@ -19,7 +19,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "duration": {
           "length": 1,
@@ -54,7 +54,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "constitution"
+          "save": "con"
         },
         "duration": {
           "length": 1,
@@ -68,6 +68,38 @@
     ],
     "html": "<p>Choose a creature that you can see within range.\nThat creature must make a Constitution saving throw.\nOn a failed save, the target gains 1 slowed level, it\ntakes a -2 penalty to AC and Dexterity saving throws,\nand it can't use reactions. On its turn, it can use either\nan action or a bonus action, not both. Regardless of the\ncreature's abilities or items, it can't make more than\none melee or ranged attack during its turn.\nIf the creature attempts to cast a power with a\ncasting time of 1 action, roll a d20. On an 11 or higher,\nthe power doesn't take effect until the creature's next\nturn, and the creature must use its action on that turn\nto complete the power. If it can't, the power is wasted.\nThe creatures makes another Constitution saving\nthrow at the end of its turn. On a successful save, the\neffect ends.</p>\n",
     "id": "affliction"
+  },
+  {
+    "name": "AGILE DEFENSE",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>As part of the action of casting this power, you take the Dodge action.</p>\n",
+    "id": "agile-defense"
   },
   {
     "name": "AI Hacking",
@@ -269,6 +301,45 @@
     "id": "armor-of-abeloth"
   },
   {
+    "name": "ART OF MOVEMENT",
+    "version": 1,
+    "level": 3,
+    "alignment": "universal",
+    "prerequisite": "Instinctive Movement",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 10,
+            "type": "force"
+          }
+        ],
+        "duration": {
+          "length": 10,
+          "unit": "minutes"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>By letting the Force flow through you, you move with preternatural grace, leaping onto or over tall obstacles that impede others. Until the power ends, you gain the following benefits:</p>\n<p>Your speed increases by 10 feet.\nYou have resistance to damage from falling.\nYour jumping distance is tripled.\nYou gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. If you are on a vertical surface when you end your turn and are not using your hands to climb, you immediately fall unless you have some other means of remaining there.\nYour movement is unaffected by difficult terrain or squeezing.\nYou ignore the effects of slowed levels under 3.\nOnce before the power ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d10 force damage on a hit. Whether you hit or miss, you gain a flying speed equal to your walking speed until the end of that turn.</p>\n",
+    "id": "art-of-movement"
+  },
+  {
     "name": "AURA OF PURITY",
     "version": 1,
     "level": 4,
@@ -429,6 +500,38 @@
     "id": "battle-precognition"
   },
   {
+    "name": "BATTLEMIND",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Battle Precognition",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 10,
+          "unit": "minutes"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>Through the Force, you gain a limited form of telepathy that enables you to anticipate the moves of your opponents in combat. While you aren’t wearing armor or wielding a shield, you gain a +2 AC bonus against melee attacks and a +3 AC bonus against ranged attacks.</p>\n<p>This AC bonus is not applied against attacks from droids, constructs, or creatures with resistance or immunity to psychic damage.</p>\n",
+    "id": "battlemind"
+  },
+  {
     "name": "BEACON OF HOPE",
     "version": 1,
     "level": 3,
@@ -530,6 +633,48 @@
     ],
     "html": "<p>You touch a creature, and that creature must\nsucceed on a Wisdom saving throw or become cursed\nfor the duration of the power. When you cast this\npower, choose the nature of the curse from the\nfollowing options:\nChoose one ability score. While cursed, the target has\ndisadvantage on ability checks and saving throws made\nwith that ability score.\nWhile cursed, the target has disadvantage on attack\nrolls against you.\nWhile cursed, the target must make a Wisdom saving\nthrow at the start of each of its turns. lf it fails, it wastes\nits action that turn doing nothing.\nWhile the target is cursed, your attacks and powers\ndeal an extra 1d8 necrotic damage to the target.\nA remove curse power ends this effect. At the GM's\ndiscretion, you may choose an alternative curse effect,\nbut it should be no more powerful than those\ndescribed above. The GM has final say on such a\ncurse's effect. This power has no effect on droids or\nconstructs.\nForce Potency. If you cast this power using a force\nslot of 4th level or higher, the duration is\nconcentration, up to 10 minutes. If you use a force slot\nof 5th Level or higher, the duration is 8 hours. If you\nuse a force slot of 7th level or higher, the duration is 24\nhours. If you use a 9th level force slot, the power lasts\nuntil it is dispelled. Using a force slot of 5th Level or\nhigher grants a duration that doesn't require\nconcentration.</p>\n",
     "id": "bestow-curse"
+  },
+  {
+    "name": "BREAK",
+    "version": 1,
+    "level": 0,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 4,
+            "type": "kinetic"
+          }
+        ],
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": 30
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You inflict 10 force damage to an object you can see within range that is not being worn or carried, generating an explosion of sound that can be heard up to 100 feet away. Even if the object is not destroyed, small shards of shrapnel fly at creatures within 5 feet of it. Each creature must make a Dexterity saving throw. On a failed save, a creature takes 1d4 kinetic damage.</p>\n<p>This power’s kinetic damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4), and the power’s force damage also increases by 10 at each of these levels.</p>\n",
+    "id": "break"
   },
   {
     "name": "BREATH CONTROL",
@@ -789,7 +934,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "duration": {
           "length": 8,
@@ -888,7 +1033,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "dexterity"
+          "save": "dex"
         },
         "damage": [
           {
@@ -1104,7 +1249,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "strength"
+          "save": "str"
         },
         "damage": [
           {
@@ -1196,6 +1341,45 @@
     ],
     "html": "<p>You draw the life force from every creature in a 30-\nfoot cube centered on a point you choose within range.\nEach creature in that area must make a Constitution\nsaving throw. A creature takes 10d8 necrotic damage\non a failed save, or half as much damage on a\nsuccessful one. If you reduce a hostile creature to 0 hit\npoints, you gain temporary hit points equal to half the\ndamage dealt. This power has no effect on droids or\nconstructs.</p>\n",
     "id": "death-field"
+  },
+  {
+    "name": "DEFENSIVE TECHNIQUE",
+    "version": 1,
+    "level": 0,
+    "alignment": "light side",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 6,
+            "type": "psychic"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "round"
+        },
+        "range": {
+          "short": "Varies"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>As part of the action used to cast this power, you must make a melee weapon attack against one creature within your reach, otherwise the power fails. On a hit, the target suffers the attack’s normal effects, and you ward yourself from it through the Force.</p>\n<p>If the target forces you to make a saving throw before the start of your next turn, the target takes an additional 1d6 psychic damage, and you can roll 1d4 and add the number rolled to your saving throw. The power then ends.</p>\n<p>The power’s damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d6 psychic damage to the target, and the psychic damage the target takes for forcing you to make a saving throw increases to 2d6. Both damage rolls increase by 1d6 at 11th level and 17th level.</p>\n",
+    "id": "defensive-technique"
   },
   {
     "name": "DENOUNCE",
@@ -1954,7 +2138,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "dexterity"
+          "save": "dex"
         },
         "damage": [
           {
@@ -2039,6 +2223,48 @@
     ],
     "html": "<p>One humanoid of your choice that you can see\nwithin range must succeed on a Wisdom saving throw\nor become charmed by you for the duration. The\ncharmed target must use its action before moving on\neach of its turns to make a melee attack against a\ncreature other than itself that you mentally choose.\nThe target can act normally on its turn if you choose\nno creature or if none are within its reach.\nOn your subsequent turns, you must use your action\nto maintain control over the target, or the power ends.\nAlso, the target can make a Wisdom saving throw at\nthe end of each of its turns. On a success, the power\nends.</p>\n",
     "id": "force-confusion"
+  },
+  {
+    "name": "FORCE CURRENT",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "Force Push/Pull",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "str"
+        },
+        "damage": [
+          {
+            "dieCount": 3,
+            "dieType": 6,
+            "type": "force"
+          }
+        ],
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>When you cast this power, you raise your hand and unleash a burst of Force energy. Each creature in a 15-foot cone must make a Strength saving throw. On a failed save, a creature takes 3d6 force damage and, if it is Large or smaller, is also pushed back 5 feet. On a successful save, a creature takes half as much damage and isn’t pushed. All Medium or smaller objects that are not worn or carried within the area of effect are also pushed 5 feet.</p>\n<p>Force Potency. When you cast this power using a force slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st. For each slot 2 levels higher than 1st, you can add an additional 5 feet to the push.</p>\n",
+    "id": "force-current"
   },
   {
     "name": "FORCE DISARM",
@@ -2208,6 +2434,38 @@
     "id": "force-immunity"
   },
   {
+    "name": "FORCE INTUITION",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 8,
+          "unit": "hours"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>Your senses attune to your environment for the duration, allowing you to see things before they happen, and react even faster than normal. For the duration, you can use your forcecasting ability modifier in place of your Dexterity modifier when you make initiative checks, if the check doesn’t already include that modifier.</p>\n<p>In addition, once during the duration of this power, if you are surprised at the start of combat, rather than being completely unable to act, you can still use a reaction, and take an action on your first turn in combat. This action can be used only to take one of the following actions: Dash, Disengage, Dodge, Hide, or Use an Object.</p>\n",
+    "id": "force-intuition"
+  },
+  {
     "name": "FORCE JUMP",
     "version": 1,
     "level": 1,
@@ -2291,7 +2549,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "dexterity"
+          "save": "dex"
         },
         "damage": [
           {
@@ -2557,7 +2815,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "strength"
+          "save": "str"
         },
         "damage": [
           {
@@ -2874,7 +3132,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "strength"
+          "save": "str"
         },
         "damage": [
           {
@@ -3192,6 +3450,90 @@
     "id": "greater-heal"
   },
   {
+    "name": "GREATER KINETITE",
+    "version": 1,
+    "level": 5,
+    "alignment": "dark side",
+    "prerequisite": "Kinetite",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 5,
+            "dieType": 8,
+            "type": "lightning"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 120
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>A 5-foot diameter sphere of compressed lightning appears in an unoccupied space of your choice and lasts for the duration. Each creature within 5 feet of the sphere when the power is cast must make a Dexterity saving throw. A creature takes 5d8 lightning damage on a failed save, or half as much damage on a successful one.</p>\n<p>As a bonus action on each of your turns, you can move the ball of lightning up to 30 feet vertically or horizontally. If you ram the sphere into a creature, that creature must make a Dexterity saving throw or take 5d8 kinetic damage (or half as much damage on a success), and the sphere stops moving this turn. A creature takes half as damage on a successful Dexterity saving throw.</p>\n<p>Force Potency. When you cast this power with a force slot of 6th level or higher, both the lightning and kinetic damage increase by 1d8 for each slot level above 5th.</p>\n",
+    "id": "greater-kinetite"
+  },
+  {
+    "name": "GREATER PYROKINESIS",
+    "version": 1,
+    "level": 4,
+    "alignment": "universal",
+    "prerequisite": "Improved Pyrokinesis",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 5,
+            "dieType": 8,
+            "type": "energy"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 120
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You create a wall of Force-enhanced fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.</p>\n<p>When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 energy damage, or half as much damage on a successful save.</p>\n<p>One side of the wall, selected by you when you cast this power, deals 5d8 energy damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.</p>\n<p>Force Potency. When you cast this power using a force slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.</p>\n",
+    "id": "greater-pyrokinesis"
+  },
+  {
     "name": "GREATER SABER THROW",
     "version": 1,
     "level": 5,
@@ -3211,7 +3553,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "constitution"
+          "save": "con"
         },
         "duration": {
           "length": "Instantaneous",
@@ -3278,7 +3620,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "damage": [
           {
@@ -3331,6 +3673,38 @@
     ],
     "html": "<p>A creature you touch regains a number of hit points\nequal to 1d8 + your forcecasting ability modifier. This\npower has no effect on droids or constructs.\nForce Potency. When you cast this power using a\nforce slot of 2nd level or higher, the healing increases\nby 1d8 for each slot level above 1st.</p>\n",
     "id": "heal"
+  },
+  {
+    "name": "HEIGHTEN SENSES",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "reaction"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "round"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>Through the Force, you sense a sudden shift in your environment, and can seize on it with great speed. You gain advantage on your initiative check, and until the end of your first turn in combat, your walking speed increases by 30 feet.</p>\n",
+    "id": "heighten-senses"
   },
   {
     "name": "HEROISM",
@@ -3667,6 +4041,38 @@
     "id": "improved-force-immunity"
   },
   {
+    "name": "IMPROVED FORCE INTUITION",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Force Intuition",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "reaction"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You make your initiative check at advantage, and gain a +2 bonus to AC until the power ends. In addition, until the end of your first turn in the combat, your speed increases by 10 feet and you add 1d4 to your attack rolls. This power ends early if you fail a saving throw or are hit by an attack.</p>\n",
+    "id": "improved-force-intuition"
+  },
+  {
     "name": "IMPROVED FORCE SCREAM",
     "version": 1,
     "level": 5,
@@ -3736,6 +4142,50 @@
     ],
     "html": "<p>A wave of healing energy washes out from a point of\nyour choice within range. Choose up to six creatures in\na 30-foot-radius sphere centered on that point. Each\ntarget regains hit points equal to 3d8 + your\nforcecasting ability modifier. This power has no effect\non droids or constructs.\nForce Potency. When you cast this power using a\nforce slot of 6th level or higher, the healing increases\nby 1d8 for each slot level above 5th.</p>\n",
     "id": "improved-heal"
+  },
+  {
+    "name": "IMPROVED KINETITE",
+    "version": 1,
+    "level": 4,
+    "alignment": "dark side",
+    "prerequisite": "Kinetite",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "attack": {
+          "type": "ranged",
+          "wp": "power",
+          "proficient": true
+        },
+        "damage": [
+          {
+            "dieCount": 2,
+            "dieType": 6,
+            "type": "kinetic"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 150
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>A 20-foot-radius sphere of compressed lightning springs into existence centered on a point you choose within range. The sphere remains for the power’s duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw or take 2d6 kinetic damage. The sphere’s space is difficult terrain.</p>\n<p>Until the power ends, you can use a bonus action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. Make a ranged force attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.</p>\n<p>Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.</p>\n<p>Force Potency. When you cast this power with a force slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th.</p>\n",
+    "id": "improved-kinetite"
   },
   {
     "name": "IMPROVED PHASESTRIKE",
@@ -3812,6 +4262,48 @@
     ],
     "html": "<p>You teleport up to 60 feet to an unoccupied space\nyou can see. On each of your turns before the power\nends, you can use a bonus action to teleport in this\nway again.</p>\n",
     "id": "improved-phasewalk"
+  },
+  {
+    "name": "IMPROVED PYROKINESIS",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Pyrokinesis",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 3,
+            "dieType": 8,
+            "type": "energy"
+          }
+        ],
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": 30
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>A line of roaring Force-enhanced flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 energy damage on a failed save, or half as much damage on a successful one.</p>\n<p>Force Potency. When you cast this power using a force slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>\n",
+    "id": "improved-pyrokinesis"
   },
   {
     "name": "IMPROVED RESTORATION",
@@ -3897,7 +4389,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "constitution"
+          "save": "con"
         },
         "duration": {
           "length": "Instantaneous",
@@ -4044,6 +4536,38 @@
     "id": "insanity"
   },
   {
+    "name": "INSTINCTIVE MOVEMENT",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "Wall Run",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You enhance your movement with the Force, allowing you to traverse your environment with speed and acrobatic grace. When you cast this power, you gain two speed points. When you cast the power and as a bonus action on subsequent turns, you can expend a speed point, granting yourself all of the following benefits until the end of that turn:</p>\n<p>Your speed increases by 5 feet.\nYou have resistance to falling damage.\nYou ignore difficult terrain.\nYou have a climb speed equal to your walking speed.\nYou add 10 feet to your long jump distance and 3 feet to your high jump distance.\nYou can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.\nYou do not sink when moving over soft or brittle terrain, such as dust, silt, mud, snow, or thin ice. This effect does not allow you to move across liquid surfaces.\nIf you move at least 20 feet straight toward a creature and then hit it with a melee weapon attack for the first time on the same turn, you deal an extra 1d4 damage with that attack.\nAt the end of the turn, the benefits fade entirely until you spend another speed point. If these benefits end while you are still on a vertical surface, or anywhere else where you would normally fall or sink, you immediately fall or begin to sink unless you have some other means to remain there.</p>\n<p>This power ends when its duration expires, when you cast this power again, or when you have spent all your speed points. When the power ends, any unspent speed points are lost.</p>\n<p>Force Potency. When you cast this power using a force slot of 2nd level or higher, the extra damage increases by 1d4 for each slot level above 1st. In addition, if you cast this power with a force slot of 3rd level or higher, you gain one additional speed point for every two slot levels above 1st.</p>\n",
+    "id": "instinctive-movement"
+  },
+  {
     "name": "KILL",
     "version": 1,
     "level": 9,
@@ -4076,6 +4600,48 @@
     "id": "kill"
   },
   {
+    "name": "KINETITE",
+    "version": 1,
+    "level": 2,
+    "alignment": "dark side",
+    "prerequisite": "Sustained Lightning",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 2,
+            "dieType": 6,
+            "type": "lightning"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 60
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>A 5-foot-diameter sphere of compressed lightning appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 lightning damage on a failed save, or half as much damage on a successful one.</p>\n<p>As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make a Dexterity saving throw, taking 2d6 kinetic damage on a failed save or half as much damage on a successful one, and the sphere stops moving this turn.</p>\n<p>When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.</p>\n<p>Force Potency. When you cast this power with a force slot of 3rd level or higher, both the lightning and kinetic damage increase by 1d6 for each slot level above 2nd.</p>\n",
+    "id": "kinetite"
+  },
+  {
     "name": "KNIGHT SPEED",
     "version": 1,
     "level": 3,
@@ -4106,6 +4672,38 @@
     ],
     "html": "<p>Choose a willing creature that you can see within\nrange. Until the power ends, the target's speed is\ndoubled, it gains a +2 bonus to AC, it has advantage on\nDexterity saving throws, and it gains an additional\naction on each of its turns. That action can be used\nonly to take the Attack (one weapon attack only), Dash,\nDisengage, Hide, or Use an Object action.\nWhen the power ends, the target can't move or take\nactions until after its next turn, as a wave of lethargy\nsweeps over it.</p>\n",
     "id": "knight-speed"
+  },
+  {
+    "name": "LAND STRIDE",
+    "version": 1,
+    "level": 1,
+    "alignment": "light side",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 8,
+          "unit": "hours"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You align yourself with nature, making traversing natural environments far easier. For the duration, your movement and that of creatures of your choice within 40 feet of you can’t be slowed by natural terrain, such as mud, rocky ground, vines, or tall grass. Climbing still costs double normal movement. A creature that receives this bonus leaves behind no traces of its passage.</p>\n",
+    "id": "land-stride"
   },
   {
     "name": "LIGHTNING CHARGE",
@@ -4230,7 +4828,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "damage": [
           {
@@ -4272,7 +4870,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "duration": {
           "length": 1,
@@ -4339,7 +4937,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "duration": {
           "length": 24,
@@ -4664,6 +5262,48 @@
     "id": "master-malacia"
   },
   {
+    "name": "MASTER PYROKINESIS",
+    "version": 1,
+    "level": 7,
+    "alignment": "universal",
+    "prerequisite": "Greater Pyrokinesis",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 7,
+            "dieType": 10,
+            "type": "energy"
+          }
+        ],
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": 150
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>A storm made up of sheets of roaring, Force-enhanced flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 energy damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one cube is affected only once.</p>\n<p>The flame damages objects in the area and ignites flammable objects that aren’t being worn or carried.</p>\n",
+    "id": "master-pyrokinesis"
+  },
+  {
     "name": "MASTER REVITALIZE",
     "version": 1,
     "level": 9,
@@ -4715,7 +5355,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "dexterity"
+          "save": "dex"
         },
         "damage": [
           {
@@ -4924,7 +5564,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "wisdom"
+          "save": "wis"
         },
         "duration": {
           "length": 1,
@@ -5053,6 +5693,38 @@
     ],
     "html": "<p>You attempt to drain the essence from a creature.\nMake a melee force attack against the target. If the\nattack hits, the creature takes 1d6 necrotic damage,\nand you gain temporary hit points equal to the damage\ndealt until the end of your next turn.\nThis power's damage increases by 1d6 when you\nreach 5th level (2d6), 11th level (3d6), and 17th level\n(4d6).</p>\n",
     "id": "necrotic-touch"
+  },
+  {
+    "name": "PHASESHIFT",
+    "version": 1,
+    "level": 0,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>Too quickly for untrained eyes to perceive, you shift in position. You can move up to 5 feet, and this movement does not provoke opportunity attacks.</p>\n",
+    "id": "phaseshift"
   },
   {
     "name": "PHASESTRIKE",
@@ -5222,6 +5894,48 @@
     "id": "precognition"
   },
   {
+    "name": "PROBE MIND",
+    "version": 1,
+    "level": 2,
+    "alignment": "dark side",
+    "prerequisite": "Sense Emotion",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "wis"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 6,
+            "type": "psychic"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 30
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>For the duration, you can read the thoughts of certain creatures. When you cast the power and as your action on each turn until the power ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn’t speak any language, the creature is unaffected.</p>\n<p>You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, it takes 1d6 psychic damage as you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the power ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your forcecasting ability check; if it succeeds, the power ends.</p>\n<p>On subsequent turns after probing deeper, you can use your action to deal 1d6 psychic damage to the target automatically.</p>\n<p>Questions verbally directed at the target creature naturally shape the course of its thoughts, so this power is particularly effective as part of an interrogation.</p>\n<p>You can also use this power to detect the presence of thinking creatures you can’t see. When you cast the power or as your action during the duration, you can search for thoughts within 30 feet of you. The power can penetrate barriers. You can’t detect a creature with an Intelligence of 3 or lower or one that doesn’t speak any language.</p>\n<p>Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can’t see it, but it must still be within range.</p>\n<p>This power has no effect on droids or constructs.</p>\n<p>Force Potency. When you cast this power using a force slot of 3rd level or higher, the initial psychic damage a target takes the first time you probe deeper into its mind increases by 1d6 for each slot level above 2nd.</p>\n",
+    "id": "probe-mind"
+  },
+  {
     "name": "PROJECT",
     "version": 1,
     "level": 1,
@@ -5323,6 +6037,77 @@
     ],
     "html": "<p>For the duration, you gain the ability to\n&quot;communicate&quot; telepathically with inanimate objects\nyou touch. You can ask up to 􀃕ve questions and receive\nanswers from objects, usually in the form of a auditory\nor visual hallucination. For example, touching the\nrusted, broken remains of a lightsaber and asking how\nit got there may result in a brief vision of a disgruntled\nJedi Knight casting it to the ground on that spot. An\nobject &quot;questioned&quot; in this way can only provide\ninformation relating to its past. The DM has the 􀃕nal\nsay on what objects can be questioned, and to what\nextent.</p>\n",
     "id": "psychometry"
+  },
+  {
+    "name": "PULL EARTHWARD",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Force Propel",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 300
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>Choose one creature you can see within range. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the power’s duration. An airborne creature affected by this power descends at 60 feet per round until it reaches the ground or the power ends.</p>\n",
+    "id": "pull-earthward"
+  },
+  {
+    "name": "PYROKINESIS",
+    "version": 1,
+    "level": 0,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 8,
+            "type": "energy"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 60
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>By stimulating air molecules, you create a zone of Force-enhanced fire on ground that you can see within range. Until the power ends, the enhanced fire fills a 5-foot cube. Any creature in the fire’s space when you cast the power must succeed on a Dexterity saving throw or take 1d8 energy damage. A creature must also make the saving throw when it moves into the fire’s space for the first time on a turn or ends its turn there.</p>\n<p>The fire ignites flammable objects in its area that aren’t being worn or carried.</p>\n<p>The power’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>\n",
+    "id": "pyrokinesis"
   },
   {
     "name": "RAGE",
@@ -5536,6 +6321,41 @@
     "id": "restoration"
   },
   {
+    "name": "REVEAL SHATTERPOINT",
+    "version": 1,
+    "level": 5,
+    "alignment": "universal",
+    "prerequisite": "Sense Shatterpoint",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "cha"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": 60
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You focus on a creature you can see within range, and gain uncanny insight on its defenses and capabilities through the Force. The target must make a Charisma saving throw. On a failed save, you have advantage on attack rolls against that creature, and it has disadvantage on attack rolls against you for the duration. On a successful save, you have advantage on the next attack roll you make against that creature, and it has disadvantage on its next attack roll against you. Once both attacks have been made, the power ends.</p>\n",
+    "id": "reveal-shatterpoint"
+  },
+  {
     "name": "REVITALIZE",
     "version": 1,
     "level": 5,
@@ -5600,6 +6420,118 @@
     "id": "ruin"
   },
   {
+    "name": "SABER ASSAULT",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "Saber Ward",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": "None",
+          "unit": "None"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 6,
+            "type": "kinetic"
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "round"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>The first time you take the Attack action during your turn, you can simultaneously cast this power to blend your melee weapon attacks with the use of the Force. For each successful hit you make with a melee weapon before the power ends, the target must make a Dexterity saving throw or have a new effect apply until the end of its next turn. Once you’ve made three weapon attacks, the power ends.</p>\n<p>1st Hit: If the target fails its saving throw, it gains 1 slowed level until the end of its next turn.\n2nd Hit: If the target fails its saving throw, it takes 1d6 kinetic damage and cannot take reactions until after the end of its next turn.\n3rd Hit: If the target fails its saving throw, it takes 2d6 kinetic damage and cannot take bonus actions during its next turn.\nForce Potency. When you cast this power using a force slot of 3rd level or higher, the damage of the second and third hit each increase by 1d6 for every two slot levels above 1st.</p>\n",
+    "id": "saber-assault"
+  },
+  {
+    "name": "SABER DANCE",
+    "version": 1,
+    "level": 4,
+    "alignment": "universal",
+    "prerequisite": "Animate Weapon",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "minute"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>A light- or vibro-weapon of your choice that you are wearing or carrying begins to animate, spinning around your body at high speeds in a 10-foot radius centered on you. For the duration, your movement speed is halved, and the weapon moves with you.</p>\n<p>When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw or take 4d10 damage of the weapon’s type, or half as much damage on a successful saving throw.</p>\n<p>When this power ends, you can immediately recall the weapon to your hand.</p>\n<p>Force Potency. When you cast this power using a force slot of 5th level or higher, the radius of the power increases to 15 feet, and the power’s damage increases by 1d10 for each slot level above 4th.</p>\n",
+    "id": "saber-dance"
+  },
+  {
+    "name": "SABER ONSLAUGHT",
+    "version": 1,
+    "level": 4,
+    "alignment": "universal",
+    "prerequisite": "Saber Strike",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "str"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "turn"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You assume a battle stance. Until the end of your turn, your movement does not provoke opportunity attacks. Additionally, whenever you move, you can make one melee weapon attack against each creature you move within 5 feet of for the first time this turn. On a hit, the attack deals an extra 1d6 damage of the weapon’s type, and the target must make a Strength saving throw. On a failed save, you can choose to either knock the target prone, or push it 5 feet away from you.</p>\n<p>Force Potency. When you cast this power using a force slot of 5th level or higher, the bonus weapon damage increases by 1d6 for each slot level above 4th.</p>\n",
+    "id": "saber-onslaught"
+  },
+  {
     "name": "SABER REFLECT",
     "version": 1,
     "level": 0,
@@ -5630,6 +6562,80 @@
     ],
     "html": "<p>In response to being attacked, you raise your\nweapon to attempt to de􀃖ect. When you you use this\npower, the damage you take from the attack is reduced\nby 1d6. If you reduce the damage to 0, you're wielding\na lightweapon or vibroweapon, and the damage is\nenergy or ion, you can re􀃖ect the attack at a target\nwithin range as part of the same reaction. Make a\nranged force attack at a target you can see. The attack\nhas a normal range of 20 feet and a long range of 60\nfeet. On a hit, the target takes the triggering attack's\nnormal damage.\nThe power's damage reduction increases by 1d6\nwhen you reach 5th level (2d6), 11th level (3d6), and\n17th level (4d6).</p>\n",
     "id": "saber-reflect"
+  },
+  {
+    "name": "SABER SLASH",
+    "version": 1,
+    "level": 3,
+    "alignment": "universal",
+    "prerequisite": "Saber Strike",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "dc": {
+          "save": "dex"
+        },
+        "damage": [
+          {
+            "dieCount": 4,
+            "dieType": 4,
+            "type": "force"
+          }
+        ],
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": 30
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You move in a burst of speed to deliver a deadly blow. When you cast this power, you must be wielding a melee weapon with which you are proficient, otherwise, the power fails. As part of the action used to cast this power, you move in a straight line to an unoccupied space within the power’s range and strike a creature within your weapon’s range. Opportunity attacks provoked by this movement have disadvantage. The creature must make a Dexterity saving throw. On a failed save, it takes damage equal to three rolls of the weapon’s damage dice + 4d4 force damage, or half as much damage on a successful one.</p>\n<p>Force Potency. When you cast this power using a force slot of 4th level or higher, the force damage increases by 1d4 for each slot level above 3rd.</p>\n",
+    "id": "saber-slash"
+  },
+  {
+    "name": "SABER STRIKE",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Saber Assault",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": "Instantaneous",
+          "unit": null
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>As part of the action used to cast the power, you can move up to your speed and make one melee weapon attack. On a hit, the attack deals an extra 1d10 damage of the weapon’s type. In addition, if you hit with the attack, the target must succeed on a Strength saving throw or be knocked prone.</p>\n<p>Force Potency. When you cast this power using a force slot of 4th level or higher, the bonus weapon damage increases by 1d10 for every two slot levels above 2nd.</p>\n",
+    "id": "saber-strike"
   },
   {
     "name": "SABER THROW",
@@ -5898,6 +6904,38 @@
     ],
     "html": "<p>For the duration, you sense the use of the Force, or\nits presence in an inanimate object within 30 feet of\nyou. If you sense the Force in this way, you can use\nyour action to determine the direction from which it\noriginates and, if it's in line of sight, you see a faint aura\naround the person or object from which the Force\nemanates.\nForce Potency. When you cast this power using a\n3rd-level force slot, the range increases to 60 feet.\nWhen you use a 5th-level force slot, the range\nincreases to 500 feet. When you use a 7th-level force\nslot, the range increases to 1 mile. When you use a 9thlevel\nforce slot, the range increases to 10 miles.</p>\n",
     "id": "sense-force"
+  },
+  {
+    "name": "SENSE SHATTERPOINT",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Battle Insight",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "round"
+        },
+        "range": {
+          "short": 30
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You seek deeper insight into the defenses of a creature you can see within range. Until the end of your next turn, you have advantage on your next two attack rolls against the target.</p>\n",
+    "id": "sense-shatterpoint"
   },
   {
     "name": "SEVER FORCE",
@@ -6555,6 +7593,38 @@
     "id": "sustained-lightning"
   },
   {
+    "name": "TAPAS",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 24,
+          "unit": "hours"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You use the Force to inure yourself to the elements. For the duration, you are considered adapted to hot and cold climates.</p>\n",
+    "id": "tapas"
+  },
+  {
     "name": "TELEKINESIS",
     "version": 1,
     "level": 5,
@@ -6606,7 +7676,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "constitution"
+          "save": "con"
         },
         "damage": [
           {
@@ -6776,6 +7846,38 @@
     "id": "telemetry"
   },
   {
+    "name": "TELEPATHIC LINK",
+    "version": 1,
+    "level": 1,
+    "alignment": "universal",
+    "prerequisite": "Force Whisper",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 10,
+          "unit": "minutes"
+        },
+        "range": {
+          "short": "Touch"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You establish a telepathic link with one willing creature you touch. Until the power ends, whenever you and the target can see each other, each of you can communicate with the other via telepathy.</p>\n<p>You don’t need to share a language with a creature for it to understand your telepathic utterances, and the creature understands you even if it lacks a language. The creature can respond to you telepathically as well, but it must understand at least one language in order to communicate this way. This power has no effect on droids or constructs.</p>\n<p>Force Potency. When you cast this power using a force slot of 3rd level or higher, the duration increases to concentration, up to 1 hour, and if either you or the creature you are linked to are surprised while the other isn’t, and both of you can see each other, the surprised creature can still act normally on its first turn in combat, as if it were not surprised.</p>\n",
+    "id": "telepathic-link"
+  },
+  {
     "name": "TREMOR",
     "version": 1,
     "level": 1,
@@ -6904,6 +8006,77 @@
     "id": "valor"
   },
   {
+    "name": "VITALITY SHIELD",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Force Body",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "damage": [
+          {
+            "dieCount": 2,
+            "dieType": 8,
+            "type": true
+          }
+        ],
+        "duration": {
+          "length": 1,
+          "unit": "hour"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>You siphon some of your own vitality to create a barrier in the Force around yourself. You take 2d8 true damage, and gain a number of temporary hit points equal to twice the amount of damage you took. If this damage would reduce your hit points to 0, the power fails. While you have these temporary hit points, you have advantage on Strength, Dexterity and Constitution saving throws. Any remaining temporary hit points are lost when this power ends.</p>\n<p>Force Potency. When you cast this power using a force slot of 3rd level or higher, the true damage increases by 1d8 for each slot level above 2nd.</p>\n",
+    "id": "vitality-shield"
+  },
+  {
+    "name": "WAKEFULNESS",
+    "version": 1,
+    "level": 2,
+    "alignment": "universal",
+    "prerequisite": "Breath Control",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "action"
+        },
+        "duration": {
+          "length": 8,
+          "unit": "hours"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": true
+      }
+    ],
+    "html": "<p>You use the Force to control your body’s functions. For the duration, you gain the following benefits:</p>\n<p>You ignore the effects of any levels of exhaustion you have.\nYou do not need to eat, drink, or sleep. You can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading and keeping watch.\nIf you still have any levels of exhaustion when this power ends, you must make a DC 15 Constitution saving throw. On a failed save, you gain one additional level of exhaustion.</p>\n",
+    "id": "wakefulness"
+  },
+  {
     "name": "WALL OF LIGHT",
     "version": 1,
     "level": 6,
@@ -6943,6 +8116,38 @@
     "id": "wall-of-light"
   },
   {
+    "name": "WALL RUN",
+    "version": 1,
+    "level": 0,
+    "alignment": "universal",
+    "prerequisite": "None",
+    "type": "force",
+    "tags": [
+      "damage"
+    ],
+    "classes": [
+      "force"
+    ],
+    "mechanics": [
+      {
+        "castingTime": {
+          "length": 1,
+          "unit": "bonus"
+        },
+        "duration": {
+          "length": 1,
+          "unit": "turn"
+        },
+        "range": {
+          "short": "Self"
+        },
+        "concentration": false
+      }
+    ],
+    "html": "<p>Until the end of the turn, you have a climbing speed equal to your walking speed and you have advantage on Dexterity (Acrobatics) and Strength (Athletics) checks that involve movement. For the same duration, you can move up, down, and across vertical surfaces while leaving your hands free. This does not allow you to move upside down along ceilings. If you are on a vertical surface when you no longer have a climbing speed, you immediately fall unless you have some other means of remaining there.</p>\n",
+    "id": "wall-run"
+  },
+  {
     "name": "WHIRLWIND",
     "version": 1,
     "level": 7,
@@ -6962,7 +8167,7 @@
           "unit": "action"
         },
         "dc": {
-          "save": "dexterity"
+          "save": "dex"
         },
         "duration": {
           "length": 1,
@@ -7034,7 +8239,7 @@
           "proficient": true
         },
         "dc": {
-          "save": "constitution"
+          "save": "con"
         },
         "damage": [
           {
@@ -7092,7 +8297,7 @@
         "concentration": false
       }
     ],
-    "html": "<p>You wrack the body of a creature that you can see\nwith a virulent, disease-like condition. The target must\nmake a Constitution saving throw. On a failed save, it\ntakes 14d6 necrotic damage, or half as much damage\non a successful save. The damage can't reduce the\ntarget's hit points below 1. If the target fails the saving\nthrow, its hit point maximum is reduced for 1 hour by\nan amount equal to the necrotic damage it took. Any\ne􀃠ect that removes a disease allows a creature's hit\npoint maximum to return to normal immediately.\nForce Potency. If you cast this power using a force\nslot of 7th level or higher, the power deals an extra 2d6\ndamage for each slot level above 6th.cha</p>\n",
+    "html": "<p>You wrack the body of a creature that you can see\nwith a virulent, disease-like condition. The target must\nmake a Constitution saving throw. On a failed save, it\ntakes 14d6 necrotic damage, or half as much damage\non a successful save. The damage can't reduce the\ntarget's hit points below 1. If the target fails the saving\nthrow, its hit point maximum is reduced for 1 hour by\nan amount equal to the necrotic damage it took. Any\ne􀃠ect that removes a disease allows a creature's hit\npoint maximum to return to normal immediately.\nForce Potency. If you cast this power using a force\nslot of 7th level or higher, the power deals an extra 2d6\ndamage for each slot level above 6th.</p>\n",
     "id": "wrack"
   }
 ]

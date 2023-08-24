@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png
 name: Gand
 source: ec
 speedColor: ''

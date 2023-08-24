@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png
 name: Rattataki
 source: ec
 speedColor: ''

@@ -1,6 +1,4 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png
 name: Dug
 source: ec
 speedColor: ''

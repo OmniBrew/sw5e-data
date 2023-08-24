@@ -15,7 +15,7 @@ mechanics:
       unit: action
 
     dc:
-      save: dexterity
+      save: dex
 
     duration:
       length: 1
