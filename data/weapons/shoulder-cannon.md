@@ -1,18 +1,18 @@
 ---
 name: Shoulder cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.5
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 60
   long: 240
 properties:
-  - [Auto, Burst 8, Power cell (range 60/240), Reload 8, Smart (15/+2), Special, Strength 11]
+  - [auto, burst 8, power cell (range 60/240), reload 8, smart (15/+2), special, strength 11]
 ---

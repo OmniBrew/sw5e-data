@@ -1,18 +1,18 @@
 ---
 name: Light slugpistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 35
   long: 140
 properties:
-  - [Light, Reload 8, Slug cartridge (range 35/140)]
+  - [light, reload 8, slug cartridge (range 35/140)]
 ---

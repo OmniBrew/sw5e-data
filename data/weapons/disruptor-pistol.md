@@ -1,18 +1,18 @@
 ---
 name: Disruptor pistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 750
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.5
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Acid
+  type: acid
 range:
   short: 45
   long: 180
 properties:
-  - [Disintegrate 13, Power cell (range 45/180), Reload 12, Strength 11]
+  - [disintegrate 13, power cell (range 45/180), reload 12, strength 11]
 ---

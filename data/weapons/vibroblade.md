@@ -1,18 +1,18 @@
 ---
 name: Vibroblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 200
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Versatile (1d10)]
+  - [versatile (1d10)]
 ---

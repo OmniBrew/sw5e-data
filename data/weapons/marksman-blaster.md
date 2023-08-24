@@ -1,18 +1,18 @@
 ---
 name: Marksman blaster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1100
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 12
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Energy
+  type: energy
 range:
   short: 125
   long: 500
 properties:
-  - [Power cell (range 125/500), Reload 8, Strength 13, Two-handed]
+  - [power cell (range 125/500), reload 8, strength 13, two-handed]
 ---

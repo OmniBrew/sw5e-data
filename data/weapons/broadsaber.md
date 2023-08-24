@@ -1,18 +1,18 @@
 ---
 name: Broadsaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1000
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.75
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Dire 1, Luminous, Versatile (1d8)]
+  - [dexterity 13, dire 1, luminous, versatile (1d8)]
 ---

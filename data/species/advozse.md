@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Advozse.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Advozse.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png
 name: Advozse
 source: ec
 speedColor: ''

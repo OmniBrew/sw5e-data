@@ -1,18 +1,18 @@
 ---
 name: ARC caster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2125
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9
-reload: 9
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Lightning
+  type: lightning
 range:
   short: 60
   long: 240
 properties:
-  - [Power cell (range 60/240), Burst 8, Rapid 4, Reload 9, Strength 11, Two-handed]
+  - [power cell (range 60/240), burst 8, rapid 4, reload 9, strength 11, two-handed]
 ---

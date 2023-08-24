@@ -1,18 +1,18 @@
 ---
 name: Chakram
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 175
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 30
   long: 90
 properties:
-  - [Finesse, Returning, Thrown (range 30/90)]
+  - [finesse, returning, thrown (range 30/90)]
 ---

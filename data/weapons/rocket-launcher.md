@@ -1,11 +1,11 @@
 ---
 name: Rocket launcher
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 14
-reload: 1
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 150
   long: 600
 properties:
-  - [Reload 1, Special (range 150/600), Strength 13, Two-handed]
+  - [reload 1, special (range 150/600), strength 13, two-handed]
 ---

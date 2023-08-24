@@ -1,18 +1,18 @@
 ---
 name: Mancatcher
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Reach, Special, Two-handed]
+  - [reach, special, two-handed]
 ---

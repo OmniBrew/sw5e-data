@@ -1,18 +1,18 @@
 ---
 name: Warsword
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1650
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10.75
 reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 15, Reckless 1, Two-handed, Vicious 1]
+  - [dexterity 15, reckless 1, two-handed, vicious 1]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Hand cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10.5
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Kinetic
+  type: kinetic
 range:
   short: 25
   long: 100
 properties:
-  - [Brutal 1, Slug cartridge (range 25/100), Reload 8, Strength 11, Two-handed]
+  - [brutal 1, slug cartridge (range 25/100), reload 8, strength 11, two-handed]
 ---

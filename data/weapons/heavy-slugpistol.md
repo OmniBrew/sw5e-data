@@ -1,18 +1,18 @@
 ---
 name: Heavy slugpistol
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 375
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.5
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: 30
   long: 120
 properties:
-  - [Rapid 8, Reload 12, Slug cartridge (range 30/120)]
+  - [rapid 8, reload 12, slug cartridge (range 30/120)]
 ---

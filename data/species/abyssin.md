@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Abyssin.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Abyssin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png
 name: Abyssin
 source: ec
 speedColor: ''

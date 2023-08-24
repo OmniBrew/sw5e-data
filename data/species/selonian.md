@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Selonian.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Selonian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png
 name: Selonian
 source: ec
 speedColor: ''

@@ -1,18 +1,18 @@
 ---
 name: Shortbow
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 60
   long: 240
 properties:
-  - [Mighty, Silent, Special (range 60/240), Two-handed]
+  - [mighty, silent, special (range 60/240), two-handed]
 ---

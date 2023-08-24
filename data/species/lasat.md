@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Lasat.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Lasat.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png
 name: Lasat
 source: ec
 speedColor: ''

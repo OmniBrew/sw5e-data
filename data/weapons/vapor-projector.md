@@ -1,11 +1,11 @@
 ---
 name: Vapor projector
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 13
-reload: 6
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [Reload 6, Special (range special), Strength 13, Two-handed]
+  - [reload 6, special (range special), strength 13, two-handed]
 ---

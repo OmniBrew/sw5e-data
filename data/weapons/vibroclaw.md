@@ -1,18 +1,18 @@
 ---
 name: Vibroclaw
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 50
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 0.75
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Finesse, Fixed, Light]
+  - [finesse, fixed, light]
 ---

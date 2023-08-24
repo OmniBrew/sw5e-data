@@ -1,18 +1,18 @@
 ---
 name: Lightsaber
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 450
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.25
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Hidden, Luminous, Versatile (2d4)]
+  - [hidden, luminous, versatile (2d4)]
 ---

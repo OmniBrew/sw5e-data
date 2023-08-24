@@ -1,18 +1,18 @@
 ---
 name: Vibroaxe
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 950
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9.25
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Heavy, Two-handed]
+  - [dexterity 11, heavy, two-handed]
 ---

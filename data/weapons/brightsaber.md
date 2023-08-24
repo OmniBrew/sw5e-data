@@ -1,18 +1,18 @@
 ---
 name: Brightsaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.5
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Fire
+  type: fire
 range:
   short: None
   long: None
 properties:
-  - [Bright 13, Hidden, Luminous, Versatile (2d4)]
+  - [bright 13, hidden, luminous, versatile (2d4)]
 ---

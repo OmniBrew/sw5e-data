@@ -1,18 +1,18 @@
 ---
 name: Sonic rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 875
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Sonic
+  type: sonic
 range:
   short: 80
   long: 320
 properties:
-  - [Power cell (range 80/320), Disruptive, Reload 8, Strength 11, Two-handed]
+  - [power cell (range 80/320), disruptive, reload 8, strength 11, two-handed]
 ---

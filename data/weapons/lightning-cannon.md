@@ -1,18 +1,18 @@
 ---
 name: Lightning cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 4400
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 16
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Lightning
+  type: lightning
 range:
   short: 90
   long: 360
 properties:
-  - [Power cell (range 90/360), Auto, Penetrating 2, Reload 4, Strength 15, Two-handed]
+  - [power cell (range 90/360), auto, penetrating 2, reload 4, strength 15, two-handed]
 ---

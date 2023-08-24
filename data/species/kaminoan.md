@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kaminoan.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kaminoan.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png
 name: Kaminoan
 source: ec
 speedColor: ''

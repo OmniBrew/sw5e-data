@@ -1,18 +1,18 @@
 ---
 name: Shatter cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 14
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Kinetic
+  type: kinetic
 range:
   short: 75
   long: 300
 properties:
-  - [Slug cartridge (range 75/300), Auto, Burst 4, Reload 8, Silent, Strength 15, Two-handed]
+  - [slug cartridge (range 75/300), auto, burst 4, reload 8, silent, strength 15, two-handed]
 ---

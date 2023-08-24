@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kage.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kage.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png
 name: Kage
 source: ec
 speedColor: ''

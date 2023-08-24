@@ -1,18 +1,18 @@
 ---
 name: Bustersaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 2900
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7.25
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Brutal 1, Dexterity 19, Heavy, Keen 1, Luminous, Reach, Two-handed]
+  - [brutal 1, dexterity 19, heavy, keen 1, luminous, reach, two-handed]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Lightning pistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Lightning
+  type: lightning
 range:
   short: 30
   long: 120
 properties:
-  - [Power cell (range 30/120), Penetrating 8, Reload 16]
+  - [power cell (range 30/120), penetrating 8, reload 16]
 ---

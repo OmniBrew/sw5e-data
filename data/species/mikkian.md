@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Mikkian.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Mikkian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png
 name: Mikkian
 source: ec
 speedColor: ''

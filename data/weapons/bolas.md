@@ -1,9 +1,9 @@
 ---
 name: Bolas
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 100
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
 reload: None
 damage:
@@ -14,5 +14,5 @@ range:
   short: 20
   long: 60
 properties:
-  - [Light, Special, Thrown (range 20/60)]
+  - [light, special, thrown (range 20/60)]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Shatter pistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 375
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 60
   long: 240
 properties:
-  - [Slug cartridge (range 60/240), Light, Reload 12, Silent, Strength 11]
+  - [slug cartridge (range 60/240), light, reload 12, silent, strength 11]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Lightbow
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 14
-reload: 2
+reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 60
   long: 240
 properties:
-  - [Piercing 1, Power cell (range 60/240), Reload 2, Strength 15, Two-handed]
+  - [piercing 1, power cell (range 60/240), reload 2, strength 15, two-handed]
 ---

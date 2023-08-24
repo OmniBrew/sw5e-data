@@ -1,18 +1,18 @@
 ---
 name: Crossguard saber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.25
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Defensive 1, Dexterity 13, Heavy, Luminous, Versatile (1d10)]
+  - [defensive 1, dexterity 13, heavy, luminous, versatile (1d10)]
 ---

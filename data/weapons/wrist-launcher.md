@@ -1,11 +1,11 @@
 ---
 name: Wrist launcher
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 400
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
-reload: 1
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 30
   long: 120
 properties:
-  - [Fixed, Reload 1, Special (range 30/120)]
+  - [fixed, reload 1, special (range 30/120)]
 ---

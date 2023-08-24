@@ -1,18 +1,18 @@
 ---
 name: Cryo carbine
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 1250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 6
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Cold
+  type: cold
 range:
   short: 45
   long: 180
 properties:
-  - [Power cell (range 45/180), Reload 12, Two-handed, Vicious 1]
+  - [power cell (range 45/180), reload 12, two-handed, vicious 1]
 ---

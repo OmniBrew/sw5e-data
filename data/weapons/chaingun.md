@@ -1,18 +1,18 @@
 ---
 name: Chaingun
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1325
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10.5
-reload: 8
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 80
   long: 320
 properties:
-  - [Auto, Rapid 2, Reload 8, Slug cartridge (range 80/320), Strength 13, Two-handed, Vicious 1]
+  - [auto, rapid 2, reload 8, slug cartridge (range 80/320), strength 13, two-handed, vicious 1]
 ---

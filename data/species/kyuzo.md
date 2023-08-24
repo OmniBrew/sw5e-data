@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kyuzo.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kyuzo.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png
 name: Kyuzo
 source: ec
 speedColor: ''

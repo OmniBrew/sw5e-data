@@ -1,9 +1,9 @@
 ---
 name: Bo-rifle
 rarity: unenhanced
-type: Exotic_Vibroweapon
+type: exotic_vibroweapon
 cost: 1075
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 0
 reload: None
 damage:
@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [Modal (blaster rifle and techstaff)]
+  - [modal (blaster rifle and techstaff)]
 ---

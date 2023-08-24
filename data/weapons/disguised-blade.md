@@ -1,18 +1,18 @@
 ---
 name: Disguised blade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 125
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Disarming, Disguised, Finesse, Light]
+  - [disarming, disguised, finesse, light]
 ---

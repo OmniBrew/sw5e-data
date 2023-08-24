@@ -1,18 +1,18 @@
 ---
 name: Vibrostaff
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 100
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Versatile (2d4)]
+  - [versatile (2d4)]
 ---

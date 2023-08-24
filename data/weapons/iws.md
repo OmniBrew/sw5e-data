@@ -1,9 +1,9 @@
 ---
 name: IWS
 rarity: unenhanced
-type: Exotic_Blaster
+type: exotic_blaster
 cost: 3625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 23
 reload: None
 damage:
@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [Modal (blaster rifle, grenade launcher, and sniper rifle)]
+  - [modal (blaster rifle, grenade launcher, and sniper rifle)]
 ---

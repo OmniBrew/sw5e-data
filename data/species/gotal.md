@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gotal.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gotal.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png
 name: Gotal
 source: ec
 speedColor: ''

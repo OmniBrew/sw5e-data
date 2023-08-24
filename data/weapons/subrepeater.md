@@ -1,18 +1,18 @@
 ---
 name: Subrepeater
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 30
   long: 120
 properties:
-  - [Auto, Rapid 4, Light, Power cell (range 30/120), Reload 16, Strength 11]
+  - [auto, rapid 4, light, power cell (range 30/120), reload 16, strength 11]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aing-Tii.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aing-Tii.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png
 name: Aing-Tii
 source: ec
 speedColor: ''

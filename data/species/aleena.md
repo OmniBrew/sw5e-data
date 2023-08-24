@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aleena.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aleena.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png
 name: Aleena
 source: ec
 speedColor: ''

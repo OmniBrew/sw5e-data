@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Shistavanen.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Shistavanen.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png
 name: Shistavanen
 source: ec
 speedColor: ''

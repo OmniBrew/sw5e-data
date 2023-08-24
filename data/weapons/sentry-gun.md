@@ -1,18 +1,18 @@
 ---
 name: Sentry gun
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 3250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 16.5
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: 120
   long: 480
 properties:
-  - [Brutal, Keen 1, Reload 4, Special (range 120/480), Strength 19, Two-handed]
+  - [brutal, keen 1, reload 4, special (range 120/480), strength 19, two-handed]
 ---

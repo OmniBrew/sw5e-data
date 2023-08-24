@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Esh-Kha.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Esh-Kha.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png
 name: Esh-Kha
 source: ec
 speedColor: ''

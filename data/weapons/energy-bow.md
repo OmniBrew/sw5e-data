@@ -1,18 +1,18 @@
 ---
 name: Energy bow
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 475
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.5
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 80
   long: 320
 properties:
-  - [Power cell (range 80/320), Mighty, Reload 4, Two-handed]
+  - [power cell (range 80/320), mighty, reload 4, two-handed]
 ---

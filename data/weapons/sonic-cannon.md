@@ -1,18 +1,18 @@
 ---
 name: Sonic cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2100
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 16.5
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Sonic
+  type: sonic
 range:
   short: 90
   long: 360
 properties:
-  - [Power cell (range 90/360), Auto, Burst 2, Disruptive, Reload 4, Strength 17, Two-handed]
+  - [power cell (range 90/360), auto, burst 2, disruptive, reload 4, strength 17, two-handed]
 ---

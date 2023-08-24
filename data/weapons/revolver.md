@@ -1,18 +1,18 @@
 ---
 name: Revolver
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 6.5
-reload: 8
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 60
   long: 240
 properties:
-  - [Slug cartridge (range 60/240), Rapid 4, Reload 8, Strength 11]
+  - [slug cartridge (range 60/240), rapid 4, reload 8, strength 11]
 ---

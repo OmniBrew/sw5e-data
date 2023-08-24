@@ -1,18 +1,18 @@
 ---
 name: Radiation cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 3900
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 13.5
-reload: 4
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Necrotic
+  type: necrotic
 range:
   short: 75
   long: 300
 properties:
-  - [Power cell (range 75/300), Auto, Burst 2, Disrupt ive, Piercing 1, Reload 4, Strength 15, Two-handed]
+  - [power cell (range 75/300), auto, burst 2, disrupt ive, piercing 1, reload 4, strength 15, two-handed]
 ---

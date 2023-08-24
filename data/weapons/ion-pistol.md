@@ -1,18 +1,18 @@
 ---
 name: Ion pistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 3
-  type: Ion
+  type: ion
 range:
   short: 40
   long: 160
 properties:
-  - [Power cell (range 40/160), Reload 16]
+  - [power cell (range 40/160), reload 16]
 ---

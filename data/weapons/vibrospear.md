@@ -1,18 +1,18 @@
 ---
 name: Vibrospear
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 125
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 25
   long: 75
 properties:
-  - [Thrown (range 25/75), Versatile (2d4)]
+  - [thrown (range 25/75), versatile (2d4)]
 ---

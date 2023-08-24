@@ -1,18 +1,18 @@
 ---
 name: Lightsaber pike
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1175
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.25
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Double (1d8 energy), Luminous, Reach]
+  - [dexterity 11, double (1d8 energy), luminous, reach]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Stun gauntlet
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 400
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.25
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Disruptive, Fixed, Shocking 13]
+  - [disruptive, fixed, shocking 13]
 ---

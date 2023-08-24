@@ -1,18 +1,18 @@
 ---
 name: Lightstaff
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 1275
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.25
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Luminous, Reach, Two-handed]
+  - [dexterity 11, luminous, reach, two-handed]
 ---

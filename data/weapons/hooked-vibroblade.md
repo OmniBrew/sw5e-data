@@ -1,18 +1,18 @@
 ---
 name: Hooked vibroblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 225
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.75
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Disarming, Finesse]
+  - [disarming, finesse]
 ---

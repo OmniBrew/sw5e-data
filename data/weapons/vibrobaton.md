@@ -1,15 +1,15 @@
 ---
 name: Vibrobaton
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None

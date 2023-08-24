@@ -1,18 +1,18 @@
 ---
 name: Nervebaton
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 375
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Disruptive, Neuralizing 13]
+  - [disruptive, neuralizing 13]
 ---

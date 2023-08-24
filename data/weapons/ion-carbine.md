@@ -1,18 +1,18 @@
 ---
 name: Ion carbine
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 600
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 6
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Ion
+  type: ion
 range:
   short: 60
   long: 240
 properties:
-  - [Power cell (range 60/240), Reload 12, Two-handed]
+  - [power cell (range 60/240), reload 12, two-handed]
 ---

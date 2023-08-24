@@ -1,18 +1,18 @@
 ---
 name: Vibrorapier
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 150
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.5
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Finesse]
+  - [finesse]
 ---

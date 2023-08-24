@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Culisetto.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Culisetto.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png
 name: Culisetto
 source: ec
 speedColor: ''

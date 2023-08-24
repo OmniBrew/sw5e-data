@@ -1,18 +1,18 @@
 ---
 name: Lightning carbine
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 1150
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Lightning
+  type: lightning
 range:
   short: 60
   long: 240
 properties:
-  - [Power cell (range 60/240), Penetrating 6, Reload 12, Strength 11, Two-handed]
+  - [power cell (range 60/240), penetrating 6, reload 12, strength 11, two-handed]
 ---

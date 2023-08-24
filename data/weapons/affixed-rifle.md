@@ -1,18 +1,18 @@
 ---
 name: Affixed Rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 700
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 90
   long: 360
 properties:
-  - [Power cell (range 90/360), Fixed, Rapid 4, Reload 8, Strength 11, Two-handed]
+  - [power cell (range 90/360), fixed, rapid 4, reload 8, strength 11, two-handed]
 ---

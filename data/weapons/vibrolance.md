@@ -1,18 +1,18 @@
 ---
 name: Vibrolance
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.5
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Reach, Special]
+  - [dexterity 13, reach, special]
 ---

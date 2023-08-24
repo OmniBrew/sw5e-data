@@ -1,18 +1,18 @@
 ---
 name: Electrowhip
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.25
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Disruptive, Reach, Shocking 13]
+  - [dexterity 11, disruptive, reach, shocking 13]
 ---

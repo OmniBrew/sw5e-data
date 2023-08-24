@@ -1,10 +1,10 @@
 ---
-name: Switch rifle
+name: Blaster rifle
 rarity: unenhanced
 type: martial_blaster
-cost: 1025
+cost: 525
 manufacturer: unaffiliated
-weight: 9.5
+weight: 7.5
 reload: None
 damage:
   dieCount: 1
@@ -14,5 +14,5 @@ range:
   short: 105
   long: 420
 properties:
-  - [power cell (range 105/420), reload 8, switch (1d6 lightning), two-handed]
+  - [power cell (range 105/420), reload 12, two-handed]
 ---

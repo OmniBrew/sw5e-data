@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Arcona.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Arcona.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png
 name: Arcona
 source: ec
 speedColor: ''

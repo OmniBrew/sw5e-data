@@ -1,18 +1,18 @@
 ---
 name: Scattergun
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 30
   long: 120
 properties:
-  - [Burst 2, Reload 8, Slug cartridge (range 30/120), Strength 11]
+  - [burst 2, reload 8, slug cartridge (range 30/120), strength 11]
 ---

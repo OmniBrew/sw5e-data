@@ -1,18 +1,18 @@
 ---
 name: Repeating blaster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1025
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 75
   long: 300
 properties:
-  - [Auto, Burst 4, Power cell (range 75/300), Rapid 4, Reload 8, Strength 11, Two-handed]
+  - [auto, burst 4, power cell (range 75/300), rapid 4, reload 8, strength 11, two-handed]
 ---

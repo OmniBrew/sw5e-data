@@ -1,18 +1,18 @@
 ---
 name: Slugthrower
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 525
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7.5
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: 105
   long: 420
 properties:
-  - [Reload 12, Slug cartridge (range 105/420), Two-handed]
+  - [reload 12, slug cartridge (range 105/420), two-handed]
 ---

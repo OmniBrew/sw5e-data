@@ -1,18 +1,18 @@
 ---
 name: Blightsaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.5
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Necrotic
+  type: necrotic
 range:
   short: None
   long: None
 properties:
-  - [Corruption 13, Hidden, Versatile (2d4)]
+  - [corruption 13, hidden, versatile (2d4)]
 ---

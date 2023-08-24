@@ -1,18 +1,18 @@
 ---
 name: Cryo rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2400
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10.5
-reload: 4
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Cold
+  type: cold
 range:
   short: 50
   long: 200
 properties:
-  - [Power cell (range 50/200), Reload 4, Strength 11, Two-handed, Vicious 1]
+  - [power cell (range 50/200), reload 4, strength 11, two-handed, vicious 1]
 ---

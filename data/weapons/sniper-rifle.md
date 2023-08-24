@@ -1,18 +1,18 @@
 ---
 name: Sniper rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 13.5
-reload: 2
+reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: 150
   long: 600
 properties:
-  - [Power cell (range 150/600), Reload 2, Strength 13, Two-handed]
+  - [power cell (range 150/600), reload 2, strength 13, two-handed]
 ---

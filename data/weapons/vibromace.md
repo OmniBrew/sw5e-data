@@ -1,18 +1,18 @@
 ---
 name: Vibromace
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 700
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7
 reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Heavy, Two-handed]
+  - [dexterity 11, heavy, two-handed]
 ---

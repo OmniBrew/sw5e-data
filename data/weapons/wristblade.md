@@ -1,18 +1,18 @@
 ---
 name: Wristblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 275
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1.75
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Fixed, Light, Piercing 1]
+  - [fixed, light, piercing 1]
 ---

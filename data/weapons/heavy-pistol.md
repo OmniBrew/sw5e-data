@@ -1,18 +1,18 @@
 ---
 name: Heavy pistol
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 45
   long: 180
 properties:
-  - [Power cell (range 45/180), Reload 16]
+  - [power cell (range 45/180), reload 16]
 ---

@@ -1,11 +1,11 @@
 ---
 name: Torpedo launcher
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 15000
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 30
-reload: 1
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 1200
   long: 3600
 properties:
-  - [Special (range 1200/3600), Reload 1, Two-handed]
+  - [special (range 1200/3600), reload 1, two-handed]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Scatter blaster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1175
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9.5
-reload: 12
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 40
   long: 160
 properties:
-  - [Power cell (range 40/160), Burst 3, Reload 12, Strength 13, Two-handed]
+  - [power cell (range 40/160), burst 3, reload 12, strength 13, two-handed]
 ---

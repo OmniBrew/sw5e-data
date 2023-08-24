@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Falleen.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Falleen.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png
 name: Falleen
 source: ec
 speedColor: ''

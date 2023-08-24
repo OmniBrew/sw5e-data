@@ -1,18 +1,18 @@
 ---
 name: Shotgun
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 6.5
-reload: 4
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 30
   long: 120
 properties:
-  - [Burst 2, Reload 4, Slug cartridge (range 30/120), Strength 11, Two-handed]
+  - [burst 2, reload 4, slug cartridge (range 30/120), strength 11, two-handed]
 ---

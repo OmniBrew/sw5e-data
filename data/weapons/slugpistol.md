@@ -1,18 +1,18 @@
 ---
 name: Slugpistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 325
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 40
   long: 160
 properties:
-  - [Rapid 8, Reload 16, Slug cartridge (range 40/160), Strength 11]
+  - [rapid 8, reload 16, slug cartridge (range 40/160), strength 11]
 ---

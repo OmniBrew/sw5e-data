@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Besalisk.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Besalisk.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png
 name: Besalisk
 source: ec
 speedColor: ''

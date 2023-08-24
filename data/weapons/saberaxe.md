@@ -1,18 +1,18 @@
 ---
 name: Saberaxe
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 600
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Luminous]
+  - [luminous]
 ---

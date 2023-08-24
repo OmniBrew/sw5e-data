@@ -1,18 +1,18 @@
 ---
 name: Retrosaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 950
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Dire 1, Reckless 1, Versatile (1d10)]
+  - [dexterity 13, dire 1, reckless 1, versatile (1d10)]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Vibrobuster
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1850
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 13.25
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Brutal 1, Dexterity 19, Heavy, Keen 1, Reach, Two-handed]
+  - [brutal 1, dexterity 19, heavy, keen 1, reach, two-handed]
 ---

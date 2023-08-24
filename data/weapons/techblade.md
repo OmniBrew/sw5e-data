@@ -1,18 +1,18 @@
 ---
 name: Techblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 100
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1.5
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Finesse, Light]
+  - [finesse, light]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Doublesword
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 450
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5.5
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Double (1d8 kinetic), Finesse]
+  - [double (1d8 kinetic), finesse]
 ---

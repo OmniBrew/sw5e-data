@@ -1,18 +1,18 @@
 ---
 name: Disruptorshiv
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 425
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.5
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Disruptive, Finesse, Shocking 13]
+  - [disruptive, finesse, shocking 13]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Lannik.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Lannik.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png
 name: Lannik
 source: ec
 speedColor: ''

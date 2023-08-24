@@ -1,18 +1,18 @@
 ---
 name: Techstaff
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 650
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5.25
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Double (2d4 kinetic), Light]
+  - [dexterity 11, double (2d4 kinetic), light]
 ---

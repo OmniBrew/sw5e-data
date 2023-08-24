@@ -1,18 +1,18 @@
 ---
 name: Hand blaster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 0.5
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 40
   long: 160
 properties:
-  - [Keen 1, Light, Power cell (range 40/160), Reload 8]
+  - [keen 1, light, power cell (range 40/160), reload 8]
 ---

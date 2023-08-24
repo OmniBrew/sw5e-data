@@ -1,18 +1,18 @@
 ---
 name: Vibrohammer
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 600
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7.5
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Heavy, Two-handed, Vicious 1]
+  - [heavy, two-handed, vicious 1]
 ---

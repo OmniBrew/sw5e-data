@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chevin.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chevin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png
 name: Chevin
 source: ec
 speedColor: ''

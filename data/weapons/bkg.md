@@ -1,18 +1,18 @@
 ---
 name: BKG
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2750
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 19
-reload: 2
+reload: None
 damage:
   dieCount: 3
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 120
   long: 480
 properties:
-  - [Auto, Burst 2, Disintegrate 13, Power cell (range 120/480), Reload 2, Strength 19, Two-handed, Vicious 1]
+  - [auto, burst 2, disintegrate 13, power cell (range 120/480), reload 2, strength 19, two-handed, vicious 1]
 ---

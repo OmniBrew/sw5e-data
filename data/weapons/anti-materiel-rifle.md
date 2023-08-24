@@ -1,18 +1,18 @@
 ---
 name: Anti-materiel rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1900
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 17
-reload: 2
+reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 180
   long: 720
 properties:
-  - [Slug cartridge (range 180/720), Reload 2, Penetrating 2, Strength 19, Two-handed]
+  - [slug cartridge (range 180/720), reload 2, penetrating 2, strength 19, two-handed]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ugnaught.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Ugnaught.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png
 name: Ugnaught
 source: ec
 speedColor: ''

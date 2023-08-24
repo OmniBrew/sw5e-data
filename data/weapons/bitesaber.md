@@ -1,18 +1,18 @@
 ---
 name: Bitesaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.5
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Acid
+  type: acid
 range:
   short: None
   long: None
 properties:
-  - [Biting 13, Hidden, Luminous, Versatile (2d4)]
+  - [biting 13, hidden, luminous, versatile (2d4)]
 ---

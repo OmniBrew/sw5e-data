@@ -1,18 +1,18 @@
 ---
 name: Lightclub
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 1300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.75
 reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Heavy, Luminous, Two-handed]
+  - [dexterity 11, heavy, luminous, two-handed]
 ---

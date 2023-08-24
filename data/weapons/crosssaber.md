@@ -1,18 +1,18 @@
 ---
 name: Crosssaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1650
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5.25
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 15, Double (2d4 energy), Heavy, Luminous, Reach]
+  - [dexterity 15, double (2d4 energy), heavy, luminous, reach]
 ---

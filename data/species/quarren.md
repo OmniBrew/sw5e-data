@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Quarren.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Quarren.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png
 name: Quarren
 source: ec
 speedColor: ''

@@ -1,18 +1,18 @@
 ---
 name: Ion rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1150
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Ion
+  type: ion
 range:
   short: 80
   long: 320
 properties:
-  - [Power cell (range 80/320), Reload 8, Two-handed]
+  - [power cell (range 80/320), reload 8, two-handed]
 ---

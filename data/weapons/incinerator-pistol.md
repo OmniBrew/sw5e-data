@@ -1,18 +1,18 @@
 ---
 name: Incinerator pistol
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 1250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.5
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Fire
+  type: fire
 range:
   short: 40
   long: 160
 properties:
-  - [Dire 1, Disintegrate 13, Power cell (range 40/160), Reload 16, Strength 11]
+  - [dire 1, disintegrate 13, power cell (range 40/160), reload 16, strength 11]
 ---

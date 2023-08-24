@@ -1,18 +1,18 @@
 ---
 name: Electrohammer
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 950
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.75
 reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Heavy, Shocking 13, Two-handed]
+  - [dexterity 11, heavy, shocking 13, two-handed]
 ---

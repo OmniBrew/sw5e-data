@@ -1,18 +1,18 @@
 ---
 name: Energy slingshot
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 425
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
-reload: 20
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 20
   long: 80
 properties:
-  - [Power cell (range 20/80), Disruptive, Fixed, Mighty, Reload 20, Two-handed]
+  - [power cell (range 20/80), disruptive, fixed, mighty, reload 20, two-handed]
 ---

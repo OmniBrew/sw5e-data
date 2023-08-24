@@ -1,11 +1,11 @@
 ---
 name: Grenade launcher
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 11.5
-reload: 1
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 90
   long: 360
 properties:
-  - [Reload 1, Special (range 90/360), Strength 11, Two-handed]
+  - [reload 1, special (range 90/360), strength 11, two-handed]
 ---

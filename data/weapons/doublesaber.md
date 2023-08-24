@@ -1,18 +1,18 @@
 ---
 name: Doublesaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.25
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Double (1d8 energy), Finesse, Luminous]
+  - [double (1d8 energy), finesse, luminous]
 ---

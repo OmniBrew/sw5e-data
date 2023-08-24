@@ -1,18 +1,18 @@
 ---
 name: Assault cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 15
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: 90
   long: 360
 properties:
-  - [Burst 4, Power cell (range 90/360), Reload 4, Strength 15, Two-handed]
+  - [burst 4, power cell (range 90/360), reload 4, strength 15, two-handed]
 ---

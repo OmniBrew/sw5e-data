@@ -1,18 +1,18 @@
 ---
 name: Dire vibroblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Dire 1, Versatile (1d10)]
+  - [dexterity 13, dire 1, versatile (1d10)]
 ---

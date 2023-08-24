@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Harch.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Harch.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png
 name: Harch
 source: ec
 speedColor: ''

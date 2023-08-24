@@ -1,18 +1,18 @@
 ---
 name: Lightning rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2125
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.5
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Lightning
+  type: lightning
 range:
   short: 60
   long: 240
 properties:
-  - [Power cell (range 60/240), Penetrating 2, Reload 8, Strength 11, Two-handed]
+  - [power cell (range 60/240), penetrating 2, reload 8, strength 11, two-handed]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Muun.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Muun.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png
 name: Muun
 source: ec
 speedColor: ''

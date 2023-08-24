@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kiffar.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kiffar.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png
 name: Kiffar
 source: ec
 speedColor: ''

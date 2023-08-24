@@ -1,18 +1,18 @@
 ---
 name: Vibroknuckler
 rarity: unenhanced
-type: Simple_Vibroweapon
+type: simple_vibroweapon
 cost: 75
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1.25
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Hidden, Light]
+  - [hidden, light]
 ---

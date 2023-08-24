@@ -1,18 +1,18 @@
 ---
 name: Switch sniper
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1800
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 15.5
-reload: 2
+reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: 150
   long: 600
 properties:
-  - [Power cell (range 150/600), Reload 2, Strength 13, Switch (1d10 cold), Two-handed]
+  - [power cell (range 150/600), reload 2, strength 13, switch (1d10 cold), two-handed]
 ---

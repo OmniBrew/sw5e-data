@@ -1,18 +1,18 @@
 ---
 name: Lightnodachi
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 3050
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.5
 reload: None
 damage:
   dieCount: 3
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 17, Luminous, Piercing 1, Two-handed, Vicious 1]
+  - [dexterity 17, luminous, piercing 1, two-handed, vicious 1]
 ---

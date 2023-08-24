@@ -1,18 +1,18 @@
 ---
 name: Lightbaton
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 400
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1.25
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Hidden, Light, Luminous]
+  - [hidden, light, luminous]
 ---

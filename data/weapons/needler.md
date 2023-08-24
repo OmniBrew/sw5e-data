@@ -1,18 +1,18 @@
 ---
 name: Needler
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 475
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 30
   long: 160
 properties:
-  - [Slug cartridge (range 30/160), Piercing 1, Reload 12, Silent, Special]
+  - [slug cartridge (range 30/160), piercing 1, reload 12, silent, special]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Warsaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 2175
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.25
 reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 15, Reckless 1, Two-handed, Vicious 1]
+  - [dexterity 15, reckless 1, two-handed, vicious 1]
 ---

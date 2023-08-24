@@ -1,18 +1,18 @@
 ---
 name: Splitsaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Double (2d4 energy), Interlocking, Luminous]
+  - [double (2d4 energy), interlocking, luminous]
 ---

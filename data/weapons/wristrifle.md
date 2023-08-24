@@ -1,18 +1,18 @@
 ---
 name: Wristrifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 250
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.5
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 60
   long: 240
 properties:
-  - [Power cell (range 60/240), Fixed, Reload 12]
+  - [power cell (range 60/240), fixed, reload 12]
 ---

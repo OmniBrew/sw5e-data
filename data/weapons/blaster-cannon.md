@@ -1,18 +1,18 @@
 ---
 name: Blaster cannon
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 5500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 18.5
 reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 120
   long: 480
 properties:
-  - [Auto, Burst, Rapid, Special (range 120/480), Strength 19, Two-handed]
+  - [auto, burst, rapid, special (range 120/480), strength 19, two-handed]
 ---

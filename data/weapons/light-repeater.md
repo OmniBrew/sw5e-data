@@ -1,18 +1,18 @@
 ---
 name: Light repeater
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 625
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 6
-reload: 20
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 50
   long: 200
 properties:
-  - [Auto, Power cell (range 50/200), Rapid 5, Reload 20, Two-handed]
+  - [auto, power cell (range 50/200), rapid 5, reload 20, two-handed]
 ---

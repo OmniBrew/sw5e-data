@@ -1,18 +1,18 @@
 ---
 name: Disruptor carbine
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 1450
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.5
-reload: 8
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Acid
+  type: acid
 range:
   short: 60
   long: 240
 properties:
-  - [Disintegrate 13, Power cell (range 60/240), Reload 8, Strength 11, Two-handed]
+  - [disintegrate 13, power cell (range 60/240), reload 8, strength 11, two-handed]
 ---

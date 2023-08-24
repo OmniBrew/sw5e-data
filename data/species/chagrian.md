@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chagrian.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Chagrian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png
 name: Chagrian
 source: ec
 speedColor: ''

@@ -1,18 +1,18 @@
 ---
 name: Carbine rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 925
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 8.5
-reload: 12
+reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: 90
   long: 360
 properties:
-  - [Auto, Power cell (range 90/360), Rapid 3, Reload 12, Strength 11, Two-handed]
+  - [auto, power cell (range 90/360), rapid 3, reload 12, strength 11, two-handed]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Dowutin.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Dowutin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png
 name: Dowutin
 source: ec
 speedColor: ''

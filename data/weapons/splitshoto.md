@@ -1,18 +1,18 @@
 ---
 name: Splitshoto
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1150
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Double (1d8 energy), Interlocking, Light, Luminous]
+  - [double (1d8 energy), interlocking, light, luminous]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Vibronodachi
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 2200
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 12
 reload: None
 damage:
   dieCount: 3
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 17, Piercing 1, Two-handed, Vicious 1]
+  - [dexterity 17, piercing 1, two-handed, vicious 1]
 ---

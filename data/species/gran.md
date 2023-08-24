@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gran.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Gran.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png
 name: Gran
 source: ec
 speedColor: ''

@@ -1,18 +1,18 @@
 ---
 name: Disruptor rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2900
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 13.5
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Acid
+  type: acid
 range:
   short: 60
   long: 240
 properties:
-  - [Disintegrate 13, Power cell (range 60/240), Reload 4, Strength 13, Two-handed]
+  - [disintegrate 13, power cell (range 60/240), reload 4, strength 13, two-handed]
 ---

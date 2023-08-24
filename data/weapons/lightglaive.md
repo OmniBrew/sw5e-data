@@ -1,18 +1,18 @@
 ---
 name: Lightglaive
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 2050
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5.75
 reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Brutal 1, Dexterity 13, Luminous, Reach, Two-handed]
+  - [brutal 1, dexterity 13, luminous, reach, two-handed]
 ---

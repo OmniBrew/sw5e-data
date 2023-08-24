@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Diathim.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Diathim.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png
 name: Diathim
 source: ec
 speedColor: ''

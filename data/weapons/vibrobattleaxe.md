@@ -1,18 +1,18 @@
 ---
 name: Vibrobattleaxe
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1200
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Brutal 1, Dexterity 13, Heavy, Two-handed]
+  - [brutal 1, dexterity 13, heavy, two-handed]
 ---

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kaleesh.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kaleesh.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png
 name: Kaleesh
 source: ec
 speedColor: ''

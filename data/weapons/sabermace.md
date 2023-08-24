@@ -1,18 +1,18 @@
 ---
 name: Sabermace
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 950
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.75
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Brutal 1, Dexterity 13, Hidden, Luminous, Versatile (1d10)]
+  - [brutal 1, dexterity 13, hidden, luminous, versatile (1d10)]
 ---

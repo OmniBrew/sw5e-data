@@ -1,18 +1,18 @@
 ---
 name: Vibrowhip
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 275
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.5
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Finesse, Reach]
+  - [finesse, reach]
 ---

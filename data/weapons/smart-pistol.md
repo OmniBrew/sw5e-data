@@ -1,18 +1,18 @@
 ---
 name: Smart pistol
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1075
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: 40
   long: 160
 properties:
-  - [Piercing 1, Rapid 2, Reload 16, Slug cartridge (range 40/160), Smart (15/+2), Strength 11]
+  - [piercing 1, rapid 2, reload 16, slug cartridge (range 40/160), smart (15/+2), strength 11]
 ---

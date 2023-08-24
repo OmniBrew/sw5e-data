@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Nikto.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Nikto.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png
 name: Nikto
 source: ec
 speedColor: ''

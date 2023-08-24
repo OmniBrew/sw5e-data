@@ -1,18 +1,18 @@
 ---
 name: Vibroclaymore
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1700
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10.5
 reload: None
 damage:
   dieCount: 3
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Two-handed]
+  - [dexterity 13, two-handed]
 ---

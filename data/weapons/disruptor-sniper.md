@@ -1,18 +1,18 @@
 ---
 name: Disruptor sniper
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 3300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 15
-reload: 2
+reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Acid
+  type: acid
 range:
   short: 120
   long: 480
 properties:
-  - [Disintegrate 13, Power cell (range 120/480), Reload 2, Strength 15, Two-handed]
+  - [disintegrate 13, power cell (range 120/480), reload 2, strength 15, two-handed]
 ---

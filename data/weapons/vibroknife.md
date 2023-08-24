@@ -1,18 +1,18 @@
 ---
 name: Vibroknife
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 225
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1
 reload: None
 damage:
   dieCount: 1
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Finesse, Light, Piercing 1]
+  - [finesse, light, piercing 1]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Vibrosword
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 1150
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9.25
 reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Two-handed]
+  - [dexterity 11, two-handed]
 ---

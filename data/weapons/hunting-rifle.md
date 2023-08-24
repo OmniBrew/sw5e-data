@@ -1,18 +1,18 @@
 ---
 name: Hunting rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1000
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 11
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Kinetic
+  type: kinetic
 range:
   short: 125
   long: 500
 properties:
-  - [Reload 4, Slug cartridge (range 125/500), Strength 11, Two-handed]
+  - [reload 4, slug cartridge (range 125/500), strength 11, two-handed]
 ---

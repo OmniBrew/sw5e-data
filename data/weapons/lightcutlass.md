@@ -1,18 +1,18 @@
 ---
 name: Lightcutlass
 rarity: unenhanced
-type: Simple_Lightweapon
+type: simple_lightweapon
 cost: 725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 1.5
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Hidden, Luminous]
+  - [dexterity 11, hidden, luminous]
 ---

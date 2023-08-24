@@ -1,18 +1,18 @@
 ---
 name: Heavy shotgun
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1125
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 9.5
-reload: 8
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: 60
   long: 240
 properties:
-  - [Burst 2, Reload 8, Slug cartridge (range 60/240), Strength 13, Two-handed]
+  - [burst 2, reload 8, slug cartridge (range 60/240), strength 13, two-handed]
 ---

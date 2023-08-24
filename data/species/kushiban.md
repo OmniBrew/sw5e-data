@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kushiban.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Kushiban.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png
 name: Kushiban
 source: ec
 speedColor: ''

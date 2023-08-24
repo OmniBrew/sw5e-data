@@ -1,18 +1,18 @@
 ---
 name: Sunsaber
 rarity: unenhanced
-type: Exotic_Lightweapon
+type: exotic_lightweapon
 cost: 1875
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 0
 reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Fire
+  type: fire
 range:
   short: None
   long: None
 properties:
-  - [Bright 15, Dexterity 11, Hidden, Specialized (bright), Versatile (2d4)]
+  - [bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)]
 ---

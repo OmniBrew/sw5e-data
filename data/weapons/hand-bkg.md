@@ -1,18 +1,18 @@
 ---
 name: Hand BKG
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10
-reload: 4
+reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Energy
+  type: energy
 range:
   short: 50
   long: 200
 properties:
-  - [Brutal 1, Disintegrate 13, Keen 1, Power cell (range 50/200), Reload 4, Strength 15]
+  - [brutal 1, disintegrate 13, keen 1, power cell (range 50/200), reload 4, strength 15]
 ---

@@ -1,18 +1,18 @@
 ---
 name: Great-saber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1725
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.25
 reload: None
 damage:
   dieCount: 2
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Luminous, Two-handed]
+  - [dexterity 11, luminous, two-handed]
 ---

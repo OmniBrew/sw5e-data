@@ -1,18 +1,18 @@
 ---
 name: Jagged vibroblade
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 650
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 13, Keen 1, Versatile (1d12)]
+  - [dexterity 13, keen 1, versatile (1d12)]
 ---

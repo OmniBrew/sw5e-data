@@ -1,18 +1,18 @@
 ---
 name: Pikesaber
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1675
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 5.25
 reload: None
 damage:
   dieCount: 1
   dieType: 10
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Luminous, Reach, Two-handed]
+  - [dexterity 11, luminous, reach, two-handed]
 ---

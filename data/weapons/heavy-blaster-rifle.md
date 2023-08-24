@@ -1,18 +1,18 @@
 ---
 name: Heavy blaster rifle
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 1025
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 10
-reload: 8
+reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 100
   long: 400
 properties:
-  - [Power cell (range 100/400), Rapid 2, Reload 8, Strength 13, Two-handed]
+  - [power cell (range 100/400), rapid 2, reload 8, strength 13, two-handed]
 ---

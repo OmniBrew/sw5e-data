@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Thisspiasian.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Thisspiasian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png
 name: Thisspiasian
 source: ec
 speedColor: ''

@@ -1,6 +1,6 @@
 ---
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aqualish.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_Aqualish.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png
 name: Aqualish
 source: ec
 speedColor: ''

@@ -1,18 +1,18 @@
 ---
 name: Switch carbine
 rarity: unenhanced
-type: Simple_Blaster
+type: simple_blaster
 cost: 925
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 7.5
-reload: 16
+reload: None
 damage:
   dieCount: 1
   dieType: 6
-  type: Energy
+  type: energy
 range:
   short: 70
   long: 280
 properties:
-  - [Power cell (range 70/280), Reload 16, Switch (1d4 acid), Two-handed]
+  - [power cell (range 70/280), reload 16, switch (1d4 acid), two-handed]
 ---

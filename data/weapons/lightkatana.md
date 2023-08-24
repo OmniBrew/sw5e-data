@@ -1,18 +1,18 @@
 ---
 name: Lightkatana
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 925
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 2.75
 reload: None
 damage:
   dieCount: 1
   dieType: 8
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Hidden, Luminous, Piercing 1, Versatile (1d10)]
+  - [dexterity 11, hidden, luminous, piercing 1, versatile (1d10)]
 ---

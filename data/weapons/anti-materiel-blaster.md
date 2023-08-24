@@ -1,18 +1,18 @@
 ---
 name: Anti-materiel blaster
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 2500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 18.5
-reload: 2
+reload: None
 damage:
   dieCount: 3
   dieType: 4
-  type: Energy
+  type: energy
 range:
   short: 180
   long: 720
 properties:
-  - [Power cell (range 180/720), Auto, Reload 2, Penetrating 2, Strength 19, Two-handed]
+  - [power cell (range 180/720), auto, reload 2, penetrating 2, strength 19, two-handed]
 ---

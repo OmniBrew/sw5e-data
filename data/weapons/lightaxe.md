@@ -1,18 +1,18 @@
 ---
 name: Lightaxe
 rarity: unenhanced
-type: Martial_Lightweapon
+type: martial_lightweapon
 cost: 1550
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3.75
 reload: None
 damage:
   dieCount: 1
   dieType: 12
-  type: Energy
+  type: energy
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Heavy, Luminous, Two-handed]
+  - [dexterity 11, heavy, luminous, two-handed]
 ---

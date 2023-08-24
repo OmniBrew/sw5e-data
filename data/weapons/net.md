@@ -1,9 +1,9 @@
 ---
 name: Net
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 300
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 3
 reload: None
 damage:
@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [Light, Finesse, Special, Thrown (range 15)]
+  - [light, finesse, special, thrown (range 15)]
 ---

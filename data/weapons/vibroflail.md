@@ -1,18 +1,18 @@
 ---
 name: Vibroflail
 rarity: unenhanced
-type: Martial_Vibroweapon
+type: martial_vibroweapon
 cost: 500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 4.75
 reload: None
 damage:
   dieCount: 2
   dieType: 4
-  type: Kinetic
+  type: kinetic
 range:
   short: None
   long: None
 properties:
-  - [Dexterity 11, Reckless 1]
+  - [dexterity 11, reckless 1]
 ---

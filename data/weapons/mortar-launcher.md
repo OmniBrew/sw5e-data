@@ -1,11 +1,11 @@
 ---
 name: Mortar launcher
 rarity: unenhanced
-type: Martial_Blaster
+type: martial_blaster
 cost: 3500
-manufacturer: Unaffiliated
+manufacturer: unaffiliated
 weight: 25
-reload: 1
+reload: None
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 150
   long: 600
 properties:
-  - [Special (range 150/600), Reload 1, Two-handed]
+  - [special (range 150/600), reload 1, two-handed]
 ---
