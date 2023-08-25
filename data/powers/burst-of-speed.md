@@ -1,9 +1,9 @@
 ---
-name: BURST OF SPEED
+name: Burst of Speed
 version: 1
 level: 1
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -13,20 +13,23 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-
-
-
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
       length: 1
-      unit: hour
+      unit: round
     range:
       short: Touch
-    concentration: False
+    concentration: false
 ---
-You touch a creature. The target's speed increases
-by 10 feet until the power ends.
-Force Potency. When you cast this power using a
-force slot of 2nd level or higher, you can target one
-additional creature for each slot level above 1st.
+You touch a creature. The target's speed increases by 10 feet until the power ends.
 
+***__At Higher Levels__:*** When you cast this power using a force slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
     

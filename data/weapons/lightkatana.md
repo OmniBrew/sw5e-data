@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 11, hidden, luminous, piercing 1, versatile (1d10)]
+  - [dexterity, hidden, luminous, piercing, versatile]
 ---

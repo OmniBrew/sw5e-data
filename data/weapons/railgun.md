@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 1900
 manufacturer: unaffiliated
 weight: 16
-reload: None
+reload: 2
 damage:
   dieCount: 2
   dieType: 6
@@ -14,5 +14,5 @@ range:
   short: 150
   long: 600
 properties:
-  - [piercing 1, reload 2, slug cartridge (range 150/600), strength 17, two-handed]
+  - [piercing, reload, slug-cartridge, range, strength, two-handed]
 ---

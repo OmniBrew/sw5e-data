@@ -1,9 +1,9 @@
 ---
-name: FORCE PROJECT
+name: Force Project
 version: 1
 level: 7
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -14,38 +14,24 @@ mechanics:
       length: 1
       unit: action
 
-
-
+    dc:
+      save: int
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
       length: 1
-      unit: day
+      unit: round
     range:
       short: Self
-    concentration: True
+    concentration: true
 ---
-You create an illusory copy of yourself that lasts for
-the duration. The copy can appear at any location that
-you have seen before, regardless of intervening
-obstacles. The illusion looks and sounds like you but is
-intangible. If the illusion takes any damage, it
-disappears, and the power ends.
-You can use your action to move this illusion up to
-twice your speed, and make it gesture, speak, and
-behave in whatever way you choose. It mimics your
-mannerisms perfectly.
-You can see through its eyes and hear through its
-ears as if you were in its space. On your turn as a
-bonus action, you can switch from using its senses to
-using your own, or back again. While you are using its
-senses, you are blinded and deafened in regard to your
-own surroundings.
-Physical interaction with the image reveals it to be an
-illusion, because things can pass through it. A creature
-that uses its action to examine the image can
-determine that it is an illusion with a successful
-Intelligence (Investigation) check against your force
-save DC. If a creature discerns the illusion for what it is,
-the creature can see through the image, and any noise
-it makes sounds hollow to the creature.
+You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the power ends. 
 
+You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
+
+You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your force save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
     

@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disruptive, neuralizing 13]
+  - [disruptive, neuralizing]
 ---

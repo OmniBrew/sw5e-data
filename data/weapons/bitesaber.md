@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [biting 13, hidden, luminous, versatile (2d4)]
+  - [biting, hidden, luminous, versatile]
 ---

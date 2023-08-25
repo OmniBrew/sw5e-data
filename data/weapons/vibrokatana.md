@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 11, piercing 1, versatile (1d10)]
+  - [dexterity, piercing, versatile]
 ---

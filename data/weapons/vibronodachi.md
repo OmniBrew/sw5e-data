@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 17, piercing 1, two-handed, vicious 1]
+  - [dexterity, piercing, two-handed, vicious]
 ---

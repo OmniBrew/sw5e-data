@@ -14,5 +14,5 @@ range:
   short: 20
   long: 60
 properties:
-  - [luminous, thrown (range 20/60), versatile (2d4)]
+  - [luminous, thrown, range, versatile]
 ---

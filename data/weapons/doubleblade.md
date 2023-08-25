@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [double (1d6 kinetic), finesse, light]
+  - [double-(1d6-kinetic), finesse, light]
 ---

@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [reach, shocking 13]
+  - [reach, shocking]
 ---

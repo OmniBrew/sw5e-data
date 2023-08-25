@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [fixed, light, piercing 1]
+  - [fixed, light, piercing]
 ---

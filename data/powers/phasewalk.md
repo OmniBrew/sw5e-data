@@ -1,9 +1,9 @@
 ---
-name: PHASEWALK
+name: Phasewalk
 version: 1
 level: 2
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -12,18 +12,22 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonus
-
-
-
+      unit: bonusaction
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Self
-    concentration: False
+    concentration: false
 ---
-You teleport up to 30 feet to an unoccupied space
-that you can see.
-
+You teleport up to 30 feet to an unoccupied space that you can see.
     

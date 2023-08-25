@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 13, keen 1, versatile (1d12)]
+  - [dexterity, keen, versatile]
 ---

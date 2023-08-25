@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [brutal 1, dexterity 13, luminous, reach, two-handed]
+  - [brutal, dexterity, luminous, reach, two-handed]
 ---

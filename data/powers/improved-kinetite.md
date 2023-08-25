@@ -1,8 +1,8 @@
 ---
-name: IMPROVED KINETITE
+name: Improved Kinetite
 version: 1
 level: 4
-alignment: dark side
+alignment: dark
 prerequisite: Kinetite
 type: force
 tags:
@@ -13,11 +13,9 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-    attack:
-      type: ranged
-      wp: power
-      proficient: True
 
+    dc:
+      save: str
     damage:
       - dieCount: 2
         dieType: 6
@@ -27,7 +25,7 @@ mechanics:
       unit: minute
     range:
       short: 150
-    concentration: True
+    concentration: true
 ---
 A 20-foot-radius sphere of compressed lightning springs into existence centered on a point you choose within range. The sphere remains for the power’s duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw or take 2d6 kinetic damage. The sphere’s space is difficult terrain.
 
@@ -35,7 +33,5 @@ Until the power ends, you can use a bonus action on each of your turns to cause 
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom (Perception) checks made to listen.
 
-Force Potency. When you cast this power with a force slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th.
-
-
+***__At Higher Levels__:*** When you cast this power with a force slot of 5th level or higher, the damage increases for each of its effects by 1d6 for each slot level above 4th.
     

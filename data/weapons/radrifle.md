@@ -5,7 +5,7 @@ type: exotic_blaster
 cost: 1575
 manufacturer: unaffiliated
 weight: 14
-reload: None
+reload: 8
 damage:
   dieCount: 1
   dieType: 6
@@ -14,5 +14,5 @@ range:
   short: 120
   long: 480
 properties:
-  - [disintegrate 15, power cell (range 120/480), reload 8, specialized (disintegrate), strength 13, two-handed]
+  - [disintegrate, power-cell, range, reload, specialized-(disintegrate), strength, two-handed]
 ---

@@ -14,5 +14,5 @@ range:
   short: 20
   long: 60
 properties:
-  - [finesse, hidden, light, luminous, thrown (range 20/60)]
+  - [finesse, hidden, light, luminous, thrown, range]
 ---

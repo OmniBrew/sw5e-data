@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 11, disguised, hidden, keen 1, light, luminous, vicious 1]
+  - [dexterity, disguised, hidden, keen, light, luminous, vicious]
 ---

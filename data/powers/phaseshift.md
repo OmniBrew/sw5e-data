@@ -1,9 +1,9 @@
 ---
-name: PHASESHIFT
+name: Phaseshift
 version: 1
 level: 0
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -12,18 +12,22 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonus
-
-
-
+      unit: bonusaction
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Self
-    concentration: False
+    concentration: false
 ---
 Too quickly for untrained eyes to perceive, you shift in position. You can move up to 5 feet, and this movement does not provoke opportunity attacks.
-
-
     

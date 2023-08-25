@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 1550
 manufacturer: unaffiliated
 weight: 10
-reload: None
+reload: 4
 damage:
   dieCount: 1
   dieType: 10
@@ -14,5 +14,5 @@ range:
   short: 50
   long: 200
 properties:
-  - [brutal 1, disintegrate 13, keen 1, power cell (range 50/200), reload 4, strength 15]
+  - [brutal, disintegrate, keen, power-cell, range, reload, strength]
 ---

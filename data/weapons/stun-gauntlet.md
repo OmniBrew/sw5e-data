@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disruptive, fixed, shocking 13]
+  - [disruptive, fixed, shocking]
 ---

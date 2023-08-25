@@ -1,9 +1,9 @@
 ---
-name: REMOVE CURSE
+name: Remove Curse
 version: 1
 level: 3
-alignment: light side
-prerequisite: None
+alignment: light
+prerequisite: 
 type: force
 tags:
   - damage
@@ -13,20 +13,21 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-
-
-
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Touch
-    concentration: False
+    concentration: false
 ---
-At your touch, all curses a􀃠ecting one creature or
-object end. If the object is a cursed enhanced item, its
-curse remains, but the power breaks its owner's
-attunement to the object so it can be removed or
-discarded.
-
+At your touch, all curses affecting one creature or object end. If the object is a cursed enhanced item, its curse remains, but the power breaks its owner's attunement to the object so it can be removed or discarded.
     

@@ -1,9 +1,9 @@
 ---
-name: FORCE LEAP
+name: Force Leap
 version: 1
 level: 0
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -12,20 +12,22 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonus
-
-
-
+      unit: bonusaction
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
       length: 1
       unit: round
     range:
       short: Self
-    concentration: False
+    concentration: false
 ---
-Until the end of your next turn, you can use your
-forcecasting ability score instead of your Strength
-score when you jump, and always count as having
-made a running start before jumping.
-
+Until the end of your next turn, you can use your forcecasting ability score instead of your Strength score when you jump, and always count as having made a running start before jumping.
     

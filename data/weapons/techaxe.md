@@ -14,5 +14,5 @@ range:
   short: 25
   long: 75
 properties:
-  - [light, thrown (range 25/75)]
+  - [light, thrown, range]
 ---

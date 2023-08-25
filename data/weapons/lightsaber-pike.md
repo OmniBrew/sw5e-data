@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 11, double (1d8 energy), luminous, reach]
+  - [dexterity, double-(1d8-energy), luminous, reach]
 ---

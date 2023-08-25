@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 750
 manufacturer: unaffiliated
 weight: 4.5
-reload: None
+reload: 12
 damage:
   dieCount: 1
   dieType: 6
@@ -14,5 +14,5 @@ range:
   short: 45
   long: 180
 properties:
-  - [disintegrate 13, power cell (range 45/180), reload 12, strength 11]
+  - [disintegrate, power-cell, range, reload, strength]
 ---

@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [corruption 13, hidden, versatile (2d4)]
+  - [corruption, hidden, versatile]
 ---

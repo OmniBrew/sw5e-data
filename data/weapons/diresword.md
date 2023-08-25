@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 11, dire 1, heavy]
+  - [dexterity, dire, heavy]
 ---

@@ -1,5 +1,5 @@
 ---
-name: IMPROVED PHASESTRIKE
+name: Improved Phasestrike
 version: 1
 level: 5
 alignment: universal
@@ -14,25 +14,20 @@ mechanics:
       length: 1
       unit: action
     attack:
-      type: melee
+      type: ranged
       wp: power
       proficient: True
-
+    dc: false
     damage:
       - dieCount: 6
         dieType: 10
         type: force
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: 30
-    concentration: False
+    concentration: false
 ---
-Choose up to five creatures you can see within
-range. Make a melee force attack against each one. On
-hit, a target takes 6d10 force damage. You can then
-teleport to an unoccupied space you can see within 5
-feet of one of the creatures you chose.
-
+Choose up to five creatures you can see within range. Make a melee force attack against each one. On hit, a target takes 6d10 force damage. You can then teleport to an unoccupied space you can see within 5 feet of one of the creatures you chose.
     

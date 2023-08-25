@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [heavy, two-handed, vicious 1]
+  - [heavy, two-handed, vicious]
 ---

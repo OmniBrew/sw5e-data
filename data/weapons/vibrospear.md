@@ -14,5 +14,5 @@ range:
   short: 25
   long: 75
 properties:
-  - [thrown (range 25/75), versatile (2d4)]
+  - [thrown, range, versatile]
 ---

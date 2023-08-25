@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 250
 manufacturer: unaffiliated
 weight: 1
-reload: None
+reload: 16
 damage:
   dieCount: 1
   dieType: 3
@@ -14,5 +14,5 @@ range:
   short: 40
   long: 160
 properties:
-  - [power cell (range 40/160), reload 16]
+  - [power-cell, range, reload]
 ---

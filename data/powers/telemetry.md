@@ -1,9 +1,9 @@
 ---
-name: TELEMETRY
+name: Telemetry
 version: 1
 level: 1
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -13,26 +13,23 @@ mechanics:
   - castingTime:
       length: 1
       unit: minute
-
-
-
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Touch
-    concentration: False
+    concentration: false
 ---
-You choose one object that you must touch
-throughout the casting of the power. If it is an
-enhanced or modi􀃕ed item, you learn its properties
-and how to use them, whether it requires attunement
-to use, and how many charges it has, if any. You learn
-whether any powers are a􀃠ecting the item and what
-they are.
-If the item was created by a power, you learn which
-power created it. If you instead touch a creature
-throughout the casting, you learn what force powers, if
-any, are currently a􀃠ecting it.
+You choose one object that you must touch throughout the casting of the power. If it is an enhanced or modified item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any powers are affecting the item and what they are.
 
+If the item was created by a power, you learn which power created it. If you instead touch a creature throughout the casting, you learn what force powers, if any, are currently affecting it.
     

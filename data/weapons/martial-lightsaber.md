@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [hidden, luminous, versatile (1d10)]
+  - [hidden, luminous, versatile]
 ---

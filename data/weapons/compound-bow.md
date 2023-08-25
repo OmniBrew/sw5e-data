@@ -14,5 +14,5 @@ range:
   short: 75
   long: 300
 properties:
-  - [mighty, silent, special (range 75/300), two-handed]
+  - [mighty, silent, special, range, two-handed]
 ---

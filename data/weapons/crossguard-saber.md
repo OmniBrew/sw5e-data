@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [defensive 1, dexterity 13, heavy, luminous, versatile (1d10)]
+  - [defensive, dexterity, heavy, luminous, versatile]
 ---

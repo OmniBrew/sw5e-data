@@ -32,7 +32,7 @@
     "cost": 700,
     "manufacturer": "unaffiliated",
     "weight": 8,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -44,11 +44,12 @@
     },
     "properties": [
       [
-        "power cell (range 90/360)",
+        "power-cell",
+        "range",
         "fixed",
-        "rapid 4",
-        "reload 8",
-        "strength 11",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -62,7 +63,7 @@
     "cost": 2500,
     "manufacturer": "unaffiliated",
     "weight": 18.5,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 3,
       "dieType": 4,
@@ -74,11 +75,12 @@
     },
     "properties": [
       [
-        "power cell (range 180/720)",
+        "power-cell",
+        "range",
         "auto",
-        "reload 2",
-        "penetrating 2",
-        "strength 19",
+        "reload",
+        "penetrating",
+        "strength",
         "two-handed"
       ]
     ],
@@ -92,7 +94,7 @@
     "cost": 1900,
     "manufacturer": "unaffiliated",
     "weight": 17,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 2,
       "dieType": 6,
@@ -104,10 +106,11 @@
     },
     "properties": [
       [
-        "slug cartridge (range 180/720)",
-        "reload 2",
-        "penetrating 2",
-        "strength 19",
+        "slug-cartridge",
+        "range",
+        "reload",
+        "penetrating",
+        "strength",
         "two-handed"
       ]
     ],
@@ -121,7 +124,7 @@
     "cost": 2125,
     "manufacturer": "unaffiliated",
     "weight": 9,
-    "reload": "None",
+    "reload": 9,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -133,11 +136,12 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
-        "burst 8",
-        "rapid 4",
-        "reload 9",
-        "strength 11",
+        "power-cell",
+        "range",
+        "burst",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -205,7 +209,7 @@
     "cost": 1550,
     "manufacturer": "unaffiliated",
     "weight": 15,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -217,10 +221,11 @@
     },
     "properties": [
       [
-        "burst 4",
-        "power cell (range 90/360)",
-        "reload 4",
-        "strength 15",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -261,7 +266,7 @@
     "cost": 1850,
     "manufacturer": "unaffiliated",
     "weight": 16,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 2,
       "dieType": 6,
@@ -273,10 +278,11 @@
     },
     "properties": [
       [
-        "penetrating 2",
-        "power cell (range 150/600)",
-        "reload 2",
-        "strength 15",
+        "penetrating",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -302,10 +308,10 @@
     },
     "properties": [
       [
-        "biting 13",
+        "biting",
         "hidden",
         "luminous",
-        "versatile (2d4)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -318,7 +324,7 @@
     "cost": 2750,
     "manufacturer": "unaffiliated",
     "weight": 19,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 3,
       "dieType": 4,
@@ -331,13 +337,14 @@
     "properties": [
       [
         "auto",
-        "burst 2",
-        "disintegrate 13",
-        "power cell (range 120/480)",
-        "reload 2",
-        "strength 19",
+        "burst",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -416,8 +423,9 @@
         "auto",
         "burst",
         "rapid",
-        "special (range 120/480)",
-        "strength 19",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -431,7 +439,7 @@
     "cost": 425,
     "manufacturer": "unaffiliated",
     "weight": 5.5,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -443,8 +451,9 @@
     },
     "properties": [
       [
-        "power cell (range 70/280)",
-        "reload 16",
+        "power-cell",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -458,7 +467,7 @@
     "cost": 175,
     "manufacturer": "unaffiliated",
     "weight": 2.5,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -470,8 +479,9 @@
     },
     "properties": [
       [
-        "power cell (range 50/200)",
-        "reload 16"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -484,7 +494,7 @@
     "cost": 525,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -496,8 +506,9 @@
     },
     "properties": [
       [
-        "power cell (range 105/420)",
-        "reload 12",
+        "power-cell",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -523,9 +534,9 @@
     },
     "properties": [
       [
-        "corruption 13",
+        "corruption",
         "hidden",
-        "versatile (2d4)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -550,7 +561,7 @@
     },
     "properties": [
       [
-        "modal (blaster rifle and techstaff)"
+        "modal-(blaster-rifle-and-techstaff)"
       ]
     ],
     "html": "",
@@ -577,7 +588,8 @@
       [
         "light",
         "special",
-        "thrown (range 20/60)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -590,7 +602,7 @@
     "cost": 1825,
     "manufacturer": "unaffiliated",
     "weight": 13.5,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -602,10 +614,11 @@
     },
     "properties": [
       [
-        "reload 1",
+        "reload",
         "silent",
-        "special (range 90/360)",
-        "strength 13",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -619,7 +632,7 @@
     "cost": 1150,
     "manufacturer": "unaffiliated",
     "weight": 11,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -631,10 +644,11 @@
     },
     "properties": [
       [
-        "burst 4",
-        "power cell (range 50/200)",
-        "reload 4",
-        "strength 13",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -660,10 +674,10 @@
     },
     "properties": [
       [
-        "bright 13",
+        "bright",
         "hidden",
         "luminous",
-        "versatile (2d4)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -688,10 +702,10 @@
     },
     "properties": [
       [
-        "dexterity 13",
-        "dire 1",
+        "dexterity",
+        "dire",
         "luminous",
-        "versatile (1d8)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -716,10 +730,10 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 19",
+        "brutal",
+        "dexterity",
         "heavy",
-        "keen 1",
+        "keen",
         "luminous",
         "reach",
         "two-handed"
@@ -735,7 +749,7 @@
     "cost": 925,
     "manufacturer": "unaffiliated",
     "weight": 8.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -748,10 +762,11 @@
     "properties": [
       [
         "auto",
-        "power cell (range 90/360)",
-        "rapid 3",
-        "reload 12",
-        "strength 11",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -778,7 +793,7 @@
     "properties": [
       [
         "disguised",
-        "double (1d8) finesse",
+        "double-(1d8)-finesse",
         "special"
       ]
     ],
@@ -847,7 +862,7 @@
     "cost": 1325,
     "manufacturer": "unaffiliated",
     "weight": 10.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -860,12 +875,13 @@
     "properties": [
       [
         "auto",
-        "rapid 2",
-        "reload 8",
-        "slug cartridge (range 80/320)",
-        "strength 13",
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -892,7 +908,8 @@
       [
         "finesse",
         "returning",
-        "thrown (range 30/90)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -917,7 +934,7 @@
     },
     "properties": [
       [
-        "dexterity 13",
+        "dexterity",
         "luminous",
         "two-handed"
       ]
@@ -946,7 +963,8 @@
       [
         "mighty",
         "silent",
-        "special (range 75/300)",
+        "special",
+        "range",
         "two-handed"
       ]
     ],
@@ -972,11 +990,11 @@
     },
     "properties": [
       [
-        "defensive 1",
-        "dexterity 13",
+        "defensive",
+        "dexterity",
         "heavy",
         "luminous",
-        "versatile (1d10)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -1001,8 +1019,8 @@
     },
     "properties": [
       [
-        "dexterity 15",
-        "double (2d4 energy)",
+        "dexterity",
+        "double-(2d4-energy)",
         "heavy",
         "luminous",
         "reach"
@@ -1018,7 +1036,7 @@
     "cost": 3300,
     "manufacturer": "unaffiliated",
     "weight": 12.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -1031,12 +1049,13 @@
     "properties": [
       [
         "auto",
-        "burst 2",
-        "power cell (range 75/300)",
-        "reload 4",
-        "strength 13",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -1049,7 +1068,7 @@
     "cost": 1250,
     "manufacturer": "unaffiliated",
     "weight": 6,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -1061,10 +1080,11 @@
     },
     "properties": [
       [
-        "power cell (range 45/180)",
-        "reload 12",
+        "power-cell",
+        "range",
+        "reload",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -1077,7 +1097,7 @@
     "cost": 750,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -1089,9 +1109,10 @@
     },
     "properties": [
       [
-        "power cell (range 30/120)",
-        "reload 8",
-        "vicious 1"
+        "power-cell",
+        "range",
+        "reload",
+        "vicious"
       ]
     ],
     "html": "",
@@ -1104,7 +1125,7 @@
     "cost": 2400,
     "manufacturer": "unaffiliated",
     "weight": 10.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -1116,11 +1137,12 @@
     },
     "properties": [
       [
-        "power cell (range 50/200)",
-        "reload 4",
-        "strength 11",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -1133,7 +1155,7 @@
     "cost": 825,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -1145,10 +1167,11 @@
     },
     "properties": [
       [
-        "rapid 2",
-        "reload 8",
-        "slug cartridge (range 90/360)",
-        "strength 11",
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1174,9 +1197,9 @@
     },
     "properties": [
       [
-        "dexterity 13",
-        "dire 1",
-        "versatile (1d10)"
+        "dexterity",
+        "dire",
+        "versatile"
       ]
     ],
     "html": "",
@@ -1201,8 +1224,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "dire 1",
+        "dexterity",
+        "dire",
         "heavy"
       ]
     ],
@@ -1244,7 +1267,7 @@
     "cost": 1450,
     "manufacturer": "unaffiliated",
     "weight": 8.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -1256,10 +1279,11 @@
     },
     "properties": [
       [
-        "disintegrate 13",
-        "power cell (range 60/240)",
-        "reload 8",
-        "strength 11",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1273,7 +1297,7 @@
     "cost": 750,
     "manufacturer": "unaffiliated",
     "weight": 4.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -1285,10 +1309,11 @@
     },
     "properties": [
       [
-        "disintegrate 13",
-        "power cell (range 45/180)",
-        "reload 12",
-        "strength 11"
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength"
       ]
     ],
     "html": "",
@@ -1301,7 +1326,7 @@
     "cost": 2900,
     "manufacturer": "unaffiliated",
     "weight": 13.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -1313,10 +1338,11 @@
     },
     "properties": [
       [
-        "disintegrate 13",
-        "power cell (range 60/240)",
-        "reload 4",
-        "strength 13",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1330,7 +1356,7 @@
     "cost": 3300,
     "manufacturer": "unaffiliated",
     "weight": 15,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -1342,10 +1368,11 @@
     },
     "properties": [
       [
-        "disintegrate 13",
-        "power cell (range 120/480)",
-        "reload 2",
-        "strength 15",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1373,7 +1400,7 @@
       [
         "disruptive",
         "finesse",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -1398,7 +1425,7 @@
     },
     "properties": [
       [
-        "double (1d6 kinetic)",
+        "double-(1d6-kinetic)",
         "finesse",
         "light"
       ]
@@ -1425,7 +1452,7 @@
     },
     "properties": [
       [
-        "double (1d8 energy)",
+        "double-(1d8-energy)",
         "finesse",
         "luminous"
       ]
@@ -1452,7 +1479,7 @@
     },
     "properties": [
       [
-        "double (1d6 energy)",
+        "double-(1d6-energy)",
         "finesse",
         "light",
         "luminous"
@@ -1480,7 +1507,7 @@
     },
     "properties": [
       [
-        "double (1d8 kinetic)",
+        "double-(1d8-kinetic)",
         "finesse"
       ]
     ],
@@ -1506,11 +1533,11 @@
     },
     "properties": [
       [
-        "dexterity 13",
+        "dexterity",
         "hidden",
         "luminous",
-        "versatile (1d12)",
-        "vicious 1"
+        "versatile",
+        "vicious"
       ]
     ],
     "html": "",
@@ -1535,9 +1562,9 @@
     },
     "properties": [
       [
-        "double (1d6 kinetic)",
+        "double-(1d6-kinetic)",
         "finesse",
-        "sonorous 13"
+        "sonorous"
       ]
     ],
     "html": "",
@@ -1564,7 +1591,7 @@
       [
         "finesse",
         "light",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -1589,9 +1616,9 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "heavy",
-        "shocking 13",
+        "shocking",
         "two-handed"
       ]
     ],
@@ -1618,7 +1645,7 @@
     "properties": [
       [
         "disruptive",
-        "shocking 13",
+        "shocking",
         "two-handed"
       ]
     ],
@@ -1644,9 +1671,9 @@
     },
     "properties": [
       [
-        "double (1d6 kinetic)",
+        "double-(1d6-kinetic)",
         "finesse",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -1671,9 +1698,9 @@
     },
     "properties": [
       [
-        "dexterity 13",
+        "dexterity",
         "reach",
-        "shocking 13",
+        "shocking",
         "two-handed"
       ]
     ],
@@ -1699,10 +1726,10 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "disruptive",
         "reach",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -1715,7 +1742,7 @@
     "cost": 475,
     "manufacturer": "unaffiliated",
     "weight": 4.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -1727,9 +1754,10 @@
     },
     "properties": [
       [
-        "power cell (range 80/320)",
+        "power-cell",
+        "range",
         "mighty",
-        "reload 4",
+        "reload",
         "two-handed"
       ]
     ],
@@ -1743,7 +1771,7 @@
     "cost": 425,
     "manufacturer": "unaffiliated",
     "weight": 4,
-    "reload": "None",
+    "reload": 20,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -1755,11 +1783,12 @@
     },
     "properties": [
       [
-        "power cell (range 20/80)",
+        "power-cell",
+        "range",
         "disruptive",
         "fixed",
         "mighty",
-        "reload 20",
+        "reload",
         "two-handed"
       ]
     ],
@@ -1773,7 +1802,7 @@
     "cost": 2300,
     "manufacturer": "unaffiliated",
     "weight": 13,
-    "reload": "None",
+    "reload": 6,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -1785,9 +1814,9 @@
     },
     "properties": [
       [
-        "reload 6",
-        "special (range special)",
-        "strength 13",
+        "reload",
+        "special-(range-special)",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1813,7 +1842,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "luminous",
         "two-handed"
       ]
@@ -1828,7 +1857,7 @@
     "cost": 1800,
     "manufacturer": "unaffiliated",
     "weight": 11.5,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -1840,9 +1869,10 @@
     },
     "properties": [
       [
-        "reload 1",
-        "special (range 90/360)",
-        "strength 11",
+        "reload",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1868,10 +1898,10 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "finesse",
         "hidden",
-        "light luminous"
+        "light-luminous"
       ]
     ],
     "html": "",
@@ -1884,7 +1914,7 @@
     "cost": 1550,
     "manufacturer": "unaffiliated",
     "weight": 10,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -1896,12 +1926,13 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "disintegrate 13",
-        "keen 1",
-        "power cell (range 50/200)",
-        "reload 4",
-        "strength 15"
+        "brutal",
+        "disintegrate",
+        "keen",
+        "power-cell",
+        "range",
+        "reload",
+        "strength"
       ]
     ],
     "html": "",
@@ -1914,7 +1945,7 @@
     "cost": 500,
     "manufacturer": "unaffiliated",
     "weight": 0.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -1926,10 +1957,11 @@
     },
     "properties": [
       [
-        "keen 1",
+        "keen",
         "light",
-        "power cell (range 40/160)",
-        "reload 8"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -1942,7 +1974,7 @@
     "cost": 1300,
     "manufacturer": "unaffiliated",
     "weight": 10.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -1954,10 +1986,11 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "slug cartridge (range 25/100)",
-        "reload 8",
-        "strength 11",
+        "brutal",
+        "slug-cartridge",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -1971,7 +2004,7 @@
     "cost": 1025,
     "manufacturer": "unaffiliated",
     "weight": 10,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -1983,10 +2016,11 @@
     },
     "properties": [
       [
-        "power cell (range 100/400)",
-        "rapid 2",
-        "reload 8",
-        "strength 13",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2000,7 +2034,7 @@
     "cost": 1750,
     "manufacturer": "unaffiliated",
     "weight": 15.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -2012,10 +2046,11 @@
     },
     "properties": [
       [
-        "burst 2",
-        "power cell (range 90/360)",
-        "reload 4",
-        "strength 17",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2029,7 +2064,7 @@
     "cost": 775,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -2041,10 +2076,11 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
-        "rapid 4",
-        "reload 16",
-        "strength 11",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2058,7 +2094,7 @@
     "cost": 300,
     "manufacturer": "unaffiliated",
     "weight": 4,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -2070,8 +2106,9 @@
     },
     "properties": [
       [
-        "power cell (range 45/180)",
-        "reload 16"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -2084,7 +2121,7 @@
     "cost": 1225,
     "manufacturer": "unaffiliated",
     "weight": 11,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -2097,11 +2134,12 @@
     "properties": [
       [
         "auto",
-        "burst 4",
-        "power cell (range 80/320)",
-        "rapid 4",
-        "reload 8",
-        "strength 13",
+        "burst",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2115,7 +2153,7 @@
     "cost": 1125,
     "manufacturer": "unaffiliated",
     "weight": 9.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -2127,10 +2165,11 @@
     },
     "properties": [
       [
-        "burst 2",
-        "reload 8",
-        "slug cartridge (range 60/240)",
-        "strength 13",
+        "burst",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2144,7 +2183,7 @@
     "cost": 375,
     "manufacturer": "unaffiliated",
     "weight": 3.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -2156,9 +2195,10 @@
     },
     "properties": [
       [
-        "rapid 8",
-        "reload 12",
-        "slug cartridge (range 30/120)"
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range"
       ]
     ],
     "html": "",
@@ -2199,7 +2239,7 @@
     "cost": 225,
     "manufacturer": "unaffiliated",
     "weight": 0.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -2213,8 +2253,9 @@
       [
         "hidden",
         "light",
-        "power cell (range 30/120)",
-        "reload 8"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -2253,7 +2294,7 @@
     "cost": 1000,
     "manufacturer": "unaffiliated",
     "weight": 11,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -2265,9 +2306,10 @@
     },
     "properties": [
       [
-        "reload 4",
-        "slug cartridge (range 125/500)",
-        "strength 11",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2281,7 +2323,7 @@
     "cost": 1650,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -2293,11 +2335,12 @@
     },
     "properties": [
       [
-        "dire 1",
-        "disintegrate 13",
-        "power cell (range 60/240)",
-        "reload 12",
-        "strength 11",
+        "dire",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2311,7 +2354,7 @@
     "cost": 1250,
     "manufacturer": "unaffiliated",
     "weight": 3.5,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -2323,11 +2366,12 @@
     },
     "properties": [
       [
-        "dire 1",
-        "disintegrate 13",
-        "power cell (range 40/160)",
-        "reload 16",
-        "strength 11"
+        "dire",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength"
       ]
     ],
     "html": "",
@@ -2340,7 +2384,7 @@
     "cost": 1950,
     "manufacturer": "unaffiliated",
     "weight": 9.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -2352,11 +2396,12 @@
     },
     "properties": [
       [
-        "dire 1",
-        "disintegrate 13",
-        "power cell (range 80/320)",
-        "reload 8",
-        "strength 11",
+        "dire",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2370,7 +2415,7 @@
     "cost": 3300,
     "manufacturer": "unaffiliated",
     "weight": 14.5,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -2382,11 +2427,12 @@
     },
     "properties": [
       [
-        "dire 1",
-        "disintegrate 13",
-        "power cell (range 120/480)",
-        "reload 2",
-        "strength 15",
+        "dire",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2400,7 +2446,7 @@
     "cost": 3800,
     "manufacturer": "unaffiliated",
     "weight": 16.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -2413,10 +2459,11 @@
     "properties": [
       [
         "auto",
-        "burst 4",
-        "power cell (range 90/360)",
-        "reload 4",
-        "strength 15",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2430,7 +2477,7 @@
     "cost": 600,
     "manufacturer": "unaffiliated",
     "weight": 6,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -2442,8 +2489,9 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
-        "reload 12",
+        "power-cell",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -2457,7 +2505,7 @@
     "cost": 250,
     "manufacturer": "unaffiliated",
     "weight": 1,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 3,
@@ -2469,8 +2517,9 @@
     },
     "properties": [
       [
-        "power cell (range 40/160)",
-        "reload 16"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -2483,7 +2532,7 @@
     "cost": 1150,
     "manufacturer": "unaffiliated",
     "weight": 8,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -2495,8 +2544,9 @@
     },
     "properties": [
       [
-        "power cell (range 80/320)",
-        "reload 8",
+        "power-cell",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -2522,9 +2572,9 @@
     },
     "properties": [
       [
-        "modal (blaster rifle",
-        "grenade launcher",
-        "and sniper rifle)"
+        "modal-(blaster-rifle",
+        "grenade-launcher",
+        "and-sniper-rifle)"
       ]
     ],
     "html": "",
@@ -2549,9 +2599,9 @@
     },
     "properties": [
       [
-        "dexterity 13",
-        "keen 1",
-        "versatile (1d12)"
+        "dexterity",
+        "keen",
+        "versatile"
       ]
     ],
     "html": "",
@@ -2564,7 +2614,7 @@
     "cost": 250,
     "manufacturer": "unaffiliated",
     "weight": 0.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -2577,8 +2627,9 @@
     "properties": [
       [
         "light",
-        "power cell (range 40/160)",
-        "reload 8"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -2591,7 +2642,7 @@
     "cost": 625,
     "manufacturer": "unaffiliated",
     "weight": 6,
-    "reload": "None",
+    "reload": 20,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -2604,9 +2655,10 @@
     "properties": [
       [
         "auto",
-        "power cell (range 50/200)",
-        "rapid 5",
-        "reload 20",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
         "two-handed"
       ]
     ],
@@ -2620,7 +2672,7 @@
     "cost": 250,
     "manufacturer": "unaffiliated",
     "weight": 1,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -2633,8 +2685,9 @@
     "properties": [
       [
         "light",
-        "reload 8",
-        "slug cartridge (range 35/140)"
+        "reload",
+        "slug-cartridge",
+        "range"
       ]
     ],
     "html": "",
@@ -2659,7 +2712,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "heavy",
         "luminous",
         "two-handed"
@@ -2729,7 +2782,7 @@
     "cost": 1800,
     "manufacturer": "unaffiliated",
     "weight": 14,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 2,
       "dieType": 6,
@@ -2741,10 +2794,11 @@
     },
     "properties": [
       [
-        "piercing 1",
-        "power cell (range 60/240)",
-        "reload 2",
-        "strength 15",
+        "piercing",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2770,7 +2824,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "heavy",
         "luminous",
         "two-handed"
@@ -2798,7 +2852,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "hidden",
         "luminous"
       ]
@@ -2829,7 +2883,8 @@
         "hidden",
         "light",
         "luminous",
-        "thrown (range 20/60)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -2910,8 +2965,8 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 13",
+        "brutal",
+        "dexterity",
         "luminous",
         "reach",
         "two-handed"
@@ -2939,11 +2994,11 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "hidden",
         "luminous",
-        "piercing 1",
-        "versatile (1d10)"
+        "piercing",
+        "versatile"
       ]
     ],
     "html": "",
@@ -2956,7 +3011,7 @@
     "cost": 4400,
     "manufacturer": "unaffiliated",
     "weight": 16,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -2968,11 +3023,12 @@
     },
     "properties": [
       [
-        "power cell (range 90/360)",
+        "power-cell",
+        "range",
         "auto",
-        "penetrating 2",
-        "reload 4",
-        "strength 15",
+        "penetrating",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -2986,7 +3042,7 @@
     "cost": 1150,
     "manufacturer": "unaffiliated",
     "weight": 7,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -2998,10 +3054,11 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
-        "penetrating 6",
-        "reload 12",
-        "strength 11",
+        "power-cell",
+        "range",
+        "penetrating",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3015,7 +3072,7 @@
     "cost": 550,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -3027,9 +3084,10 @@
     },
     "properties": [
       [
-        "power cell (range 30/120)",
-        "penetrating 8",
-        "reload 16"
+        "power-cell",
+        "range",
+        "penetrating",
+        "reload"
       ]
     ],
     "html": "",
@@ -3042,7 +3100,7 @@
     "cost": 2125,
     "manufacturer": "unaffiliated",
     "weight": 8.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -3054,10 +3112,11 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
-        "penetrating 2",
-        "reload 8",
-        "strength 11",
+        "power-cell",
+        "range",
+        "penetrating",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3083,11 +3142,11 @@
     },
     "properties": [
       [
-        "dexterity 17",
+        "dexterity",
         "luminous",
-        "piercing 1",
+        "piercing",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -3116,7 +3175,8 @@
         "hidden",
         "luminous",
         "returning",
-        "thrown (range 25/75)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -3141,8 +3201,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "double (1d8 energy)",
+        "dexterity",
+        "double-(1d8-energy)",
         "luminous",
         "reach"
       ]
@@ -3171,7 +3231,7 @@
       [
         "hidden",
         "luminous",
-        "versatile (2d4)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -3196,7 +3256,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "luminous",
         "reach",
         "two-handed"
@@ -3239,7 +3299,7 @@
     "cost": 1100,
     "manufacturer": "unaffiliated",
     "weight": 12,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -3251,9 +3311,10 @@
     },
     "properties": [
       [
-        "power cell (range 125/500)",
-        "reload 8",
-        "strength 13",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3281,7 +3342,7 @@
       [
         "hidden",
         "luminous",
-        "versatile (1d10)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -3294,7 +3355,7 @@
     "cost": 3500,
     "manufacturer": "unaffiliated",
     "weight": 25,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -3306,8 +3367,9 @@
     },
     "properties": [
       [
-        "special (range 150/600)",
-        "reload 1",
+        "special",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -3321,7 +3383,7 @@
     "cost": 475,
     "manufacturer": "unaffiliated",
     "weight": 3,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -3333,9 +3395,10 @@
     },
     "properties": [
       [
-        "slug cartridge (range 30/160)",
-        "piercing 1",
-        "reload 12",
+        "slug-cartridge",
+        "range",
+        "piercing",
+        "reload",
         "silent",
         "special"
       ]
@@ -3363,7 +3426,7 @@
     "properties": [
       [
         "disruptive",
-        "neuralizing 13"
+        "neuralizing"
       ]
     ],
     "html": "",
@@ -3391,7 +3454,7 @@
         "light",
         "finesse",
         "special",
-        "thrown (range 15)"
+        "thrown-(range)"
       ]
     ],
     "html": "",
@@ -3417,8 +3480,8 @@
     "properties": [
       [
         "reach",
-        "shocking 15",
-        "specialized (shocking)"
+        "shocking",
+        "specialized-(shocking)"
       ]
     ],
     "html": "",
@@ -3431,7 +3494,7 @@
     "cost": 1075,
     "manufacturer": "unaffiliated",
     "weight": 11,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -3443,10 +3506,11 @@
     },
     "properties": [
       [
-        "power cell (range 125/500)",
-        "reload 2",
+        "power-cell",
+        "range",
+        "reload",
         "silent",
-        "strength 11",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3472,13 +3536,13 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "disguised",
         "hidden",
-        "keen 1",
+        "keen",
         "light",
         "luminous",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -3503,7 +3567,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "luminous",
         "reach",
         "two-handed"
@@ -3519,7 +3583,7 @@
     "cost": 3900,
     "manufacturer": "unaffiliated",
     "weight": 13.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -3531,13 +3595,14 @@
     },
     "properties": [
       [
-        "power cell (range 75/300)",
+        "power-cell",
+        "range",
         "auto",
-        "burst 2",
-        "disrupt ive",
-        "piercing 1",
-        "reload 4",
-        "strength 15",
+        "burst",
+        "disrupt-ive",
+        "piercing",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3551,7 +3616,7 @@
     "cost": 1575,
     "manufacturer": "unaffiliated",
     "weight": 14,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -3563,11 +3628,12 @@
     },
     "properties": [
       [
-        "disintegrate 15",
-        "power cell (range 120/480)",
-        "reload 8",
-        "specialized (disintegrate)",
-        "strength 13",
+        "disintegrate",
+        "power-cell",
+        "range",
+        "reload",
+        "specialized-(disintegrate)",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3581,7 +3647,7 @@
     "cost": 1900,
     "manufacturer": "unaffiliated",
     "weight": 16,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 2,
       "dieType": 6,
@@ -3593,10 +3659,11 @@
     },
     "properties": [
       [
-        "piercing 1",
-        "reload 2",
-        "slug cartridge (range 150/600)",
-        "strength 17",
+        "piercing",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3610,7 +3677,7 @@
     "cost": 1025,
     "manufacturer": "unaffiliated",
     "weight": 9,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -3623,11 +3690,12 @@
     "properties": [
       [
         "auto",
-        "burst 4",
-        "power cell (range 75/300)",
-        "rapid 4",
-        "reload 8",
-        "strength 11",
+        "burst",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3653,10 +3721,10 @@
     },
     "properties": [
       [
-        "dexterity 13",
-        "dire 1",
-        "reckless 1",
-        "versatile (1d10)"
+        "dexterity",
+        "dire",
+        "reckless",
+        "versatile"
       ]
     ],
     "html": "",
@@ -3669,7 +3737,7 @@
     "cost": 625,
     "manufacturer": "unaffiliated",
     "weight": 6.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -3681,10 +3749,11 @@
     },
     "properties": [
       [
-        "slug cartridge (range 60/240)",
-        "rapid 4",
-        "reload 8",
-        "strength 11"
+        "slug-cartridge",
+        "range",
+        "rapid",
+        "reload",
+        "strength"
       ]
     ],
     "html": "",
@@ -3709,7 +3778,7 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "light"
       ]
     ],
@@ -3735,9 +3804,9 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "light",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -3750,7 +3819,7 @@
     "cost": 2250,
     "manufacturer": "unaffiliated",
     "weight": 14,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -3762,9 +3831,10 @@
     },
     "properties": [
       [
-        "reload 1",
-        "special (range 150/600)",
-        "strength 13",
+        "reload",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3778,7 +3848,7 @@
     "cost": 2250,
     "manufacturer": "unaffiliated",
     "weight": 12,
-    "reload": "None",
+    "reload": 6,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -3790,9 +3860,10 @@
     },
     "properties": [
       [
-        "reload 6",
-        "special (range 60/240)",
-        "strength 11",
+        "reload",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3806,7 +3877,7 @@
     "cost": 1500,
     "manufacturer": "unaffiliated",
     "weight": 12.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -3819,10 +3890,11 @@
     "properties": [
       [
         "auto",
-        "power cell (range 75/300)",
-        "rapid 2",
-        "reload 8",
-        "strength 13",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -3900,11 +3972,11 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 13",
+        "brutal",
+        "dexterity",
         "hidden",
         "luminous",
-        "versatile (1d10)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -3930,8 +4002,9 @@
     "properties": [
       [
         "luminous",
-        "thrown (range 20/60)",
-        "versatile (2d4)"
+        "thrown",
+        "range",
+        "versatile"
       ]
     ],
     "html": "",
@@ -3956,7 +4029,7 @@
     },
     "properties": [
       [
-        "modal (double-saber and tech-staff)"
+        "modal-(double-saber-and-tech-staff)"
       ]
     ],
     "html": "",
@@ -3997,7 +4070,7 @@
     "cost": 1175,
     "manufacturer": "unaffiliated",
     "weight": 9.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -4009,10 +4082,11 @@
     },
     "properties": [
       [
-        "power cell (range 40/160)",
-        "burst 3",
-        "reload 12",
-        "strength 13",
+        "power-cell",
+        "range",
+        "burst",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4026,7 +4100,7 @@
     "cost": 625,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4038,10 +4112,11 @@
     },
     "properties": [
       [
-        "burst 2",
-        "reload 8",
-        "slug cartridge (range 30/120)",
-        "strength 11"
+        "burst",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength"
       ]
     ],
     "html": "",
@@ -4054,7 +4129,7 @@
     "cost": 3250,
     "manufacturer": "unaffiliated",
     "weight": 16.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -4067,10 +4142,11 @@
     "properties": [
       [
         "brutal",
-        "keen 1",
-        "reload 4",
-        "special (range 120/480)",
-        "strength 19",
+        "keen",
+        "reload",
+        "special",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4084,7 +4160,7 @@
     "cost": 1625,
     "manufacturer": "unaffiliated",
     "weight": 14,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -4096,12 +4172,13 @@
     },
     "properties": [
       [
-        "slug cartridge (range 75/300)",
+        "slug-cartridge",
+        "range",
         "auto",
-        "burst 4",
-        "reload 8",
+        "burst",
+        "reload",
         "silent",
-        "strength 15",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4115,7 +4192,7 @@
     "cost": 375,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -4127,11 +4204,12 @@
     },
     "properties": [
       [
-        "slug cartridge (range 60/240)",
+        "slug-cartridge",
+        "range",
         "light",
-        "reload 12",
+        "reload",
         "silent",
-        "strength 11"
+        "strength"
       ]
     ],
     "html": "",
@@ -4144,7 +4222,7 @@
     "cost": 750,
     "manufacturer": "unaffiliated",
     "weight": 9.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -4156,10 +4234,11 @@
     },
     "properties": [
       [
-        "slug cartridge (range 100/400)",
-        "reload 8",
+        "slug-cartridge",
+        "range",
+        "reload",
         "silent",
-        "strength 11",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4186,7 +4265,7 @@
     "properties": [
       [
         "reach",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -4213,7 +4292,8 @@
       [
         "mighty",
         "silent",
-        "special (range 60/240)",
+        "special",
+        "range",
         "two-handed"
       ]
     ],
@@ -4227,7 +4307,7 @@
     "cost": 725,
     "manufacturer": "unaffiliated",
     "weight": 6.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 2,
       "dieType": 4,
@@ -4239,10 +4319,11 @@
     },
     "properties": [
       [
-        "burst 2",
-        "reload 4",
-        "slug cartridge (range 30/120)",
-        "strength 11",
+        "burst",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4284,7 +4365,7 @@
     "cost": 1275,
     "manufacturer": "unaffiliated",
     "weight": 3,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4296,10 +4377,11 @@
     },
     "properties": [
       [
-        "power cell (range 40/160)",
-        "rapid 4",
-        "reload 16",
-        "smart (15/+2)",
+        "power-cell",
+        "range",
+        "rapid",
+        "reload",
+        "smart-(15/+2)",
         "special"
       ]
     ],
@@ -4313,7 +4395,7 @@
     "cost": 1625,
     "manufacturer": "unaffiliated",
     "weight": 8.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -4326,12 +4408,13 @@
     "properties": [
       [
         "auto",
-        "burst 8",
-        "power cell (range 60/240)",
-        "reload 8",
-        "smart (15/+2)",
+        "burst",
+        "power-cell",
+        "range",
+        "reload",
+        "smart-(15/+2)",
         "special",
-        "strength 11"
+        "strength"
       ]
     ],
     "html": "",
@@ -4356,8 +4439,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "dire 1",
+        "dexterity",
+        "dire",
         "hidden",
         "light",
         "luminous"
@@ -4385,10 +4468,10 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "hidden",
-        "keen 1",
-        "versatile (1d10)"
+        "keen",
+        "versatile"
       ]
     ],
     "html": "",
@@ -4401,7 +4484,7 @@
     "cost": 325,
     "manufacturer": "unaffiliated",
     "weight": 3,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4413,10 +4496,11 @@
     },
     "properties": [
       [
-        "rapid 8",
-        "reload 16",
-        "slug cartridge (range 40/160)",
-        "strength 11"
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "strength"
       ]
     ],
     "html": "",
@@ -4429,7 +4513,7 @@
     "cost": 525,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -4441,8 +4525,9 @@
     },
     "properties": [
       [
-        "reload 12",
-        "slug cartridge (range 105/420)",
+        "reload",
+        "slug-cartridge",
+        "range",
         "two-handed"
       ]
     ],
@@ -4456,7 +4541,7 @@
     "cost": 2250,
     "manufacturer": "unaffiliated",
     "weight": 13.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -4469,12 +4554,13 @@
     "properties": [
       [
         "auto",
-        "burst 2",
-        "rapid 2",
-        "reload 4",
-        "slug cartridge (range 75/300)",
-        "smart (15/+2)",
-        "strength 15",
+        "burst",
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "smart-(15/+2)",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4488,7 +4574,7 @@
     "cost": 1075,
     "manufacturer": "unaffiliated",
     "weight": 4,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4500,12 +4586,13 @@
     },
     "properties": [
       [
-        "piercing 1",
-        "rapid 2",
-        "reload 16",
-        "slug cartridge (range 40/160)",
-        "smart (15/+2)",
-        "strength 11"
+        "piercing",
+        "rapid",
+        "reload",
+        "slug-cartridge",
+        "range",
+        "smart-(15/+2)",
+        "strength"
       ]
     ],
     "html": "",
@@ -4518,7 +4605,7 @@
     "cost": 1300,
     "manufacturer": "unaffiliated",
     "weight": 13.5,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -4530,9 +4617,10 @@
     },
     "properties": [
       [
-        "power cell (range 150/600)",
-        "reload 2",
-        "strength 13",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4546,7 +4634,7 @@
     "cost": 2100,
     "manufacturer": "unaffiliated",
     "weight": 16.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -4558,12 +4646,13 @@
     },
     "properties": [
       [
-        "power cell (range 90/360)",
+        "power-cell",
+        "range",
         "auto",
-        "burst 2",
+        "burst",
         "disruptive",
-        "reload 4",
-        "strength 17",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4577,7 +4666,7 @@
     "cost": 675,
     "manufacturer": "unaffiliated",
     "weight": 7,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4589,10 +4678,11 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
+        "power-cell",
+        "range",
         "disruptive",
-        "reload 12",
-        "strength 11",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4606,7 +4696,7 @@
     "cost": 375,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -4618,9 +4708,10 @@
     },
     "properties": [
       [
-        "power cell (range 30/120)",
+        "power-cell",
+        "range",
         "disruptive",
-        "reload 16"
+        "reload"
       ]
     ],
     "html": "",
@@ -4633,7 +4724,7 @@
     "cost": 875,
     "manufacturer": "unaffiliated",
     "weight": 9,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -4645,10 +4736,11 @@
     },
     "properties": [
       [
-        "power cell (range 80/320)",
+        "power-cell",
+        "range",
         "disruptive",
-        "reload 8",
-        "strength 11",
+        "reload",
+        "strength",
         "two-handed"
       ]
     ],
@@ -4674,7 +4766,7 @@
     },
     "properties": [
       [
-        "double (2d4 energy)",
+        "double-(2d4-energy)",
         "interlocking",
         "luminous"
       ]
@@ -4701,7 +4793,7 @@
     },
     "properties": [
       [
-        "double (1d8 energy)",
+        "double-(1d8-energy)",
         "interlocking",
         "light",
         "luminous"
@@ -4717,7 +4809,7 @@
     "cost": 500,
     "manufacturer": "unaffiliated",
     "weight": 6,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4729,8 +4821,9 @@
     },
     "properties": [
       [
-        "power cell (range 70/280)",
-        "reload 16",
+        "power-cell",
+        "range",
+        "reload",
         "silent",
         "two-handed"
       ]
@@ -4759,7 +4852,7 @@
       [
         "disruptive",
         "fixed",
-        "shocking 13"
+        "shocking"
       ]
     ],
     "html": "",
@@ -4772,7 +4865,7 @@
     "cost": 625,
     "manufacturer": "unaffiliated",
     "weight": 4,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4785,11 +4878,12 @@
     "properties": [
       [
         "auto",
-        "rapid 4",
+        "rapid",
         "light",
-        "power cell (range 30/120)",
-        "reload 16",
-        "strength 11"
+        "power-cell",
+        "range",
+        "reload",
+        "strength"
       ]
     ],
     "html": "",
@@ -4814,11 +4908,11 @@
     },
     "properties": [
       [
-        "bright 15",
-        "dexterity 11",
+        "bright",
+        "dexterity",
         "hidden",
-        "specialized (bright)",
-        "versatile (2d4)"
+        "specialized-(bright)",
+        "versatile"
       ]
     ],
     "html": "",
@@ -4831,7 +4925,7 @@
     "cost": 3350,
     "manufacturer": "unaffiliated",
     "weight": 12.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 10,
@@ -4843,11 +4937,12 @@
     },
     "properties": [
       [
-        "power cell (range 100/400)",
-        "burst 2",
-        "reload 4",
-        "strength 15",
-        "switch (2d4 acid/cold/fire/lightning)",
+        "power-cell",
+        "range",
+        "burst",
+        "reload",
+        "strength",
+        "switch-(2d4-acid/cold/fire/lightning)",
         "two-handed"
       ]
     ],
@@ -4861,7 +4956,7 @@
     "cost": 925,
     "manufacturer": "unaffiliated",
     "weight": 7.5,
-    "reload": "None",
+    "reload": 16,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4873,9 +4968,10 @@
     },
     "properties": [
       [
-        "power cell (range 70/280)",
-        "reload 16",
-        "switch (1d4 acid)",
+        "power-cell",
+        "range",
+        "reload",
+        "switch-(1d4-acid)",
         "two-handed"
       ]
     ],
@@ -4889,7 +4985,7 @@
     "cost": 675,
     "manufacturer": "unaffiliated",
     "weight": 4.5,
-    "reload": "None",
+    "reload": 20,
     "damage": {
       "dieCount": 1,
       "dieType": 6,
@@ -4901,9 +4997,10 @@
     },
     "properties": [
       [
-        "power cell (range 40/160)",
-        "reload 20",
-        "switch (1d4 fire)"
+        "power-cell",
+        "range",
+        "reload",
+        "switch-(1d4-fire)"
       ]
     ],
     "html": "",
@@ -4916,7 +5013,7 @@
     "cost": 1025,
     "manufacturer": "unaffiliated",
     "weight": 9.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -4928,9 +5025,10 @@
     },
     "properties": [
       [
-        "power cell (range 105/420)",
-        "reload 8",
-        "switch (1d6 lightning)",
+        "power-cell",
+        "range",
+        "reload",
+        "switch-(1d6-lightning)",
         "two-handed"
       ]
     ],
@@ -4944,7 +5042,7 @@
     "cost": 1800,
     "manufacturer": "unaffiliated",
     "weight": 15.5,
-    "reload": "None",
+    "reload": 2,
     "damage": {
       "dieCount": 1,
       "dieType": 12,
@@ -4956,10 +5054,11 @@
     },
     "properties": [
       [
-        "power cell (range 150/600)",
-        "reload 2",
-        "strength 13",
-        "switch (1d10 cold)",
+        "power-cell",
+        "range",
+        "reload",
+        "strength",
+        "switch-(1d10-cold)",
         "two-handed"
       ]
     ],
@@ -4986,7 +5085,8 @@
     "properties": [
       [
         "light",
-        "thrown (range 25/75)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -5037,8 +5137,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "double (2d4 kinetic)",
+        "dexterity",
+        "double-(2d4-kinetic)",
         "light"
       ]
     ],
@@ -5052,7 +5152,7 @@
     "cost": 15000,
     "manufacturer": "unaffiliated",
     "weight": 30,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -5064,8 +5164,9 @@
     },
     "properties": [
       [
-        "special (range 1200/3600)",
-        "reload 1",
+        "special",
+        "range",
+        "reload",
         "two-handed"
       ]
     ],
@@ -5079,7 +5180,7 @@
     "cost": 275,
     "manufacturer": "unaffiliated",
     "weight": 2.5,
-    "reload": "None",
+    "reload": 4,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -5091,8 +5192,9 @@
     },
     "properties": [
       [
-        "slug cartridge (range 60/240)",
-        "reload 4",
+        "slug-cartridge",
+        "range",
+        "reload",
         "silent",
         "special"
       ]
@@ -5107,7 +5209,7 @@
     "cost": 2300,
     "manufacturer": "unaffiliated",
     "weight": 13,
-    "reload": "None",
+    "reload": 6,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -5119,9 +5221,9 @@
     },
     "properties": [
       [
-        "reload 6",
-        "special (range special)",
-        "strength 13",
+        "reload",
+        "special-(range-special)",
+        "strength",
         "two-handed"
       ]
     ],
@@ -5147,7 +5249,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "heavy",
         "two-handed"
       ]
@@ -5199,8 +5301,8 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 13",
+        "brutal",
+        "dexterity",
         "heavy",
         "two-handed"
       ]
@@ -5227,7 +5329,7 @@
     },
     "properties": [
       [
-        "versatile (1d10)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -5252,10 +5354,10 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 19",
+        "brutal",
+        "dexterity",
         "heavy",
-        "keen 1",
+        "keen",
         "reach",
         "two-handed"
       ]
@@ -5309,7 +5411,7 @@
     },
     "properties": [
       [
-        "dexterity 13",
+        "dexterity",
         "two-handed"
       ]
     ],
@@ -5335,7 +5437,7 @@
     },
     "properties": [
       [
-        "dexterity 11"
+        "dexterity"
       ]
     ],
     "html": "",
@@ -5387,7 +5489,8 @@
       [
         "finesse",
         "light",
-        "thrown (range 20/60)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -5414,7 +5517,8 @@
       [
         "finesse",
         "special",
-        "thrown (range 20/60)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -5439,8 +5543,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "reckless 1"
+        "dexterity",
+        "reckless"
       ]
     ],
     "html": "",
@@ -5465,8 +5569,8 @@
     },
     "properties": [
       [
-        "brutal 1",
-        "dexterity 13",
+        "brutal",
+        "dexterity",
         "reach",
         "two-handed"
       ]
@@ -5495,7 +5599,7 @@
       [
         "heavy",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -5520,9 +5624,9 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "piercing 1",
-        "versatile (1d10)"
+        "dexterity",
+        "piercing",
+        "versatile"
       ]
     ],
     "html": "",
@@ -5549,7 +5653,7 @@
       [
         "finesse",
         "light",
-        "piercing 1"
+        "piercing"
       ]
     ],
     "html": "",
@@ -5600,7 +5704,7 @@
     },
     "properties": [
       [
-        "dexterity 13",
+        "dexterity",
         "reach",
         "special"
       ]
@@ -5627,7 +5731,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "heavy",
         "two-handed"
       ]
@@ -5654,10 +5758,10 @@
     },
     "properties": [
       [
-        "dexterity 17",
-        "piercing 1",
+        "dexterity",
+        "piercing",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -5682,7 +5786,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "reach",
         "two-handed"
       ]
@@ -5734,8 +5838,8 @@
     },
     "properties": [
       [
-        "dexterity 11",
-        "keen 1",
+        "dexterity",
+        "keen",
         "light"
       ]
     ],
@@ -5761,7 +5865,7 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "fixed"
       ]
     ],
@@ -5787,8 +5891,9 @@
     },
     "properties": [
       [
-        "thrown (range 25/75)",
-        "versatile (2d4)"
+        "thrown",
+        "range",
+        "versatile"
       ]
     ],
     "html": "",
@@ -5813,7 +5918,7 @@
     },
     "properties": [
       [
-        "versatile (2d4)"
+        "versatile"
       ]
     ],
     "html": "",
@@ -5839,9 +5944,10 @@
     "properties": [
       [
         "finesse",
-        "keen 1",
+        "keen",
         "light",
-        "thrown (range 30/90)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -5866,7 +5972,7 @@
     },
     "properties": [
       [
-        "dexterity 11",
+        "dexterity",
         "two-handed"
       ]
     ],
@@ -5892,7 +5998,7 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "finesse",
         "light"
       ]
@@ -5945,10 +6051,11 @@
     },
     "properties": [
       [
-        "defensive 1",
+        "defensive",
         "disguised",
         "returning",
-        "thrown (range 30/90)"
+        "thrown",
+        "range"
       ]
     ],
     "html": "",
@@ -5973,10 +6080,10 @@
     },
     "properties": [
       [
-        "dexterity 15",
-        "reckless 1",
+        "dexterity",
+        "reckless",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -6001,10 +6108,10 @@
     },
     "properties": [
       [
-        "dexterity 15",
-        "reckless 1",
+        "dexterity",
+        "reckless",
         "two-handed",
-        "vicious 1"
+        "vicious"
       ]
     ],
     "html": "",
@@ -6017,7 +6124,7 @@
     "cost": 400,
     "manufacturer": "unaffiliated",
     "weight": 2,
-    "reload": "None",
+    "reload": 1,
     "damage": {
       "dieCount": 1,
       "dieType": "None",
@@ -6030,8 +6137,9 @@
     "properties": [
       [
         "fixed",
-        "reload 1",
-        "special (range 30/120)"
+        "reload",
+        "special",
+        "range"
       ]
     ],
     "html": "",
@@ -6058,7 +6166,7 @@
       [
         "fixed",
         "light",
-        "piercing 1"
+        "piercing"
       ]
     ],
     "html": "",
@@ -6071,7 +6179,7 @@
     "cost": 200,
     "manufacturer": "unaffiliated",
     "weight": 0.5,
-    "reload": "None",
+    "reload": 8,
     "damage": {
       "dieCount": 1,
       "dieType": 4,
@@ -6086,8 +6194,9 @@
         "disguised",
         "fixed",
         "light",
-        "power cell (range 30/120)",
-        "reload 8"
+        "power-cell",
+        "range",
+        "reload"
       ]
     ],
     "html": "",
@@ -6100,7 +6209,7 @@
     "cost": 250,
     "manufacturer": "unaffiliated",
     "weight": 4.5,
-    "reload": "None",
+    "reload": 12,
     "damage": {
       "dieCount": 1,
       "dieType": 8,
@@ -6112,9 +6221,10 @@
     },
     "properties": [
       [
-        "power cell (range 60/240)",
+        "power-cell",
+        "range",
         "fixed",
-        "reload 12"
+        "reload"
       ]
     ],
     "html": "",

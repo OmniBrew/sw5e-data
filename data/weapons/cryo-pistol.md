@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 750
 manufacturer: unaffiliated
 weight: 2
-reload: None
+reload: 8
 damage:
   dieCount: 1
   dieType: 4
@@ -14,5 +14,5 @@ range:
   short: 30
   long: 120
 properties:
-  - [power cell (range 30/120), reload 8, vicious 1]
+  - [power-cell, range, reload, vicious]
 ---

@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disguised, double (1d8) finesse, special]
+  - [disguised, double-(1d8)-finesse, special]
 ---

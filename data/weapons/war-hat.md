@@ -14,5 +14,5 @@ range:
   short: 30
   long: 90
 properties:
-  - [defensive 1, disguised, returning, thrown (range 30/90)]
+  - [defensive, disguised, returning, thrown, range]
 ---

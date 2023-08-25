@@ -1,9 +1,9 @@
 ---
-name: RESCUE
+name: Rescue
 version: 1
 level: 2
 alignment: universal
-prerequisite: None
+prerequisite: 
 type: force
 tags:
   - damage
@@ -12,19 +12,22 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonus
-
-
-
+      unit: bonusaction
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: 30
-    concentration: False
+    concentration: false
 ---
-You pull one willing ally you can see within 30 feet of
-you to an unoccupied space within 5 feet of you. The
-target must use their reaction to accept the pull.
-
+You pull one willing ally you can see within 30 feet of you to an unoccupied space within 5 feet of you. The target must use their reaction to accept the pull.
     

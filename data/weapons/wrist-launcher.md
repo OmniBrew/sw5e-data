@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 400
 manufacturer: unaffiliated
 weight: 2
-reload: None
+reload: 1
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 30
   long: 120
 properties:
-  - [fixed, reload 1, special (range 30/120)]
+  - [fixed, reload, special, range]
 ---

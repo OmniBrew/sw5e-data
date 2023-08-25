@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 625
 manufacturer: unaffiliated
 weight: 6.5
-reload: None
+reload: 8
 damage:
   dieCount: 2
   dieType: 4
@@ -14,5 +14,5 @@ range:
   short: 60
   long: 240
 properties:
-  - [slug cartridge (range 60/240), rapid 4, reload 8, strength 11]
+  - [slug-cartridge, range, rapid, reload, strength]
 ---

@@ -14,5 +14,5 @@ range:
   short: 30
   long: 90
 properties:
-  - [finesse, keen 1, light, thrown (range 30/90)]
+  - [finesse, keen, light, thrown, range]
 ---

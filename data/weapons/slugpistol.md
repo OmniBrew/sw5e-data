@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 325
 manufacturer: unaffiliated
 weight: 3
-reload: None
+reload: 16
 damage:
   dieCount: 1
   dieType: 6
@@ -14,5 +14,5 @@ range:
   short: 40
   long: 160
 properties:
-  - [rapid 8, reload 16, slug cartridge (range 40/160), strength 11]
+  - [rapid, reload, slug-cartridge, range, strength]
 ---

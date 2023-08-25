@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [double (1d6 energy), finesse, light, luminous]
+  - [double-(1d6-energy), finesse, light, luminous]
 ---

@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 2250
 manufacturer: unaffiliated
 weight: 14
-reload: None
+reload: 1
 damage:
   dieCount: 1
   dieType: None
@@ -14,5 +14,5 @@ range:
   short: 150
   long: 600
 properties:
-  - [reload 1, special (range 150/600), strength 13, two-handed]
+  - [reload, special, range, strength, two-handed]
 ---

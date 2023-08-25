@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 13, dire 1, luminous, versatile (1d8)]
+  - [dexterity, dire, luminous, versatile]
 ---

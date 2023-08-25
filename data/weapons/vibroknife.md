@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [finesse, light, piercing 1]
+  - [finesse, light, piercing]
 ---

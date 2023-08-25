@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [bright 13, hidden, luminous, versatile (2d4)]
+  - [bright, hidden, luminous, versatile]
 ---

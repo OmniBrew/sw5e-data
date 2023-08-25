@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [defensive 1, light, shocking 13]
+  - [defensive, light, shocking]
 ---

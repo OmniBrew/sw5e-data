@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [defensive 1, finesse, hidden, light luminous]
+  - [defensive, finesse, hidden, light-luminous]
 ---

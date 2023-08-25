@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [brutal 1, dexterity 13, hidden, luminous, versatile (1d10)]
+  - [brutal, dexterity, hidden, luminous, versatile]
 ---

@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 1100
 manufacturer: unaffiliated
 weight: 12
-reload: None
+reload: 8
 damage:
   dieCount: 1
   dieType: 10
@@ -14,5 +14,5 @@ range:
   short: 125
   long: 500
 properties:
-  - [power cell (range 125/500), reload 8, strength 13, two-handed]
+  - [power-cell, range, reload, strength, two-handed]
 ---

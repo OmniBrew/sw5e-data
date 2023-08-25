@@ -1,8 +1,8 @@
 ---
-name: MASTER HEAL
+name: Master Heal
 version: 1
 level: 9
-alignment: light side
+alignment: light
 prerequisite: Greater Heal
 type: force
 tags:
@@ -13,21 +13,21 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-
-
-
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Touch
-    concentration: False
+    concentration: false
 ---
-A wave of healing energy washes over the creature
-you touch. The target regains all its hit points. If the
-creature is charmed, frightened, paralyzed, or stunned,
-the condition ends. If the creature is prone, it can use
-its reaction to stand up. This power has no e􀃠ect on
-droids or constructs.
-
+A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This power has no effect on droids or constructs.
     

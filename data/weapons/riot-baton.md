@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [defensive 1, light]
+  - [defensive, light]
 ---

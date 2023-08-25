@@ -1,9 +1,9 @@
 ---
-name: RESTORATION
+name: Restoration
 version: 1
 level: 2
-alignment: light side
-prerequisite: None
+alignment: light
+prerequisite: 
 type: force
 tags:
   - damage
@@ -13,19 +13,21 @@ mechanics:
   - castingTime:
       length: 1
       unit: action
-
-
-
+    attack:
+      type: ranged
+      wp: power
+      proficient: True
+    dc: false
+    damage:
+      - dieCount: 0
+        dieType: 0
+        type: unknown
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Touch
-    concentration: False
+    concentration: false
 ---
-You touch a creature and end either one disease or
-one condition a􀃟icting it. The condition can be
-blinded, deafened, paralyzed, or poisoned. This power
-has no e􀃠ect on droids or constructs.
-
+You touch a creature and end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned. This power has no effect on droids or constructs.
     

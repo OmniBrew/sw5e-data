@@ -5,7 +5,7 @@ type: simple_blaster
 cost: 425
 manufacturer: unaffiliated
 weight: 4
-reload: None
+reload: 20
 damage:
   dieCount: 1
   dieType: 4
@@ -14,5 +14,5 @@ range:
   short: 20
   long: 80
 properties:
-  - [power cell (range 20/80), disruptive, fixed, mighty, reload 20, two-handed]
+  - [power-cell, range, disruptive, fixed, mighty, reload, two-handed]
 ---

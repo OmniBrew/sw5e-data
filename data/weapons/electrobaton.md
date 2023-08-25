@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [finesse, light, shocking 13]
+  - [finesse, light, shocking]
 ---

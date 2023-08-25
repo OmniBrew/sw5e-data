@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disruptive, finesse, shocking 13]
+  - [disruptive, finesse, shocking]
 ---

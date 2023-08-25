@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity 13, reach, shocking 13, two-handed]
+  - [dexterity, reach, shocking, two-handed]
 ---

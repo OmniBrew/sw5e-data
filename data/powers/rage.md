@@ -1,9 +1,9 @@
 ---
-name: RAGE
+name: Rage
 version: 1
 level: 6
-alignment: dark side
-prerequisite: None
+alignment: dark
+prerequisite: 
 type: force
 tags:
   - damage
@@ -14,37 +14,27 @@ mechanics:
       length: 1
       unit: action
 
-
+    dc:
+      save: str
     damage:
       - dieCount: 2
         dieType: 12
         type: force
     duration:
-      length: 10
-      unit: minutes
+      length: 1
+      unit: minute
     range:
       short: Self
-    concentration: True
+    concentration: true
 ---
-You endow yourself with endurance and martial
-prowess fueled by the Force. Until the power ends, you
-can't cast powers, and you gain the following bene􀃕ts:
-You gain 50 temporary hit points. If any of these
-remain when the power ends, they are lost.
-You have advantage on attack rolls that you make with
-lightweapons and vibroweapons.
-When you hit a target with a weapon attack, that target
-takes an extra 2d12 force damage.
-You have pro􀃕ciency with all armor, lightweapons, and
-vibroweapons.
-You have pro􀃕ciency in Strength and Constitution
-saving throws.
-You can attack twice, instead of once, when you take
-the Attack action on your turn. You ignore this bene􀃕t if
-you already have a feature, like Extra Attack, that gives
-you extra attacks.
-Immediately after the power ends, you must succeed
-on a DC 15 Constitution saving throw or su􀃠er one
-level of exhaustion.
+You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can't cast powers, and you gain the following benefits:
 
+- You gain 50 temporary hit points. If any of these remain when the power ends, they are lost.
+- You have advantage on attack rolls that you make with lightweapons and vibroweapons.
+- When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
+- You have proficiency with all armor, lightweapons, and vibroweapons.
+- You have proficiency in Strength and Constitution saving throws.
+- You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+
+Immediately after the power ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
     

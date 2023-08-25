@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [bright 15, dexterity 11, hidden, specialized (bright), versatile (2d4)]
+  - [bright, dexterity, hidden, specialized-(bright), versatile]
 ---

@@ -1,8 +1,8 @@
 ---
-name: FORCE LIGHTNING CONE
+name: Force Lightning Cone
 version: 1
 level: 7
-alignment: dark side
+alignment: dark
 prerequisite: Force Chain Lightning
 type: force
 tags:
@@ -21,18 +21,13 @@ mechanics:
         dieType: 6
         type: lightning
     duration:
-      length: Instantaneous
-      unit: 
+      length: 0
+      unit: instant
     range:
       short: Self
-    concentration: False
+    concentration: false
 ---
-Lightning arcs from your hands. Each creature in a
-60-foot cone must make a Dexterity saving throw. A
-creature takes 12d6 lightning damage on a failed save,
-or half as much on a successful one.
-Force Potency. When you cast this power using a
-force slot of 8th level or higher, the damage increases
-by 2d6 for each slot level above 7th.
+Lightning arcs from your hands. Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes 12d6 lightning damage on a failed save, or half as much on a successful one.
 
+***__At Higher Levels__:*** When you cast this power using a force slot of 8th level or higher, the damage increases by 2d6 for each slot level above 7th.
     
