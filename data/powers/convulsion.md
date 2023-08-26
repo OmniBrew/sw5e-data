@@ -3,7 +3,7 @@ name: Convulsion
 version: 1
 level: 3
 alignment: universal
-prerequisite: Tremor
+prerequisite: tremor
 type: force
 tags:
   - damage

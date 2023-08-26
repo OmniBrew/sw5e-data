@@ -3,7 +3,7 @@ name: Force Focus
 version: 1
 level: 1
 alignment: light
-prerequisite: Force Technique
+prerequisite: force technique
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You let the Force guide you, empowering your strikes. Until the power ends, your weapon attacks deal an extra 1d4 force damage on a hit.

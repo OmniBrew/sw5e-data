@@ -3,7 +3,7 @@ name: Insanity
 version: 1
 level: 5
 alignment: dark
-prerequisite: Horror
+prerequisite: horror
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 This power assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 30-foot-radius sphere centered on you must succeed on a Wisdom saving throw when you cast this power or be affected by it.

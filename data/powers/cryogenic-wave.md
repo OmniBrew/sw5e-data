@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 A wave of cold energy spreads out from you. Each creature in a 15-foot cone must make a Constitution saving throw. On a failed save, a creature takes 2d6 cold damage and gains 1 slowed level until the end of its next turn. On a success, it takes half as much damage, and suffers no additional effect.

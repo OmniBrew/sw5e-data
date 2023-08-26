@@ -3,7 +3,7 @@ name: Mass Coerce Mind
 version: 1
 level: 6
 alignment: universal
-prerequisite: Coerce Mind
+prerequisite: coerce mind
 type: force
 tags:
   - damage

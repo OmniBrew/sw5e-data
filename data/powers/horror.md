@@ -3,7 +3,7 @@ name: Horror
 version: 1
 level: 3
 alignment: dark
-prerequisite: Fear
+prerequisite: fear
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration. This power has no effect on constructs or droids.

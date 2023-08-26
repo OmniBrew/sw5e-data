@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You touch a droid, construct, or a creature with a tech focus, and it must succeed on an Intelligence saving throw or receive a tech-based curse for the duration of the power. When you cast this power, choose the nature of the curse from the following options:

@@ -3,7 +3,7 @@ name: Telekinetic Burst
 version: 1
 level: 6
 alignment: light
-prerequisite: Telekinetic Storm
+prerequisite: telekinetic storm
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 A beam of Force energy flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 8d6 force damage and is knocked prone. On a successful save, it takes half as much damage and isn't knocked prone. 

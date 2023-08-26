@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 Placing your hand on another creature you can transfer your own life force to them. You spend and roll one of your Hit Dice and the creature regains that many hit points. This power has no effect on droids or constructs.

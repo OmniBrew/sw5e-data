@@ -3,7 +3,7 @@ name: Share Life
 version: 1
 level: 3
 alignment: light
-prerequisite: Give Life
+prerequisite: give life
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 4

@@ -3,7 +3,7 @@ name: Beacon of Hope
 version: 1
 level: 3
 alignment: light
-prerequisite: Heroism
+prerequisite: heroism
 type: force
 tags:
   - damage

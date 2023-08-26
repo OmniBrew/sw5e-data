@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 The power captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the power ends.

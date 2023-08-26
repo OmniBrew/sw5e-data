@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 For the duration, you sense the presence of any enhancements within 30 feet of you. If you sense an enhancement in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears an enhancement.

@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You are able to slow your metabolism in such a way that you can stop breathing and resist the effect of toxins in your body. If you are poisoned, you neutralize the poison. If more than one poison afflicts you, you neutralize one poison that you know is present, or you neutralize one at random.

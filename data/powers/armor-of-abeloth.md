@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 A protective force surrounds you, manifesting as shimmering light that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 psychic damage.

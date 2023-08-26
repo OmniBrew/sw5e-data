@@ -3,7 +3,7 @@ name: Force Propel
 version: 1
 level: 1
 alignment: universal
-prerequisite: Force Push/Pull
+prerequisite: force push/pull
 type: force
 tags:
   - damage

@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.

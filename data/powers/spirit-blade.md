@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You conjure a blade of spirit energy and attempt to strike one creature. Make a melee force attack against the target. If the attack hits, the creature takes 1d10 necrotic damage.

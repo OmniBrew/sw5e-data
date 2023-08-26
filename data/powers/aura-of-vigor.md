@@ -3,7 +3,7 @@ name: Aura of Vigor
 version: 1
 level: 3
 alignment: light
-prerequisite: Valor
+prerequisite: valor
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 Envigorating energy radiates from you in a 30-foot radius. Until the power ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) deals an extra 1d4 damage with weapon attacks.

@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You attempt to crush the body of a creature you touch. The target must make a Strength saving throw. If the creature is grappled or restrained by you or an effect you control, it makes the saving throw with disadvantage. On a failed save, the creature takes 1d12 kinetic damage.

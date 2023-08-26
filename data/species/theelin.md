@@ -1,5 +1,8 @@
 ---
 name: Theelin
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png
 source: ec
 speedColor: ''
 alignment: >-

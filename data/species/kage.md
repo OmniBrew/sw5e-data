@@ -1,5 +1,8 @@
 ---
 name: Kage
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png
 source: ec
 speedColor: ''
 alignment: >-

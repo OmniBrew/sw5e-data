@@ -3,7 +3,7 @@ name: Reveal Shatterpoint
 version: 1
 level: 5
 alignment: universal
-prerequisite: Sense Shatterpoint
+prerequisite: sense shatterpoint
 type: force
 tags:
   - damage

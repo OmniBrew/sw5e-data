@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You touch a creature and end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned. This power has no effect on droids or constructs.

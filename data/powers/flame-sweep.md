@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 A thin sheet of flames shoots forth from you. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.

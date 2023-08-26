@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You channel tech power through a blaster weapon you are wielding. When a target takes damage from the chosen weapon, the target takes an extra 1d6 fire damage. The power ends when twelve shots have been fired.

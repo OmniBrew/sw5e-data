@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 Your power with the Force deepens a creature's understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the power ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.

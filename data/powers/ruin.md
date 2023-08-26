@@ -3,7 +3,7 @@ name: Ruin
 version: 1
 level: 7
 alignment: dark
-prerequisite: Wound
+prerequisite: wound
 type: force
 tags:
   - damage

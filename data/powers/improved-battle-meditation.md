@@ -3,7 +3,7 @@ name: Improved Battle Meditation
 version: 1
 level: 5
 alignment: universal
-prerequisite: Battle Meditation
+prerequisite: battle meditation
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You exude an aura out to 15 feet that boosts the morale and overall battle prowess you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. 

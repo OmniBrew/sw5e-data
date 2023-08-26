@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 In the face of danger, you create a barrier that protects you and those around you. A faintly glowing sphere of protection with a radius of 10 feet appears. The sphere lasts for the duration.

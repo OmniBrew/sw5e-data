@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 Energizing light radiates out from you in a 30-foot radius. Creatures of your choice in that radius when you cast this power have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the power ends. 

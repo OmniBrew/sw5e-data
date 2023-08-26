@@ -3,7 +3,7 @@ name: Siphon Life
 version: 1
 level: 5
 alignment: dark
-prerequisite: Drain Life
+prerequisite: drain life
 type: force
 tags:
   - damage

@@ -1,5 +1,8 @@
 ---
 name: Mustafarian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png
 source: ec
 speedColor: ''
 alignment: >-

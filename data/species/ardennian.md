@@ -1,5 +1,8 @@
 ---
 name: Ardennian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png
 source: ec
 speedColor: ''
 alignment: >-

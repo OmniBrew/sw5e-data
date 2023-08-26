@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 When you cast this power, you create a trap that will later trigger in response to a certain condition. You must attach it either to a surface (such as a table or a section of floor or wall) or within an object that can be closed or turned on (such as a book, door, or computer terminal) to conceal the trap. The trap can cover an area no larger than 10 feet in diameter. At the GM's discretion, certain actions may cause the trap to break or be rendered inoperative.

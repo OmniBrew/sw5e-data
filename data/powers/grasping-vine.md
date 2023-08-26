@@ -3,7 +3,7 @@ name: Grasping Vine
 version: 1
 level: 4
 alignment: light
-prerequisite: Plant Surge
+prerequisite: plant surge
 type: force
 tags:
   - damage

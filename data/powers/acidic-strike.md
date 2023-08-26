@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 As part of the action used to cast this power, you must make a melee weapon attack against one creature within your reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and it becomes sheathed in a thick acidic slime until the start of your next turn. Until the start of your next turn, if the target becomes grappled, or succeeds in grappling or maintaining a grapple, the slime is pressed into its body, causing it to immediately take 1d8 acid damage. 

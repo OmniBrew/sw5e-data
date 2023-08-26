@@ -3,7 +3,7 @@ name: Destroy Droid
 version: 1
 level: 7
 alignment: light
-prerequisite: Disable Droid
+prerequisite: disable droid
 type: force
 tags:
   - damage

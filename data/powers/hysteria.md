@@ -3,7 +3,7 @@ name: Hysteria
 version: 1
 level: 4
 alignment: dark
-prerequisite: Hallucination
+prerequisite: hallucination
 type: force
 tags:
   - damage

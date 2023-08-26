@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 For the duration, you can detect electronic transmissions. When you cast the power and as your action on each turn until the power ends, you can focus on any one creature that you can see within 30 feet of you. If the creature you choose does not possess a commlink, or is not a droid or construct, the creature is unaffected.

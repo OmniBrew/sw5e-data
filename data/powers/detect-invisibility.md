@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 For the duration, you see invisible creatures and objects as if they were visible.

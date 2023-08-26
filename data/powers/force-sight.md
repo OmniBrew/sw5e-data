@@ -3,7 +3,7 @@ name: Force Sight
 version: 1
 level: 2
 alignment: universal
-prerequisite: Sense Force
+prerequisite: sense force
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You shift your vision to see through use of the Force; colors fade and inanimate objects appear as shades of gray. For the duration, you gain the following benefits.

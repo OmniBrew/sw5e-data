@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 As part of the action used to cast this power, you must make a ranged weapon attack against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a dim barrier surrounds it. The first time it would deal damage before the start of your next turn, that damage is reduced by 1d6. 

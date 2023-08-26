@@ -3,7 +3,7 @@ name: Telepathic Link
 version: 1
 level: 1
 alignment: universal
-prerequisite: Force Whisper
+prerequisite: force whisper
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You establish a telepathic link with one willing creature you touch. Until the power ends, whenever you and the target can see each other, each of you can communicate with the other via telepathy.

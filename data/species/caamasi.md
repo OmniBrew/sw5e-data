@@ -1,5 +1,8 @@
 ---
 name: Caamasi
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png
 source: ec
 speedColor: ''
 alignment: >-

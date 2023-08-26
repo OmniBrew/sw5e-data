@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 24
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You shroud or alter the aura of a creature or object you touch so that Force powers reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.

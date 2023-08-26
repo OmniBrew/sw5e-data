@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You put your faith in the Force, feeling out the future and seeing whether your actions will lead to fortune or ruin. The GM chooses from the following possible omens:

@@ -3,7 +3,7 @@ name: Tremor
 version: 1
 level: 1
 alignment: universal
-prerequisite: Burst
+prerequisite: burst
 type: force
 tags:
   - damage

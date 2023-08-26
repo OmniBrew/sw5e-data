@@ -3,7 +3,7 @@ name: Improved Kinetite
 version: 1
 level: 4
 alignment: dark
-prerequisite: Kinetite
+prerequisite: kinetite
 type: force
 tags:
   - damage

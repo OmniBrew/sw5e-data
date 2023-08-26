@@ -3,7 +3,7 @@ name: Master Pyrokinesis
 version: 1
 level: 7
 alignment: universal
-prerequisite: Greater Pyrokinesis
+prerequisite: greater pyrokinesis
 type: force
 tags:
   - damage

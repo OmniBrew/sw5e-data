@@ -1,59 +1,9 @@
 [
   {
-    "name": "Abyssin test",
-    "imgsrc": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
-    "source": "ec",
-    "speedColor": "",
-    "alignment": "Abyssin’s violent and anarchic upbringing cause them to tend toward the dark side, though there are exceptions.",
-    "size": "Abyssin stand around 6 feet tall and weigh between 200 and 400 lbs. Regardless of your position in that range, your size is Medium.",
-    "age": "Abyssin reach adulthood at age 30 and can live up to 300 years thanks to their regenerative abilities.",
-    "languageColor": "You can speak, read, and write Galactic Basic and Abyssin. ",
-    "skinColor": "Green, tan",
-    "hairColor": "Black, turning white with age",
-    "eyeColor": "Yellow, white",
-    "distinctions": "Single eye, regenerative abilities",
-    "homeworld": "Byss",
-    "language": "Abyssin",
-    "height": {
-      "base": "5’5\"",
-      "mod": "+2d10\""
-    },
-    "weight": {
-      "base": "150 lbs.",
-      "mod": "x2d4 lbs."
-    },
-    "cSize": "Medium",
-    "mechanics": [
-      {
-        "type": "asi",
-        "amount": 2,
-        "ability": "con"
-      },
-      {
-        "type": "asi",
-        "amount": 1,
-        "ability": "str"
-      },
-      {
-        "type": "speed",
-        "speed": "walk",
-        "distance": 30
-      },
-      {
-        "type": "language",
-        "value": [
-          "galactic_basic",
-          "Abyssin"
-        ]
-      }
-    ],
-    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The hulking abyssin have long limbs and a single large eye that dominates their foreheads. Typically well-muscled, the abyssin’s stooping gait results in a slightly hunched appearance.</p>\n<p>A distinctive trait of the abyssin is their ability to heal quickly; their fast regeneration is believed to have been an adaptation to prevent fluid loss via bleeding on their desert homeworld. All cells in the abyssin body are replaced every 80 hours, and organs which typically were paired in other species appear singularly.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>A primitive tribal society, the abyssin of Byss are known as violent and brutish, and their planet is avoided by most beings in the civilized galaxy. Unstable resources on Byss do not allow for mass population growth or for the stabilization of a central government, economy or trade system.</p>\n<p>Existing simply in nomadic tribes, abyssin groups can interact peacefully with one another, though only if both groups have plentiful water and food supplies. Otherwise, they began a ‘Blooding’, a brawl that ends only when one tribe’s warriors are all killed, captured, or incapacitated. Warriors who survive a Blooding are usually allowed to join the winning tribe once they finish their regeneration. This tradition led to some violent incidents when spacers tried to make first contact and trade with Abyssin tribes with scarce water resources, especially since the abyssin assumed the alien traders could regenerate as quickly as they did.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>There does not appear to be any distinction between male and female names for abyssin. Abyssin don’t use surnames.</p>\n<p><strong>Names.</strong> Anami, Easym, Myo, Qawohl, Seh-run, Sidie</p>\n",
-    "id": "abyssin-test",
-    "abilityScoreIncrease": "+2 Constitution, +1 Strength",
-    "subspecies": false
-  },
-  {
     "name": "Abyssin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Abyssin’s violent and anarchic upbringing cause them to tend toward the dark side, though there are exceptions.",
@@ -105,60 +55,10 @@
     "subspecies": false
   },
   {
-    "name": "Abyssin3",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png",
-    "source": "ec",
-    "speedColor": "",
-    "alignment": "Abyssin’s violent and anarchic upbringing cause them to tend toward the dark side, though there are exceptions.",
-    "size": "Abyssin stand around 6 feet tall and weigh between 200 and 400 lbs. Regardless of your position in that range, your size is Medium.",
-    "age": "Abyssin reach adulthood at age 30 and can live up to 300 years thanks to their regenerative abilities.",
-    "languageColor": "You can speak, read, and write Galactic Basic and Abyssin. ",
-    "skinColor": "Green, tan",
-    "hairColor": "Black, turning white with age",
-    "eyeColor": "Yellow, white",
-    "distinctions": "Single eye, regenerative abilities",
-    "homeworld": "Byss",
-    "language": "Abyssin",
-    "height": {
-      "base": "5’5\"",
-      "mod": "+2d10\""
-    },
-    "weight": {
-      "base": "150 lbs.",
-      "mod": "x2d4 lbs."
-    },
-    "cSize": "Medium",
-    "mechanics": [
-      {
-        "type": "asi",
-        "amount": 2,
-        "ability": "con"
-      },
-      {
-        "type": "asi",
-        "amount": 1,
-        "ability": "str"
-      },
-      {
-        "type": "speed",
-        "speed": "walk",
-        "distance": 30
-      },
-      {
-        "type": "language",
-        "value": [
-          "galactic_basic",
-          "Abyssin"
-        ]
-      }
-    ],
-    "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The hulking abyssin have long limbs and a single large eye that dominates their foreheads. Typically well-muscled, the abyssin’s stooping gait results in a slightly hunched appearance.</p>\n<p>A distinctive trait of the abyssin is their ability to heal quickly; their fast regeneration is believed to have been an adaptation to prevent fluid loss via bleeding on their desert homeworld. All cells in the abyssin body are replaced every 80 hours, and organs which typically were paired in other species appear singularly.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>A primitive tribal society, the abyssin of Byss are known as violent and brutish, and their planet is avoided by most beings in the civilized galaxy. Unstable resources on Byss do not allow for mass population growth or for the stabilization of a central government, economy or trade system.</p>\n<p>Existing simply in nomadic tribes, abyssin groups can interact peacefully with one another, though only if both groups have plentiful water and food supplies. Otherwise, they began a ‘Blooding’, a brawl that ends only when one tribe’s warriors are all killed, captured, or incapacitated. Warriors who survive a Blooding are usually allowed to join the winning tribe once they finish their regeneration. This tradition led to some violent incidents when spacers tried to make first contact and trade with Abyssin tribes with scarce water resources, especially since the abyssin assumed the alien traders could regenerate as quickly as they did.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>There does not appear to be any distinction between male and female names for abyssin. Abyssin don’t use surnames.</p>\n<p><strong>Names.</strong> Anami, Easym, Myo, Qawohl, Seh-run, Sidie</p>\n",
-    "id": "abyssin3",
-    "abilityScoreIncrease": "+2 Constitution, +1 Strength",
-    "subspecies": false
-  },
-  {
     "name": "Advozse",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_advozse.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Advozsec’s paranoid and pessimistic nature causes them to tend towards balanced alignments, particularly lawful balanced, though there are exceptions.",
@@ -211,6 +111,9 @@
   },
   {
     "name": "Aing-Tii",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aing-tii.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Aing-tii’s foreign nature causes them to be hard to understand. Most aing-tii tend toward neutral light side, though there are exceptions.",
@@ -265,6 +168,9 @@
   },
   {
     "name": "Aleena",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aleena.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Aleena’s benevolent yet curious nature causes them to tend toward chaotic light side, though there are exceptions.",
@@ -317,6 +223,9 @@
   },
   {
     "name": "Anomid",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anomid.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Anomid’s pacifistic culture causes them to tend toward light alignments, though there are exceptions.",
@@ -369,6 +278,9 @@
   },
   {
     "name": "Anx",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anx.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anx.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anx.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "The anx’s social nature causes them to tend toward the light side, though there are exceptions.",
@@ -421,6 +333,9 @@
   },
   {
     "name": "Anzellan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Anzellans are a friendly and respectful people, which causes them to tend toward lawful light side, though there are exceptions.",
@@ -482,6 +397,9 @@
   },
   {
     "name": "Aqualish",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_aqualish.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Aqualish’ aggressive personalities cause them to tend toward the dark side, though there are exceptions.",
@@ -534,6 +452,9 @@
   },
   {
     "name": "Arcona",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arcona.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Arcona tend toward no particular alignment. They can vary from the chaotic thrillseekers to the orderly lawkeepers. The best and worst are found among them.",
@@ -586,6 +507,9 @@
   },
   {
     "name": "Ardennian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ardennian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ardennians’ peaceful nature causes them to tend toward the light side, though there are exceptions.",
@@ -638,6 +562,9 @@
   },
   {
     "name": "Arkanian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arkanian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arkanian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_arkanian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Due to their arrogance and unscrupulous experimentation, arkanians tend towards lawful dark side, though there are exceptions.",
@@ -690,6 +617,9 @@
   },
   {
     "name": "Balosar",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Balosars are notoriously cynical, selfish, and pragmatic, causing most to be neutral dark side. However, there are exceptions.",
@@ -742,6 +672,9 @@
   },
   {
     "name": "Barabel",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Barabel aggression causes them to tend toward the dark side, though there are exceptions.",
@@ -794,6 +727,9 @@
   },
   {
     "name": "Baragwin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_baragwin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_baragwin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_baragwin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Baragwin tend toward no particular alignment. The best and worst are found among them.",
@@ -846,6 +782,9 @@
   },
   {
     "name": "Besalisk",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_besalisk.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Besalisks tend toward no particular alignment. The best and worst are found among them.",
@@ -1014,6 +953,9 @@
   },
   {
     "name": "Caamasi",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_caamasi.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Caamasi’s peaceful and just nature causes them to tend toward the light side, though there are exceptions.",
@@ -1184,6 +1126,9 @@
   },
   {
     "name": "Chadra-Fan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Chadra-Fan’s open, clan-based culture cause them to tend toward the light side, though there are exceptions.",
@@ -1236,6 +1181,9 @@
   },
   {
     "name": "Chagrian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chagrian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Chagrians’ peace-loving nature causes them to tend toward the light side, though there are exceptions.",
@@ -1288,6 +1236,9 @@
   },
   {
     "name": "Chevin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chevin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Chevin warmongering and slavetrading cause them to tend toward the dark side, though there are exceptions.",
@@ -1340,6 +1291,9 @@
   },
   {
     "name": "Chironian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chironian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chironian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chironian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Chironians tend toward no particular alignment. The best and worst are found among them.",
@@ -1491,6 +1445,9 @@
   },
   {
     "name": "Clawdite",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_clawdite.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Clawdites’ pragmatism cause them to tend towards neutral balanced, though there are exceptions.",
@@ -1545,6 +1502,9 @@
   },
   {
     "name": "Codru-Ji",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_codru-ji.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Steeped in selfish tradition, Codru-Ji tend towards the dark side, though there are exceptions.",
@@ -1597,6 +1557,9 @@
   },
   {
     "name": "Colicoid",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_colicoid.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_colicoid.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_colicoid.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Colicoid’s emotionless nature causes them to tend towards balanced alignments, though there are exceptions.",
@@ -1639,6 +1602,9 @@
   },
   {
     "name": "Culisetto",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Culisettos’ thirst for blood cause them to tend towards the dark side, though there are exceptions.",
@@ -1691,6 +1657,9 @@
   },
   {
     "name": "Dashade",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dashade.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dashade.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dashade.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Dashade’s aggressive yet loyal nature causes them to tend toward lawful dark side, though there are exceptions.",
@@ -1743,6 +1712,9 @@
   },
   {
     "name": "Defel",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_defel.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Defel tend toward no particular alignment. The best and worst are found among them.",
@@ -1874,6 +1846,9 @@
   },
   {
     "name": "Diathim",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_diathim.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Diathim are naturally empathetic, causing them to tend toward the light side, though there are exceptions.",
@@ -1926,6 +1901,9 @@
   },
   {
     "name": "Dowutin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dowutin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Dowutins are aggressive and brash, causing them to tend toward the dark side, though there are exceptions.",
@@ -1978,6 +1956,9 @@
   },
   {
     "name": "Draethos",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Draethos tend toward no particular alignment. The best and worst are found among them.",
@@ -2532,6 +2513,9 @@
   },
   {
     "name": "Dug",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_dug.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Dugs’ angry nature causes them to tend toward the dark side, though there are exceptions.",
@@ -2636,6 +2620,9 @@
   },
   {
     "name": "Echani",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_echani.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_echani.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_echani.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Echani culture’s emphasis on honor and combat cause them to tend towards lawful alignments, though there are exceptions.",
@@ -2688,6 +2675,9 @@
   },
   {
     "name": "Esh-Kha",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_esh-kha.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "The esh-kha’s stubborn and racially-centric mindsets cause them to tend toward lawful balanced, though there are exceptions.",
@@ -2783,6 +2773,9 @@
   },
   {
     "name": "Falleen",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Falleen societal structure causes them to tend to be lawful balanced, though there are exceptions.",
@@ -2835,6 +2828,9 @@
   },
   {
     "name": "Felucian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_felucian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Felucians’ connection to the Living Force causes them to tend toward the light side, though there are exceptions.",
@@ -2887,6 +2883,9 @@
   },
   {
     "name": "Flesh Raider",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Flesh raiders’ propensity towards war and aggression cause them to tend toward chaotic dark side, though there are exceptions.",
@@ -2987,6 +2986,9 @@
   },
   {
     "name": "Gand",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gand.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Gand tend toward no particular alignment. The best and worst are found among them.",
@@ -3039,6 +3041,9 @@
   },
   {
     "name": "Gank",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ganks aggressive and hair trigger nature causes them to tend towards chaotic dark side, though there are exceptions.",
@@ -3081,6 +3086,9 @@
   },
   {
     "name": "Geonosian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Geonosians’ greedy and self-serving nature causes them to tend toward the dark side, though there are exceptions.",
@@ -3123,6 +3131,9 @@
   },
   {
     "name": "Gormak",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Gormaks’ warlike nature causes them to tend toward the dark side, though there are exceptions.",
@@ -3175,6 +3186,9 @@
   },
   {
     "name": "Gotal",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gotal.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Gotals’ polite and respectful nature causes them to tend toward lawful alignments, though there are exceptions.",
@@ -3229,6 +3243,9 @@
   },
   {
     "name": "Gran",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Gran highly organized society cause them to tend toward lawful alignments, though there are exceptions…",
@@ -3341,6 +3358,9 @@
   },
   {
     "name": "Harch",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_harch.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Harch are cold, calculating beings, causing them to tend toward the dark side, though there are exceptions.",
@@ -3398,6 +3418,9 @@
   },
   {
     "name": "Houk",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Most houk are short-tempered and deceitful, causing them to tend toward the dark side, though there are exceptions.",
@@ -3450,6 +3473,9 @@
   },
   {
     "name": "Ho’Din",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ho’dins’ benevolent nature causes them to tend toward the light side, though there are exceptions.",
@@ -3544,6 +3570,9 @@
   },
   {
     "name": "Hutt",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_hutt.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Hutts are selfish, greedy, and highly organized, causing them to tend toward chaotic dark side, though there are exceptions.",
@@ -3605,6 +3634,9 @@
   },
   {
     "name": "Iktotchi",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_iktotchi.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Iktotchi are lawful and tend toward the light side, though there are exceptions.",
@@ -3734,6 +3766,9 @@
   },
   {
     "name": "Kage",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kage.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kages’ rigid sense of honor causes them to tend toward lawful light side, though there are exceptions.",
@@ -3786,6 +3821,9 @@
   },
   {
     "name": "Kaleesh",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaleesh.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kaleesh tend toward no particular alignment. The best and worst are found among them.",
@@ -3838,6 +3876,9 @@
   },
   {
     "name": "Kaminoan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kaminoan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kaminoans highly organized society lead individuals to tend toward a lawful alignment, though there are exceptions.",
@@ -3881,6 +3922,9 @@
   },
   {
     "name": "Karkarodon",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Karkarodons’ warmongering nature causes them to tend toward the dark side, though there are exceptions",
@@ -3968,6 +4012,9 @@
   },
   {
     "name": "Kiffar",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kiffar.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kiffar are independent and free spirited, causing them to tend towards chaotic alignments, though there are exceptions.",
@@ -4010,6 +4057,9 @@
   },
   {
     "name": "Killik",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_killik.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_killik.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_killik.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Killiks’ willingness to brainwash or kill their enemies cause them to tend towards the dark side, though there are exceptions.",
@@ -4062,6 +4112,9 @@
   },
   {
     "name": "Klatooinian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_klatooinian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Klatooinian society encourages reverence for tradition and an inclination towards violence, causing them to tend toward lawful dark side, though there are exceptions.",
@@ -4120,6 +4173,9 @@
   },
   {
     "name": "Kubaz",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kubaz’ courteous nature causes them to tend toward lawful alignments, though there are exceptions.",
@@ -4172,6 +4228,9 @@
   },
   {
     "name": "Kushiban",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kushiban.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kushibans’ playful nature causes them to tend toward chaotic light side, though there are exceptions.",
@@ -4224,6 +4283,9 @@
   },
   {
     "name": "Kyuzo",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kyuzo.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Kyuzos’ belief in justice and honor cause them to tend toward lawful balanced, though there are exceptions.",
@@ -4276,6 +4338,9 @@
   },
   {
     "name": "Lannik",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Despite the turbulence on their homeworld, Lanniks tend toward the light side, though there are exceptions.",
@@ -4328,6 +4393,9 @@
   },
   {
     "name": "Lasat",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lasat.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Lasat’ honorable tendences cause them to tend toward lawful light side, though there are exceptions.",
@@ -4380,6 +4448,9 @@
   },
   {
     "name": "Lurmen",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "The pacifistic nature of the lurmen causes them to be neutral light side, though there are exceptions.",
@@ -4432,6 +4503,9 @@
   },
   {
     "name": "Massassi",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "The massassi are savage and brutish warriors who relish on the violence of combat, usually following a dark and chaotic nature.",
@@ -4474,6 +4548,9 @@
   },
   {
     "name": "Mikkian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mikkian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Mikkian’s honor and integrity based culture causes them to tend toward lawful alignments, though there are exceptions.",
@@ -4528,6 +4605,9 @@
   },
   {
     "name": "Miraluka",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_miraluka.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Miraluka believe in balance and thus tend toward no particular alignment. The best and worst are found among them.",
@@ -4580,6 +4660,9 @@
   },
   {
     "name": "Mirialan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Mirialans spiritual tendencies cause them to tend towards the light side, though there are exceptions.",
@@ -4675,6 +4758,9 @@
   },
   {
     "name": "Mustafarian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mustafarian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Mustafarians are usually judicious and value good work above all else, causing them to be lawful balanced, though there are exceptions.",
@@ -4717,6 +4803,9 @@
   },
   {
     "name": "Muun",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Muuns’ lawful culture nature causes them to tend toward lawful balanced, though there are exceptions.",
@@ -4804,6 +4893,9 @@
   },
   {
     "name": "Neimoidian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_neimoidian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_neimoidian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_neimoidian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Neimoidians’ greedy nature causes them to tend toward the dark side, though there are exceptions.",
@@ -4856,6 +4948,9 @@
   },
   {
     "name": "Nikto",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nikto.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Nikto’s self-sufficient and clever nature causes them to tend toward balanced alignments, though there are exceptions.",
@@ -4911,6 +5006,9 @@
   },
   {
     "name": "Noghri",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_noghri.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Noghri’s honorable society causes them to tend toward a lawful alignment, though there are exceptions.",
@@ -4963,6 +5061,9 @@
   },
   {
     "name": "Nothoiin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Nothoiins tend toward no particular alignment. The best and worst are found among them.",
@@ -5015,6 +5116,9 @@
   },
   {
     "name": "Ortolan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ortolan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ortolans’ love of food and music causes them to tend toward chaotic light side, though there are exceptions.",
@@ -5067,6 +5171,9 @@
   },
   {
     "name": "Pantoran",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pantoran.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Pantorans’ interest in politics causes them to tend towards lawful alignments, though there are exceptions.",
@@ -5109,6 +5216,9 @@
   },
   {
     "name": "Patrolian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Patrolians’ greedy, scheming nature causes them to tend toward the dark side, though there are exceptions.",
@@ -5151,6 +5261,9 @@
   },
   {
     "name": "Pau’an",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Pau’ans’ commanding presence, yet friendly and kind nature, cause them to tend to be lawful light side, though there are exceptions.",
@@ -5203,6 +5316,9 @@
   },
   {
     "name": "Pyke",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pyke.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Due to their underhanded nature, Pykes tend toward the dark side, though there are exceptions.",
@@ -5255,6 +5371,9 @@
   },
   {
     "name": "Quarren",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quarren.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Quarren desire for equal rights causes them to tend toward balanced, though there are exceptions.",
@@ -5307,6 +5426,9 @@
   },
   {
     "name": "Quermian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Querians philosophic culture causes them to tend toward light alignments, though there are exceptions.",
@@ -5359,6 +5481,9 @@
   },
   {
     "name": "Rakata",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rakata.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rakata.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rakata.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Rakata’s propensity towards war and aggression cause them to tend toward lawful dark side, though there are exceptions.",
@@ -5411,6 +5536,9 @@
   },
   {
     "name": "Rattataki",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rattataki.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Rattataki are self-serving and violent which causes them to tend toward the dark side, though there are exceptions.",
@@ -5453,6 +5581,9 @@
   },
   {
     "name": "Rishii",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rishii.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rishii.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rishii.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Rishii tend toward no particular alignment. The best and worst are found among them.",
@@ -5547,6 +5678,9 @@
   },
   {
     "name": "Ryn",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ryn.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ryn.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ryn.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ryn’s superstitious and solitary nature causes them to tend toward balanced alignments, though there are exceptions.",
@@ -5601,6 +5735,9 @@
   },
   {
     "name": "Selkath",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selkath.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Selkath have been renowned for countless millenia of the careful preservation of neutrality. As such individuals tend towards the neutral balanced alignment, though there are exceptions.",
@@ -5653,6 +5790,9 @@
   },
   {
     "name": "Selonian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_selonian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Selonians are serious and den-focused, causing them to tend towards lawful balanced, though there are exceptions.",
@@ -5705,6 +5845,9 @@
   },
   {
     "name": "Shistavanen",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_shistavanen.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Shistavanen are private and tend toward no particular alignment. The best and worst are found among them.",
@@ -5817,6 +5960,9 @@
   },
   {
     "name": "Squib",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Squibs’ cheerful nature causes them to tend toward the light side, though there are exceptions.",
@@ -5869,6 +6015,9 @@
   },
   {
     "name": "Ssi-Ruu",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ssi-ruu.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ssi-ruuk’s cultural drive to enslave and entech others cause them to tend toward the dark side, though there are exceptions.",
@@ -5921,6 +6070,9 @@
   },
   {
     "name": "Sullustan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_sullustan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_sullustan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_sullustan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Sullustans’ outgoing and friendly nature cause them to tend toward the light side, though there are exceptions.",
@@ -5973,6 +6125,9 @@
   },
   {
     "name": "Talz",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_talz.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Talz’ peaceful and slow-to-anger nature cause them to tend toward the light side, though there are exceptions.",
@@ -6025,6 +6180,9 @@
   },
   {
     "name": "Tarasin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Tarasins’ curious yet composed nature causes them to tend toward balanced alignments, though there are exceptions.",
@@ -6077,6 +6235,9 @@
   },
   {
     "name": "Taung",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_taung.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_taung.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_taung.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "The taung live by the traditions and honor-bound code of the Mandalorians, making them tend towards a lawful alignment, typically balanced or dark, though there are exceptions.",
@@ -6129,6 +6290,9 @@
   },
   {
     "name": "Theelin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_theelin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Theelin’s good-nature and positivity despite the dour state of their species causes them to tend toward the light side, though there are exceptions.",
@@ -6190,6 +6354,9 @@
   },
   {
     "name": "Thisspiasian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_thisspiasian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Thisspiasians’ emotional composure causes them to tend toward lawful alignments, though there are exceptions.",
@@ -6242,6 +6409,9 @@
   },
   {
     "name": "Tiss’shar",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Tiss’shar’s moral flexibility causes them to tend towards balanced alignments, though there are exceptions.",
@@ -6284,6 +6454,9 @@
   },
   {
     "name": "Tognath",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Tognath are famously dedicated and hard workers, causing them to tend towards balanced alignments, though there are exceptions.",
@@ -6397,6 +6570,9 @@
   },
   {
     "name": "Toydarian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_toydarian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_toydarian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_toydarian.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Toydarians’ greedy nature causes them to tend toward chaotic balanced, though there are exceptions.",
@@ -6642,6 +6818,9 @@
   },
   {
     "name": "Ugnaught",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugnaught.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ugnaughts tend toward no particular alignment. The best and worst are found among them.",
@@ -6694,6 +6873,9 @@
   },
   {
     "name": "Ugor",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ugors are loyal to their theocratic state and see outsiders as expendable. Many follow a Lawful Balanced alignment, though there are exceptions.",
@@ -6746,6 +6928,9 @@
   },
   {
     "name": "Umbaran",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_umbaran.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_umbaran.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_umbaran.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Umbarans’ desire to improve their social standing at all costs causes them to tend towards chaos, though there are exceptions",
@@ -6788,6 +6973,9 @@
   },
   {
     "name": "Verpine",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Verpine’s altruistic and generous nature cause them to tend toward the light side, though there are exceptions.",
@@ -6840,6 +7028,9 @@
   },
   {
     "name": "Voss",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "As Voss culture encourages duty and emotional composure, individuals tend toward a lawful alignment, though there are exceptions.",
@@ -6892,6 +7083,9 @@
   },
   {
     "name": "Vurk",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_vurk.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Vurk philosophies cause them to tend toward the light side, though there are exceptions.",
@@ -7058,6 +7252,9 @@
   },
   {
     "name": "Xexto",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Despite being avid thrillseekers, xexto are calm and even tempered, tending them towards balanced alignments, though there are exceptions.",
@@ -7110,6 +7307,9 @@
   },
   {
     "name": "Yevetha",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_yevetha.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Yevetha’s xenophobic attitude causes them to tend toward the dark side, though there are exceptions.",
@@ -7231,6 +7431,9 @@
   },
   {
     "name": "Zeltron",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zeltron.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zeltron.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zeltron.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Zeltron are a deeply sensual, hedonistic species, causing them to tend toward chaotic balanced or dark side alignments, though there are exceptions.",
@@ -7283,6 +7486,9 @@
   },
   {
     "name": "Zilkin",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Zilkin have an outspoken but just nature that causes them to tend towards lawful light side, though there are exceptions.",

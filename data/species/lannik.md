@@ -1,5 +1,8 @@
 ---
 name: Lannik
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lannik.png
 source: ec
 speedColor: ''
 alignment: >-

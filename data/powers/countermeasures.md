@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 For the duration, you gain the following benefits:

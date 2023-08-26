@@ -1,5 +1,8 @@
 ---
 name: Karkarodon
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_karkarodon.png
 source: ec
 speedColor: ''
 alignment: >-

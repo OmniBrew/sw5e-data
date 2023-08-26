@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Your form shimmers in a holographic configuration, and then collapses. You teleport up to 30 feet to an unoccupied space that you can see.

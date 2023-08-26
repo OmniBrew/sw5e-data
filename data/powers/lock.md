@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this power can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this power for 1 minute. Otherwise, it is impassable until it is broken or the power is dispelled or suppressed. Casting *release* on the object suppresses *lock* for 10 minutes.

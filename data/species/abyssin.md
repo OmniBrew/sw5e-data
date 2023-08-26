@@ -1,5 +1,8 @@
 ---
 name: Abyssin
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_abyssin.png
 source: ec
 speedColor: ''
 alignment: >-

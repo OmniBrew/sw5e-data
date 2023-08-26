@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Your form shimmers in a holographic configuration and collapses as an attack begins to hit you. You have a +5 bonus to AC against the triggering attack. As part of the same reaction, you can then teleport to an unoccupied space within 30 feet of you, and can make one weapon attack with advantage against the attacker.

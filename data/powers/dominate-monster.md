@@ -3,7 +3,7 @@ name: Dominate Monster
 version: 1
 level: 8
 alignment: dark
-prerequisite: Dominate Mind
+prerequisite: dominate mind
 type: force
 tags:
   - damage

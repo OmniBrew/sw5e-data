@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You expel a burst of mood-altering pheromones around you. Each creature within range other than you must succeed on a Charisma saving throw or take 1d4 poison damage and become frightened of you until the start of its next turn. A creature that is immune to the poisoned condition is not frightened.

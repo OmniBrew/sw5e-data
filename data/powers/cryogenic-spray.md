@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 A blast of cold air erupts from you. Each creature in a 60-foot cone must make a Constitution saving throw. On a failed save, a creature takes 8d8 cold damage, and gains 1 slowed level until the start of your next turn. On a successful save, a creature takes half as much damage and isn't slowed.

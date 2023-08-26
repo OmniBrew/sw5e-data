@@ -3,7 +3,7 @@ name: Shroud of Darkness
 version: 1
 level: 4
 alignment: dark
-prerequisite: Darkness
+prerequisite: darkness
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You become heavily obscured to others. Dim light within 10 feet of you becomes darkness, and bright light becomes dim light.

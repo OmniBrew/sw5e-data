@@ -3,7 +3,7 @@ name: Revitalize
 version: 1
 level: 5
 alignment: light
-prerequisite: Spare the Dying
+prerequisite: spare the dying
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You return a dead creature you touch to life, provided that it has been dead no longer than 10 minutes. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point. This power has no effect on droids or constructs.

@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 4
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You touch one Tiny, unenhanced object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and gains little arms and legs, becoming a creature under your control until the power ends or the creature drops to 0 hit points. See the stat block for its statistics. 

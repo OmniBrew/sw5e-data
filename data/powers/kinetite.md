@@ -3,7 +3,7 @@ name: Kinetite
 version: 1
 level: 2
 alignment: dark
-prerequisite: Sustained Lightning
+prerequisite: sustained lightning
 type: force
 tags:
   - damage

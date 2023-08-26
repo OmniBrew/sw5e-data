@@ -3,7 +3,7 @@ name: Maddening Darkness
 version: 1
 level: 8
 alignment: dark
-prerequisite: Shroud of Darkness
+prerequisite: shroud of darkness
 type: force
 tags:
   - damage

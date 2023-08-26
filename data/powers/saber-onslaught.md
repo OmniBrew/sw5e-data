@@ -3,7 +3,7 @@ name: Saber Onslaught
 version: 1
 level: 4
 alignment: universal
-prerequisite: Saber Strike
+prerequisite: saber strike
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You assume a battle stance. Until the end of your turn, your movement does not provoke opportunity attacks. Additionally, whenever you move, you can make one melee weapon attack against each creature you move within 5 feet of for the first time this turn. On a hit, the attack deals an extra 1d6 damage of the weapon's type, and the target must make a Strength saving throw. On a failed save, you can choose to either knock the target prone, or push it 5 feet away from you.

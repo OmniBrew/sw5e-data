@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the power ends. 

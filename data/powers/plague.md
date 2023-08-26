@@ -3,7 +3,7 @@ name: Plague
 version: 1
 level: 3
 alignment: dark
-prerequisite: Affliction
+prerequisite: affliction
 type: force
 tags:
   - damage

@@ -3,7 +3,7 @@ name: Shocking Shield
 version: 1
 level: 4
 alignment: dark
-prerequisite: Shock
+prerequisite: shock
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Lightning courses in a sphere surrounding your body, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can use your action to end the power early.

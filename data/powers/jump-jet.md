@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You boost yourself through the air with a brief surge of repulsor energy. You can rise a number of feet equal to 20 x your techcasting ability modifier. You can also move a number of feet horizontally during any part of the movement equal to 5 x your techcasting ability modifier. At the end of the turn on which you cast this power, you float gently to the ground if you are still aloft.

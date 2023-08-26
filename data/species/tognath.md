@@ -1,5 +1,8 @@
 ---
 name: Tognath
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tognath.png
 source: ec
 speedColor: ''
 alignment: >-

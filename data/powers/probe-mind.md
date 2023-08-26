@@ -3,7 +3,7 @@ name: Probe Mind
 version: 1
 level: 2
 alignment: dark
-prerequisite: Sense Emotion
+prerequisite: sense emotion
 type: force
 tags:
   - damage

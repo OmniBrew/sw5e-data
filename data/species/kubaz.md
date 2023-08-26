@@ -1,5 +1,8 @@
 ---
 name: Kubaz
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_kubaz.png
 source: ec
 speedColor: ''
 alignment: >-

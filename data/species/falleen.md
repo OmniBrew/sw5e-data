@@ -1,5 +1,8 @@
 ---
 name: Falleen
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_falleen.png
 source: ec
 speedColor: ''
 alignment: >-

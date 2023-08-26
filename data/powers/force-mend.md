@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 4
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You touch a creature and stimulate its natural healing ability. The target regains 4d8+15 hit points. For the duration of the power, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).

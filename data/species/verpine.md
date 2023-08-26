@@ -1,5 +1,8 @@
 ---
 name: Verpine
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_verpine.png
 source: ec
 speedColor: ''
 alignment: >-

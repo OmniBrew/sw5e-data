@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You ward a 30-foot radius sphere centered on you with a manually-operated trap. The trap is well disguised. Any creature that can’t see the area at the time the power is cast must make a Wisdom (Perception) check against your tech save DC to notice the trap before entering the area. Once after this power is cast, when a creature you can see enters or moves within the warded area, you can use your reaction to trigger the trap. The effect on the creature depends on the kind of trap you employ, which you choose when you cast this power. You can maintain a maximum number of instances of this power at once equal to your techcasting ability modifier.

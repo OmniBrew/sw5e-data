@@ -3,7 +3,7 @@ name: Mass Malacia
 version: 1
 level: 3
 alignment: universal
-prerequisite: Malacia
+prerequisite: malacia
 type: force
 tags:
   - damage

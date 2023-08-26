@@ -3,7 +3,7 @@ name: Affliction
 version: 1
 level: 2
 alignment: dark
-prerequisite: Slow
+prerequisite: slow
 type: force
 tags:
   - damage

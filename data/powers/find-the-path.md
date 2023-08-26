@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 This power calculates out the shortest, most direct physical route to a specific fixed location that you are familiar with on the same planet. If you name a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as "a Black Sun lair"), the power fails.

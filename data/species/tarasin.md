@@ -1,5 +1,8 @@
 ---
 name: Tarasin
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tarasin.png
 source: ec
 speedColor: ''
 alignment: >-

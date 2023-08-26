@@ -3,7 +3,7 @@ name: Eruption
 version: 1
 level: 6
 alignment: universal
-prerequisite: Convulsion
+prerequisite: convulsion
 type: force
 tags:
   - damage

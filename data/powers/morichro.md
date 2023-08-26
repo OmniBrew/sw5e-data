@@ -3,7 +3,7 @@ name: Morichro
 version: 1
 level: 3
 alignment: light
-prerequisite: Cloud Mind
+prerequisite: cloud mind
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death. 

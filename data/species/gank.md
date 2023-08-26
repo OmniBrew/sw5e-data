@@ -1,5 +1,8 @@
 ---
 name: Gank
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gank.png
 source: ec
 speedColor: ''
 alignment: >-

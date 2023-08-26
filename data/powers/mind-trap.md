@@ -3,7 +3,7 @@ name: Mind Trap
 version: 1
 level: 4
 alignment: universal
-prerequisite: Force Confusion
+prerequisite: force confusion
 type: force
 tags:
   - damage

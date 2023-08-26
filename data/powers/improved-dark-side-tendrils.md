@@ -3,7 +3,7 @@ name: Improved Dark Side Tendrils
 version: 1
 level: 3
 alignment: dark
-prerequisite: Dark Side Tendrils
+prerequisite: dark side tendrils
 type: force
 tags:
   - damage

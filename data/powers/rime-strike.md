@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 As part of the action used to cast this power, you must make a melee weapon attack against one creature within your reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and gains 1 slowed level until the start of your next turn, as the cold energy seeps into its being. Additionally, if the target doesn't move at least 5 feet before the start of your next turn, it immediately takes 1d8 cold damage, and the power ends. 

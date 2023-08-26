@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 The next time you hit a creature with a weapon attack during this power's duration, the attack deals an extra 1d6 cold damage to the target. The target must make a Strength saving throw. On a failed save, it gains a level of slowed for the duration. At the start of each of its turns, the target can repeat the saving throw, ending the effect on itself on a success.

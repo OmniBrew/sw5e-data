@@ -3,7 +3,7 @@ name: Force Lightning
 version: 1
 level: 3
 alignment: dark
-prerequisite: Shock
+prerequisite: shock
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. 

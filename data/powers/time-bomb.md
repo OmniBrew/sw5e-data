@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 Make a melee tech attack against a target you touch. On a miss, this power ends. On a hit, you deal 2d6 kinetic damage as you plant an explosive charge on the target's body. You can then detonate the charge as a bonus action, which ends this power. It deals 1d8 fire damage if detonated on the same turn. It deals 2d8 fire damage on your next turn, increasing by 1d8 for each round you do not detonate it, to a maximum of 6d8. If this power ends before you detonate the charge, the target takes no fire damage.

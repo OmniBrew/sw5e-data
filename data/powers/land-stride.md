@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 8
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You align yourself with nature, making traversing natural environments far easier. For the duration, your movement and that of creatures of your choice within 40 feet of you can't be slowed by natural terrain, such as mud, rocky ground, vines, or tall grass. Climbing still costs double normal movement. A creature that receives this bonus leaves behind no traces of its passage.

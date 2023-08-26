@@ -3,7 +3,7 @@ name: Master Feedback
 version: 1
 level: 9
 alignment: dark
-prerequisite: Greater Feedback
+prerequisite: greater feedback
 type: force
 tags:
   - damage

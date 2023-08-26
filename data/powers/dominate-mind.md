@@ -3,7 +3,7 @@ name: Dominate Mind
 version: 1
 level: 5
 alignment: dark
-prerequisite: Dominate Beast
+prerequisite: dominate beast
 type: force
 tags:
   - damage

@@ -3,7 +3,7 @@ name: Greater Kinetite
 version: 1
 level: 5
 alignment: dark
-prerequisite: Kinetite
+prerequisite: kinetite
 type: force
 tags:
   - damage

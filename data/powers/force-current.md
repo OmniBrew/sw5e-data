@@ -3,7 +3,7 @@ name: Force Current
 version: 1
 level: 1
 alignment: universal
-prerequisite: Force Push/Pull
+prerequisite: force push/pull
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 When you cast this power, you raise your hand and unleash a burst of Force energy. Each creature in a 15-foot cone must make a Strength saving throw. On a failed save, a creature takes 3d6 force damage and, if it is Large or smaller, is also pushed back 5 feet. On a successful save, a creature takes half as much damage and isn't pushed. All Medium or smaller objects that are not worn or carried within the area of effect are also pushed 5 feet.

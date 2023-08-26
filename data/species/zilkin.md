@@ -1,5 +1,8 @@
 ---
 name: Zilkin
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zilkin.png
 source: ec
 speedColor: ''
 alignment: >-

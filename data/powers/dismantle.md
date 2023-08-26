@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You break or tear an unenhanced structure or object you touch that is not being worn or carried by a creature other than you. The break or tear can be up to 1 foot in any dimension. When cast this in this way, this power has a casting time of 1 minute.

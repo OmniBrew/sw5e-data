@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You sublimate yourself before the will of the Force, attempting to use it to affect change in the galaxy around you. 

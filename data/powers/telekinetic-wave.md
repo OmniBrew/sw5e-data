@@ -3,7 +3,7 @@ name: Telekinetic Wave
 version: 1
 level: 8
 alignment: light
-prerequisite: Telekinetic Burst
+prerequisite: telekinetic burst
 type: force
 tags:
   - damage

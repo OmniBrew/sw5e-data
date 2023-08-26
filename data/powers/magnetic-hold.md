@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 Until the power ends, one willing creature you touch gains the ability affix itself to and move along any metallic surface. It can move up, down, and across vertical surfaces and upside down along ceilings, all while leaving its hands free, at its normal walking speed.

@@ -1,5 +1,8 @@
 ---
 name: Houk
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_houk.png
 source: ec
 speedColor: ''
 alignment: >-

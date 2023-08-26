@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Through the Force, you sense a sudden shift in your environment, and can seize on it with great speed. You gain advantage on your initiative check, and until the end of your first turn in combat, your walking speed increases by 30 feet.

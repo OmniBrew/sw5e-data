@@ -3,7 +3,7 @@ name: Improved Saber Throw
 version: 1
 level: 2
 alignment: universal
-prerequisite: Saber Throw
+prerequisite: saber throw
 type: force
 tags:
   - damage

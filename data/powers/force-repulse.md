@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You release an omnidirectional telekinetic burst. Each creature within 20 feet must make a Dexterity saving throw. On a failed save, a creature takes 8d6 force damage and is pushed back 5 feet. On a successful save, a creature takes half damage and isn't pushed.

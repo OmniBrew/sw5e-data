@@ -3,7 +3,7 @@ name: Telekinetic Shield
 version: 1
 level: 3
 alignment: universal
-prerequisite: Animate Weapon
+prerequisite: animate weapon
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You lift three piles of debris or small objects from the ground and interpose them between you and your opponents for the duration. 

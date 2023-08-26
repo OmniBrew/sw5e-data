@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You touch a droid or construct and upgrade one of its aspects. Choose one of the following effects; the target gains that effect until the power ends. 

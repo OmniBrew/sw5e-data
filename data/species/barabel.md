@@ -1,5 +1,8 @@
 ---
 name: Barabel
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_barabel.png
 source: ec
 speedColor: ''
 alignment: >-

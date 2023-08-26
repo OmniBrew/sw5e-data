@@ -3,7 +3,7 @@ name: Force Throw
 version: 1
 level: 2
 alignment: universal
-prerequisite: Force Push/Pull
+prerequisite: force push/pull
 type: force
 tags:
   - damage

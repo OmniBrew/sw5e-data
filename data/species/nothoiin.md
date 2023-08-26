@@ -1,5 +1,8 @@
 ---
 name: Nothoiin
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nothoiin.png
 source: ec
 speedColor: ''
 alignment: >-

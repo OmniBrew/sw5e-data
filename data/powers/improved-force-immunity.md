@@ -3,7 +3,7 @@ name: Improved Force Immunity
 version: 1
 level: 6
 alignment: universal
-prerequisite: Force Immunity
+prerequisite: force immunity
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 An immobile, faintly shimmering barrier springs into existence in a 15-foot radius around you and remains for the duration. The barrier moves with you.

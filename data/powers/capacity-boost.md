@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You empower a blaster weapon you are holding. For the duration, you can reload the weapon once on each of your turns without using an action, and as a bonus action on each of your turns you can make one attack with the weapon.

@@ -1,5 +1,8 @@
 ---
 name: Squib
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_squib.png
 source: ec
 speedColor: ''
 alignment: >-

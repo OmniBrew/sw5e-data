@@ -3,7 +3,7 @@ name: Malacia
 version: 1
 level: 1
 alignment: universal
-prerequisite: Mind Trick
+prerequisite: mind trick
 type: force
 tags:
   - damage

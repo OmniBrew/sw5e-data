@@ -3,7 +3,7 @@ name: Drain Vitality
 version: 1
 level: 2
 alignment: dark
-prerequisite: Sap Vitality
+prerequisite: sap vitality
 type: force
 tags:
   - damage

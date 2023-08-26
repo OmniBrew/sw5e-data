@@ -3,7 +3,7 @@ name: Death Field
 version: 1
 level: 8
 alignment: dark
-prerequisite: Siphon Life
+prerequisite: siphon life
 type: force
 tags:
   - damage

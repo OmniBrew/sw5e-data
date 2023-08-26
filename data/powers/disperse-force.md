@@ -3,7 +3,7 @@ name: Disperse Force
 version: 1
 level: 1
 alignment: universal
-prerequisite: Saber Ward
+prerequisite: saber ward
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 This power absorbs damage from certain incoming attacks, lessening its effect on you and distributing it throughout your body. You have resistance to the triggering damage type until the start of your next turn. Also, you gain 5 temporary hit points to potentially absorb the attack. These temporary hit points last until the start of your next turn.

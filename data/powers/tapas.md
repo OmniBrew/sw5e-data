@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 24
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You use the Force to inure yourself to the elements. For the duration, you are considered adapted to hot and cold climates.

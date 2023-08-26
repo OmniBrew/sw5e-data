@@ -1,5 +1,8 @@
 ---
 name: Ho’Din
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png
 source: ec
 speedColor: ''
 alignment: >-

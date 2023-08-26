@@ -3,7 +3,7 @@ name: Force Meld
 version: 1
 level: 5
 alignment: universal
-prerequisite: Force Whisper
+prerequisite: force whisper
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0

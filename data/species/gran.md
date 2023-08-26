@@ -1,5 +1,8 @@
 ---
 name: Gran
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gran.png
 source: ec
 speedColor: ''
 alignment: >-

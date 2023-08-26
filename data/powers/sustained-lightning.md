@@ -3,7 +3,7 @@ name: Sustained Lightning
 version: 1
 level: 1
 alignment: dark
-prerequisite: Shock
+prerequisite: shock
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1

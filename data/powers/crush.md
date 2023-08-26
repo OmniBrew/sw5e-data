@@ -3,7 +3,7 @@ name: Crush
 version: 1
 level: 6
 alignment: dark
-prerequisite: Choke
+prerequisite: choke
 type: force
 tags:
   - damage

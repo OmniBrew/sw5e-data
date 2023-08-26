@@ -3,7 +3,7 @@ name: Dark Aura
 version: 1
 level: 3
 alignment: dark
-prerequisite: Hex
+prerequisite: hex
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You manifest a mantle of malevolent dark side energy for the duration.

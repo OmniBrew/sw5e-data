@@ -3,7 +3,7 @@ name: Calm Emotions
 version: 1
 level: 2
 alignment: light
-prerequisite: Sense Emotion
+prerequisite: sense emotion
 type: force
 tags:
   - damage

@@ -1,5 +1,8 @@
 ---
 name: Ugor
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ugor.png
 source: ec
 speedColor: ''
 alignment: >-

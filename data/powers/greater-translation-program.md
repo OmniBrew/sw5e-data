@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 This power grants the creature you touch the ability to understand any spoken registered language it hears. Moreover, when the target speaks, any creature that knows at least one registered language and can hear the target understands what it says.

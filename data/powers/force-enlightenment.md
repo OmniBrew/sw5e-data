@@ -3,7 +3,7 @@ name: Force Enlightenment
 version: 1
 level: 2
 alignment: light
-prerequisite: Guidance
+prerequisite: guidance
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You touch a creature and enhance it with the Force. Choose one of the following effects; the target gains that effect until the power ends.

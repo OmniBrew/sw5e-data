@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You sense the presence, general location, and nature of any trap within 120 feet of you that is within line of sight. A trap, for this power, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended by its creator. 

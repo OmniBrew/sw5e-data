@@ -3,7 +3,7 @@ name: Earthquake
 version: 1
 level: 8
 alignment: universal
-prerequisite: Eruption
+prerequisite: eruption
 type: force
 tags:
   - damage

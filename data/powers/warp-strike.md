@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 As part of the action used to cast this power, you must make a melee weapon attack against one creature within your reach, otherwise the power fails. On a hit, the target suffers the attack’s normal effects, and you can teleport to an unoccupied space of your choice within 10 feet of you. If you teleport to a space within 5 feet of the target, the target cannot take reactions until the end of its next turn.

@@ -3,7 +3,7 @@ name: Mind Prison
 version: 1
 level: 6
 alignment: dark
-prerequisite: Mind Trap
+prerequisite: mind trap
 type: force
 tags:
   - damage

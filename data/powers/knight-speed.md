@@ -3,7 +3,7 @@ name: Knight Speed
 version: 1
 level: 3
 alignment: universal
-prerequisite: Burst of Speed
+prerequisite: burst of speed
 type: force
 tags:
   - damage

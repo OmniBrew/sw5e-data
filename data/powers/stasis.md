@@ -3,7 +3,7 @@ name: Stasis
 version: 1
 level: 5
 alignment: light
-prerequisite: Stun
+prerequisite: stun
 type: force
 tags:
   - damage

@@ -1,5 +1,8 @@
 ---
 name: Balosar
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_balosar.png
 source: ec
 speedColor: ''
 alignment: >-

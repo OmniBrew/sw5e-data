@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You strike a creature with the righteous fury of the Force. Make a melee force attack against the target, if the attack hits, the target takes force damage depending on its alignment: a dark-aligned creature takes 1d12 force damage, a balanced or unaligned creature takes 1d10 force damage, and a light-aligned creature takes 1d8 force damage.

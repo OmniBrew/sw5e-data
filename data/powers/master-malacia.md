@@ -3,7 +3,7 @@ name: Master Malacia
 version: 1
 level: 6
 alignment: universal
-prerequisite: Mass Malacia
+prerequisite: mass malacia
 type: force
 tags:
   - damage

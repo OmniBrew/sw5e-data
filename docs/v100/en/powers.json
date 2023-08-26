@@ -39,7 +39,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -177,7 +177,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -225,7 +225,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -332,7 +332,7 @@
     "version": 1,
     "level": 2,
     "alignment": "dark",
-    "prerequisite": "Slow",
+    "prerequisite": "slow",
     "type": "force",
     "tags": [
       "damage"
@@ -414,7 +414,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -625,7 +625,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -673,7 +673,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -686,7 +686,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Disarm",
+    "prerequisite": "force disarm",
     "type": "force",
     "tags": [
       "damage"
@@ -881,7 +881,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -894,7 +894,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Instinctive Movement",
+    "prerequisite": "instinctive movement",
     "type": "force",
     "tags": [
       "damage"
@@ -930,7 +930,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -991,7 +991,7 @@
     "version": 1,
     "level": 4,
     "alignment": "light",
-    "prerequisite": "Restoration",
+    "prerequisite": "restoration",
     "type": "force",
     "tags": [
       "damage"
@@ -1027,7 +1027,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -1040,7 +1040,7 @@
     "version": 1,
     "level": 3,
     "alignment": "light",
-    "prerequisite": "Valor",
+    "prerequisite": "valor",
     "type": "force",
     "tags": [
       "damage"
@@ -1076,7 +1076,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -1124,7 +1124,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -1220,7 +1220,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -1360,7 +1360,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -1409,7 +1409,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -1422,7 +1422,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Battle Precognition",
+    "prerequisite": "battle precognition",
     "type": "force",
     "tags": [
       "damage"
@@ -1458,7 +1458,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -1471,7 +1471,7 @@
     "version": 1,
     "level": 3,
     "alignment": "light",
-    "prerequisite": "Heroism",
+    "prerequisite": "heroism",
     "type": "force",
     "tags": [
       "damage"
@@ -1563,7 +1563,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Curse",
+    "prerequisite": "curse",
     "type": "force",
     "tags": [
       "damage"
@@ -1596,7 +1596,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -1641,7 +1641,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -1736,7 +1736,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -1784,7 +1784,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -1829,7 +1829,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -1878,7 +1878,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -1924,7 +1924,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -2028,7 +2028,7 @@
     "version": 1,
     "level": 2,
     "alignment": "light",
-    "prerequisite": "Sense Emotion",
+    "prerequisite": "sense emotion",
     "type": "force",
     "tags": [
       "damage"
@@ -2109,7 +2109,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -2341,7 +2341,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -2403,7 +2403,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Affect Mind",
+    "prerequisite": "affect mind",
     "type": "force",
     "tags": [
       "damage"
@@ -2484,7 +2484,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -2533,7 +2533,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -2719,7 +2719,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -2732,7 +2732,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Force Body",
+    "prerequisite": "force body",
     "type": "force",
     "tags": [
       "damage"
@@ -2768,7 +2768,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -2781,7 +2781,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Tremor",
+    "prerequisite": "tremor",
     "type": "force",
     "tags": [
       "damage"
@@ -2862,7 +2862,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -2952,7 +2952,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -2965,7 +2965,7 @@
     "version": 1,
     "level": 6,
     "alignment": "dark",
-    "prerequisite": "Choke",
+    "prerequisite": "choke",
     "type": "force",
     "tags": [
       "damage"
@@ -3088,7 +3088,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -3181,7 +3181,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -3361,7 +3361,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -3374,7 +3374,7 @@
     "version": 1,
     "level": 1,
     "alignment": "dark",
-    "prerequisite": "Denounce",
+    "prerequisite": "denounce",
     "type": "force",
     "tags": [
       "damage"
@@ -3456,7 +3456,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -3469,7 +3469,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Hex",
+    "prerequisite": "hex",
     "type": "force",
     "tags": [
       "damage"
@@ -3505,7 +3505,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -3554,7 +3554,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -3600,7 +3600,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -3697,7 +3697,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -3710,7 +3710,7 @@
     "version": 1,
     "level": 8,
     "alignment": "dark",
-    "prerequisite": "Siphon Life",
+    "prerequisite": "siphon life",
     "type": "force",
     "tags": [
       "damage"
@@ -3836,7 +3836,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -3885,7 +3885,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -3933,7 +3933,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -4082,7 +4082,7 @@
     "version": 1,
     "level": 7,
     "alignment": "light",
-    "prerequisite": "Disable Droid",
+    "prerequisite": "disable droid",
     "type": "force",
     "tags": [
       "damage"
@@ -4208,7 +4208,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -4256,7 +4256,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -4304,7 +4304,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -4410,7 +4410,7 @@
     "version": 1,
     "level": 4,
     "alignment": "light",
-    "prerequisite": "Stun Droid",
+    "prerequisite": "stun droid",
     "type": "force",
     "tags": [
       "damage"
@@ -4488,7 +4488,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -4581,7 +4581,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -4629,7 +4629,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -4642,7 +4642,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Saber Ward",
+    "prerequisite": "saber ward",
     "type": "force",
     "tags": [
       "damage"
@@ -4678,7 +4678,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -4737,7 +4737,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Dominate Beast",
+    "prerequisite": "dominate beast",
     "type": "force",
     "tags": [
       "damage"
@@ -4783,7 +4783,7 @@
     "version": 1,
     "level": 8,
     "alignment": "dark",
-    "prerequisite": "Dominate Mind",
+    "prerequisite": "dominate mind",
     "type": "force",
     "tags": [
       "damage"
@@ -4829,7 +4829,7 @@
     "version": 1,
     "level": 4,
     "alignment": "dark",
-    "prerequisite": "Drain Vitality",
+    "prerequisite": "drain vitality",
     "type": "force",
     "tags": [
       "damage"
@@ -4875,7 +4875,7 @@
     "version": 1,
     "level": 2,
     "alignment": "dark",
-    "prerequisite": "Sap Vitality",
+    "prerequisite": "sap vitality",
     "type": "force",
     "tags": [
       "damage"
@@ -4967,7 +4967,7 @@
     "version": 1,
     "level": 8,
     "alignment": "universal",
-    "prerequisite": "Eruption",
+    "prerequisite": "eruption",
     "type": "force",
     "tags": [
       "damage"
@@ -5090,7 +5090,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -5183,7 +5183,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -5369,7 +5369,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -5417,7 +5417,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -5465,7 +5465,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -5559,7 +5559,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -5607,7 +5607,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -5620,7 +5620,7 @@
     "version": 1,
     "level": 6,
     "alignment": "universal",
-    "prerequisite": "Convulsion",
+    "prerequisite": "convulsion",
     "type": "force",
     "tags": [
       "damage"
@@ -5746,7 +5746,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -5881,7 +5881,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -5926,7 +5926,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -6114,7 +6114,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -6204,7 +6204,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -6252,7 +6252,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -6444,7 +6444,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -6457,7 +6457,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Mask",
+    "prerequisite": "force mask",
     "type": "force",
     "tags": [
       "damage"
@@ -6493,7 +6493,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -6542,7 +6542,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -6640,7 +6640,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -6653,7 +6653,7 @@
     "version": 1,
     "level": 6,
     "alignment": "dark",
-    "prerequisite": "Force Lightning",
+    "prerequisite": "force lightning",
     "type": "force",
     "tags": [
       "damage"
@@ -6735,7 +6735,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -6794,7 +6794,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Force Push/Pull",
+    "prerequisite": "force push/pull",
     "type": "force",
     "tags": [
       "damage"
@@ -6827,7 +6827,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -6886,7 +6886,7 @@
     "version": 1,
     "level": 2,
     "alignment": "light",
-    "prerequisite": "Guidance",
+    "prerequisite": "guidance",
     "type": "force",
     "tags": [
       "damage"
@@ -6922,7 +6922,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -6935,7 +6935,7 @@
     "version": 1,
     "level": 1,
     "alignment": "light",
-    "prerequisite": "Force Technique",
+    "prerequisite": "force technique",
     "type": "force",
     "tags": [
       "damage"
@@ -6971,7 +6971,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -7020,7 +7020,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -7069,7 +7069,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -7118,7 +7118,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7131,7 +7131,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Force Leap",
+    "prerequisite": "force leap",
     "type": "force",
     "tags": [
       "damage"
@@ -7167,7 +7167,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7216,7 +7216,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7229,7 +7229,7 @@
     "version": 1,
     "level": 7,
     "alignment": "dark",
-    "prerequisite": "Force Chain Lightning",
+    "prerequisite": "force chain lightning",
     "type": "force",
     "tags": [
       "damage"
@@ -7262,7 +7262,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7275,7 +7275,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Shock",
+    "prerequisite": "shock",
     "type": "force",
     "tags": [
       "damage"
@@ -7308,7 +7308,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7321,7 +7321,7 @@
     "version": 1,
     "level": 8,
     "alignment": "universal",
-    "prerequisite": "Force Meld",
+    "prerequisite": "force meld",
     "type": "force",
     "tags": [
       "damage"
@@ -7357,7 +7357,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Unlimited"
+          "short": "unlimited"
         },
         "concentration": false
       }
@@ -7370,7 +7370,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Mind Trick",
+    "prerequisite": "mind trick",
     "type": "force",
     "tags": [
       "damage"
@@ -7403,7 +7403,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7416,7 +7416,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Force Whisper",
+    "prerequisite": "force whisper",
     "type": "force",
     "tags": [
       "damage"
@@ -7501,7 +7501,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -7547,7 +7547,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -7560,7 +7560,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Force Push/Pull",
+    "prerequisite": "force push/pull",
     "type": "force",
     "tags": [
       "damage"
@@ -7652,7 +7652,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Saber Reflect",
+    "prerequisite": "saber reflect",
     "type": "force",
     "tags": [
       "damage"
@@ -7688,7 +7688,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7734,7 +7734,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7780,7 +7780,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -7839,7 +7839,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Sense Force",
+    "prerequisite": "sense force",
     "type": "force",
     "tags": [
       "damage"
@@ -7875,7 +7875,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -7888,7 +7888,7 @@
     "version": 1,
     "level": 9,
     "alignment": "dark",
-    "prerequisite": "Force Lightning Cone",
+    "prerequisite": "force lightning cone",
     "type": "force",
     "tags": [
       "damage"
@@ -8019,7 +8019,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -8032,7 +8032,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Push/Pull",
+    "prerequisite": "force push/pull",
     "type": "force",
     "tags": [
       "damage"
@@ -8176,7 +8176,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Force Imbuement",
+    "prerequisite": "force imbuement",
     "type": "force",
     "tags": [
       "damage"
@@ -8212,7 +8212,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -8310,7 +8310,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -8355,7 +8355,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -8449,7 +8449,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -8555,7 +8555,7 @@
     "version": 1,
     "level": 4,
     "alignment": "light",
-    "prerequisite": "Plant Surge",
+    "prerequisite": "plant surge",
     "type": "force",
     "tags": [
       "damage"
@@ -8636,7 +8636,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -8742,7 +8742,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Improved Feedback",
+    "prerequisite": "improved feedback",
     "type": "force",
     "tags": [
       "damage"
@@ -8788,7 +8788,7 @@
     "version": 1,
     "level": 6,
     "alignment": "light",
-    "prerequisite": "Improved Heal",
+    "prerequisite": "improved heal",
     "type": "force",
     "tags": [
       "damage"
@@ -8885,7 +8885,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Kinetite",
+    "prerequisite": "kinetite",
     "type": "force",
     "tags": [
       "damage"
@@ -8979,7 +8979,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Improved Pyrokinesis",
+    "prerequisite": "improved pyrokinesis",
     "type": "force",
     "tags": [
       "damage"
@@ -9025,7 +9025,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Improved Saber Throw",
+    "prerequisite": "improved saber throw",
     "type": "force",
     "tags": [
       "damage"
@@ -9103,7 +9103,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -9196,7 +9196,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -9244,7 +9244,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -9338,7 +9338,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -9478,7 +9478,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -9527,7 +9527,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -9576,7 +9576,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -9805,7 +9805,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -9866,7 +9866,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Fear",
+    "prerequisite": "fear",
     "type": "force",
     "tags": [
       "damage"
@@ -9899,7 +9899,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -9912,7 +9912,7 @@
     "version": 1,
     "level": 4,
     "alignment": "dark",
-    "prerequisite": "Hallucination",
+    "prerequisite": "hallucination",
     "type": "force",
     "tags": [
       "damage"
@@ -9993,7 +9993,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -10144,7 +10144,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Battle Meditation",
+    "prerequisite": "battle meditation",
     "type": "force",
     "tags": [
       "damage"
@@ -10177,7 +10177,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -10190,7 +10190,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Dark Side Tendrils",
+    "prerequisite": "dark side tendrils",
     "type": "force",
     "tags": [
       "damage"
@@ -10236,7 +10236,7 @@
     "version": 1,
     "level": 1,
     "alignment": "dark",
-    "prerequisite": "Feedback",
+    "prerequisite": "feedback",
     "type": "force",
     "tags": [
       "damage"
@@ -10282,7 +10282,7 @@
     "version": 1,
     "level": 5,
     "alignment": "light",
-    "prerequisite": "Force Barrier",
+    "prerequisite": "force barrier",
     "type": "force",
     "tags": [
       "damage"
@@ -10331,7 +10331,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Force Camouflage",
+    "prerequisite": "force camouflage",
     "type": "force",
     "tags": [
       "damage"
@@ -10367,7 +10367,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -10380,7 +10380,7 @@
     "version": 1,
     "level": 6,
     "alignment": "universal",
-    "prerequisite": "Force Immunity",
+    "prerequisite": "force immunity",
     "type": "force",
     "tags": [
       "damage"
@@ -10416,7 +10416,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -10429,7 +10429,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Intuition",
+    "prerequisite": "force intuition",
     "type": "force",
     "tags": [
       "damage"
@@ -10465,7 +10465,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -10478,7 +10478,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Force Scream",
+    "prerequisite": "force scream",
     "type": "force",
     "tags": [
       "damage"
@@ -10511,7 +10511,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -10524,7 +10524,7 @@
     "version": 1,
     "level": 5,
     "alignment": "light",
-    "prerequisite": "Heal",
+    "prerequisite": "heal",
     "type": "force",
     "tags": [
       "damage"
@@ -10573,7 +10573,7 @@
     "version": 1,
     "level": 4,
     "alignment": "dark",
-    "prerequisite": "Kinetite",
+    "prerequisite": "kinetite",
     "type": "force",
     "tags": [
       "damage"
@@ -10619,7 +10619,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Phasestrike",
+    "prerequisite": "phasestrike",
     "type": "force",
     "tags": [
       "damage"
@@ -10668,7 +10668,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Phasewalk",
+    "prerequisite": "phasewalk",
     "type": "force",
     "tags": [
       "damage"
@@ -10704,7 +10704,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -10717,7 +10717,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Pyrokinesis",
+    "prerequisite": "pyrokinesis",
     "type": "force",
     "tags": [
       "damage"
@@ -10763,7 +10763,7 @@
     "version": 1,
     "level": 5,
     "alignment": "light",
-    "prerequisite": "Restoration",
+    "prerequisite": "restoration",
     "type": "force",
     "tags": [
       "damage"
@@ -10799,7 +10799,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -10812,7 +10812,7 @@
     "version": 1,
     "level": 7,
     "alignment": "light",
-    "prerequisite": "Revitalize",
+    "prerequisite": "revitalize",
     "type": "force",
     "tags": [
       "damage"
@@ -10848,7 +10848,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -10861,7 +10861,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Saber Throw",
+    "prerequisite": "saber throw",
     "type": "force",
     "tags": [
       "damage"
@@ -11086,7 +11086,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -11099,7 +11099,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Horror",
+    "prerequisite": "horror",
     "type": "force",
     "tags": [
       "damage"
@@ -11132,7 +11132,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -11180,7 +11180,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -11193,7 +11193,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Wall Run",
+    "prerequisite": "wall run",
     "type": "force",
     "tags": [
       "damage"
@@ -11229,7 +11229,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -11325,7 +11325,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -11466,7 +11466,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -11607,7 +11607,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -11655,7 +11655,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -11748,7 +11748,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -11761,7 +11761,7 @@
     "version": 1,
     "level": 9,
     "alignment": "dark",
-    "prerequisite": "Ruin",
+    "prerequisite": "ruin",
     "type": "force",
     "tags": [
       "damage"
@@ -11810,7 +11810,7 @@
     "version": 1,
     "level": 2,
     "alignment": "dark",
-    "prerequisite": "Sustained Lightning",
+    "prerequisite": "sustained lightning",
     "type": "force",
     "tags": [
       "damage"
@@ -11856,7 +11856,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Burst of Speed",
+    "prerequisite": "burst of speed",
     "type": "force",
     "tags": [
       "damage"
@@ -12129,7 +12129,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -12226,7 +12226,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -12274,7 +12274,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -12319,7 +12319,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -12368,7 +12368,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -12381,7 +12381,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Locate Object",
+    "prerequisite": "locate object",
     "type": "force",
     "tags": [
       "damage"
@@ -12417,7 +12417,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -12466,7 +12466,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -12514,7 +12514,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -12527,7 +12527,7 @@
     "version": 1,
     "level": 8,
     "alignment": "dark",
-    "prerequisite": "Shroud of Darkness",
+    "prerequisite": "shroud of darkness",
     "type": "force",
     "tags": [
       "damage"
@@ -12608,7 +12608,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -12656,7 +12656,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -12669,7 +12669,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Mind Trick",
+    "prerequisite": "mind trick",
     "type": "force",
     "tags": [
       "damage"
@@ -12715,7 +12715,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Animate Weapon",
+    "prerequisite": "animate weapon",
     "type": "force",
     "tags": [
       "damage"
@@ -12764,7 +12764,7 @@
     "version": 1,
     "level": 6,
     "alignment": "universal",
-    "prerequisite": "Coerce Mind",
+    "prerequisite": "coerce mind",
     "type": "force",
     "tags": [
       "damage"
@@ -12810,7 +12810,7 @@
     "version": 1,
     "level": 9,
     "alignment": "dark",
-    "prerequisite": "Hysteria",
+    "prerequisite": "hysteria",
     "type": "force",
     "tags": [
       "damage"
@@ -12856,7 +12856,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Malacia",
+    "prerequisite": "malacia",
     "type": "force",
     "tags": [
       "damage"
@@ -12950,7 +12950,7 @@
     "version": 1,
     "level": 9,
     "alignment": "universal",
-    "prerequisite": "Improved Battle Meditation",
+    "prerequisite": "improved battle meditation",
     "type": "force",
     "tags": [
       "damage"
@@ -12983,7 +12983,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -12996,7 +12996,7 @@
     "version": 1,
     "level": 9,
     "alignment": "dark",
-    "prerequisite": "Greater Feedback",
+    "prerequisite": "greater feedback",
     "type": "force",
     "tags": [
       "damage"
@@ -13042,7 +13042,7 @@
     "version": 1,
     "level": 8,
     "alignment": "light",
-    "prerequisite": "Improved Force Barrier",
+    "prerequisite": "improved force barrier",
     "type": "force",
     "tags": [
       "damage"
@@ -13075,7 +13075,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -13088,7 +13088,7 @@
     "version": 1,
     "level": 8,
     "alignment": "universal",
-    "prerequisite": "Improved Force Immunity",
+    "prerequisite": "improved force immunity",
     "type": "force",
     "tags": [
       "damage"
@@ -13124,7 +13124,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -13137,7 +13137,7 @@
     "version": 1,
     "level": 8,
     "alignment": "dark",
-    "prerequisite": "Improved Force Scream",
+    "prerequisite": "improved force scream",
     "type": "force",
     "tags": [
       "damage"
@@ -13170,7 +13170,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -13183,7 +13183,7 @@
     "version": 1,
     "level": 9,
     "alignment": "light",
-    "prerequisite": "Greater Heal",
+    "prerequisite": "greater heal",
     "type": "force",
     "tags": [
       "damage"
@@ -13219,7 +13219,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -13232,7 +13232,7 @@
     "version": 1,
     "level": 6,
     "alignment": "universal",
-    "prerequisite": "Mass Malacia",
+    "prerequisite": "mass malacia",
     "type": "force",
     "tags": [
       "damage"
@@ -13278,7 +13278,7 @@
     "version": 1,
     "level": 7,
     "alignment": "universal",
-    "prerequisite": "Greater Pyrokinesis",
+    "prerequisite": "greater pyrokinesis",
     "type": "force",
     "tags": [
       "damage"
@@ -13324,7 +13324,7 @@
     "version": 1,
     "level": 9,
     "alignment": "light",
-    "prerequisite": "Improved Revitalize",
+    "prerequisite": "improved revitalize",
     "type": "force",
     "tags": [
       "damage"
@@ -13360,7 +13360,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -13373,7 +13373,7 @@
     "version": 1,
     "level": 7,
     "alignment": "universal",
-    "prerequisite": "Greater Saber Throw",
+    "prerequisite": "greater saber throw",
     "type": "force",
     "tags": [
       "damage"
@@ -13406,7 +13406,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -13419,7 +13419,7 @@
     "version": 1,
     "level": 7,
     "alignment": "universal",
-    "prerequisite": "Knight Speed",
+    "prerequisite": "knight speed",
     "type": "force",
     "tags": [
       "damage"
@@ -13500,7 +13500,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -13513,7 +13513,7 @@
     "version": 1,
     "level": 8,
     "alignment": "universal",
-    "prerequisite": "Mind Trap",
+    "prerequisite": "mind trap",
     "type": "force",
     "tags": [
       "damage"
@@ -13549,7 +13549,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -13562,7 +13562,7 @@
     "version": 1,
     "level": 6,
     "alignment": "dark",
-    "prerequisite": "Mind Trap",
+    "prerequisite": "mind trap",
     "type": "force",
     "tags": [
       "damage"
@@ -13654,7 +13654,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Force Confusion",
+    "prerequisite": "force confusion",
     "type": "force",
     "tags": [
       "damage"
@@ -13781,7 +13781,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -13877,7 +13877,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -13925,7 +13925,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -13986,7 +13986,7 @@
     "version": 1,
     "level": 3,
     "alignment": "light",
-    "prerequisite": "Cloud Mind",
+    "prerequisite": "cloud mind",
     "type": "force",
     "tags": [
       "damage"
@@ -14022,7 +14022,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -14115,7 +14115,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -14164,7 +14164,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -14213,7 +14213,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -14441,7 +14441,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -14625,7 +14625,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -14674,7 +14674,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -14723,7 +14723,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -14768,7 +14768,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -14781,7 +14781,7 @@
     "version": 1,
     "level": 3,
     "alignment": "dark",
-    "prerequisite": "Affliction",
+    "prerequisite": "affliction",
     "type": "force",
     "tags": [
       "damage"
@@ -14966,7 +14966,7 @@
     "version": 1,
     "level": 9,
     "alignment": "universal",
-    "prerequisite": "Danger Sense",
+    "prerequisite": "danger sense",
     "type": "force",
     "tags": [
       "damage"
@@ -15002,7 +15002,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -15050,7 +15050,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -15098,7 +15098,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -15143,7 +15143,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -15156,7 +15156,7 @@
     "version": 1,
     "level": 2,
     "alignment": "dark",
-    "prerequisite": "Sense Emotion",
+    "prerequisite": "sense emotion",
     "type": "force",
     "tags": [
       "damage"
@@ -15421,7 +15421,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -15470,7 +15470,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -15483,7 +15483,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Telemetry",
+    "prerequisite": "telemetry",
     "type": "force",
     "tags": [
       "damage"
@@ -15519,7 +15519,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -15532,7 +15532,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Propel",
+    "prerequisite": "force propel",
     "type": "force",
     "tags": [
       "damage"
@@ -15747,7 +15747,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -15889,7 +15889,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -15986,7 +15986,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -16034,7 +16034,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -16082,7 +16082,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -16225,7 +16225,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -16274,7 +16274,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -16287,7 +16287,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Sense Shatterpoint",
+    "prerequisite": "sense shatterpoint",
     "type": "force",
     "tags": [
       "damage"
@@ -16333,7 +16333,7 @@
     "version": 1,
     "level": 5,
     "alignment": "light",
-    "prerequisite": "Spare the Dying",
+    "prerequisite": "spare the dying",
     "type": "force",
     "tags": [
       "damage"
@@ -16369,7 +16369,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -16462,7 +16462,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -16510,7 +16510,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -16555,7 +16555,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -16568,7 +16568,7 @@
     "version": 1,
     "level": 7,
     "alignment": "dark",
-    "prerequisite": "Wound",
+    "prerequisite": "wound",
     "type": "force",
     "tags": [
       "damage"
@@ -16614,7 +16614,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Saber Ward",
+    "prerequisite": "saber ward",
     "type": "force",
     "tags": [
       "damage"
@@ -16647,7 +16647,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -16660,7 +16660,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Animate Weapon",
+    "prerequisite": "animate weapon",
     "type": "force",
     "tags": [
       "damage"
@@ -16693,7 +16693,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -16706,7 +16706,7 @@
     "version": 1,
     "level": 4,
     "alignment": "universal",
-    "prerequisite": "Saber Strike",
+    "prerequisite": "saber strike",
     "type": "force",
     "tags": [
       "damage"
@@ -16739,7 +16739,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -16788,7 +16788,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -16801,7 +16801,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Saber Strike",
+    "prerequisite": "saber strike",
     "type": "force",
     "tags": [
       "damage"
@@ -16847,7 +16847,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Saber Assault",
+    "prerequisite": "saber assault",
     "type": "force",
     "tags": [
       "damage"
@@ -16880,7 +16880,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -16978,7 +16978,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -17023,7 +17023,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17163,7 +17163,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -17211,7 +17211,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17224,7 +17224,7 @@
     "version": 1,
     "level": 6,
     "alignment": "dark",
-    "prerequisite": "Plague",
+    "prerequisite": "plague",
     "type": "force",
     "tags": [
       "damage"
@@ -17257,7 +17257,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17350,7 +17350,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17398,7 +17398,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17446,7 +17446,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -17495,7 +17495,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -17543,7 +17543,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Unlimited"
+          "short": "unlimited"
         },
         "concentration": false
       }
@@ -17592,7 +17592,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17641,7 +17641,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -17654,7 +17654,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Battle Insight",
+    "prerequisite": "battle insight",
     "type": "force",
     "tags": [
       "damage"
@@ -17836,7 +17836,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -17849,7 +17849,7 @@
     "version": 1,
     "level": 3,
     "alignment": "light",
-    "prerequisite": "Give Life",
+    "prerequisite": "give life",
     "type": "force",
     "tags": [
       "damage"
@@ -17933,7 +17933,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -18088,7 +18088,7 @@
     "version": 1,
     "level": 4,
     "alignment": "dark",
-    "prerequisite": "Shock",
+    "prerequisite": "shock",
     "type": "force",
     "tags": [
       "damage"
@@ -18124,7 +18124,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -18185,7 +18185,7 @@
     "version": 1,
     "level": 4,
     "alignment": "dark",
-    "prerequisite": "Darkness",
+    "prerequisite": "darkness",
     "type": "force",
     "tags": [
       "damage"
@@ -18221,7 +18221,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -18279,7 +18279,7 @@
     "version": 1,
     "level": 5,
     "alignment": "dark",
-    "prerequisite": "Drain Life",
+    "prerequisite": "drain life",
     "type": "force",
     "tags": [
       "damage"
@@ -18361,7 +18361,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -18409,7 +18409,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -18506,7 +18506,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -18648,7 +18648,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -18697,7 +18697,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -18745,7 +18745,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -18793,7 +18793,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -18841,7 +18841,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -18936,7 +18936,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -19029,7 +19029,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -19126,7 +19126,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -19219,7 +19219,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -19280,7 +19280,7 @@
     "version": 1,
     "level": 8,
     "alignment": "light",
-    "prerequisite": "Stasis",
+    "prerequisite": "stasis",
     "type": "force",
     "tags": [
       "damage"
@@ -19326,7 +19326,7 @@
     "version": 1,
     "level": 5,
     "alignment": "light",
-    "prerequisite": "Stun",
+    "prerequisite": "stun",
     "type": "force",
     "tags": [
       "damage"
@@ -19455,7 +19455,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -19640,7 +19640,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -19653,7 +19653,7 @@
     "version": 1,
     "level": 1,
     "alignment": "dark",
-    "prerequisite": "Shock",
+    "prerequisite": "shock",
     "type": "force",
     "tags": [
       "damage"
@@ -19737,7 +19737,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -19924,7 +19924,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -20020,7 +20020,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -20081,7 +20081,7 @@
     "version": 1,
     "level": 5,
     "alignment": "universal",
-    "prerequisite": "Force Throw",
+    "prerequisite": "force throw",
     "type": "force",
     "tags": [
       "damage"
@@ -20127,7 +20127,7 @@
     "version": 1,
     "level": 6,
     "alignment": "light",
-    "prerequisite": "Telekinetic Storm",
+    "prerequisite": "telekinetic storm",
     "type": "force",
     "tags": [
       "damage"
@@ -20160,7 +20160,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -20173,7 +20173,7 @@
     "version": 1,
     "level": 3,
     "alignment": "universal",
-    "prerequisite": "Animate Weapon",
+    "prerequisite": "animate weapon",
     "type": "force",
     "tags": [
       "damage"
@@ -20209,7 +20209,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -20222,7 +20222,7 @@
     "version": 1,
     "level": 3,
     "alignment": "light",
-    "prerequisite": "Turbulence",
+    "prerequisite": "turbulence",
     "type": "force",
     "tags": [
       "damage"
@@ -20255,7 +20255,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -20268,7 +20268,7 @@
     "version": 1,
     "level": 8,
     "alignment": "light",
-    "prerequisite": "Telekinetic Burst",
+    "prerequisite": "telekinetic burst",
     "type": "force",
     "tags": [
       "damage"
@@ -20350,7 +20350,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -20363,7 +20363,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Force Whisper",
+    "prerequisite": "force whisper",
     "type": "force",
     "tags": [
       "damage"
@@ -20399,7 +20399,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -20447,7 +20447,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -20492,7 +20492,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": true
       }
@@ -20630,7 +20630,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -20678,7 +20678,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -20870,7 +20870,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -20918,7 +20918,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -20976,7 +20976,7 @@
     "version": 1,
     "level": 1,
     "alignment": "universal",
-    "prerequisite": "Burst",
+    "prerequisite": "burst",
     "type": "force",
     "tags": [
       "damage"
@@ -21067,7 +21067,7 @@
     "version": 1,
     "level": 6,
     "alignment": "universal",
-    "prerequisite": "Force Sight",
+    "prerequisite": "force sight",
     "type": "force",
     "tags": [
       "damage"
@@ -21103,7 +21103,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -21148,7 +21148,7 @@
           "unit": "minute"
         },
         "range": {
-          "short": "Touch"
+          "short": "touch"
         },
         "concentration": false
       }
@@ -21255,7 +21255,7 @@
     "version": 1,
     "level": 1,
     "alignment": "light",
-    "prerequisite": "Resistance",
+    "prerequisite": "resistance",
     "type": "force",
     "tags": [
       "damage"
@@ -21339,7 +21339,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -21387,7 +21387,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -21400,7 +21400,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Force Body",
+    "prerequisite": "force body",
     "type": "force",
     "tags": [
       "damage"
@@ -21433,7 +21433,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -21481,7 +21481,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -21526,7 +21526,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -21539,7 +21539,7 @@
     "version": 1,
     "level": 2,
     "alignment": "universal",
-    "prerequisite": "Breath Control",
+    "prerequisite": "breath control",
     "type": "force",
     "tags": [
       "damage"
@@ -21572,7 +21572,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": true
       }
@@ -21667,7 +21667,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -21715,7 +21715,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -21763,7 +21763,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -21811,7 +21811,7 @@
           "unit": "round"
         },
         "range": {
-          "short": "Varies"
+          "short": "varies"
         },
         "concentration": false
       }
@@ -21903,7 +21903,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "Self"
+          "short": "self"
         },
         "concentration": false
       }
@@ -22100,7 +22100,7 @@
     "version": 1,
     "level": 6,
     "alignment": "dark",
-    "prerequisite": "Plague",
+    "prerequisite": "plague",
     "type": "force",
     "tags": [
       "damage"

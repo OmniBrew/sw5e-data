@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Unlimited
+      short: unlimited
     concentration: false
 ---
 You send a short message of twenty-five words or less to a creature with which you are familiar that possesses a commlink. The creature hears the message, recognizes you as the sender if it knows you, and can answer in a like manner immediately. 

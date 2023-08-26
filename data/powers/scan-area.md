@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 Program a creature or object that you are familiar with into your tech focus. Using a sonar scan, the tech focus attempts to find a path to the creature's or objects location, as long as that creature or object is within 1,000 feet of you. If the creature or object is moving, you know the direction of its movement.

@@ -3,7 +3,7 @@ name: Bestow Curse
 version: 1
 level: 3
 alignment: dark
-prerequisite: Curse
+prerequisite: curse
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the power. When you cast this power, choose the nature of the curse from the following options:

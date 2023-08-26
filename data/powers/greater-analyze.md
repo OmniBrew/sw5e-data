@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Name or describe a person, place, or object. This power gives you a summary of significant lore about it. If the thing you named isn't known outside of one planetary system, you gain no information. The more information you already have, the more detailed the information you receive is.

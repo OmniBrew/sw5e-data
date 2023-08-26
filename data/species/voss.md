@@ -1,5 +1,8 @@
 ---
 name: Voss
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_voss.png
 source: ec
 speedColor: ''
 alignment: >-

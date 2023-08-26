@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 10
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Choose a tech power of 5th-level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that power, called the contingent power, as part of casting contingency, expending tech points for both, but the contingent power doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two powers. 

@@ -3,7 +3,7 @@ name: Wrack
 version: 1
 level: 6
 alignment: dark
-prerequisite: Plague
+prerequisite: plague
 type: force
 tags:
   - damage

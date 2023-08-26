@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 An unenhanced weapon you touch becomes an enhanced weapon. Choose one of these damage types: acid, cold, energy, fire, ion, kinetic, or lightning. For the duration, an unenhanced weapon you touch has a +1 to attack rolls and deals an extra 1d4 damage of the chosen type.

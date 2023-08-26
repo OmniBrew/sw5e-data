@@ -3,7 +3,7 @@ name: Sense Shatterpoint
 version: 1
 level: 2
 alignment: universal
-prerequisite: Battle Insight
+prerequisite: battle insight
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0

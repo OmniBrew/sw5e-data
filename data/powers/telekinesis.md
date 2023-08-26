@@ -3,7 +3,7 @@ name: Telekinesis
 version: 1
 level: 5
 alignment: universal
-prerequisite: Force Throw
+prerequisite: force throw
 type: force
 tags:
   - damage

@@ -1,5 +1,8 @@
 ---
 name: Gormak
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gormak.png
 source: ec
 speedColor: ''
 alignment: >-

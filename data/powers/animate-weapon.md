@@ -3,7 +3,7 @@ name: Animate Weapon
 version: 1
 level: 2
 alignment: universal
-prerequisite: Force Disarm
+prerequisite: force disarm
 type: force
 tags:
   - damage

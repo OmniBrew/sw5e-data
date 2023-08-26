@@ -3,7 +3,7 @@ name: Kill
 version: 1
 level: 9
 alignment: dark
-prerequisite: Ruin
+prerequisite: ruin
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0

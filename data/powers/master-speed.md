@@ -3,7 +3,7 @@ name: Master Speed
 version: 1
 level: 7
 alignment: universal
-prerequisite: Knight Speed
+prerequisite: knight speed
 type: force
 tags:
   - damage

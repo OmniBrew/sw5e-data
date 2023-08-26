@@ -3,7 +3,7 @@ name: Improved Force Barrier
 version: 1
 level: 5
 alignment: light
-prerequisite: Force Barrier
+prerequisite: force barrier
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 2

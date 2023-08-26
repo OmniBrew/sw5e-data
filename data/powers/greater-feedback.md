@@ -3,7 +3,7 @@ name: Greater Feedback
 version: 1
 level: 5
 alignment: dark
-prerequisite: Improved Feedback
+prerequisite: improved feedback
 type: force
 tags:
   - damage

@@ -3,7 +3,7 @@ name: Saber Dance
 version: 1
 level: 4
 alignment: universal
-prerequisite: Animate Weapon
+prerequisite: animate weapon
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 A light- or vibro-weapon of your choice that you are wearing or carrying begins to animate, spinning around your body at high speeds in a 10-foot radius centered on you. For the duration, your movement speed is halved, and the weapon moves with you.

@@ -3,7 +3,7 @@ name: Instinctive Movement
 version: 1
 level: 1
 alignment: universal
-prerequisite: Wall Run
+prerequisite: wall run
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You enhance your movement with the Force, allowing you to traverse your environment with speed and acrobatic grace. When you cast this power, you gain two speed points. When you cast the power and as a bonus action on subsequent turns, you can expend a speed point, granting yourself all of the following benefits until the end of that turn:

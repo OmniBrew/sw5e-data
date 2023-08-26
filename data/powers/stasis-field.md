@@ -3,7 +3,7 @@ name: Stasis Field
 version: 1
 level: 8
 alignment: light
-prerequisite: Stasis
+prerequisite: stasis
 type: force
 tags:
   - damage

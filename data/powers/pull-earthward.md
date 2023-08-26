@@ -3,7 +3,7 @@ name: Pull Earthward
 version: 1
 level: 2
 alignment: universal
-prerequisite: Force Propel
+prerequisite: force propel
 type: force
 tags:
   - damage

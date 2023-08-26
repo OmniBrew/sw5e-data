@@ -3,7 +3,7 @@ name: Greater Pyrokinesis
 version: 1
 level: 4
 alignment: universal
-prerequisite: Improved Pyrokinesis
+prerequisite: improved pyrokinesis
 type: force
 tags:
   - damage

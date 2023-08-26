@@ -3,7 +3,7 @@ name: Mass Hysteria
 version: 1
 level: 9
 alignment: dark
-prerequisite: Hysteria
+prerequisite: hysteria
 type: force
 tags:
   - damage

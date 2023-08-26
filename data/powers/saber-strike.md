@@ -3,7 +3,7 @@ name: Saber Strike
 version: 1
 level: 2
 alignment: universal
-prerequisite: Saber Assault
+prerequisite: saber assault
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 As part of the action used to cast the power, you can move up to your speed and make one melee weapon attack. On a hit, the attack deals an extra 1d10 damage of the weapon's type. In addition, if you hit with the attack, the target must succeed on a Strength saving throw or be knocked prone.

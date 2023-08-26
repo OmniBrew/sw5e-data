@@ -3,7 +3,7 @@ name: Improved Force Scream
 version: 1
 level: 5
 alignment: dark
-prerequisite: Force Scream
+prerequisite: force scream
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You emit a violent scream imbued with the power of the Force. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw. On a 

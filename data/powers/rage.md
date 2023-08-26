@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can't cast powers, and you gain the following benefits:

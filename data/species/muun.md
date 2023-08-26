@@ -1,5 +1,8 @@
 ---
 name: Muun
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_muun.png
 source: ec
 speedColor: ''
 alignment: >-

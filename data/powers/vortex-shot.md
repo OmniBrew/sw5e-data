@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 As part of the action used to cast this power, you must make a ranged weapon attack against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and each Large or smaller creature within 10 feet of the target must succeed on a Strength saving throw or be pulled to the nearest unoccupied space adjacent to the target. 

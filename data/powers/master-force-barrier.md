@@ -3,7 +3,7 @@ name: Master Force Barrier
 version: 1
 level: 8
 alignment: light
-prerequisite: Improved Force Barrier
+prerequisite: improved force barrier
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 This power massively bolsters your allies with toughness and resolve. Creatures of your choice in a 30-foot radius around you when you cast this power gain the following benefits:

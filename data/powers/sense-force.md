@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 For the duration, you sense the use of the Force, or its presence in an inanimate object within 30 feet of you. If you sense the Force in this way, you can use your action to determine the direction from which it originates and, if it's in line of sight, you see a faint aura around the person or object from which the Force emanates.

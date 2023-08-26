@@ -3,7 +3,7 @@ name: True Sight
 version: 1
 level: 6
 alignment: universal
-prerequisite: Force Sight
+prerequisite: force sight
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You shift your vision to see through use of the Force, 

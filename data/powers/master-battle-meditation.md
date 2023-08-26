@@ -3,7 +3,7 @@ name: Master Battle Meditation
 version: 1
 level: 9
 alignment: universal
-prerequisite: Improved Battle Meditation
+prerequisite: improved battle meditation
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You exude an aura out to 30 feet that boosts the morale and overall battle prowess you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. 

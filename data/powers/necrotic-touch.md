@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You attempt to drain the essence from a creature. Make a melee force attack against the target. If the attack hits, the creature takes 1d6 necrotic damage, and you gain temporary hit points equal to the damage dealt until the end of your next turn.

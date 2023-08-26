@@ -1,5 +1,8 @@
 ---
 name: Patrolian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_patrolian.png
 source: ec
 speedColor: ''
 alignment: >-

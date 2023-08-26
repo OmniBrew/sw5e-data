@@ -1,5 +1,8 @@
 ---
 name: Geonosian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_geonosian.png
 source: ec
 speedColor: ''
 alignment: >-

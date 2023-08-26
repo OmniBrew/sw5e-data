@@ -3,7 +3,7 @@ name: Improved Heal
 version: 1
 level: 5
 alignment: light
-prerequisite: Heal
+prerequisite: heal
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 3

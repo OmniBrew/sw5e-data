@@ -3,7 +3,7 @@ name: Force Storm
 version: 1
 level: 9
 alignment: dark
-prerequisite: Force Lightning Cone
+prerequisite: force lightning cone
 type: force
 tags:
   - damage

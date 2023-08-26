@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Varies
+      short: varies
     concentration: false
 ---
 You imbue your weapon with debilitating force lightning. As part of the action used to cast this power, you must make a melee weapon attack against one creature within your reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and the lightning leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes lightning damage equal to your forcecasting ability modifier.

@@ -1,5 +1,8 @@
 ---
 name: Anzellan
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_anzellan.png
 source: ec
 speedColor: ''
 alignment: >-

@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 7
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You grant up to four willing creatures the ability to understand any registered language they read or hear. Additionally, they gain the ability to speak that language, if they are physically capable of speaking it normally. 

@@ -3,7 +3,7 @@ name: Mass Animation
 version: 1
 level: 5
 alignment: universal
-prerequisite: Animate Weapon
+prerequisite: animate weapon
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1

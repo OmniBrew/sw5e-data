@@ -3,7 +3,7 @@ name: Mind Blank
 version: 1
 level: 8
 alignment: universal
-prerequisite: Mind Trap
+prerequisite: mind trap
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 24
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 Until the power ends, one willing creature you touch is immune to psychic and sonic damage, any effect that would sense its emotions or read its thoughts, and the charmed condition. The power foils powers or effects of similar power used to affect the target's mind or to gain information about the target.

@@ -1,5 +1,8 @@
 ---
 name: Draethos
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_draethos.png
 source: ec
 speedColor: ''
 alignment: >-

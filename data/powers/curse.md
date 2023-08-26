@@ -3,7 +3,7 @@ name: Curse
 version: 1
 level: 1
 alignment: dark
-prerequisite: Denounce
+prerequisite: denounce
 type: force
 tags:
   - damage

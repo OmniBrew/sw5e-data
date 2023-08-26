@@ -3,7 +3,7 @@ name: Saber Assault
 version: 1
 level: 1
 alignment: universal
-prerequisite: Saber Ward
+prerequisite: saber ward
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 The first time you take the Attack action during your turn, you can simultaneously cast this power to blend your melee weapon attacks with the use of the Force. For each successful hit you make with a melee weapon before the power ends, the target must make a Dexterity saving throw or have a new effect apply until the end of its next turn. Once you've made three weapon attacks, the power ends.

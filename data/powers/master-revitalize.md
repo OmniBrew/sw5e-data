@@ -3,7 +3,7 @@ name: Master Revitalize
 version: 1
 level: 9
 alignment: light
-prerequisite: Improved Revitalize
+prerequisite: improved revitalize
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You return a dead creature you touch to life, provided that it has been dead no longer than 1 day. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with all its hit points. This power has no effect on droids or constructs.

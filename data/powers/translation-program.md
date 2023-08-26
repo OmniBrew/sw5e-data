@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 For the duration, you understand the literal meaning of any spoken registered language that you hear, as long as you have your tech focus. You also understand any written language that you see, but you must be within reach of the surface on which the words are written. It takes about 1 minute to read one page of text. 

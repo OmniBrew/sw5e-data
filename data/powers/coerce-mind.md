@@ -3,7 +3,7 @@ name: Coerce Mind
 version: 1
 level: 2
 alignment: universal
-prerequisite: Affect Mind
+prerequisite: affect mind
 type: force
 tags:
   - damage

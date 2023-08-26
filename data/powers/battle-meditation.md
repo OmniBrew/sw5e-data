@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You exude an aura out to 5 feet that boosts the morale and overall battle prowess of you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. 

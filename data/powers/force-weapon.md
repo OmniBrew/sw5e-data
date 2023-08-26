@@ -3,7 +3,7 @@ name: Force Weapon
 version: 1
 level: 3
 alignment: universal
-prerequisite: Force Imbuement
+prerequisite: force imbuement
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 You touch an unenhanced weapon with which you are proficient. While you wield it for the duration, that weapon becomes an enhanced weapon with a +1 bonus to attack rolls and damage rolls. Additionally, you can use your forcecasting ability modifier instead of your Strength or Dexterity modifier for attacks and damage rolls when attacking with that weapon.

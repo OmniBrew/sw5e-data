@@ -1,5 +1,8 @@
 ---
 name: Xexto
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_xexto.png
 source: ec
 speedColor: ''
 alignment: >-

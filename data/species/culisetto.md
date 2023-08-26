@@ -1,5 +1,8 @@
 ---
 name: Culisetto
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_culisetto.png
 source: ec
 speedColor: ''
 alignment: >-

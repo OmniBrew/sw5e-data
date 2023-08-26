@@ -3,7 +3,7 @@ name: Force Lightning Cone
 version: 1
 level: 7
 alignment: dark
-prerequisite: Force Chain Lightning
+prerequisite: force chain lightning
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Lightning arcs from your hands. Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes 12d6 lightning damage on a failed save, or half as much on a successful one.

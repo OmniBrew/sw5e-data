@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You generate a static charge that can aid or harm a creature you touch. Make a melee tech attack against the target. On a hit, the target takes 1d10 lightning damage. If the target is a living creature that has 0 hit points, it immediately gains one death saving throw success instead of taking damage.

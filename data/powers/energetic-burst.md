@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 1
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 A creature you touch gains 10 temporary hit points. While it has these hit points, the creature can add 1d4 to its saving throws. Any remaining temporary hit points are lost when the power ends.

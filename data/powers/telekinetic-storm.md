@@ -3,7 +3,7 @@ name: Telekinetic Storm
 version: 1
 level: 3
 alignment: light
-prerequisite: Turbulence
+prerequisite: turbulence
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You stir the Force around you, creating a turbulent field of telekinetic energy that buffets enemies around you. The field extends out to a distance of 15 feet around you for the duration.

@@ -3,7 +3,7 @@ name: Force Chain Lightning
 version: 1
 level: 6
 alignment: dark
-prerequisite: Force Lightning
+prerequisite: force lightning
 type: force
 tags:
   - damage

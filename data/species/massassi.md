@@ -1,5 +1,8 @@
 ---
 name: Massassi
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_massassi.png
 source: ec
 speedColor: ''
 alignment: >-

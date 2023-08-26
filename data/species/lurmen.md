@@ -1,5 +1,8 @@
 ---
 name: Lurmen
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_lurmen.png
 source: ec
 speedColor: ''
 alignment: >-

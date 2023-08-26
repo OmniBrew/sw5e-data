@@ -3,7 +3,7 @@ name: Saber Slash
 version: 1
 level: 3
 alignment: universal
-prerequisite: Saber Strike
+prerequisite: saber strike
 type: force
 tags:
   - damage

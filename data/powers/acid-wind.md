@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You produce a breeze full of stinging acid droplets. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d4 acid damage and is blinded until the end of your next turn. On a successful save, the creature takes half as much damage and isn't blinded.

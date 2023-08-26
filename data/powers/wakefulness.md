@@ -3,7 +3,7 @@ name: Wakefulness
 version: 1
 level: 2
 alignment: universal
-prerequisite: Breath Control
+prerequisite: breath control
 type: force
 tags:
   - damage
@@ -28,7 +28,7 @@ mechanics:
       length: 8
       unit: round
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You use the Force to control your body's functions. For the duration, you gain the following benefits:

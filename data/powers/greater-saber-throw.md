@@ -3,7 +3,7 @@ name: Greater Saber Throw
 version: 1
 level: 5
 alignment: universal
-prerequisite: Improved Saber Throw
+prerequisite: improved saber throw
 type: force
 tags:
   - damage

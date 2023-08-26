@@ -3,7 +3,7 @@ name: Disable Droid
 version: 1
 level: 4
 alignment: light
-prerequisite: Stun Droid
+prerequisite: stun droid
 type: force
 tags:
   - damage

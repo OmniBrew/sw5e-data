@@ -1,5 +1,8 @@
 ---
 name: Quermian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_quermian.png
 source: ec
 speedColor: ''
 alignment: >-

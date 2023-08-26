@@ -27,7 +27,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 You emit a burst of electricity. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 lightning damage.

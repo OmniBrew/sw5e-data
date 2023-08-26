@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 You dampen sound and light and dull the scent from creatures in your vicinity. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by enhanced means while within this radius. You can choose yourself as well. A creature that receives this bonus leaves behind no traces of its passage.

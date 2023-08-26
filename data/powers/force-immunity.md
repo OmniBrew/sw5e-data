@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 An immobile, faintly shimmering barrier springs into existence around you and remains for the duration. The barrier moves with you. Any force power of 3rd level or lower cast from outside the barrier can't affect you, even if the power is cast using a higher level force slot. Such a power can target you, but the power has no effect on you. Similarly, the area within the barrier is excluded from the areas affected by such powers.

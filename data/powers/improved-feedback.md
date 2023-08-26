@@ -3,7 +3,7 @@ name: Improved Feedback
 version: 1
 level: 1
 alignment: dark
-prerequisite: Feedback
+prerequisite: feedback
 type: force
 tags:
   - damage

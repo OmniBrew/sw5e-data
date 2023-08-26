@@ -3,7 +3,7 @@ name: Drain Life
 version: 1
 level: 4
 alignment: dark
-prerequisite: Drain Vitality
+prerequisite: drain vitality
 type: force
 tags:
   - damage

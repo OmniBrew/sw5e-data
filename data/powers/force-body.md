@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 This power enables you to use your health to fuel your force powers. For the duration, when you cast a force power, you can choose to pay up to half the cost of the force power using your hit points instead of your force points. When you do so, your maximum hit points are reduced by the same amount until you complete a long rest.

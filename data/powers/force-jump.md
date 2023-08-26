@@ -3,7 +3,7 @@ name: Force Jump
 version: 1
 level: 1
 alignment: universal
-prerequisite: Force Leap
+prerequisite: force leap
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Using the Force to augment the strength in your legs, you leap up to 30 feet to an unoccupied space you can see, provided you have a direct path to the space.

@@ -3,7 +3,7 @@ name: Master Force Immunity
 version: 1
 level: 8
 alignment: universal
-prerequisite: Improved Force Immunity
+prerequisite: improved force immunity
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Self
+      short: self
     concentration: true
 ---
 A 10-foot-radius faintly shimmering barrier surrounds you. Within the sphere, powers can't be cast and enhanced items become mundane. Until the power ends, the sphere moves with you, centered on you.

@@ -19,7 +19,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -29,7 +29,7 @@ mechanics:
       length: 1
       unit: round
     range:
-      short: Touch
+      short: touch
     concentration: true
 ---
 A creature you touch becomes invisible. Anything the target is carrying is invisible as long as it is on the target. The power ends if the target attacks, casts a power, or otherwise take a hostile action.

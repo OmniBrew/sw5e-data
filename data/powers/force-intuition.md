@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0
@@ -30,7 +30,7 @@ mechanics:
       length: 8
       unit: round
     range:
-      short: Self
+      short: self
     concentration: false
 ---
 Your senses attune to your environment for the duration, allowing you to see things before they happen, and react even faster than normal. For the duration, you can use your forcecasting ability modifier in place of your Dexterity modifier when you make initiative checks, if the check doesn't already include that modifier. 

@@ -27,7 +27,7 @@ mechanics:
       length: 1
       unit: minute
     range:
-      short: Touch
+      short: touch
     concentration: false
 ---
 You administer a poison to a creature you touched that prevents it from telling lies. The creature touched must make a Constitution saving throw. On a success, nothing happens. On a failure, the creature can't speak a deliberate lie until the power ends.

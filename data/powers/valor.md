@@ -3,7 +3,7 @@ name: Valor
 version: 1
 level: 1
 alignment: light
-prerequisite: Resistance
+prerequisite: resistance
 type: force
 tags:
   - damage
@@ -20,7 +20,7 @@ mechanics:
     attack:
       type: ranged
       wp: power
-      proficient: True
+      proficient: true
     dc: false
     damage:
       - dieCount: 0

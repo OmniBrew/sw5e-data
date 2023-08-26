@@ -1,5 +1,8 @@
 ---
 name: Mirialan
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_mirialan.png
 source: ec
 speedColor: ''
 alignment: >-

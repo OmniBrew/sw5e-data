@@ -3,7 +3,7 @@ name: Improved Pyrokinesis
 version: 1
 level: 2
 alignment: universal
-prerequisite: Pyrokinesis
+prerequisite: pyrokinesis
 type: force
 tags:
   - damage
