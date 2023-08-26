@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - fixed, light, piercing
+  - fixed
+  - light
+  - piercing
 ---

@@ -14,5 +14,8 @@ range:
   short: 20
   long: 60
 properties:
-  - luminous, thrown, range, versatile
+  - luminous
+  - thrown
+  - range
+  - versatile
 ---

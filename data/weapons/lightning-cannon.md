@@ -14,5 +14,11 @@ range:
   short: 90
   long: 360
 properties:
-  - power-cell, range, auto, penetrating, reload, strength, two-handed
+  - power-cell
+  - range
+  - auto
+  - penetrating
+  - reload
+  - strength
+  - two-handed
 ---

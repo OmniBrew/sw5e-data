@@ -14,5 +14,9 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, double-(2d4-energy), heavy, luminous, reach
+  - dexterity
+  - double-(2d4-energy)
+  - heavy
+  - luminous
+  - reach
 ---

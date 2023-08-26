@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - corruption, hidden, versatile
+  - corruption
+  - hidden
+  - versatile
 ---

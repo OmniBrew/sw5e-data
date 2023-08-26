@@ -14,5 +14,13 @@ range:
   short: 75
   long: 300
 properties:
-  - auto, burst, rapid, reload, slug-cartridge, range, smart-(15/+2), strength, two-handed
+  - auto
+  - burst
+  - rapid
+  - reload
+  - slug-cartridge
+  - range
+  - smart-(15/+2)
+  - strength
+  - two-handed
 ---

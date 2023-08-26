@@ -14,5 +14,6 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, two-handed
+  - dexterity
+  - two-handed
 ---

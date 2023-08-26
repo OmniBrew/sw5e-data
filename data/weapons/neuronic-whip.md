@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - reach, shocking, specialized-(shocking)
+  - reach
+  - shocking
+  - specialized-(shocking)
 ---

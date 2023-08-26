@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - double-(2d4-energy), interlocking, luminous
+  - double-(2d4-energy)
+  - interlocking
+  - luminous
 ---

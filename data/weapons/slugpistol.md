@@ -14,5 +14,9 @@ range:
   short: 40
   long: 160
 properties:
-  - rapid, reload, slug-cartridge, range, strength
+  - rapid
+  - reload
+  - slug-cartridge
+  - range
+  - strength
 ---

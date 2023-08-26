@@ -14,5 +14,10 @@ range:
   short: 100
   long: 400
 properties:
-  - power-cell, range, rapid, reload, strength, two-handed
+  - power-cell
+  - range
+  - rapid
+  - reload
+  - strength
+  - two-handed
 ---

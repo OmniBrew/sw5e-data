@@ -14,5 +14,8 @@ range:
   short: 30
   long: 120
 properties:
-  - power-cell, range, disruptive, reload
+  - power-cell
+  - range
+  - disruptive
+  - reload
 ---

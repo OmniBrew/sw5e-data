@@ -14,5 +14,9 @@ range:
   short: 30
   long: 90
 properties:
-  - finesse, keen, light, thrown, range
+  - finesse
+  - keen
+  - light
+  - thrown
+  - range
 ---

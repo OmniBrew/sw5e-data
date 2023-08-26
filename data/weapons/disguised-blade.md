@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - disarming, disguised, finesse, light
+  - disarming
+  - disguised
+  - finesse
+  - light
 ---

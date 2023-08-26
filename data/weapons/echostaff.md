@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - double-(1d6-kinetic), finesse, sonorous
+  - double-(1d6-kinetic)
+  - finesse
+  - sonorous
 ---

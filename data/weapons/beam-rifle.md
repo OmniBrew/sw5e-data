@@ -14,5 +14,10 @@ range:
   short: 150
   long: 600
 properties:
-  - penetrating, power-cell, range, reload, strength, two-handed
+  - penetrating
+  - power-cell
+  - range
+  - reload
+  - strength
+  - two-handed
 ---

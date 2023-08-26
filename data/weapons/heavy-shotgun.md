@@ -14,5 +14,10 @@ range:
   short: 60
   long: 240
 properties:
-  - burst, reload, slug-cartridge, range, strength, two-handed
+  - burst
+  - reload
+  - slug-cartridge
+  - range
+  - strength
+  - two-handed
 ---

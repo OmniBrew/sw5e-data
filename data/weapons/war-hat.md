@@ -14,5 +14,9 @@ range:
   short: 30
   long: 90
 properties:
-  - defensive, disguised, returning, thrown, range
+  - defensive
+  - disguised
+  - returning
+  - thrown
+  - range
 ---

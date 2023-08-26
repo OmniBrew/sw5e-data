@@ -14,5 +14,9 @@ range:
   short: None
   long: None
 properties:
-  - disguised, disruptive, fixed, light, luminous
+  - disguised
+  - disruptive
+  - fixed
+  - light
+  - luminous
 ---

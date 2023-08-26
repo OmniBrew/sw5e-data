@@ -14,5 +14,10 @@ range:
   short: 30
   long: 160
 properties:
-  - slug-cartridge, range, piercing, reload, silent, special
+  - slug-cartridge
+  - range
+  - piercing
+  - reload
+  - silent
+  - special
 ---

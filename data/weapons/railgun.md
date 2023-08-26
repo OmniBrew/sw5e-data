@@ -14,5 +14,10 @@ range:
   short: 150
   long: 600
 properties:
-  - piercing, reload, slug-cartridge, range, strength, two-handed
+  - piercing
+  - reload
+  - slug-cartridge
+  - range
+  - strength
+  - two-handed
 ---

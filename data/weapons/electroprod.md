@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - disruptive, shocking, two-handed
+  - disruptive
+  - shocking
+  - two-handed
 ---

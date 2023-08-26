@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, reach, shocking, two-handed
+  - dexterity
+  - reach
+  - shocking
+  - two-handed
 ---

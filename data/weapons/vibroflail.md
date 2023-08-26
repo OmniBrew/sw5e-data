@@ -14,5 +14,6 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, reckless
+  - dexterity
+  - reckless
 ---

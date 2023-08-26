@@ -14,5 +14,6 @@ range:
   short: None
   long: None
 properties:
-  - double-(1d8-kinetic), finesse
+  - double-(1d8-kinetic)
+  - finesse
 ---

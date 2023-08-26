@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - finesse, hidden, light, luminous
+  - finesse
+  - hidden
+  - light
+  - luminous
 ---

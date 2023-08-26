@@ -14,5 +14,12 @@ range:
   short: 60
   long: 240
 properties:
-  - auto, burst, power-cell, range, reload, smart-(15/+2), special, strength
+  - auto
+  - burst
+  - power-cell
+  - range
+  - reload
+  - smart-(15/+2)
+  - special
+  - strength
 ---

@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - finesse, light, shocking
+  - finesse
+  - light
+  - shocking
 ---

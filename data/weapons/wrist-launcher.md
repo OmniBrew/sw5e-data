@@ -14,5 +14,8 @@ range:
   short: 30
   long: 120
 properties:
-  - fixed, reload, special, range
+  - fixed
+  - reload
+  - special
+  - range
 ---

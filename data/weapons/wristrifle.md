@@ -14,5 +14,8 @@ range:
   short: 60
   long: 240
 properties:
-  - power-cell, range, fixed, reload
+  - power-cell
+  - range
+  - fixed
+  - reload
 ---

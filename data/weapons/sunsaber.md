@@ -14,5 +14,9 @@ range:
   short: None
   long: None
 properties:
-  - bright, dexterity, hidden, specialized-(bright), versatile
+  - bright
+  - dexterity
+  - hidden
+  - specialized-(bright)
+  - versatile
 ---

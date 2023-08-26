@@ -14,5 +14,10 @@ range:
   short: 20
   long: 60
 properties:
-  - finesse, hidden, light, luminous, thrown, range
+  - finesse
+  - hidden
+  - light
+  - luminous
+  - thrown
+  - range
 ---

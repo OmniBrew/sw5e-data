@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, dire, luminous, versatile
+  - dexterity
+  - dire
+  - luminous
+  - versatile
 ---

@@ -14,5 +14,10 @@ range:
   short: 180
   long: 720
 properties:
-  - slug-cartridge, range, reload, penetrating, strength, two-handed
+  - slug-cartridge
+  - range
+  - reload
+  - penetrating
+  - strength
+  - two-handed
 ---

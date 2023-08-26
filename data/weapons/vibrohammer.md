@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - heavy, two-handed, vicious
+  - heavy
+  - two-handed
+  - vicious
 ---

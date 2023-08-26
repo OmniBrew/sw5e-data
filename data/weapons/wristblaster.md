@@ -14,5 +14,10 @@ range:
   short: 30
   long: 120
 properties:
-  - disguised, fixed, light, power-cell, range, reload
+  - disguised
+  - fixed
+  - light
+  - power-cell
+  - range
+  - reload
 ---

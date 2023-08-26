@@ -14,5 +14,9 @@ range:
   short: 60
   long: 240
 properties:
-  - mighty, silent, special, range, two-handed
+  - mighty
+  - silent
+  - special
+  - range
+  - two-handed
 ---

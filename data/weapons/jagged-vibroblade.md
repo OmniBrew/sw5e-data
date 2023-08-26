@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, keen, versatile
+  - dexterity
+  - keen
+  - versatile
 ---

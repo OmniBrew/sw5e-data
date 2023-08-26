@@ -14,5 +14,9 @@ range:
   short: 45
   long: 180
 properties:
-  - disintegrate, power-cell, range, reload, strength
+  - disintegrate
+  - power-cell
+  - range
+  - reload
+  - strength
 ---

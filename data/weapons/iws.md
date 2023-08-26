@@ -14,5 +14,7 @@ range:
   short: None
   long: None
 properties:
-  - modal-(blaster-rifle, grenade-launcher, and-sniper-rifle)
+  - modal-(blaster-rifle
+  - grenade-launcher
+  - and-sniper-rifle)
 ---

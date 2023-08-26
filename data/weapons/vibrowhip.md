@@ -14,5 +14,6 @@ range:
   short: None
   long: None
 properties:
-  - finesse, reach
+  - finesse
+  - reach
 ---

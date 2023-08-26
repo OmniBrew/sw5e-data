@@ -14,5 +14,9 @@ range:
   short: None
   long: None
 properties:
-  - brutal, dexterity, hidden, luminous, versatile
+  - brutal
+  - dexterity
+  - hidden
+  - luminous
+  - versatile
 ---

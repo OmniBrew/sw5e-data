@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - dexterity, disruptive, reach, shocking
+  - dexterity
+  - disruptive
+  - reach
+  - shocking
 ---

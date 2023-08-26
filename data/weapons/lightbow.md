@@ -14,5 +14,10 @@ range:
   short: 60
   long: 240
 properties:
-  - piercing, power-cell, range, reload, strength, two-handed
+  - piercing
+  - power-cell
+  - range
+  - reload
+  - strength
+  - two-handed
 ---

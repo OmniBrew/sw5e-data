@@ -52,29 +52,6 @@
       "two-handed"
     ],
     "html": "",
-    "id": "affixed-rifle-test"
-  },
-  {
-    "name": "Affixed Rifle",
-    "rarity": "unenhanced",
-    "type": "martial_blaster",
-    "cost": 700,
-    "manufacturer": "unaffiliated",
-    "weight": 8,
-    "reload": 8,
-    "damage": {
-      "dieCount": 1,
-      "dieType": 8,
-      "type": "energy"
-    },
-    "range": {
-      "short": 90,
-      "long": 360
-    },
-    "properties": [
-      "power-cell, range, fixed, rapid, reload, strength, two-handed"
-    ],
-    "html": "",
     "id": "affixed-rifle"
   },
   {
@@ -95,7 +72,13 @@
       "long": 720
     },
     "properties": [
-      "power-cell, range, auto, reload, penetrating, strength, two-handed"
+      "power-cell",
+      "range",
+      "auto",
+      "reload",
+      "penetrating",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "anti-materiel-blaster"
@@ -118,7 +101,12 @@
       "long": 720
     },
     "properties": [
-      "slug-cartridge, range, reload, penetrating, strength, two-handed"
+      "slug-cartridge",
+      "range",
+      "reload",
+      "penetrating",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "anti-materiel-rifle"
@@ -141,7 +129,13 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, burst, rapid, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "burst",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "arc-caster"
@@ -164,7 +158,12 @@
       "long": 360
     },
     "properties": [
-      "burst, power-cell, range, reload, strength, two-handed"
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "assault-cannon"
@@ -187,7 +186,9 @@
       "long": "None"
     },
     "properties": [
-      "disguised, light, special"
+      "disguised",
+      "light",
+      "special"
     ],
     "html": "",
     "id": "atlatl"
@@ -210,7 +211,12 @@
       "long": 600
     },
     "properties": [
-      "penetrating, power-cell, range, reload, strength, two-handed"
+      "penetrating",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "beam-rifle"
@@ -233,7 +239,10 @@
       "long": "None"
     },
     "properties": [
-      "biting, hidden, luminous, versatile"
+      "biting",
+      "hidden",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "bitesaber"
@@ -256,7 +265,15 @@
       "long": 480
     },
     "properties": [
-      "auto, burst, disintegrate, power-cell, range, reload, strength, two-handed, vicious"
+      "auto",
+      "burst",
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "bkg"
@@ -330,7 +347,13 @@
       "long": 480
     },
     "properties": [
-      "auto, burst, rapid, special, range, strength, two-handed"
+      "auto",
+      "burst",
+      "rapid",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "blaster-cannon"
@@ -353,7 +376,10 @@
       "long": 280
     },
     "properties": [
-      "power-cell, range, reload, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "blaster-carbine"
@@ -376,7 +402,9 @@
       "long": 200
     },
     "properties": [
-      "power-cell, range, reload"
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "blaster-pistol"
@@ -399,7 +427,10 @@
       "long": 420
     },
     "properties": [
-      "power-cell, range, reload, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "blaster-rifle"
@@ -422,7 +453,9 @@
       "long": "None"
     },
     "properties": [
-      "corruption, hidden, versatile"
+      "corruption",
+      "hidden",
+      "versatile"
     ],
     "html": "",
     "id": "blightsaber"
@@ -468,7 +501,10 @@
       "long": 60
     },
     "properties": [
-      "light, special, thrown, range"
+      "light",
+      "special",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "bolas"
@@ -491,7 +527,12 @@
       "long": 360
     },
     "properties": [
-      "reload, silent, special, range, strength, two-handed"
+      "reload",
+      "silent",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "bolt-thrower"
@@ -514,7 +555,12 @@
       "long": 200
     },
     "properties": [
-      "burst, power-cell, range, reload, strength, two-handed"
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "bowcaster"
@@ -537,7 +583,10 @@
       "long": "None"
     },
     "properties": [
-      "bright, hidden, luminous, versatile"
+      "bright",
+      "hidden",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "brightsaber"
@@ -560,7 +609,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, dire, luminous, versatile"
+      "dexterity",
+      "dire",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "broadsaber"
@@ -583,7 +635,13 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, heavy, keen, luminous, reach, two-handed"
+      "brutal",
+      "dexterity",
+      "heavy",
+      "keen",
+      "luminous",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "bustersaber"
@@ -606,7 +664,13 @@
       "long": 360
     },
     "properties": [
-      "auto, power-cell, range, rapid, reload, strength, two-handed"
+      "auto",
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "carbine-rifle"
@@ -629,7 +693,9 @@
       "long": "None"
     },
     "properties": [
-      "disguised, double-(1d8)-finesse, special"
+      "disguised",
+      "double-(1d8)-finesse",
+      "special"
     ],
     "html": "",
     "id": "cesta"
@@ -652,7 +718,9 @@
       "long": "None"
     },
     "properties": [
-      "disarming, finesse, reach"
+      "disarming",
+      "finesse",
+      "reach"
     ],
     "html": "",
     "id": "chained-dagger"
@@ -675,7 +743,10 @@
       "long": "None"
     },
     "properties": [
-      "disarming, finesse, luminous, reach"
+      "disarming",
+      "finesse",
+      "luminous",
+      "reach"
     ],
     "html": "",
     "id": "chained-lightdagger"
@@ -698,7 +769,14 @@
       "long": 320
     },
     "properties": [
-      "auto, rapid, reload, slug-cartridge, range, strength, two-handed, vicious"
+      "auto",
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "chaingun"
@@ -721,7 +799,10 @@
       "long": 90
     },
     "properties": [
-      "finesse, returning, thrown, range"
+      "finesse",
+      "returning",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "chakram"
@@ -744,7 +825,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, luminous, two-handed"
+      "dexterity",
+      "luminous",
+      "two-handed"
     ],
     "html": "",
     "id": "claymoresaber"
@@ -767,7 +850,11 @@
       "long": 300
     },
     "properties": [
-      "mighty, silent, special, range, two-handed"
+      "mighty",
+      "silent",
+      "special",
+      "range",
+      "two-handed"
     ],
     "html": "",
     "id": "compound-bow"
@@ -790,7 +877,11 @@
       "long": "None"
     },
     "properties": [
-      "defensive, dexterity, heavy, luminous, versatile"
+      "defensive",
+      "dexterity",
+      "heavy",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "crossguard-saber"
@@ -813,7 +904,11 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, double-(2d4-energy), heavy, luminous, reach"
+      "dexterity",
+      "double-(2d4-energy)",
+      "heavy",
+      "luminous",
+      "reach"
     ],
     "html": "",
     "id": "crosssaber"
@@ -836,7 +931,14 @@
       "long": 300
     },
     "properties": [
-      "auto, burst, power-cell, range, reload, strength, two-handed, vicious"
+      "auto",
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "cryo-cannon"
@@ -859,7 +961,11 @@
       "long": 180
     },
     "properties": [
-      "power-cell, range, reload, two-handed, vicious"
+      "power-cell",
+      "range",
+      "reload",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "cryo-carbine"
@@ -882,7 +988,10 @@
       "long": 120
     },
     "properties": [
-      "power-cell, range, reload, vicious"
+      "power-cell",
+      "range",
+      "reload",
+      "vicious"
     ],
     "html": "",
     "id": "cryo-pistol"
@@ -905,7 +1014,12 @@
       "long": 200
     },
     "properties": [
-      "power-cell, range, reload, strength, two-handed, vicious"
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "cryo-rifle"
@@ -928,7 +1042,12 @@
       "long": 360
     },
     "properties": [
-      "rapid, reload, slug-cartridge, range, strength, two-handed"
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "cycler-rifle"
@@ -951,7 +1070,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, dire, versatile"
+      "dexterity",
+      "dire",
+      "versatile"
     ],
     "html": "",
     "id": "dire-vibroblade"
@@ -974,7 +1095,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, dire, heavy"
+      "dexterity",
+      "dire",
+      "heavy"
     ],
     "html": "",
     "id": "diresword"
@@ -997,7 +1120,10 @@
       "long": "None"
     },
     "properties": [
-      "disarming, disguised, finesse, light"
+      "disarming",
+      "disguised",
+      "finesse",
+      "light"
     ],
     "html": "",
     "id": "disguised-blade"
@@ -1020,7 +1146,12 @@
       "long": 240
     },
     "properties": [
-      "disintegrate, power-cell, range, reload, strength, two-handed"
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "disruptor-carbine"
@@ -1043,7 +1174,11 @@
       "long": 180
     },
     "properties": [
-      "disintegrate, power-cell, range, reload, strength"
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength"
     ],
     "html": "",
     "id": "disruptor-pistol"
@@ -1066,7 +1201,12 @@
       "long": 240
     },
     "properties": [
-      "disintegrate, power-cell, range, reload, strength, two-handed"
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "disruptor-rifle"
@@ -1089,7 +1229,12 @@
       "long": 480
     },
     "properties": [
-      "disintegrate, power-cell, range, reload, strength, two-handed"
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "disruptor-sniper"
@@ -1112,7 +1257,9 @@
       "long": "None"
     },
     "properties": [
-      "disruptive, finesse, shocking"
+      "disruptive",
+      "finesse",
+      "shocking"
     ],
     "html": "",
     "id": "disruptorshiv"
@@ -1135,7 +1282,9 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d6-kinetic), finesse, light"
+      "double-(1d6-kinetic)",
+      "finesse",
+      "light"
     ],
     "html": "",
     "id": "doubleblade"
@@ -1158,7 +1307,9 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d8-energy), finesse, luminous"
+      "double-(1d8-energy)",
+      "finesse",
+      "luminous"
     ],
     "html": "",
     "id": "doublesaber"
@@ -1181,7 +1332,10 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d6-energy), finesse, light, luminous"
+      "double-(1d6-energy)",
+      "finesse",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "doubleshoto"
@@ -1204,7 +1358,8 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d8-kinetic), finesse"
+      "double-(1d8-kinetic)",
+      "finesse"
     ],
     "html": "",
     "id": "doublesword"
@@ -1227,7 +1382,11 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, hidden, luminous, versatile, vicious"
+      "dexterity",
+      "hidden",
+      "luminous",
+      "versatile",
+      "vicious"
     ],
     "html": "",
     "id": "dual-phase-saber"
@@ -1250,7 +1409,9 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d6-kinetic), finesse, sonorous"
+      "double-(1d6-kinetic)",
+      "finesse",
+      "sonorous"
     ],
     "html": "",
     "id": "echostaff"
@@ -1273,7 +1434,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, light, shocking"
+      "finesse",
+      "light",
+      "shocking"
     ],
     "html": "",
     "id": "electrobaton"
@@ -1296,7 +1459,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, heavy, shocking, two-handed"
+      "dexterity",
+      "heavy",
+      "shocking",
+      "two-handed"
     ],
     "html": "",
     "id": "electrohammer"
@@ -1319,7 +1485,9 @@
       "long": "None"
     },
     "properties": [
-      "disruptive, shocking, two-handed"
+      "disruptive",
+      "shocking",
+      "two-handed"
     ],
     "html": "",
     "id": "electroprod"
@@ -1342,7 +1510,9 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d6-kinetic), finesse, shocking"
+      "double-(1d6-kinetic)",
+      "finesse",
+      "shocking"
     ],
     "html": "",
     "id": "electrostaff"
@@ -1365,7 +1535,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reach, shocking, two-handed"
+      "dexterity",
+      "reach",
+      "shocking",
+      "two-handed"
     ],
     "html": "",
     "id": "electrovoulge"
@@ -1388,7 +1561,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, disruptive, reach, shocking"
+      "dexterity",
+      "disruptive",
+      "reach",
+      "shocking"
     ],
     "html": "",
     "id": "electrowhip"
@@ -1411,7 +1587,11 @@
       "long": 320
     },
     "properties": [
-      "power-cell, range, mighty, reload, two-handed"
+      "power-cell",
+      "range",
+      "mighty",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "energy-bow"
@@ -1434,7 +1614,13 @@
       "long": 80
     },
     "properties": [
-      "power-cell, range, disruptive, fixed, mighty, reload, two-handed"
+      "power-cell",
+      "range",
+      "disruptive",
+      "fixed",
+      "mighty",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "energy-slingshot"
@@ -1457,7 +1643,10 @@
       "long": "None"
     },
     "properties": [
-      "reload, special-(range-special), strength, two-handed"
+      "reload",
+      "special-(range-special)",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "flechette-cannon"
@@ -1480,7 +1669,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, luminous, two-handed"
+      "dexterity",
+      "luminous",
+      "two-handed"
     ],
     "html": "",
     "id": "great-saber"
@@ -1503,7 +1694,11 @@
       "long": 360
     },
     "properties": [
-      "reload, special, range, strength, two-handed"
+      "reload",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "grenade-launcher"
@@ -1526,7 +1721,10 @@
       "long": "None"
     },
     "properties": [
-      "defensive, finesse, hidden, light-luminous"
+      "defensive",
+      "finesse",
+      "hidden",
+      "light-luminous"
     ],
     "html": "",
     "id": "guard-shoto"
@@ -1549,7 +1747,13 @@
       "long": 200
     },
     "properties": [
-      "brutal, disintegrate, keen, power-cell, range, reload, strength"
+      "brutal",
+      "disintegrate",
+      "keen",
+      "power-cell",
+      "range",
+      "reload",
+      "strength"
     ],
     "html": "",
     "id": "hand-bkg"
@@ -1572,7 +1776,11 @@
       "long": 160
     },
     "properties": [
-      "keen, light, power-cell, range, reload"
+      "keen",
+      "light",
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "hand-blaster"
@@ -1595,7 +1803,12 @@
       "long": 100
     },
     "properties": [
-      "brutal, slug-cartridge, range, reload, strength, two-handed"
+      "brutal",
+      "slug-cartridge",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "hand-cannon"
@@ -1618,7 +1831,12 @@
       "long": 400
     },
     "properties": [
-      "power-cell, range, rapid, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "heavy-blaster-rifle"
@@ -1641,7 +1859,12 @@
       "long": 360
     },
     "properties": [
-      "burst, power-cell, range, reload, strength, two-handed"
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "heavy-bowcaster"
@@ -1664,7 +1887,12 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, rapid, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "heavy-carbine"
@@ -1687,7 +1915,9 @@
       "long": 180
     },
     "properties": [
-      "power-cell, range, reload"
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "heavy-pistol"
@@ -1710,7 +1940,14 @@
       "long": 320
     },
     "properties": [
-      "auto, burst, power-cell, range, rapid, reload, strength, two-handed"
+      "auto",
+      "burst",
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "heavy-repeater"
@@ -1733,7 +1970,12 @@
       "long": 240
     },
     "properties": [
-      "burst, reload, slug-cartridge, range, strength, two-handed"
+      "burst",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "heavy-shotgun"
@@ -1756,7 +1998,10 @@
       "long": 120
     },
     "properties": [
-      "rapid, reload, slug-cartridge, range"
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range"
     ],
     "html": "",
     "id": "heavy-slugpistol"
@@ -1779,7 +2024,10 @@
       "long": "None"
     },
     "properties": [
-      "finesse, fixed, hidden, light"
+      "finesse",
+      "fixed",
+      "hidden",
+      "light"
     ],
     "html": "",
     "id": "hidden-blade"
@@ -1802,7 +2050,11 @@
       "long": 120
     },
     "properties": [
-      "hidden, light, power-cell, range, reload"
+      "hidden",
+      "light",
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "hold-out"
@@ -1825,7 +2077,8 @@
       "long": "None"
     },
     "properties": [
-      "disarming, finesse"
+      "disarming",
+      "finesse"
     ],
     "html": "",
     "id": "hooked-vibroblade"
@@ -1848,7 +2101,11 @@
       "long": 500
     },
     "properties": [
-      "reload, slug-cartridge, range, strength, two-handed"
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "hunting-rifle"
@@ -1871,7 +2128,13 @@
       "long": 240
     },
     "properties": [
-      "dire, disintegrate, power-cell, range, reload, strength, two-handed"
+      "dire",
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "incinerator-carbine"
@@ -1894,7 +2157,12 @@
       "long": 160
     },
     "properties": [
-      "dire, disintegrate, power-cell, range, reload, strength"
+      "dire",
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength"
     ],
     "html": "",
     "id": "incinerator-pistol"
@@ -1917,7 +2185,13 @@
       "long": 320
     },
     "properties": [
-      "dire, disintegrate, power-cell, range, reload, strength, two-handed"
+      "dire",
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "incinerator-rifle"
@@ -1940,7 +2214,13 @@
       "long": 480
     },
     "properties": [
-      "dire, disintegrate, power-cell, range, reload, strength, two-handed"
+      "dire",
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "incinerator-sniper"
@@ -1963,7 +2243,13 @@
       "long": 360
     },
     "properties": [
-      "auto, burst, power-cell, range, reload, strength, two-handed"
+      "auto",
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "ion-cannon"
@@ -1986,7 +2272,10 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, reload, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "ion-carbine"
@@ -2009,7 +2298,9 @@
       "long": 160
     },
     "properties": [
-      "power-cell, range, reload"
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "ion-pistol"
@@ -2032,7 +2323,10 @@
       "long": 320
     },
     "properties": [
-      "power-cell, range, reload, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "ion-rifle"
@@ -2055,7 +2349,9 @@
       "long": "None"
     },
     "properties": [
-      "modal-(blaster-rifle, grenade-launcher, and-sniper-rifle)"
+      "modal-(blaster-rifle",
+      "grenade-launcher",
+      "and-sniper-rifle)"
     ],
     "html": "",
     "id": "iws"
@@ -2078,7 +2374,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, keen, versatile"
+      "dexterity",
+      "keen",
+      "versatile"
     ],
     "html": "",
     "id": "jagged-vibroblade"
@@ -2101,7 +2399,10 @@
       "long": 160
     },
     "properties": [
-      "light, power-cell, range, reload"
+      "light",
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "light-pistol"
@@ -2124,7 +2425,12 @@
       "long": 200
     },
     "properties": [
-      "auto, power-cell, range, rapid, reload, two-handed"
+      "auto",
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "light-repeater"
@@ -2147,7 +2453,10 @@
       "long": 140
     },
     "properties": [
-      "light, reload, slug-cartridge, range"
+      "light",
+      "reload",
+      "slug-cartridge",
+      "range"
     ],
     "html": "",
     "id": "light-slugpistol"
@@ -2170,7 +2479,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, heavy, luminous, two-handed"
+      "dexterity",
+      "heavy",
+      "luminous",
+      "two-handed"
     ],
     "html": "",
     "id": "lightaxe"
@@ -2193,7 +2505,9 @@
       "long": "None"
     },
     "properties": [
-      "hidden, light, luminous"
+      "hidden",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "lightbaton"
@@ -2216,7 +2530,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, hidden, luminous"
+      "finesse",
+      "hidden",
+      "luminous"
     ],
     "html": "",
     "id": "lightblade"
@@ -2239,7 +2555,12 @@
       "long": 240
     },
     "properties": [
-      "piercing, power-cell, range, reload, strength, two-handed"
+      "piercing",
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "lightbow"
@@ -2262,7 +2583,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, heavy, luminous, two-handed"
+      "dexterity",
+      "heavy",
+      "luminous",
+      "two-handed"
     ],
     "html": "",
     "id": "lightclub"
@@ -2285,7 +2609,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, hidden, luminous"
+      "dexterity",
+      "hidden",
+      "luminous"
     ],
     "html": "",
     "id": "lightcutlass"
@@ -2308,7 +2634,12 @@
       "long": 60
     },
     "properties": [
-      "finesse, hidden, light, luminous, thrown, range"
+      "finesse",
+      "hidden",
+      "light",
+      "luminous",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "lightdagger"
@@ -2331,7 +2662,11 @@
       "long": "None"
     },
     "properties": [
-      "disguised, disruptive, fixed, light, luminous"
+      "disguised",
+      "disruptive",
+      "fixed",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "lightfist"
@@ -2354,7 +2689,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, hidden, luminous"
+      "finesse",
+      "hidden",
+      "luminous"
     ],
     "html": "",
     "id": "lightfoil"
@@ -2377,7 +2714,11 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, luminous, reach, two-handed"
+      "brutal",
+      "dexterity",
+      "luminous",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "lightglaive"
@@ -2400,7 +2741,11 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, hidden, luminous, piercing, versatile"
+      "dexterity",
+      "hidden",
+      "luminous",
+      "piercing",
+      "versatile"
     ],
     "html": "",
     "id": "lightkatana"
@@ -2423,7 +2768,13 @@
       "long": 360
     },
     "properties": [
-      "power-cell, range, auto, penetrating, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "auto",
+      "penetrating",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "lightning-cannon"
@@ -2446,7 +2797,12 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, penetrating, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "penetrating",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "lightning-carbine"
@@ -2469,7 +2825,10 @@
       "long": 120
     },
     "properties": [
-      "power-cell, range, penetrating, reload"
+      "power-cell",
+      "range",
+      "penetrating",
+      "reload"
     ],
     "html": "",
     "id": "lightning-pistol"
@@ -2492,7 +2851,12 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, penetrating, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "penetrating",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "lightning-rifle"
@@ -2515,7 +2879,11 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, luminous, piercing, two-handed, vicious"
+      "dexterity",
+      "luminous",
+      "piercing",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "lightnodachi"
@@ -2538,7 +2906,12 @@
       "long": 75
     },
     "properties": [
-      "finesse, hidden, luminous, returning, thrown, range"
+      "finesse",
+      "hidden",
+      "luminous",
+      "returning",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "lightring"
@@ -2561,7 +2934,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, double-(1d8-energy), luminous, reach"
+      "dexterity",
+      "double-(1d8-energy)",
+      "luminous",
+      "reach"
     ],
     "html": "",
     "id": "lightsaber-pike"
@@ -2584,7 +2960,9 @@
       "long": "None"
     },
     "properties": [
-      "hidden, luminous, versatile"
+      "hidden",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "lightsaber"
@@ -2607,7 +2985,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, luminous, reach, two-handed"
+      "dexterity",
+      "luminous",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "lightstaff"
@@ -2630,7 +3011,9 @@
       "long": "None"
     },
     "properties": [
-      "reach, special, two-handed"
+      "reach",
+      "special",
+      "two-handed"
     ],
     "html": "",
     "id": "mancatcher"
@@ -2653,7 +3036,11 @@
       "long": 500
     },
     "properties": [
-      "power-cell, range, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "marksman-blaster"
@@ -2676,7 +3063,9 @@
       "long": "None"
     },
     "properties": [
-      "hidden, luminous, versatile"
+      "hidden",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "martial-lightsaber"
@@ -2699,7 +3088,10 @@
       "long": 600
     },
     "properties": [
-      "special, range, reload, two-handed"
+      "special",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "mortar-launcher"
@@ -2722,7 +3114,12 @@
       "long": 160
     },
     "properties": [
-      "slug-cartridge, range, piercing, reload, silent, special"
+      "slug-cartridge",
+      "range",
+      "piercing",
+      "reload",
+      "silent",
+      "special"
     ],
     "html": "",
     "id": "needler"
@@ -2745,7 +3142,8 @@
       "long": "None"
     },
     "properties": [
-      "disruptive, neuralizing"
+      "disruptive",
+      "neuralizing"
     ],
     "html": "",
     "id": "nervebaton"
@@ -2768,7 +3166,10 @@
       "long": "None"
     },
     "properties": [
-      "light, finesse, special, thrown-(range)"
+      "light",
+      "finesse",
+      "special",
+      "thrown-(range)"
     ],
     "html": "",
     "id": "net"
@@ -2791,7 +3192,9 @@
       "long": "None"
     },
     "properties": [
-      "reach, shocking, specialized-(shocking)"
+      "reach",
+      "shocking",
+      "specialized-(shocking)"
     ],
     "html": "",
     "id": "neuronic-whip"
@@ -2814,7 +3217,12 @@
       "long": 500
     },
     "properties": [
-      "power-cell, range, reload, silent, strength, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "silent",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "nightstinger-rifle"
@@ -2837,7 +3245,13 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, disguised, hidden, keen, light, luminous, vicious"
+      "dexterity",
+      "disguised",
+      "hidden",
+      "keen",
+      "light",
+      "luminous",
+      "vicious"
     ],
     "html": "",
     "id": "phase-knife"
@@ -2860,7 +3274,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, luminous, reach, two-handed"
+      "dexterity",
+      "luminous",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "pikesaber"
@@ -2883,7 +3300,15 @@
       "long": 300
     },
     "properties": [
-      "power-cell, range, auto, burst, disrupt-ive, piercing, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "auto",
+      "burst",
+      "disrupt-ive",
+      "piercing",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "radiation-cannon"
@@ -2906,7 +3331,13 @@
       "long": 480
     },
     "properties": [
-      "disintegrate, power-cell, range, reload, specialized-(disintegrate), strength, two-handed"
+      "disintegrate",
+      "power-cell",
+      "range",
+      "reload",
+      "specialized-(disintegrate)",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "radrifle"
@@ -2929,7 +3360,12 @@
       "long": 600
     },
     "properties": [
-      "piercing, reload, slug-cartridge, range, strength, two-handed"
+      "piercing",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "railgun"
@@ -2952,7 +3388,14 @@
       "long": 300
     },
     "properties": [
-      "auto, burst, power-cell, range, rapid, reload, strength, two-handed"
+      "auto",
+      "burst",
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "repeating-blaster"
@@ -2975,7 +3418,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, dire, reckless, versatile"
+      "dexterity",
+      "dire",
+      "reckless",
+      "versatile"
     ],
     "html": "",
     "id": "retrosaber"
@@ -2998,7 +3444,11 @@
       "long": 240
     },
     "properties": [
-      "slug-cartridge, range, rapid, reload, strength"
+      "slug-cartridge",
+      "range",
+      "rapid",
+      "reload",
+      "strength"
     ],
     "html": "",
     "id": "revolver"
@@ -3021,7 +3471,8 @@
       "long": "None"
     },
     "properties": [
-      "defensive, light"
+      "defensive",
+      "light"
     ],
     "html": "",
     "id": "riot-baton"
@@ -3044,7 +3495,9 @@
       "long": "None"
     },
     "properties": [
-      "defensive, light, shocking"
+      "defensive",
+      "light",
+      "shocking"
     ],
     "html": "",
     "id": "riot-shocker"
@@ -3067,7 +3520,11 @@
       "long": 600
     },
     "properties": [
-      "reload, special, range, strength, two-handed"
+      "reload",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "rocket-launcher"
@@ -3090,7 +3547,11 @@
       "long": 240
     },
     "properties": [
-      "reload, special, range, strength, two-handed"
+      "reload",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "rocket-rifle"
@@ -3113,7 +3574,13 @@
       "long": 300
     },
     "properties": [
-      "auto, power-cell, range, rapid, reload, strength, two-handed"
+      "auto",
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "rotary-cannon"
@@ -3159,7 +3626,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, fixed, luminous"
+      "finesse",
+      "fixed",
+      "luminous"
     ],
     "html": "",
     "id": "sabergauntlet"
@@ -3182,7 +3651,11 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, hidden, luminous, versatile"
+      "brutal",
+      "dexterity",
+      "hidden",
+      "luminous",
+      "versatile"
     ],
     "html": "",
     "id": "sabermace"
@@ -3205,7 +3678,10 @@
       "long": 60
     },
     "properties": [
-      "luminous, thrown, range, versatile"
+      "luminous",
+      "thrown",
+      "range",
+      "versatile"
     ],
     "html": "",
     "id": "saberspear"
@@ -3251,7 +3727,10 @@
       "long": "None"
     },
     "properties": [
-      "finesse, hidden, luminous, reach"
+      "finesse",
+      "hidden",
+      "luminous",
+      "reach"
     ],
     "html": "",
     "id": "saberwhip"
@@ -3274,7 +3753,12 @@
       "long": 160
     },
     "properties": [
-      "power-cell, range, burst, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "burst",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "scatter-blaster"
@@ -3297,7 +3781,11 @@
       "long": 120
     },
     "properties": [
-      "burst, reload, slug-cartridge, range, strength"
+      "burst",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength"
     ],
     "html": "",
     "id": "scattergun"
@@ -3320,7 +3808,13 @@
       "long": 480
     },
     "properties": [
-      "brutal, keen, reload, special, range, strength, two-handed"
+      "brutal",
+      "keen",
+      "reload",
+      "special",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "sentry-gun"
@@ -3343,7 +3837,14 @@
       "long": 300
     },
     "properties": [
-      "slug-cartridge, range, auto, burst, reload, silent, strength, two-handed"
+      "slug-cartridge",
+      "range",
+      "auto",
+      "burst",
+      "reload",
+      "silent",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "shatter-cannon"
@@ -3366,7 +3867,12 @@
       "long": 240
     },
     "properties": [
-      "slug-cartridge, range, light, reload, silent, strength"
+      "slug-cartridge",
+      "range",
+      "light",
+      "reload",
+      "silent",
+      "strength"
     ],
     "html": "",
     "id": "shatter-pistol"
@@ -3389,7 +3895,12 @@
       "long": 400
     },
     "properties": [
-      "slug-cartridge, range, reload, silent, strength, two-handed"
+      "slug-cartridge",
+      "range",
+      "reload",
+      "silent",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "shatter-rifle"
@@ -3412,7 +3923,8 @@
       "long": "None"
     },
     "properties": [
-      "reach, shocking"
+      "reach",
+      "shocking"
     ],
     "html": "",
     "id": "shock-whip"
@@ -3435,7 +3947,11 @@
       "long": 240
     },
     "properties": [
-      "mighty, silent, special, range, two-handed"
+      "mighty",
+      "silent",
+      "special",
+      "range",
+      "two-handed"
     ],
     "html": "",
     "id": "shortbow"
@@ -3458,7 +3974,12 @@
       "long": 120
     },
     "properties": [
-      "burst, reload, slug-cartridge, range, strength, two-handed"
+      "burst",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "shotgun"
@@ -3481,7 +4002,10 @@
       "long": "None"
     },
     "properties": [
-      "finesse, hidden, light, luminous"
+      "finesse",
+      "hidden",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "shotosaber"
@@ -3504,7 +4028,12 @@
       "long": 160
     },
     "properties": [
-      "power-cell, range, rapid, reload, smart-(15/+2), special"
+      "power-cell",
+      "range",
+      "rapid",
+      "reload",
+      "smart-(15/+2)",
+      "special"
     ],
     "html": "",
     "id": "shoulder-blaster"
@@ -3527,7 +4056,14 @@
       "long": 240
     },
     "properties": [
-      "auto, burst, power-cell, range, reload, smart-(15/+2), special, strength"
+      "auto",
+      "burst",
+      "power-cell",
+      "range",
+      "reload",
+      "smart-(15/+2)",
+      "special",
+      "strength"
     ],
     "html": "",
     "id": "shoulder-cannon"
@@ -3550,7 +4086,11 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, dire, hidden, light, luminous"
+      "dexterity",
+      "dire",
+      "hidden",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "sicklesaber"
@@ -3573,7 +4113,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, hidden, keen, versatile"
+      "dexterity",
+      "hidden",
+      "keen",
+      "versatile"
     ],
     "html": "",
     "id": "sith-saber"
@@ -3596,7 +4139,11 @@
       "long": 160
     },
     "properties": [
-      "rapid, reload, slug-cartridge, range, strength"
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "strength"
     ],
     "html": "",
     "id": "slugpistol"
@@ -3619,7 +4166,10 @@
       "long": 420
     },
     "properties": [
-      "reload, slug-cartridge, range, two-handed"
+      "reload",
+      "slug-cartridge",
+      "range",
+      "two-handed"
     ],
     "html": "",
     "id": "slugthrower"
@@ -3642,7 +4192,15 @@
       "long": 300
     },
     "properties": [
-      "auto, burst, rapid, reload, slug-cartridge, range, smart-(15/+2), strength, two-handed"
+      "auto",
+      "burst",
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "smart-(15/+2)",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "smart-cannon"
@@ -3665,7 +4223,13 @@
       "long": 160
     },
     "properties": [
-      "piercing, rapid, reload, slug-cartridge, range, smart-(15/+2), strength"
+      "piercing",
+      "rapid",
+      "reload",
+      "slug-cartridge",
+      "range",
+      "smart-(15/+2)",
+      "strength"
     ],
     "html": "",
     "id": "smart-pistol"
@@ -3688,7 +4252,11 @@
       "long": 600
     },
     "properties": [
-      "power-cell, range, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "sniper-rifle"
@@ -3711,7 +4279,14 @@
       "long": 360
     },
     "properties": [
-      "power-cell, range, auto, burst, disruptive, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "auto",
+      "burst",
+      "disruptive",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "sonic-cannon"
@@ -3734,7 +4309,12 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, disruptive, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "disruptive",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "sonic-carbine"
@@ -3757,7 +4337,10 @@
       "long": 120
     },
     "properties": [
-      "power-cell, range, disruptive, reload"
+      "power-cell",
+      "range",
+      "disruptive",
+      "reload"
     ],
     "html": "",
     "id": "sonic-pistol"
@@ -3780,7 +4363,12 @@
       "long": 320
     },
     "properties": [
-      "power-cell, range, disruptive, reload, strength, two-handed"
+      "power-cell",
+      "range",
+      "disruptive",
+      "reload",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "sonic-rifle"
@@ -3803,7 +4391,9 @@
       "long": "None"
     },
     "properties": [
-      "double-(2d4-energy), interlocking, luminous"
+      "double-(2d4-energy)",
+      "interlocking",
+      "luminous"
     ],
     "html": "",
     "id": "splitsaber"
@@ -3826,7 +4416,10 @@
       "long": "None"
     },
     "properties": [
-      "double-(1d8-energy), interlocking, light, luminous"
+      "double-(1d8-energy)",
+      "interlocking",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "splitshoto"
@@ -3849,7 +4442,11 @@
       "long": 280
     },
     "properties": [
-      "power-cell, range, reload, silent, two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "silent",
+      "two-handed"
     ],
     "html": "",
     "id": "stealth-carbine"
@@ -3872,7 +4469,9 @@
       "long": "None"
     },
     "properties": [
-      "disruptive, fixed, shocking"
+      "disruptive",
+      "fixed",
+      "shocking"
     ],
     "html": "",
     "id": "stun-gauntlet"
@@ -3895,7 +4494,13 @@
       "long": 120
     },
     "properties": [
-      "auto, rapid, light, power-cell, range, reload, strength"
+      "auto",
+      "rapid",
+      "light",
+      "power-cell",
+      "range",
+      "reload",
+      "strength"
     ],
     "html": "",
     "id": "subrepeater"
@@ -3918,7 +4523,11 @@
       "long": "None"
     },
     "properties": [
-      "bright, dexterity, hidden, specialized-(bright), versatile"
+      "bright",
+      "dexterity",
+      "hidden",
+      "specialized-(bright)",
+      "versatile"
     ],
     "html": "",
     "id": "sunsaber"
@@ -3941,7 +4550,13 @@
       "long": 400
     },
     "properties": [
-      "power-cell, range, burst, reload, strength, switch-(2d4-acid/cold/fire/lightning), two-handed"
+      "power-cell",
+      "range",
+      "burst",
+      "reload",
+      "strength",
+      "switch-(2d4-acid/cold/fire/lightning)",
+      "two-handed"
     ],
     "html": "",
     "id": "switch-cannon"
@@ -3964,7 +4579,11 @@
       "long": 280
     },
     "properties": [
-      "power-cell, range, reload, switch-(1d4-acid), two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "switch-(1d4-acid)",
+      "two-handed"
     ],
     "html": "",
     "id": "switch-carbine"
@@ -3987,7 +4606,10 @@
       "long": 160
     },
     "properties": [
-      "power-cell, range, reload, switch-(1d4-fire)"
+      "power-cell",
+      "range",
+      "reload",
+      "switch-(1d4-fire)"
     ],
     "html": "",
     "id": "switch-pistol"
@@ -4010,7 +4632,11 @@
       "long": 420
     },
     "properties": [
-      "power-cell, range, reload, switch-(1d6-lightning), two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "switch-(1d6-lightning)",
+      "two-handed"
     ],
     "html": "",
     "id": "switch-rifle"
@@ -4033,7 +4659,12 @@
       "long": 600
     },
     "properties": [
-      "power-cell, range, reload, strength, switch-(1d10-cold), two-handed"
+      "power-cell",
+      "range",
+      "reload",
+      "strength",
+      "switch-(1d10-cold)",
+      "two-handed"
     ],
     "html": "",
     "id": "switch-sniper"
@@ -4056,7 +4687,9 @@
       "long": 75
     },
     "properties": [
-      "light, thrown, range"
+      "light",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "techaxe"
@@ -4079,7 +4712,8 @@
       "long": "None"
     },
     "properties": [
-      "finesse, light"
+      "finesse",
+      "light"
     ],
     "html": "",
     "id": "techblade"
@@ -4102,7 +4736,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, double-(2d4-kinetic), light"
+      "dexterity",
+      "double-(2d4-kinetic)",
+      "light"
     ],
     "html": "",
     "id": "techstaff"
@@ -4125,7 +4761,10 @@
       "long": 3600
     },
     "properties": [
-      "special, range, reload, two-handed"
+      "special",
+      "range",
+      "reload",
+      "two-handed"
     ],
     "html": "",
     "id": "torpedo-launcher"
@@ -4148,7 +4787,11 @@
       "long": 240
     },
     "properties": [
-      "slug-cartridge, range, reload, silent, special"
+      "slug-cartridge",
+      "range",
+      "reload",
+      "silent",
+      "special"
     ],
     "html": "",
     "id": "tranquilizer-rifle"
@@ -4171,7 +4814,10 @@
       "long": "None"
     },
     "properties": [
-      "reload, special-(range-special), strength, two-handed"
+      "reload",
+      "special-(range-special)",
+      "strength",
+      "two-handed"
     ],
     "html": "",
     "id": "vapor-projector"
@@ -4194,7 +4840,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, heavy, two-handed"
+      "dexterity",
+      "heavy",
+      "two-handed"
     ],
     "html": "",
     "id": "vibroaxe"
@@ -4240,7 +4888,10 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, heavy, two-handed"
+      "brutal",
+      "dexterity",
+      "heavy",
+      "two-handed"
     ],
     "html": "",
     "id": "vibrobattleaxe"
@@ -4286,7 +4937,12 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, heavy, keen, reach, two-handed"
+      "brutal",
+      "dexterity",
+      "heavy",
+      "keen",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "vibrobuster"
@@ -4309,7 +4965,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, fixed, light"
+      "finesse",
+      "fixed",
+      "light"
     ],
     "html": "",
     "id": "vibroclaw"
@@ -4332,7 +4990,8 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, two-handed"
+      "dexterity",
+      "two-handed"
     ],
     "html": "",
     "id": "vibroclaymore"
@@ -4401,7 +5060,10 @@
       "long": 60
     },
     "properties": [
-      "finesse, light, thrown, range"
+      "finesse",
+      "light",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "vibrodagger"
@@ -4424,7 +5086,10 @@
       "long": 60
     },
     "properties": [
-      "finesse, special, thrown, range"
+      "finesse",
+      "special",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "vibrodart"
@@ -4447,7 +5112,8 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reckless"
+      "dexterity",
+      "reckless"
     ],
     "html": "",
     "id": "vibroflail"
@@ -4470,7 +5136,10 @@
       "long": "None"
     },
     "properties": [
-      "brutal, dexterity, reach, two-handed"
+      "brutal",
+      "dexterity",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "vibroglaive"
@@ -4493,7 +5162,9 @@
       "long": "None"
     },
     "properties": [
-      "heavy, two-handed, vicious"
+      "heavy",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "vibrohammer"
@@ -4516,7 +5187,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, piercing, versatile"
+      "dexterity",
+      "piercing",
+      "versatile"
     ],
     "html": "",
     "id": "vibrokatana"
@@ -4539,7 +5212,9 @@
       "long": "None"
     },
     "properties": [
-      "finesse, light, piercing"
+      "finesse",
+      "light",
+      "piercing"
     ],
     "html": "",
     "id": "vibroknife"
@@ -4562,7 +5237,8 @@
       "long": "None"
     },
     "properties": [
-      "hidden, light"
+      "hidden",
+      "light"
     ],
     "html": "",
     "id": "vibroknuckler"
@@ -4585,7 +5261,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reach, special"
+      "dexterity",
+      "reach",
+      "special"
     ],
     "html": "",
     "id": "vibrolance"
@@ -4608,7 +5286,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, heavy, two-handed"
+      "dexterity",
+      "heavy",
+      "two-handed"
     ],
     "html": "",
     "id": "vibromace"
@@ -4631,7 +5311,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, piercing, two-handed, vicious"
+      "dexterity",
+      "piercing",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "vibronodachi"
@@ -4654,7 +5337,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reach, two-handed"
+      "dexterity",
+      "reach",
+      "two-handed"
     ],
     "html": "",
     "id": "vibropike"
@@ -4700,7 +5385,9 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, keen, light"
+      "dexterity",
+      "keen",
+      "light"
     ],
     "html": "",
     "id": "vibrosabre"
@@ -4723,7 +5410,8 @@
       "long": "None"
     },
     "properties": [
-      "defensive, fixed"
+      "defensive",
+      "fixed"
     ],
     "html": "",
     "id": "vibroshield"
@@ -4746,7 +5434,9 @@
       "long": 75
     },
     "properties": [
-      "thrown, range, versatile"
+      "thrown",
+      "range",
+      "versatile"
     ],
     "html": "",
     "id": "vibrospear"
@@ -4792,7 +5482,11 @@
       "long": 90
     },
     "properties": [
-      "finesse, keen, light, thrown, range"
+      "finesse",
+      "keen",
+      "light",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "vibrostiletto"
@@ -4815,7 +5509,8 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, two-handed"
+      "dexterity",
+      "two-handed"
     ],
     "html": "",
     "id": "vibrosword"
@@ -4838,7 +5533,9 @@
       "long": "None"
     },
     "properties": [
-      "defensive, finesse, light"
+      "defensive",
+      "finesse",
+      "light"
     ],
     "html": "",
     "id": "vibrotonfa"
@@ -4861,7 +5558,8 @@
       "long": "None"
     },
     "properties": [
-      "finesse, reach"
+      "finesse",
+      "reach"
     ],
     "html": "",
     "id": "vibrowhip"
@@ -4884,7 +5582,11 @@
       "long": 90
     },
     "properties": [
-      "defensive, disguised, returning, thrown, range"
+      "defensive",
+      "disguised",
+      "returning",
+      "thrown",
+      "range"
     ],
     "html": "",
     "id": "war-hat"
@@ -4907,7 +5609,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reckless, two-handed, vicious"
+      "dexterity",
+      "reckless",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "warsaber"
@@ -4930,7 +5635,10 @@
       "long": "None"
     },
     "properties": [
-      "dexterity, reckless, two-handed, vicious"
+      "dexterity",
+      "reckless",
+      "two-handed",
+      "vicious"
     ],
     "html": "",
     "id": "warsword"
@@ -4953,7 +5661,10 @@
       "long": 120
     },
     "properties": [
-      "fixed, reload, special, range"
+      "fixed",
+      "reload",
+      "special",
+      "range"
     ],
     "html": "",
     "id": "wrist-launcher"
@@ -4976,7 +5687,9 @@
       "long": "None"
     },
     "properties": [
-      "fixed, light, piercing"
+      "fixed",
+      "light",
+      "piercing"
     ],
     "html": "",
     "id": "wristblade"
@@ -4999,7 +5712,12 @@
       "long": 120
     },
     "properties": [
-      "disguised, fixed, light, power-cell, range, reload"
+      "disguised",
+      "fixed",
+      "light",
+      "power-cell",
+      "range",
+      "reload"
     ],
     "html": "",
     "id": "wristblaster"
@@ -5022,7 +5740,10 @@
       "long": 240
     },
     "properties": [
-      "power-cell, range, fixed, reload"
+      "power-cell",
+      "range",
+      "fixed",
+      "reload"
     ],
     "html": "",
     "id": "wristrifle"
@@ -5045,7 +5766,10 @@
       "long": "None"
     },
     "properties": [
-      "finesse, fixed, light, luminous"
+      "finesse",
+      "fixed",
+      "light",
+      "luminous"
     ],
     "html": "",
     "id": "wristsaber"

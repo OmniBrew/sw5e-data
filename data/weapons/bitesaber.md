@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - biting, hidden, luminous, versatile
+  - biting
+  - hidden
+  - luminous
+  - versatile
 ---

@@ -14,5 +14,12 @@ range:
   short: 80
   long: 320
 properties:
-  - auto, rapid, reload, slug-cartridge, range, strength, two-handed, vicious
+  - auto
+  - rapid
+  - reload
+  - slug-cartridge
+  - range
+  - strength
+  - two-handed
+  - vicious
 ---

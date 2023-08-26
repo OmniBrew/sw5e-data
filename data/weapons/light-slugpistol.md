@@ -14,5 +14,8 @@ range:
   short: 35
   long: 140
 properties:
-  - light, reload, slug-cartridge, range
+  - light
+  - reload
+  - slug-cartridge
+  - range
 ---

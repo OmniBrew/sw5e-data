@@ -14,5 +14,11 @@ range:
   short: 30
   long: 120
 properties:
-  - auto, rapid, light, power-cell, range, reload, strength
+  - auto
+  - rapid
+  - light
+  - power-cell
+  - range
+  - reload
+  - strength
 ---

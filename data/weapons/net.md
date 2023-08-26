@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - light, finesse, special, thrown-(range)
+  - light
+  - finesse
+  - special
+  - thrown-(range)
 ---

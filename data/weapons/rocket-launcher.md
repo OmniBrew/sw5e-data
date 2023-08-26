@@ -14,5 +14,9 @@ range:
   short: 150
   long: 600
 properties:
-  - reload, special, range, strength, two-handed
+  - reload
+  - special
+  - range
+  - strength
+  - two-handed
 ---

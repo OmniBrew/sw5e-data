@@ -14,5 +14,8 @@ range:
   short: None
   long: None
 properties:
-  - disarming, finesse, luminous, reach
+  - disarming
+  - finesse
+  - luminous
+  - reach
 ---
