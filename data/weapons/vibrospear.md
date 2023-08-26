@@ -14,5 +14,5 @@ range:
   short: 25
   long: 75
 properties:
-  - [thrown, range, versatile]
+  - thrown, range, versatile
 ---

@@ -14,5 +14,5 @@ range:
   short: 30
   long: 90
 properties:
-  - [finesse, returning, thrown, range]
+  - finesse, returning, thrown, range
 ---

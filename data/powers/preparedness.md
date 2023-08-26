@@ -1,9 +1,9 @@
 ---
 name: Preparedness
 version: 1
-level: String
-alignment: string
-prerequisite: String
+level: 1
+alignment: none
+prerequisite: 
 type: tech
 tags:
   - damage
@@ -26,7 +26,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: String
+      short: Touch
     concentration: false
 ---
 You touch a willing creature. For the duration, the target can add 1d8 to its Initiative checks.

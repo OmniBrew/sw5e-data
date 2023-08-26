@@ -14,5 +14,5 @@ range:
   short: 20
   long: 60
 properties:
-  - [light, special, thrown, range]
+  - light, special, thrown, range
 ---

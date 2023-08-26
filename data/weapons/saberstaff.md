@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [modal-(double-saber-and-tech-staff)]
+  - modal-(double-saber-and-tech-staff)
 ---

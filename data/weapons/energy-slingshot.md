@@ -14,5 +14,5 @@ range:
   short: 20
   long: 80
 properties:
-  - [power-cell, range, disruptive, fixed, mighty, reload, two-handed]
+  - power-cell, range, disruptive, fixed, mighty, reload, two-handed
 ---

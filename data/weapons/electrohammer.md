@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, heavy, shocking, two-handed]
+  - dexterity, heavy, shocking, two-handed
 ---

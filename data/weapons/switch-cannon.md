@@ -14,5 +14,5 @@ range:
   short: 100
   long: 400
 properties:
-  - [power-cell, range, burst, reload, strength, switch-(2d4-acid/cold/fire/lightning), two-handed]
+  - power-cell, range, burst, reload, strength, switch-(2d4-acid/cold/fire/lightning), two-handed
 ---

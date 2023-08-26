@@ -14,5 +14,5 @@ range:
   short: 40
   long: 160
 properties:
-  - [power-cell, range, rapid, reload, smart-(15/+2), special]
+  - power-cell, range, rapid, reload, smart-(15/+2), special
 ---

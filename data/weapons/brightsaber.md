@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [bright, hidden, luminous, versatile]
+  - bright, hidden, luminous, versatile
 ---

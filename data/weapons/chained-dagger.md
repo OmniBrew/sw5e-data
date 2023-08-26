@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disarming, finesse, reach]
+  - disarming, finesse, reach
 ---

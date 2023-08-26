@@ -14,5 +14,5 @@ range:
   short: 50
   long: 200
 properties:
-  - [brutal, disintegrate, keen, power-cell, range, reload, strength]
+  - brutal, disintegrate, keen, power-cell, range, reload, strength
 ---

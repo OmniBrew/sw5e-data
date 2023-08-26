@@ -14,5 +14,5 @@ range:
   short: 180
   long: 720
 properties:
-  - [power-cell, range, auto, reload, penetrating, strength, two-handed]
+  - power-cell, range, auto, reload, penetrating, strength, two-handed
 ---

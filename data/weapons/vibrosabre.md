@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, keen, light]
+  - dexterity, keen, light
 ---

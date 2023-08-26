@@ -14,5 +14,5 @@ range:
   short: 90
   long: 360
 properties:
-  - [auto, burst, power-cell, range, reload, strength, two-handed]
+  - auto, burst, power-cell, range, reload, strength, two-handed
 ---

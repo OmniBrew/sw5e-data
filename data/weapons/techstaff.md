@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, double-(2d4-kinetic), light]
+  - dexterity, double-(2d4-kinetic), light
 ---

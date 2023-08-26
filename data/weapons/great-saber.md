@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, luminous, two-handed]
+  - dexterity, luminous, two-handed
 ---

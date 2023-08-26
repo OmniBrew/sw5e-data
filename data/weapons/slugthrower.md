@@ -14,5 +14,5 @@ range:
   short: 105
   long: 420
 properties:
-  - [reload, slug-cartridge, range, two-handed]
+  - reload, slug-cartridge, range, two-handed
 ---

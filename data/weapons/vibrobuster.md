@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [brutal, dexterity, heavy, keen, reach, two-handed]
+  - brutal, dexterity, heavy, keen, reach, two-handed
 ---

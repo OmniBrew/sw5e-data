@@ -14,5 +14,5 @@ range:
   short: 125
   long: 500
 properties:
-  - [power-cell, range, reload, silent, strength, two-handed]
+  - power-cell, range, reload, silent, strength, two-handed
 ---

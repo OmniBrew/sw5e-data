@@ -14,5 +14,5 @@ range:
   short: 60
   long: 240
 properties:
-  - [disintegrate, power-cell, range, reload, strength, two-handed]
+  - disintegrate, power-cell, range, reload, strength, two-handed
 ---

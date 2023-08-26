@@ -14,5 +14,5 @@ range:
   short: 30
   long: 120
 properties:
-  - [burst, reload, slug-cartridge, range, strength]
+  - burst, reload, slug-cartridge, range, strength
 ---

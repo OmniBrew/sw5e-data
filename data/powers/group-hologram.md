@@ -1,9 +1,9 @@
 ---
 name: Group Hologram
 version: 1
-level: String
-alignment: string
-prerequisite: String
+level: 5
+alignment: none
+prerequisite: 
 type: tech
 tags:
   - damage
@@ -24,7 +24,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: String
+      short: 30
     concentration: false
 ---
 This power allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this power.

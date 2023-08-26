@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, dire, hidden, light, luminous]
+  - dexterity, dire, hidden, light, luminous
 ---

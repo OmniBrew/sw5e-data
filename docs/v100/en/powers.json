@@ -507,9 +507,9 @@
   {
     "name": "Alarm",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 1,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -541,7 +541,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": 30
         },
         "concentration": false
       }
@@ -1019,9 +1019,9 @@
   {
     "name": "Autonomous Servant",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 3,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -1053,7 +1053,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": "Touch"
         },
         "concentration": false
       }
@@ -3401,9 +3401,9 @@
   {
     "name": "Darkvision",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 2,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -3435,7 +3435,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": "Touch"
         },
         "concentration": false
       }
@@ -8573,9 +8573,9 @@
   {
     "name": "Group Hologram",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 5,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -8604,7 +8604,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": 30
         },
         "concentration": false
       }
@@ -11207,9 +11207,9 @@
   {
     "name": "Kolto Reserve",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 4,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -11241,7 +11241,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": "Touch"
         },
         "concentration": false
       }
@@ -13907,9 +13907,9 @@
   {
     "name": "Predictive AI",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 9,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -13941,7 +13941,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": "Touch"
         },
         "concentration": false
       }
@@ -13952,9 +13952,9 @@
   {
     "name": "Preparedness",
     "version": 1,
-    "level": "String",
-    "alignment": "string",
-    "prerequisite": "String",
+    "level": 1,
+    "alignment": "none",
+    "prerequisite": null,
     "type": "tech",
     "tags": [
       "damage"
@@ -13986,7 +13986,7 @@
           "unit": "instant"
         },
         "range": {
-          "short": "String"
+          "short": "Touch"
         },
         "concentration": false
       }

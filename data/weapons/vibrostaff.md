@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [versatile]
+  - versatile
 ---

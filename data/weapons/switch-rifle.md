@@ -14,5 +14,5 @@ range:
   short: 105
   long: 420
 properties:
-  - [power-cell, range, reload, switch-(1d6-lightning), two-handed]
+  - power-cell, range, reload, switch-(1d6-lightning), two-handed
 ---

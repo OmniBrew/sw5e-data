@@ -14,5 +14,5 @@ range:
   short: 120
   long: 480
 properties:
-  - [auto, burst, rapid, special, range, strength, two-handed]
+  - auto, burst, rapid, special, range, strength, two-handed
 ---

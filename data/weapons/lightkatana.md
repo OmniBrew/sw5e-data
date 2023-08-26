@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [dexterity, hidden, luminous, piercing, versatile]
+  - dexterity, hidden, luminous, piercing, versatile
 ---

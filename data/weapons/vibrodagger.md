@@ -14,5 +14,5 @@ range:
   short: 20
   long: 60
 properties:
-  - [finesse, light, thrown, range]
+  - finesse, light, thrown, range
 ---

@@ -14,5 +14,5 @@ range:
   short: 75
   long: 300
 properties:
-  - [slug-cartridge, range, auto, burst, reload, silent, strength, two-handed]
+  - slug-cartridge, range, auto, burst, reload, silent, strength, two-handed
 ---

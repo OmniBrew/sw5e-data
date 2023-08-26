@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [modal-(blaster-rifle-and-techstaff)]
+  - modal-(blaster-rifle-and-techstaff)
 ---

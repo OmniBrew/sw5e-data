@@ -14,5 +14,5 @@ range:
   short: 120
   long: 480
 properties:
-  - [brutal, keen, reload, special, range, strength, two-handed]
+  - brutal, keen, reload, special, range, strength, two-handed
 ---

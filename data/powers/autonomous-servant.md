@@ -1,9 +1,9 @@
 ---
 name: Autonomous Servant
 version: 1
-level: String
-alignment: string
-prerequisite: String
+level: 3
+alignment: none
+prerequisite: 
 type: tech
 tags:
   - damage
@@ -26,7 +26,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: String
+      short: Touch
     concentration: false
 ---
 You touch one Tiny, unenhanced object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and gains little arms and legs, becoming a creature under your control until the power ends or the creature drops to 0 hit points. See the stat block for its statistics. 

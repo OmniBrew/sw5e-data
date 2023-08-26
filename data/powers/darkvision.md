@@ -1,9 +1,9 @@
 ---
 name: Darkvision
 version: 1
-level: String
-alignment: string
-prerequisite: String
+level: 2
+alignment: none
+prerequisite: 
 type: tech
 tags:
   - damage
@@ -26,7 +26,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: String
+      short: Touch
     concentration: false
 ---
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.

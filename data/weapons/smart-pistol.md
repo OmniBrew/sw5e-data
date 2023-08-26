@@ -14,5 +14,5 @@ range:
   short: 40
   long: 160
 properties:
-  - [piercing, rapid, reload, slug-cartridge, range, smart-(15/+2), strength]
+  - piercing, rapid, reload, slug-cartridge, range, smart-(15/+2), strength
 ---

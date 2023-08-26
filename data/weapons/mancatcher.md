@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [reach, special, two-handed]
+  - reach, special, two-handed
 ---

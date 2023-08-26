@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [hidden, light, luminous]
+  - hidden, light, luminous
 ---

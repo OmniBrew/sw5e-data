@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [reload, special-(range-special), strength, two-handed]
+  - reload, special-(range-special), strength, two-handed
 ---

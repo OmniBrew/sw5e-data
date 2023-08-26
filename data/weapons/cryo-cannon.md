@@ -14,5 +14,5 @@ range:
   short: 75
   long: 300
 properties:
-  - [auto, burst, power-cell, range, reload, strength, two-handed, vicious]
+  - auto, burst, power-cell, range, reload, strength, two-handed, vicious
 ---

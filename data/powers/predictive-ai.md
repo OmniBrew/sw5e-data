@@ -1,9 +1,9 @@
 ---
 name: Predictive AI
 version: 1
-level: String
-alignment: string
-prerequisite: String
+level: 9
+alignment: none
+prerequisite: 
 type: tech
 tags:
   - damage
@@ -26,7 +26,7 @@ mechanics:
       length: 0
       unit: instant
     range:
-      short: String
+      short: Touch
     concentration: false
 ---
 You touch a willing creature, granting them a limited AI companion that can predict the world around them. For the duration, the target can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target for the duration.

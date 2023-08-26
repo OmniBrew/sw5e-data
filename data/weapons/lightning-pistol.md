@@ -14,5 +14,5 @@ range:
   short: 30
   long: 120
 properties:
-  - [power-cell, range, penetrating, reload]
+  - power-cell, range, penetrating, reload
 ---

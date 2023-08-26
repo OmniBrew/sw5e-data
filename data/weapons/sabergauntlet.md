@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [finesse, fixed, luminous]
+  - finesse, fixed, luminous
 ---

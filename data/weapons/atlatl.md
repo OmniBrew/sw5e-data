@@ -14,5 +14,5 @@ range:
   short: None
   long: None
 properties:
-  - [disguised, light, special]
+  - disguised, light, special
 ---
