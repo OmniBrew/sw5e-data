@@ -8,7 +8,10 @@ type: tech
 tags:
   - damage
 classes:
-  - tech
+  - engineer
+  - operative
+  - scout
+  - shield
 mechanics:
   - castingTime:
       length: 1

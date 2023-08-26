@@ -8,7 +8,11 @@ type: force
 tags:
   - damage
 classes:
-  - force
+  - consular
+  - guardian
+  - sentinel
+  - adept
+  - beguiler
 mechanics:
   - castingTime:
       length: 1
