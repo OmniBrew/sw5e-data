@@ -11,8 +11,8 @@ damage:
   dieType: 6
   type: necrotic
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - corruption
   - hidden

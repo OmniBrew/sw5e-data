@@ -11,8 +11,8 @@ damage:
   dieType: 4
   type: energy
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - double-(2d4-energy)
   - interlocking

@@ -11,8 +11,8 @@ damage:
   dieType: None
   type: None
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - modal-(double-saber-and-tech-staff)
 ---

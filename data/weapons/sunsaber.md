@@ -11,8 +11,8 @@ damage:
   dieType: 6
   type: fire
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - bright
   - dexterity

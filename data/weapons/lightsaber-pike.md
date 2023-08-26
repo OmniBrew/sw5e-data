@@ -11,8 +11,8 @@ damage:
   dieType: 8
   type: energy
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - dexterity
   - double-(1d8-energy)

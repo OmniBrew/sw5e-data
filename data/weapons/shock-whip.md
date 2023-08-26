@@ -11,8 +11,8 @@ damage:
   dieType: 4
   type: kinetic
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - reach
   - shocking

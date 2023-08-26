@@ -11,8 +11,8 @@ damage:
   dieType: 6
   type: acid
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - biting
   - hidden

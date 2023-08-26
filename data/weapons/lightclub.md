@@ -11,8 +11,8 @@ damage:
   dieType: 10
   type: energy
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - dexterity
   - heavy

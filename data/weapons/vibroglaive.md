@@ -11,8 +11,8 @@ damage:
   dieType: 10
   type: kinetic
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - brutal
   - dexterity

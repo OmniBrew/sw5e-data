@@ -11,8 +11,8 @@ damage:
   dieType: 8
   type: kinetic
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - disarming
   - finesse

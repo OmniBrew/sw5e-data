@@ -11,8 +11,8 @@ damage:
   dieType: 6
   type: energy
 range:
-  short: None
-  long: None
+  short: none
+  long: none
 properties:
   - dexterity
   - reckless
