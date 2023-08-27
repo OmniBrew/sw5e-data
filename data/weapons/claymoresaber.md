@@ -5,14 +5,14 @@ type: martial_lightweapon
 cost: 2300
 manufacturer: unaffiliated
 weight: 3.5
-reload: None
+reload: none
 damage:
   dieCount: 3
   dieType: 4
   type: energy
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - dexterity
   - luminous

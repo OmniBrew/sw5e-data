@@ -5,14 +5,14 @@ type: martial_vibroweapon
 cost: 300
 manufacturer: unaffiliated
 weight: 3
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: None
   type: None
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - light
   - finesse

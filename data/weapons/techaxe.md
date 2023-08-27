@@ -5,7 +5,7 @@ type: simple_vibroweapon
 cost: 75
 manufacturer: unaffiliated
 weight: 1
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: 6

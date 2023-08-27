@@ -5,7 +5,7 @@ type: martial_lightweapon
 cost: 575
 manufacturer: unaffiliated
 weight: 2
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: 6

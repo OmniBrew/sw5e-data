@@ -5,7 +5,7 @@ type: martial_blaster
 cost: 5500
 manufacturer: unaffiliated
 weight: 18.5
-reload: None
+reload: none
 damage:
   dieCount: 2
   dieType: 6

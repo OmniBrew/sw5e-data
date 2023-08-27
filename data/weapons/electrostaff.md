@@ -5,14 +5,14 @@ type: martial_vibroweapon
 cost: 600
 manufacturer: unaffiliated
 weight: 5
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: 6
   type: kinetic
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - double-(1d6-kinetic)
   - finesse

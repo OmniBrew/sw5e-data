@@ -5,14 +5,14 @@ type: exotic_vibroweapon
 cost: 1075
 manufacturer: unaffiliated
 weight: 0
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: None
   type: None
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - modal-(blaster-rifle-and-techstaff)
 ---

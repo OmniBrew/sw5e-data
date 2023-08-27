@@ -5,14 +5,14 @@ type: simple_vibroweapon
 cost: 600
 manufacturer: unaffiliated
 weight: 1
-reload: None
+reload: none
 damage:
   dieCount: 2
   dieType: 4
   type: kinetic
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - dexterity
 ---

@@ -11,8 +11,8 @@ damage:
   dieType: None
   type: None
 range:
-  short: none
-  long: none
+  short: 5
+  long: 5
 properties:
   - reload
   - special-(range-special)

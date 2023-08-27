@@ -5,7 +5,7 @@ type: martial_vibroweapon
 cost: 175
 manufacturer: unaffiliated
 weight: 3
-reload: None
+reload: none
 damage:
   dieCount: 1
   dieType: 6
