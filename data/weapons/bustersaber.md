@@ -6,6 +6,7 @@ cost: 2900
 manufacturer: unaffiliated
 weight: 7.25
 reload: none
+heat: none
 damage:
   dieCount: 1
   dieType: 12

@@ -6,6 +6,7 @@ cost: 3050
 manufacturer: unaffiliated
 weight: 4.5
 reload: none
+heat: none
 damage:
   dieCount: 3
   dieType: 4
