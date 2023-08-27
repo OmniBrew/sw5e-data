@@ -1,7 +1,7 @@
 ---
 name: Affect Mind
 version: 1
-level: 0
+level: cantrip
 alignment: universal
 prerequisite: 
 type: force
