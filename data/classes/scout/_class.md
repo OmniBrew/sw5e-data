@@ -1,5 +1,6 @@
 ---
 name: Scout
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_01.png
 snippet: >-
   Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization�humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids
 primaryAbility:

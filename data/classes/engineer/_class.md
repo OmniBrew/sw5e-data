@@ -1,5 +1,6 @@
 ---
 name: Engineer
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/engineer_01.png
 snippet: >-
   While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic
 primaryAbility:

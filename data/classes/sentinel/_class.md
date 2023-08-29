@@ -1,5 +1,6 @@
 ---
 name: Sentinel
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_01.png
 snippet: >-
   The sentinel uses stealth and subterfuge to accomplish the will of the Force
 primaryAbility:

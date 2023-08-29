@@ -1,5 +1,6 @@
 ---
 name: Monk
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/monk_01.png
 snippet: >-
   Monks make careful study of a mystical energy that most monastic orders call focus
 primaryAbility:

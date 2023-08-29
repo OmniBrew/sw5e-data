@@ -1,6 +1,7 @@
 [
   {
     "name": "Berserker",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/berserker_01.png",
     "snippet": "People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority",
     "primaryAbility": [
       "str"
@@ -80,6 +81,7 @@
   },
   {
     "name": "Consular",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/consular_01.png",
     "snippet": "Refraining from drawing their lightsabers except as a measure of last resort, consulars spend a great deal of time studying the mysteries of the Force",
     "primaryAbility": [
       "wis",
@@ -152,6 +154,7 @@
   },
   {
     "name": "Engineer",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/engineer_01.png",
     "snippet": "While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic",
     "primaryAbility": [
       "int"
@@ -244,6 +247,7 @@
   },
   {
     "name": "Fighter",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/fighter_01.png",
     "snippet": "Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs",
     "primaryAbility": [
       "str"
@@ -333,6 +337,7 @@
   },
   {
     "name": "Guardian",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_01.png",
     "snippet": "An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons",
     "primaryAbility": [
       "str"
@@ -421,6 +426,7 @@
   },
   {
     "name": "Monk",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/monk_01.png",
     "snippet": "Monks make careful study of a mystical energy that most monastic orders call focus",
     "primaryAbility": [
       "dex"
@@ -498,6 +504,7 @@
   },
   {
     "name": "Operative",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/operative_01.png",
     "snippet": "Operatives have a knack for getting out of trouble",
     "primaryAbility": [
       "dex"
@@ -593,6 +600,7 @@
   },
   {
     "name": "Scholar",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/scholar_01.png",
     "snippet": "A true scholar is never satisfied",
     "primaryAbility": [
       "int"
@@ -689,6 +697,7 @@
   },
   {
     "name": "Scout",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_01.png",
     "snippet": "Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization�humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids",
     "primaryAbility": [
       "dex"
@@ -783,6 +792,7 @@
   },
   {
     "name": "Sentinel",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_01.png",
     "snippet": "The sentinel uses stealth and subterfuge to accomplish the will of the Force",
     "primaryAbility": [
       "dex"

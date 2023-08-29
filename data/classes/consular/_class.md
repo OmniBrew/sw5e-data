@@ -1,5 +1,6 @@
 ---
 name: Consular
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/consular_01.png
 snippet: >-
   Refraining from drawing their lightsabers except as a measure of last resort, consulars spend a great deal of time studying the mysteries of the Force
 primaryAbility:

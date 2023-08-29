@@ -1,5 +1,6 @@
 ---
 name: Fighter
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/fighter_01.png
 snippet: >-
   Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs
 primaryAbility:

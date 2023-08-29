@@ -1,5 +1,6 @@
 ---
 name: Guardian
+img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_01.png
 snippet: >-
   An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons
 primaryAbility:
