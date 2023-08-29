@@ -7,6 +7,13 @@
     "id": "acrobatics"
   },
   {
+    "link": "wis",
+    "is_new": false,
+    "name": "Animal Handling",
+    "html": "<p>When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.</p>\n",
+    "id": "animal-handling"
+  },
+  {
     "link": "str",
     "is_new": false,
     "name": "Athletics",
@@ -63,11 +70,25 @@
     "id": "investigation"
   },
   {
+    "link": "int",
+    "is_new": true,
+    "name": "Lore",
+    "html": "<p>Your Intelligence (Lore) check measures your ability to recall information about the Force, artifacts, histories, and religions.It also measures your ability to recall lore about legendary people, ancient or alien species and their cultures or customs, past disputes, recent\nwars, and lost civilizations.</p>\n",
+    "id": "lore"
+  },
+  {
     "link": "wis",
     "is_new": false,
     "name": "Medicine",
     "html": "<p>A Wisdom (Medicine) check lets you try to stabilize a dying companion, diagnose an illness, or\nunderstand the biology of an organism.</p>\n",
     "id": "medicine"
+  },
+  {
+    "link": "int",
+    "is_new": false,
+    "name": "Nature",
+    "html": "<p>Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.</p>\n",
+    "id": "nature"
   },
   {
     "link": "wis",
@@ -89,6 +110,13 @@
     "name": "Persuasion",
     "html": "<p>When you attempt to influence someone or a group of people with tact, social graces, or good nature,\nthe GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when\nacting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette.\nExamples of persuading others include convincing a politician to let your party see the councilor,\nnegotiating peace between warring krogan tribes, or inspiring a crowd of colonist.</p>\n",
     "id": "persuasion"
+  },
+  {
+    "link": "int",
+    "is_new": true,
+    "name": "Piloting",
+    "html": "<p>Your Intelligence (Piloting) check measures your ability to control vehicles, aircraft, and spaceships. Piloting governs your ability to maneuver through tight spaces and debris fields or dogfight with enemy craft.\nIf you're driving a vehicle you're familiar with, the GM might ask you to make a or Decterity (Piloting)\ncheck to make a difficult maneuver or avoid heavy weapon fire, crash land, or weave between traffic.\nHowever, if you are unfamiliar with a vehicle, the GM would require a Intelligence (Piloting)\ncheck to see if you can pilot the vehicle at all.</p>\n",
+    "id": "piloting"
   },
   {
     "link": "int",
@@ -117,6 +145,13 @@
     "name": "Survival",
     "html": "<p>The GM might ask you to make a Wisdom (Survival) check to survive in uncivilized alien words,\nespecially harsh environments like tundra, deserts, or jungles. The check might help you navigate a\nblizzard, find food in a wasteland, or avoid getting eaten by a Thresher Maw.</p>\n",
     "id": "survival"
+  },
+  {
+    "link": "int",
+    "is_new": true,
+    "name": "Technology",
+    "html": "<p>Your Intelligence (Technology) checks measure your ability to recall information about droids, vehicles, spaceships, aircraft, and computers, as well as your ability to interface with them. Technology can also be used to stabilize a droid or construct.</p>\n",
+    "id": "technology"
   },
   {
     "link": "dex",

@@ -1,5 +1,95 @@
 [
   {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.berserker-approach-10"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.berserker-approach-14"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.berserker-approach-3"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.berserker-approach-6"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.berserker-instincts-2"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.brutal-critical-13"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.brutal-critical-17"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.brutal-critical-9"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.danger-sense-3"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.feral-impulse-7"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.indomitable-might-18"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.persistent-rage-15"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.primal-champion-20"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.rage-1"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.reckless-attack-2"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.relentless-rage-11"
+  },
+  {
+    "html": "",
+    "klass": "berserker",
+    "id": "berserker.unarmored-defense-1"
+  },
+  {
     "level": 2,
     "mechanics": [
       {
@@ -392,5 +482,580 @@
     "klass": "consular",
     "subclass": "way-of-balance",
     "id": "consular.way-of-balance.projected-barrier"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.engineering-discipline-14"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.engineering-discipline-18"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.engineering-discipline-3"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.engineering-discipline-6"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.infuse-item-2"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.potent-aptitude-1"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.techcasting-1"
+  },
+  {
+    "html": "",
+    "klass": "engineer",
+    "id": "engineer.tool-expertise-2"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.action-surge-2"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.combat-superiority-2"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty-10"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty-15"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty-18"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty-3"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty-7"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighter-strategies-3"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.fighting-style-1"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.greater-extra-attack-11"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.indomitable-9"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.master-of-combat-20"
+  },
+  {
+    "html": "",
+    "klass": "fighter",
+    "id": "fighter.second-wind-1"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.channel-the-force-1"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.cleansing-touch-14"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.fighting-style-2"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.force-empowered-strikes-2"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.force-purity-6"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.forcecasting-1"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.guardian-aura-3"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.guardian-focus-15"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.guardian-focus-20"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.guardian-focus-3"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.guardian-focus-7"
+  },
+  {
+    "html": "",
+    "klass": "guardian",
+    "id": "guardian.improved-force-empowered-strikes-11"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.deflect-missiles-3"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.diamond-soul-14"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.empty-body-18"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.enhanced-strikes-6"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.evasion-7"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.focus-11"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.martial-arts-1"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.monastic-order-11"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.monastic-order-17"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.monastic-order-3"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.monastic-order-6"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.monastic-vows-2"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.perfect-self-20"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.purity-of-body-13"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.slow-fall-4"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.stillness-of-mind-7"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.stunning-strike-5"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.timeless-vessel-15"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.unarmored-defense-1"
+  },
+  {
+    "html": "",
+    "klass": "monk",
+    "id": "monk.unarmored-movement-9"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.bad-feeling-3"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.blindsense-14"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.cunning-action-2"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.elusive-18"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.evasion-7"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.expertise-6"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.operative-exploits-2"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.operative-practice-13"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.operative-practice-17"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.operative-practice-3"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.operative-practice-9"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.reliable-talent-11"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.slippery-mind-15"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.sneak-attack-1"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.stroke-of-luck-20"
+  },
+  {
+    "html": "",
+    "klass": "operative",
+    "id": "operative.uncanny-dodge-5"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.academic-pursuit-17"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.academic-pursuit-3"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.academic-pursuit-6"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.academic-pursuit-9"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.academic-superiority-1"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.adaptable-intellectual-18"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.calm-and-collected-17"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.critical-analysis-1"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.discovery-2"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.expertise-10"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.knowledge-unbound-20"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.multitasker-5"
+  },
+  {
+    "html": "",
+    "klass": "scholar",
+    "id": "scholar.sage-advice-13"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.combat-tech-14"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.commando-10"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.expertise-14"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.fighting-style-2"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.foe-slayer-20"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.pathfinder-1"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.ranger's-quarry-1"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.ranger's-quarry-17"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.ranger's-quarry-5"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.ranger's-quarry-9"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.scout-routine-3"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.scout-technique-11"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.scout-technique-15"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.scout-technique-3"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.scout-technique-7"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.supreme-awareness-18"
+  },
+  {
+    "html": "",
+    "klass": "scout",
+    "id": "scout.techcasting-2"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.battle-readiness-10"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.center-of-the-force-20"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.enlightened-evasion-15"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.extra-attack-5"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.force-empowered-self-2"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.forcecasting-1"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.led-by-the-force-1"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.sentinel-calling-13"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.sentinel-calling-18"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.sentinel-calling-3"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.sentinel-calling-7"
+  },
+  {
+    "html": "",
+    "klass": "sentinel",
+    "id": "sentinel.sentinel-ideals-2"
   }
 ]

@@ -16,7 +16,7 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonusaction
+      unit: bonus_action
     attack:
       type: ranged
       wp: power

@@ -394,7 +394,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -509,7 +509,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -702,7 +702,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "str"
@@ -910,7 +910,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -2089,7 +2089,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -3071,7 +3071,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "str"
@@ -3436,7 +3436,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -3485,7 +3485,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -3534,7 +3534,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -4937,7 +4937,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "wis"
@@ -5726,7 +5726,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -6951,7 +6951,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -7000,7 +7000,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -7196,7 +7196,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -8192,7 +8192,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -8571,7 +8571,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "dex"
@@ -9224,7 +9224,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -9605,7 +9605,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -10684,7 +10684,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -11209,7 +11209,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -11398,7 +11398,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -11635,7 +11635,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -11917,7 +11917,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -12061,7 +12061,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -14241,7 +14241,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "con"
@@ -14605,7 +14605,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -14654,7 +14654,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -14703,7 +14703,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -16156,7 +16156,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -17097,7 +17097,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "wis"
@@ -17670,7 +17670,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -18725,7 +18725,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -19012,7 +19012,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "dc": {
           "save": "dex"
@@ -19810,7 +19810,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -19952,7 +19952,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -20898,7 +20898,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",
@@ -21647,7 +21647,7 @@
       {
         "castingTime": {
           "length": 1,
-          "unit": "bonusaction"
+          "unit": "bonus_action"
         },
         "attack": {
           "type": "ranged",

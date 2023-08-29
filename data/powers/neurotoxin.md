@@ -15,7 +15,7 @@ classes:
 mechanics:
   - castingTime:
       length: 1
-      unit: bonusaction
+      unit: bonus_action
 
     dc:
       save: con

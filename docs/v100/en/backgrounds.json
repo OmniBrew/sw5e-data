@@ -1,5 +1,109 @@
 [
   {
+    "name": "Addict",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, performer, charmer, quick-fingered, competitor, specialist, linguist, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a addict specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of any gaming set"
+      },
+      {
+        "type": "tool",
+        "value": "brewer's kit"
+      },
+      {
+        "type": "tool",
+        "value": "or spicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "addict"
+  },
+  {
+    "name": "Agent",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, investigator, loremaster, charmer, linguist, alert, observant, practiced"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a agent specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "agent"
+  },
+  {
+    "name": "Amnesiac",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, investigator, survivalist, specialist, crafter, linguist, practiced"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a amnesiac specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Choose one from disguise kit"
+      },
+      {
+        "type": "tool",
+        "value": "forgery kit"
+      },
+      {
+        "type": "tool",
+        "value": "or tinker's implements"
+      }
+    ],
+    "html": "",
+    "id": "amnesiac"
+  },
+  {
+    "name": "Archaeologist",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "investigator, loremaster, perceptive, survivalist, crafter, specialist, linguist, dungeon delver"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a archaeologist specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Surveyor's implements or scavenging kit"
+      }
+    ],
+    "html": "",
+    "id": "archaeologist"
+  },
+  {
     "name": "Artisan",
     "startingCredits": 1500,
     "mechanics": [
@@ -37,6 +141,132 @@
     "id": "artisan"
   },
   {
+    "name": "Barbarian",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, brawny, naturalist, survivalist, entertainer, crafter, athlete, weapon expert"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a barbarian specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of musical instrument or artisan's implements"
+      }
+    ],
+    "html": "",
+    "id": "barbarian"
+  },
+  {
+    "name": "Bartender",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, threatening, medic, charmer, specialist, linguist, observant, snappy interjection"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a bartender specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Brewer's kit"
+      }
+    ],
+    "html": "",
+    "id": "bartender"
+  },
+  {
+    "name": "Blackguard",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, loremaster, survivalist, crafter, linguist, formfighting dabbler, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a blackguard specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Artificer's implements"
+      }
+    ],
+    "html": "",
+    "id": "blackguard"
+  },
+  {
+    "name": "Bodyguard",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, empathic, investigator, perceptive, specialist, linguist, athlete, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a bodyguard specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "disguise kit"
+      },
+      {
+        "type": "tool",
+        "value": "or security kit"
+      }
+    ],
+    "html": "",
+    "id": "bodyguard"
+  },
+  {
+    "name": "Bounty Hunter",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, charmer, stealthy, specialist, linguist, alert, athlete"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a bounty hunter specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "bounty-hunter"
+  },
+  {
     "name": "Bureaucrat",
     "startingCredits": 5000,
     "mechanics": [
@@ -58,5 +288,1359 @@
     ],
     "html": "<p><em>text based on <a href=\"https://www.dndbeyond.com/characters/backgrounds/2108-bureaucrat\" target=\"_blank\">homebrew background by fromshus</a></em></p>\n<p><strong>Skill Proficiencies</strong>. History, and one of either Deception, Investigation, Insight, Perception or Persuasion.</p>\n<p><strong>Equipment</strong>. A collection of fine outfits for professional and formal settings and 5,000 credits</p>\n<me-tpg e=\"div\" s=\"h3\">Choose one of the following features</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p><strong>Feature: Political Connections</strong>. Your knowledge of how bureaucracies function lets you gain access to the records and inner\nworkings of almost any government you encounter (so long as the government is allied with your own). You know who the\nmovers and shakers are, whom to go to for the favors you seek.</p>\n<p><strong>Alternate Feature: Detail Oriented</strong>. You are precise, efficient and organized. By habit, you keep careful notes and are able to\nkeep track of many different pieces of information, and you can recall details that others may have forgotten.\nIn addition, you are a well of esoteric information, gaining Advantage on Intelligence (History) checks directly\nrelated to your area of expertise.</p>\n<p><strong>Area of Expertise</strong>. Civilizations depend on an extensive bureaucracy to manage their affairs. Some bureaucrats are more\nspecialized than others, but you likely worked in one of a few important fields. Choose the field that you worked in as\na bureaucrat, or roll on the table below.</p>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>d6</th>\n<th>Area of Expertise</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Finance/Trade/Taxation</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Civil/Military Engineering</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Civil/Criminal Law</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Census and Archives</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Diplomacy, Intergalactic Law</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Military Administration/Logistics</td>\n</tr>\n</tbody>\n</template></v-simple-table><div class=\"hr\"></div>\n<me-tpg e=\"div\" s=\"h3\">Suggested Characteristics</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Bureaucrats are practical, sometimes to a fault, and are often viewed as boring and officious. They are generally intelligent\nand tend toward order and lawfulness, though there are always exceptions.</p>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>d8</th>\n<th>Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Hygiene is more important than most people realize. I hate getting dirty and don't like dirty people.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>I hoard information and have more books, journal subscriptions and star maps than is strictly necessary.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I often correct others' grammar or choice of words when they speak.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>I don't speak very much, but I am always listening.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I can speak at length on certain topics and jump at any chance to do so.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>It takes a lot of mental energy to be as organized as I am and I resent those who don't appreciate that.</td>\n</tr>\n<tr>\n<td>7</td>\n<td>I am always eager to solve a puzzle and get bored if I'm not challenged intellectually.</td>\n</tr>\n<tr>\n<td>8</td>\n<td>I keep a journal in which, among other things, I record slights against me and my negative thoughts about others.</td>\n</tr>\n</tbody>\n</template></v-simple-table><br>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>d6</th>\n<th>Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Order: The world is in harmony when things are put to their proper use and in their proper place. (Lawful)</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Knowledge: Reliable information and education are the keys to prosperity. (Good)</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Remembrance: The future is uncertain, but by keeping records of history we can avoid the mistakes of the past. (Neutral)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Opportunism: There are always loopholes in any system, no matter how complex, and the challenge is to find them. (Chaotic)</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Oppression: Laws are a tool and they must be ruthlessly enforced to keep the herd in check. (Evil)</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Connections: Being connected is the best way to get ahead in life. (Any)</td>\n</tr>\n</tbody>\n</template></v-simple-table><br>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>d6</th>\n<th>Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I am an envoy on a special mission for my employer.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>I am in possession of a potentially damning secret regarding the illegal activities of a powerful person.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I care more about finding the truth above all other things. Transparency is my highest priority.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The law does not necessarily mean justice. I oppose those who use the law to extract anything but justice.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I seek to help those in need by teaching law, literacy, and good management.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>I may not be from a well-known lineage of my species, but with my knowledge of governance, I can become a powerful leader.</td>\n</tr>\n</tbody>\n</template></v-simple-table><br>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th>d6</th>\n<th>Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>I am a creature of habit and get very anxious when my routine is interrupted.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>I am more disorganized than I like to admit and often lose track of my things.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>I have an obsessive habit that others find strange, amusing or irritating.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>I tend to overthink everything and make situations more complex than they need to be.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>I dislike ambiguity and have trouble making decisions if there are no clear rules to guide me.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>I adhere to the letter of the law even if it is illogical to do so.</td>\n</tr>\n</tbody>\n</template></v-simple-table>",
     "id": "bureaucrat"
+  },
+  {
+    "name": "City Watch",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, empathic, investigator, perceptive, linguist, alert, athlete, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a city watch specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "city-watch"
+  },
+  {
+    "name": "Clone Trooper",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, medic, perceptive, ace pilot, specialist, alert, athlete, forceful vigor"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a clone trooper specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "clone-trooper"
+  },
+  {
+    "name": "Clone",
+    "startingCredits": "credits",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "athlete, loremaster, quick-fingered, survivalist, crafter, specialist, linguist, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a clone specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of geneticist's implements"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "clone"
+  },
+  {
+    "name": "Companion",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "acrobat, silver-tongued, empathic, performer, entertainer, specialist, linguist, force of personality"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a companion specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One instrument of your choice or a disguise kit"
+      }
+    ],
+    "html": "",
+    "id": "companion"
+  },
+  {
+    "name": "Courtier",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, performer, survivalist, linguist, actor, practiced, force of personality"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a courtier specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "courtier"
+  },
+  {
+    "name": "Crime Lord",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, threatening, charmer, competitor, linguist, inspiring leader, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a crime lord specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "crime-lord"
+  },
+  {
+    "name": "Criminal",
+    "startingCredits": 1500,
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": [
+          "silvered-tounged",
+          "threatening",
+          "quick-fingered",
+          "stealthy",
+          "competitor",
+          "specialist",
+          "feigned-confidence",
+          "observant"
+        ]
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a criminal specialty",
+        "options": true,
+        "limits": [
+          {
+            "attr": "id",
+            "value": [
+              "BG_burglar",
+              "BG_blackmailer",
+              "BG_enforcer",
+              "BG_fence",
+              "BG_highway-robber",
+              "BG_highered-killer",
+              "BG_pickpocket",
+              "BG_thug"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "tool",
+        "value": "gaming-set"
+      },
+      {
+        "type": "tool",
+        "value": "thieves-tools"
+      }
+    ],
+    "html": "",
+    "id": "criminal-final"
+  },
+  {
+    "name": "Criminal",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, threatening, quick-fingered, stealthy, competitor, specialist, feigned confidence, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a criminal specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      },
+      {
+        "type": "tool",
+        "value": "your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "criminal"
+  },
+  {
+    "name": "Dathomir Witch",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "acrobat, animal handler, loremaster, naturalist, specialist, linguist, force-sensitive, force of personality"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a dathomir witch specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Bioanalysis kit"
+      }
+    ],
+    "html": "",
+    "id": "dathomir-witch"
+  },
+  {
+    "name": "Entertainer",
+    "startingCredits": 2000,
+    "mechanics": [
+      {
+        "type": "tool",
+        "value": "disguise-kit"
+      },
+      {
+        "type": "tool",
+        "value": "musical-instrument"
+      },
+      {
+        "type": "skill",
+        "value": "acrobatics"
+      },
+      {
+        "type": "skill",
+        "value": "performance"
+      }
+    ],
+    "html": "",
+    "id": "entertainer-final"
+  },
+  {
+    "name": "Entertainer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "acrobat, empathic, performer, quick-fingered, specialist, entertainer, practiced, actor"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a entertainer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Disguise kit"
+      },
+      {
+        "type": "tool",
+        "value": "one type of musical instrument"
+      }
+    ],
+    "html": "",
+    "id": "entertainer"
+  },
+  {
+    "name": "Ex-Cultist",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, threatening, investigator, loremaster, specialist, linguist, galvanizing presence, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a ex-cultist specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Poisoner's kit"
+      }
+    ],
+    "html": "",
+    "id": "ex-cultist"
+  },
+  {
+    "name": "Faction Adventurer",
+    "startingCredits": "cr.",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, investigator, naturalist, survivalist, specialist, linguist, alert, athlete"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a faction adventurer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "faction-adventurer"
+  },
+  {
+    "name": "Faction Artisan",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, empathic, charmer, techie, crafter, specialist, linguist, haggler"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a faction artisan specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of artisan's implements"
+      },
+      {
+        "type": "tool",
+        "value": "biochemist's kit"
+      },
+      {
+        "type": "tool",
+        "value": "or chef's kit"
+      }
+    ],
+    "html": "",
+    "id": "faction-artisan"
+  },
+  {
+    "name": "Faction Merchant",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, performer, charmer, linguist, haggler, inspiring leader, practiced"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a faction merchant specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "faction-merchant"
+  },
+  {
+    "name": "Far Traveler",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, perceptive, charmer, entertainer, competitor, linguist, practiced"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a far traveler specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One musical instrument or gaming set of your choice"
+      }
+    ],
+    "html": "",
+    "id": "far-traveler"
+  },
+  {
+    "name": "Farmer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, naturalist, charmer, techie, entertainer, crafter, specialist, haggler"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a farmer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One instrument and one type of artisan's implements or bioanalysis kit"
+      }
+    ],
+    "html": "",
+    "id": "farmer"
+  },
+  {
+    "name": "Folk Hero",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, brawny, naturalist, performer, crafter, specialist, linguist, healer"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a folk hero specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of artisan's implements"
+      },
+      {
+        "type": "tool",
+        "value": "biochemist's kit"
+      },
+      {
+        "type": "tool",
+        "value": "or chef's kit"
+      }
+    ],
+    "html": "",
+    "id": "folk-hero"
+  },
+  {
+    "name": "Force Adept",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, perceptive, charmer, crafter, competitor, entertainer, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a force adept specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Two of your choice of artisan's implements"
+      },
+      {
+        "type": "tool",
+        "value": "gaming sets"
+      },
+      {
+        "type": "tool",
+        "value": "or musical instruments"
+      }
+    ],
+    "html": "",
+    "id": "force-adept"
+  },
+  {
+    "name": "Gambler",
+    "startingCredits": "cr.",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, threatening, quick-fingered, competitor, keen mind, observant, practiced"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a gambler specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Two types of gaming sets"
+      }
+    ],
+    "html": "",
+    "id": "gambler"
+  },
+  {
+    "name": "Gladiator",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "acrobat, brawny, threatening, performer, entertainer, linguist, athlete, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a gladiator specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of musical instrument"
+      }
+    ],
+    "html": "",
+    "id": "gladiator"
+  },
+  {
+    "name": "Hermit",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, loremaster, medic, naturalist, specialist, alert, dungeon delver, healer"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a hermit specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Bioanalysis kit"
+      }
+    ],
+    "html": "",
+    "id": "hermit"
+  },
+  {
+    "name": "Holonet Technician",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, stealthy, techie, specialist, keen mind, practiced, tech dabbler"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a holonet technician specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Choose two from mechanic's kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "and slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "holonet-technician"
+  },
+  {
+    "name": "Imperial Knight",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, threatening, perceptive, ace pilot, crafter, force-sensitive, armor expert, weapon expert"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a imperial knight specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Armormech's implements and artificer's implements"
+      }
+    ],
+    "html": "",
+    "id": "imperial-knight"
+  },
+  {
+    "name": "Independent Droid",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, medic, charmer, techie, crafter, linguist, shard modification, customized droid"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a independent droid specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Astrotech's implements"
+      }
+    ],
+    "html": "",
+    "id": "independent-droid"
+  },
+  {
+    "name": "Insurgent",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, charmer, stealthy, techie, crafter, specialist, linguist, alert"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a insurgent specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of artisan's implements"
+      },
+      {
+        "type": "tool",
+        "value": "disguise kit"
+      },
+      {
+        "type": "tool",
+        "value": "or forgery kit"
+      }
+    ],
+    "html": "",
+    "id": "insurgent"
+  },
+  {
+    "name": "Investigator",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, perceptive, survivalist, linguist, alert, observant, keen mind"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a investigator specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "investigator"
+  },
+  {
+    "name": "Jedi",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, loremaster, charmer, linguist, crafter, formfighting dabbler, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a jedi specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Artificer's tools"
+      }
+    ],
+    "html": "",
+    "id": "jedi"
+  },
+  {
+    "name": "Jensaarai",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, threatening, loremaster, perceptive, crafter, linguist, alert, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a jensaarai specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Armormech's implements"
+      }
+    ],
+    "html": "",
+    "id": "jensaarai"
+  },
+  {
+    "name": "Jizz Wailer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, performer, charmer, quick-fingered, entertainer, linguist, feigned confidence, snappy interjection"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a jizz wailer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of musical instrument"
+      }
+    ],
+    "html": "",
+    "id": "jizz-wailer"
+  },
+  {
+    "name": "Laborer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, brawny, survivalist, techie, competitor, crafter, athlete, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a laborer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set and one set of artisan's implements"
+      }
+    ],
+    "html": "",
+    "id": "laborer"
+  },
+  {
+    "name": "Lawyer",
+    "startingCredits": "cr.",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, performer, charmer, linguist, actor, observant, keen mind"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a lawyer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "lawyer"
+  },
+  {
+    "name": "Mandalorian",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, threatening, ace pilot, survivalist, crafter, durable, weapon expert, athlete"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a mandalorian specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One set of artisan's implements"
+      }
+    ],
+    "html": "",
+    "id": "mandalorian"
+  },
+  {
+    "name": "Mercenary",
+    "startingCredits": "cr)",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, investigator, charmer, ace pilot, competitor, linguist, weapon expert, durable"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a mercenary specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "mercenary"
+  },
+  {
+    "name": "Noble",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, loremaster, charmer, competitor, linguist, inspiring leader, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a noble specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "noble"
+  },
+  {
+    "name": "Nomad",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, brawny, medic, survivalist, entertainer, linguist, dungeon delver, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a nomad specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of musical instrument"
+      }
+    ],
+    "html": "",
+    "id": "nomad"
+  },
+  {
+    "name": "Office Worker",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, loremaster, perceptive, competitor, linguist, feigned confidence, snappy interjection"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a office worker specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "office-worker"
+  },
+  {
+    "name": "Outlaw",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "acrobat, brawny, empathic, survivalist, specialist, linguist, alert, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a outlaw specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Disguise kit"
+      }
+    ],
+    "html": "",
+    "id": "outlaw"
+  },
+  {
+    "name": "Pirate",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, silver-tongued, threatening, ace pilot, competitor, specialist, feigned confidence, force of personality"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a pirate specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      },
+      {
+        "type": "tool",
+        "value": "your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "pirate"
+  },
+  {
+    "name": "Politician",
+    "startingCredits": "cr.",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, threatening, performer, charmer, linguist, actor, observant, inspiring leader"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a politician specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "politician"
+  },
+  {
+    "name": "Racer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "animal handler, naturalist, ace pilot, techie, competitor, specialist, linguist, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a racer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set or mechanic's kit"
+      }
+    ],
+    "html": "",
+    "id": "racer"
+  },
+  {
+    "name": "Scavenger",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, loremaster, quick-fingered, techie, specialist, crafter, linguist, tech dabbler"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a scavenger specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of archaeologist kit"
+      },
+      {
+        "type": "tool",
+        "value": "jeweler's implements"
+      },
+      {
+        "type": "tool",
+        "value": "mechanic's kit"
+      },
+      {
+        "type": "tool",
+        "value": "or scavenging kit"
+      }
+    ],
+    "html": "",
+    "id": "scavenger"
+  },
+  {
+    "name": "Scientist",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "loremaster, medic, naturalist, techie, crafter, linguist, tech dabbler, keen mind"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a scientist specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One of your choice"
+      }
+    ],
+    "html": "",
+    "id": "scientist"
+  },
+  {
+    "name": "Scoundrel",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, performer, quick-fingered, specialist, force of personality, snappy interjection, actor"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a scoundrel specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Disguise Kit"
+      },
+      {
+        "type": "tool",
+        "value": "Forgery Kit"
+      }
+    ],
+    "html": "",
+    "id": "scoundrel"
+  },
+  {
+    "name": "Servant",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, loremaster, performer, charmer, crafter, entertainer, specialist, linguist"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a servant specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One of your choice"
+      }
+    ],
+    "html": "",
+    "id": "servant"
+  },
+  {
+    "name": "Sith",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, threatening, loremaster, linguist, crafter, formfighting dabbler, force-sensitive"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a sith specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Artificer's tools"
+      }
+    ],
+    "html": "",
+    "id": "sith"
+  },
+  {
+    "name": "Smuggler",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, ace pilot, quick-fingered, stealthy, competitor, specialist, feigned confidence, force of personality"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a smuggler specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set and your choice of demolitions kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      },
+      {
+        "type": "tool",
+        "value": "or slicer's kit"
+      }
+    ],
+    "html": "",
+    "id": "smuggler"
+  },
+  {
+    "name": "Soldier",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, threatening, charmer, ace pilot, competitor, linguist, weapon expert, healer"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a soldier specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "soldier"
+  },
+  {
+    "name": "Spacer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, investigator, ace pilot, techie, specialist, competitor, galvanizing presence, inspiring leader"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a spacer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of chef's kit"
+      },
+      {
+        "type": "tool",
+        "value": "mechanic's kit"
+      },
+      {
+        "type": "tool",
+        "value": "or one type of gaming set"
+      }
+    ],
+    "html": "",
+    "id": "spacer"
+  },
+  {
+    "name": "Student",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "empathic, loremaster, investigator, naturalist, linguist, keen mind, observant, healer"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a student specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": null
+      }
+    ],
+    "html": "",
+    "id": "student"
+  },
+  {
+    "name": "Survivor",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "investigator, loremaster, survivalist, techie, crafter, specialist, linguist, total reconstruction"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a survivor specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Your choice of artist's implements"
+      },
+      {
+        "type": "tool",
+        "value": "biotech's implements"
+      },
+      {
+        "type": "tool",
+        "value": "or brewer's kit"
+      }
+    ],
+    "html": "",
+    "id": "survivor"
+  },
+  {
+    "name": "Teacher",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "loremaster, naturalist, performer, techie, entertainer, crafter, linguist, feigned confidence"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a teacher specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One instrument or set of artisan's implements of your choice"
+      }
+    ],
+    "html": "",
+    "id": "teacher"
+  },
+  {
+    "name": "(Un)Retired Adventurer",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "brawny, empathic, loremaster, survivalist, crafter, linguist, athlete, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a (un)retired adventurer specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "One type of artisan's implements"
+      }
+    ],
+    "html": "",
+    "id": "unretired-adventurer"
+  },
+  {
+    "name": "Urchin",
+    "startingCredits": "cr",
+    "mechanics": [
+      {
+        "type": "feat-choice",
+        "limit": "silver-tongued, empathic, quick-fingered, stealthy, specialist, alert, athlete, observant"
+      },
+      {
+        "type": "model-choice",
+        "model": "subgrounds",
+        "label": "Choose a urchin specialty",
+        "options": true
+      },
+      {
+        "type": "tool",
+        "value": "Disguise kit"
+      },
+      {
+        "type": "tool",
+        "value": "security kit"
+      }
+    ],
+    "html": "",
+    "id": "urchin"
   }
 ]
