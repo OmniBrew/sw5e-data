@@ -2,25 +2,30 @@
 name: Fighter
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/fighter_01.png
 snippet: >-
-  Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs
+  Versatile combatant who excels at both range and in melee
 primaryAbility:
   - str
+  - dex
 hitDie: 10
 profs:
   armor:
     text: All armor
     has:
-      - all_armor
+      - light
+      - medium
+      - heavy
   weapon:
     text: All blasters, all vibroweapons
     has:
-      - all_blasters
-      - all_vibroweapons
+      - simple_blasters
+      - simple_vibroweapons
+      - martial_blasters
+      - martial_vibroweapons
   tool: false
   skill:
     text: Choose two from Acrobatics,Animal Handling,Athletics,Lore,Insight,Intimidation,Perception,Survival
     choices:
-      items: [acrobatics,animal handling,athletics,lore,insight,intimidation,perception,survival]
+      items: [acrobatics,animal_handling,athletics,lore,insight,intimidation,perception,survival]
       count: 2
   saving-throw:
     text: Strength, Constitution
@@ -28,7 +33,7 @@ profs:
       - str
       - con
 startingEquipment:
-  - text:  (a) mesh armor or (b) a combat suit
+  - text:  (a) mesh armor or (b) a combat suit,
   - text:  blaster rifle or simple blaster
   - text:  and two power cells
   - text:  (a) a vibroweapon or heavy pistol and a light or medium physical shield or (b) two vibroweapons
@@ -43,16 +48,29 @@ startingWealth:
 subclassLabel: Fighter Specialties
 progression:
   subclass:
-    - 2
-    - 6
+    - 3
+    - 7
     - 10
-    - 14
+    - 15
+    - 18
   abi:
     - 4
+    - 6
     - 8
     - 12
+    - 14
     - 16
     - 19
+  columns:
+    - label: features
+    - label: maneuvers_known
+      values: [0,1,2,2,4,4,5,5,6,6,7,7,9,9,10,10,11,11,12,12]
+    - label: superiority_dice_quantity
+      values: [0,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6]
+    - label: superiority_dice_size
+      values: [1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,6]
+    - label: strategies_known
+      values: [0,0,1,1,1,1,2,2,2,2,2,2,3,3,3,3,4,4,4,4]
 ---
 A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
 

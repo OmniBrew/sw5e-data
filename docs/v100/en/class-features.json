@@ -532,11 +532,6 @@
     "id": "fighter.ability-score-improvement"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.action-surge-2"
-  },
-  {
     "level": 2,
     "name": "Action Surge",
     "mechanics": [
@@ -567,11 +562,6 @@
     "id": "fighter.action-surge"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.combat-superiority-2"
-  },
-  {
     "level": 2,
     "name": "Combat Superiority",
     "mechanics": [
@@ -587,11 +577,6 @@
     "id": "fighter.combat-superiority"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.extra-attack-5"
-  },
-  {
     "level": 5,
     "name": "Extra Attack",
     "mechanics": [
@@ -605,42 +590,12 @@
     "id": "fighter.extra-attack"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-specialty-10"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-specialty-15"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-specialty-18"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-specialty-3"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-specialty-7"
-  },
-  {
     "level": 7,
     "name": "Fighter Specialty",
     "mechanics": null,
     "html": "<p><em><strong>Fighter:</strong> 3rd, 7th, 10th, 15th, and 18th level</em>\nYou choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description.</p>\n",
     "klass": "fighter",
     "id": "fighter.fighter-specialty"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighter-strategies-3"
   },
   {
     "level": 3,
@@ -657,11 +612,6 @@
     "id": "fighter.fighter-strategies"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.fighting-style-1"
-  },
-  {
     "level": 1,
     "name": "Fighting Style",
     "mechanics": [
@@ -676,11 +626,6 @@
     "id": "fighter.fighting-style"
   },
   {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.greater-extra-attack-11"
-  },
-  {
     "level": 11,
     "name": "Greater Extra Attack",
     "mechanics": [
@@ -692,11 +637,6 @@
     "html": "<p><em><strong>Fighter:</strong> 11th level</em>\nYou can attack three times, instead of twice, whenever you take the Attack action on your turn.\nAdditionally, when you use a bonus action to engage in Double- or Two-Weapon Fighting, you can make two attacks, instead of one.</p>\n",
     "klass": "fighter",
     "id": "fighter.greater-extra-attack"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.indomitable-9"
   },
   {
     "level": 9,
@@ -727,11 +667,6 @@
     "html": "<p><em><strong>Fighter:</strong> 9th level</em>\nYou can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.\nYou can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>\n",
     "klass": "fighter",
     "id": "fighter.indomitable"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.master-of-combat-20"
   },
   {
     "level": 20,
@@ -768,11 +703,6 @@
     "html": "<p><em><strong>Fighter:</strong> 20th level</em>\nYou are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores increases by 2.\nAdditionally, you can attack four times, instead of three times, whenever you take the Attack action on your turn.</p>\n",
     "klass": "fighter",
     "id": "fighter.master-of-combat"
-  },
-  {
-    "html": "",
-    "klass": "fighter",
-    "id": "fighter.second-wind-1"
   },
   {
     "level": 1,

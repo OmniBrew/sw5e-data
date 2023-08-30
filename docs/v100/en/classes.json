@@ -248,23 +248,28 @@
   {
     "name": "Fighter",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/fighter_01.png",
-    "snippet": "Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs",
+    "snippet": "Versatile combatant who excels at both range and in melee",
     "primaryAbility": [
-      "str"
+      "str",
+      "dex"
     ],
     "hitDie": 10,
     "profs": {
       "armor": {
         "text": "All armor",
         "has": [
-          "all_armor"
+          "light",
+          "medium",
+          "heavy"
         ]
       },
       "weapon": {
         "text": "All blasters, all vibroweapons",
         "has": [
-          "all_blasters",
-          "all_vibroweapons"
+          "simple_blasters",
+          "simple_vibroweapons",
+          "martial_blasters",
+          "martial_vibroweapons"
         ]
       },
       "tool": false,
@@ -273,7 +278,7 @@
         "choices": {
           "items": [
             "acrobatics",
-            "animal handling",
+            "animal_handling",
             "athletics",
             "lore",
             "insight",
@@ -294,7 +299,7 @@
     },
     "startingEquipment": [
       {
-        "text": "(a) mesh armor or (b) a combat suit"
+        "text": "(a) mesh armor or (b) a combat suit,"
       },
       {
         "text": "blaster rifle or simple blaster"
@@ -319,17 +324,125 @@
     "subclassLabel": "Fighter Specialties",
     "progression": {
       "subclass": [
-        2,
-        6,
+        3,
+        7,
         10,
-        14
+        15,
+        18
       ],
       "abi": [
         4,
+        6,
         8,
         12,
+        14,
         16,
         19
+      ],
+      "columns": [
+        {
+          "label": "features"
+        },
+        {
+          "label": "maneuvers_known",
+          "values": [
+            0,
+            1,
+            2,
+            2,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            7,
+            9,
+            9,
+            10,
+            10,
+            11,
+            11,
+            12,
+            12
+          ]
+        },
+        {
+          "label": "superiority_dice_quantity",
+          "values": [
+            0,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        {
+          "label": "superiority_dice_size",
+          "values": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6
+          ]
+        },
+        {
+          "label": "strategies_known",
+          "values": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4
+          ]
+        }
       ]
     },
     "html": "<p>A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.</p>\n<p>With his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion.</p>\n<p>Taking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield.</p>\n<p>Fighters combine discipline with martial skills to become the best pure warriors in the galaxy. Fighters can be stalwart defenders of those in need, cruel marauders, or brave advent-urers. They fight for glory, honor, to right wrongs, to gain power, to acquire wealth, or simple for the thrill of battle.</p>\n<me-tpg e=\"div\" s=\"h3\">All in a Day's Work</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can't defend themselves while others seek to use their muscle to carve their own place of importance in the galaxy. Fighters can take the form of guards, champions, bounty hunters, enforcers, mercenaries, freedom fighters, or simply armed explorers.</p>\n<me-tpg e=\"div\" s=\"h3\">Code Red</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Most fighters come to the profession after receiving at least some amount of formal training from a military organization. Some attend formal academies; others are self-taught and well tested. A fighter may have taken up his weapon to escape a mundane life while another may be following a proud family tradition. Whatever their origins, most fighters share an unshakeable loyalty. Fighters follow orders with little hesitation, as failure can often mean death.</p>\n",
