@@ -524,9 +524,47 @@
     "id": "engineer.tool-expertise-2"
   },
   {
+    "level": 8,
+    "name": "Ability Score Improvement",
+    "mechanics": null,
+    "html": "<p><em><strong>Fighter:</strong> 4th, 6th, 8th, 12th, 14th, 16th, and 19th level</em>\nYou can increase one ability score by 2, or you can increase two ability scores by 1. You can't increase an ability score above 20 using this feature.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.ability-score-improvement"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.action-surge-2"
+  },
+  {
+    "level": 2,
+    "name": "Action Surge",
+    "mechanics": [
+      {
+        "name": "Action Surge",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "fighter.action-surge"
+        },
+        "type": "other",
+        "shortDesc": "Take one additional action this turn on top of your regular action and a possible bonus action.",
+        "resource": {
+          "reset": "short",
+          "max": {
+            "type": "progressive",
+            "limit": "soldier",
+            "value": {
+              "2": 1,
+              "17": 2
+            }
+          },
+          "id": "fighter.action-surge"
+        }
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 2nd level</em>\nYou can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.\nOnce you've used this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.action-surge"
   },
   {
     "html": "",
@@ -534,9 +572,37 @@
     "id": "fighter.combat-superiority-2"
   },
   {
+    "level": 2,
+    "name": "Combat Superiority",
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "maneuvers",
+        "selections": 1
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 2nd level</em>\nYou learn maneuvers that are fueled by special dice called superiority dice. See chapter 13 for the maneuvers list.</p>\n<me-tpg e=\"div\" s=\"h4\">Maneuvers Known</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You learn one maneuver of your choice, and you earn more at higher levels, as shown in the Maneuvers Known column of the fighter table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>\n<me-tpg e=\"div\" s=\"h4\">Superiority Dice</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the fighter table. This die changes as you gain fighter levels, as shown in the Superiority Dice Size column of the fighter table. A superiority die is expended when you use it.\nYou regain all of your expended superiority dice when you finish a short or long rest.</p>\n<me-tpg e=\"div\" s=\"h4\">Maneuver Ability</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability of your choice for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. Additionally, you use this ability modifier when setting the saving throw DC for a maneuver you use.</p>\n<hr>\n<p><strong>Maneuver save DC</strong> = 8 + your proficiency bonus + your maneuver ability modifier</p>\n<hr>\n",
+    "klass": "fighter",
+    "id": "fighter.combat-superiority"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.extra-attack-5"
+  },
+  {
+    "level": 5,
+    "name": "Extra Attack",
+    "mechanics": [
+      {
+        "type": "extra-attack",
+        "value": 2
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 5th level</em>\nYou can attack twice, instead of once, whenever you take the Attack action on your turn.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.extra-attack"
   },
   {
     "html": "",
@@ -564,9 +630,31 @@
     "id": "fighter.fighter-specialty-7"
   },
   {
+    "level": 7,
+    "name": "Fighter Specialty",
+    "mechanics": null,
+    "html": "<p><em><strong>Fighter:</strong> 3rd, 7th, 10th, 15th, and 18th level</em>\nYou choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.fighter-specialty"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.fighter-strategies-3"
+  },
+  {
+    "level": 3,
+    "name": "Fighter Strategies",
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "strategies"
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 3rd level</em>\nYou've adopted a fighter strategy, as detailed at the end of the class description, and you adopt more at higher levels, as shown in the Strategies Known column of the fighter table.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.fighter-strategies"
   },
   {
     "html": "",
@@ -574,9 +662,36 @@
     "id": "fighter.fighting-style-1"
   },
   {
+    "level": 1,
+    "name": "Fighting Style",
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "fighting-styles"
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 1st level</em>\nYou adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.fighting-style"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.greater-extra-attack-11"
+  },
+  {
+    "level": 11,
+    "name": "Greater Extra Attack",
+    "mechanics": [
+      {
+        "type": "extra-attack",
+        "value": 3
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 11th level</em>\nYou can attack three times, instead of twice, whenever you take the Attack action on your turn.\nAdditionally, when you use a bonus action to engage in Double- or Two-Weapon Fighting, you can make two attacks, instead of one.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.greater-extra-attack"
   },
   {
     "html": "",
@@ -584,14 +699,114 @@
     "id": "fighter.indomitable-9"
   },
   {
+    "level": 9,
+    "name": "Indomitable",
+    "mechanics": [
+      {
+        "name": "Indomitable",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "fighter.indomitable"
+        },
+        "type": "other",
+        "shortDesc": "Reroll a saving throw you fail.",
+        "resource": {
+          "max": {
+            "type": "progressive",
+            "limit": "fighter",
+            "value": {
+              "9": 1,
+              "13": 2,
+              "17": 3
+            }
+          },
+          "id": "fighter.indomitable"
+        }
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 9th level</em>\nYou can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.\nYou can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.indomitable"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.master-of-combat-20"
   },
   {
+    "level": 20,
+    "name": "Master of Combat",
+    "mechanics": [
+      {
+        "type": "asi-maximum",
+        "abilities": [
+          "str",
+          "con",
+          "dex"
+        ],
+        "max": 22
+      },
+      {
+        "type": "asi-choice",
+        "options": true,
+        "limit": [
+          "str",
+          "dex"
+        ],
+        "amount": 2
+      },
+      {
+        "type": "asi",
+        "ability": "con",
+        "amount": 2
+      },
+      {
+        "type": "extra-attack",
+        "value": 4
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 20th level</em>\nYou are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores increases by 2.\nAdditionally, you can attack four times, instead of three times, whenever you take the Attack action on your turn.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.master-of-combat"
+  },
+  {
     "html": "",
     "klass": "fighter",
     "id": "fighter.second-wind-1"
+  },
+  {
+    "level": 1,
+    "name": "Second Wind",
+    "mechanics": [
+      {
+        "name": "Second Wind",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "fighter.second-wind"
+        },
+        "type": "bonus-action",
+        "damage": [
+          {
+            "type": "hp",
+            "bonus": {
+              "type": "progressive",
+              "limit": "fighter"
+            }
+          }
+        ],
+        "shortDesc": "Gain 1d10 + {{ fighter_level }} hit points. ",
+        "resource": {
+          "max": {
+            "type": "flat",
+            "value": 1
+          },
+          "id": "fighter.second-wind"
+        }
+      }
+    ],
+    "html": "<p><em><strong>Fighter:</strong> 1st level</em>\nYou have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.\nOnce you've used this feature, you must finish a short or long rest before you can use it again.</p>\n",
+    "klass": "fighter",
+    "id": "fighter.second-wind"
   },
   {
     "html": "",
