@@ -17,10 +17,10 @@ profs:
   weapon:
     text: All blasters, all vibroweapons
     has:
-      - simple_blasters
-      - simple_vibroweapons
-      - martial_blasters
-      - martial_vibroweapons
+      - simple_blaster
+      - simple_vibroweapon
+      - martial_blaster
+      - martial_vibroweapon
   tool: false
   skill:
     text: Choose two from Acrobatics,Animal Handling,Athletics,Lore,Insight,Intimidation,Perception,Survival
