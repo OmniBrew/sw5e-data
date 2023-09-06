@@ -489,33 +489,49 @@
   },
   {
     "name": "Criminal",
-    "startingCredits": "cr",
+    "startingCredits": 1500,
     "mechanics": [
       {
         "type": "feat-choice",
-        "limit": "silver-tongued, threatening, quick-fingered, stealthy, competitor, specialist, feigned confidence, observant"
+        "limit": [
+          "silvered-tounged",
+          "threatening",
+          "quick-fingered",
+          "stealthy",
+          "competitor",
+          "specialist",
+          "feigned-confidence",
+          "observant"
+        ]
       },
       {
         "type": "model-choice",
         "model": "subgrounds",
         "label": "Choose a criminal specialty",
-        "options": true
+        "options": true,
+        "limits": [
+          {
+            "attr": "id",
+            "value": [
+              "BG_burglar",
+              "BG_blackmailer",
+              "BG_enforcer",
+              "BG_fence",
+              "BG_highway-robber",
+              "BG_highered-killer",
+              "BG_pickpocket",
+              "BG_thug"
+            ]
+          }
+        ]
       },
       {
         "type": "tool",
-        "value": "One type of gaming set"
+        "value": "gaming-set"
       },
       {
         "type": "tool",
-        "value": "your choice of demolitions kit"
-      },
-      {
-        "type": "tool",
-        "value": "security kit"
-      },
-      {
-        "type": "tool",
-        "value": "or slicer's kit"
+        "value": "thieves-tools"
       }
     ],
     "html": "",

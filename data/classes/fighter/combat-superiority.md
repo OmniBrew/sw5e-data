@@ -6,6 +6,13 @@ mechanics:
     options: true
     model: maneuvers
     selections: 1
+    progressionColumn:
+    - label: maneuvers_known
+      values: [0,1,2,2,4,4,5,5,6,6,7,7,9,9,10,10,11,11,12,12]
+    - label: superiority_dice_quantity
+      values: [0,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6]
+    - label: superiority_dice_size
+      values: [1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,6]
 ---
 _**Fighter:** 2nd level_
 You learn maneuvers that are fueled by special dice called superiority dice. See chapter 13 for the maneuvers list.

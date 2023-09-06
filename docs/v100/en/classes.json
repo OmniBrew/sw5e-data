@@ -524,15 +524,17 @@
       "armor": {
         "text": "Light armor, medium armor",
         "has": [
-          "light_armor",
-          "medium_armor"
+          "light",
+          "medium"
         ]
       },
       "weapon": {
         "text": "All lightweapons, all vibroweapons",
         "has": [
-          "all_lightweapons",
-          "all_vibroweapons"
+          "simple_lightweapon",
+          "martial_lightweapon",
+          "martial_vibroweapon",
+          "simple_vibroweapon"
         ]
       },
       "tool": false,
@@ -585,10 +587,10 @@
     "subclassLabel": "Guardian Foci",
     "progression": {
       "subclass": [
-        2,
-        6,
-        10,
-        14
+        3,
+        7,
+        15,
+        20
       ],
       "abi": [
         4,
@@ -596,6 +598,136 @@
         12,
         16,
         19
+      ],
+      "columns": [
+        {
+          "label": "features"
+        },
+        {
+          "label": "barrier_uses",
+          "values": [
+            2,
+            2,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6,
+            6
+          ]
+        },
+        {
+          "label": "barrier_ticks",
+          "values": [
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6,
+            7,
+            7,
+            7,
+            8,
+            8,
+            9,
+            9,
+            10
+          ]
+        },
+        {
+          "label": "powers_known",
+          "values": [
+            5,
+            7,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            24,
+            25,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "label": "tech_points",
+          "values": [
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40
+          ]
+        },
+        {
+          "label": "tech_point_limit",
+          "values": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5
+          ]
+        }
       ]
     },
     "html": "<p>A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him.</p>\n<p>A sith pureblood, clad head to toe in black and red armor, charges towards a line of soldiers. Shot after shot deflects off his armor until he reaches his prey, where he unleashes his fury in a series of devastating lightsaber sweeps.</p>\n<p>A zabrak general dramatically leaps to his soon-to-be overrun squad, landing with a flurry of lightsaber attacks. At the arrival of this powerful Jedi, the attackers fall back.</p>\n<p>Guardians are the master of the art of lightsaber combat. They focus on utilizing the everpresent power of the Force to enable devastating attacks, often single-handedly turning the tide of battle.</p>\n<me-tpg e=\"div\" s=\"h3\">Protector or Destroyer</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons. Their skills with a lightsaber are unrivalled. Subduing their enemies and bolstering their allies, the guardian uses the Force to control what happens around them.</p>\n<me-tpg e=\"div\" s=\"h3\">Natural Leaders</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The guardian's command of the Force lends them a powerful presence. Whether through fear and intimidation or respect and admiration, the guardian is one of the greatest generals on the battlefield. They are a symbol of power to their followers.</p>\n",

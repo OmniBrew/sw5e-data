@@ -659,7 +659,84 @@
         "type": "model-choice",
         "options": true,
         "model": "maneuvers",
-        "selections": 1
+        "selections": 1,
+        "progressionColumn": [
+          {
+            "label": "maneuvers_known",
+            "values": [
+              0,
+              1,
+              2,
+              2,
+              4,
+              4,
+              5,
+              5,
+              6,
+              6,
+              7,
+              7,
+              9,
+              9,
+              10,
+              10,
+              11,
+              11,
+              12,
+              12
+            ]
+          },
+          {
+            "label": "superiority_dice_quantity",
+            "values": [
+              0,
+              2,
+              2,
+              2,
+              3,
+              3,
+              3,
+              3,
+              4,
+              4,
+              4,
+              4,
+              5,
+              5,
+              5,
+              5,
+              6,
+              6,
+              6,
+              6
+            ]
+          },
+          {
+            "label": "superiority_dice_size",
+            "values": [
+              1,
+              1,
+              1,
+              2,
+              2,
+              2,
+              2,
+              3,
+              3,
+              3,
+              3,
+              4,
+              4,
+              4,
+              5,
+              5,
+              5,
+              6,
+              6,
+              6
+            ]
+          }
+        ]
       }
     ],
     "html": "<p><em><strong>Fighter:</strong> 2nd level</em>\nYou learn maneuvers that are fueled by special dice called superiority dice. See chapter 13 for the maneuvers list.</p>\n<me-tpg e=\"div\" s=\"h4\">Maneuvers Known</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You learn one maneuver of your choice, and you earn more at higher levels, as shown in the Maneuvers Known column of the fighter table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>\n<me-tpg e=\"div\" s=\"h4\">Superiority Dice</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice Quantity column of the fighter table. This die changes as you gain fighter levels, as shown in the Superiority Dice Size column of the fighter table. A superiority die is expended when you use it.\nYou regain all of your expended superiority dice when you finish a short or long rest.</p>\n<me-tpg e=\"div\" s=\"h4\">Maneuver Ability</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability of your choice for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. Additionally, you use this ability modifier when setting the saving throw DC for a maneuver you use.</p>\n<hr>\n<p><strong>Maneuver save DC</strong> = 8 + your proficiency bonus + your maneuver ability modifier</p>\n<hr>\n",
@@ -839,14 +916,31 @@
     "id": "guardian.cleansing-touch-14"
   },
   {
-    "html": "",
+    "level": 5,
+    "name": "Extra Attack",
+    "mechanics": [
+      {
+        "type": "extra-attack",
+        "value": 2
+      }
+    ],
+    "html": "<p><em><strong>Guardian:</strong> 5th level</em>\nYou can attack twice, instead of once, whenever you take the Attack action on your turn.</p>\n",
     "klass": "guardian",
-    "id": "guardian.extra-attack-5"
+    "id": "guardian.extra-attack"
   },
   {
-    "html": "",
+    "level": 2,
+    "name": "Fighting Style",
+    "mechanics": [
+      {
+        "type": "model-choice",
+        "options": true,
+        "model": "fighting-styles"
+      }
+    ],
+    "html": "<p><em><strong>Guardian:</strong> 1st level</em>\nYou adopt a particular style of fighting as your specialty.</p>\n",
     "klass": "guardian",
-    "id": "guardian.fighting-style-2"
+    "id": "guardian.fighting-style"
   },
   {
     "html": "",
@@ -859,8 +953,94 @@
     "id": "guardian.force-purity-6"
   },
   {
-    "html": "",
+    "level": 1,
     "klass": "guardian",
+    "mechanics": [
+      {
+        "type": "powercasting-slots",
+        "multiclassConversion": 0.5,
+        "known": [
+          5,
+          7,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          30
+        ],
+        "prepared": false,
+        "points": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40
+        ],
+        "limit": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5
+        ],
+        "mod": [
+          "wis",
+          "cha"
+        ]
+      },
+      {
+        "type": "bonus-pc-resource",
+        "value": {
+          "type": "powercastingMod",
+          "value": "guardian"
+        }
+      }
+    ],
+    "name": "Forcecasting",
+    "html": "<p>In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an\nabiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.</p>\n<me-tpg e=\"div\" s=\"h3\">FORCE POWERS KNOWN</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You learn 9 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known\ncolumn of the consular table. You may not learn a force power of a level higher than your Max Power Level, and you\nmay learn a force power at the same time you learn its prerequisite.</p>\n<me-tpg e=\"div\" s=\"h3\">FORCE POINTS</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>You have a number of force points equal to your consular level x 4, as shown in the Force Points column of the\nconsular table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers.\nYou regain all expended force points when you finish a long rest.</p>\n<me-tpg e=\"div\" s=\"h3\">MAX POWER LEVEL</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower\nthese abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the consular table.</p>\n<p>You may only cast force powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.</p>\n<me-tpg e=\"div\" s=\"h3\">FORCECASTING ABILITY</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers,\nCharisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever\na power refers to your forcecasting ability. Additionally, you use this ability modifier when setting the saving throw\nDC for a force power you cast and when making an attack roll with one.</p>\n<p><strong>Force save DC</strong> = 8 + your proficiency bonus + your forcecasting ability modifier</p>\n<p><strong>Force attack modifier</strong> = your proficiency bonus + your forcecasting ability modifier</p>\n",
     "id": "guardian.forcecasting-1"
   },
   {
