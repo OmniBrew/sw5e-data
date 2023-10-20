@@ -6,11 +6,8 @@ mechanics:
   - type: asi
     ability: you
     amount: 1
-  - type: skill
-    value: ['persuasion']
-    effect:
-      type: advantage
-      note: when making a check
+  - type: skill-or-expertise
+    value: [persuasion]
 
 ---
 You've master the art of charming those around you, gaining the following benefits: 

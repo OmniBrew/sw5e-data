@@ -4,14 +4,13 @@ note: "You master the techniques needed to train and handle animals. You gain th
 source: phb
 mechanics:
   - type: asi
-    ability: you
+    ability: wis
     amount: 1
-  - type: skill
-    value: ['animal']
-    effect:
-      type: advantage
-      note: when making a check
-
+  - type: skill-or-expertise
+    value: [animal-handling]
+  - type: bonus-action
+    shortDesc: >-
+      Command your beast to take an action on its turn
 ---
 You master the techniques needed to train and handle animals. You gain the following benefits:
 - Increase your Wisdom score by 1, to a maximum of 20. 

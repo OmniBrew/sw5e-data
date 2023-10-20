@@ -4,7 +4,7 @@ note: "You've spent a lifetime fighting, with the scars to prove it. You gain th
 source: phb
 mechanics:
   - type: asi
-    ability: you
+    ability: con
     amount: 1
 
 ---

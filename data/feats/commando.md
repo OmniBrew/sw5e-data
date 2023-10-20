@@ -4,7 +4,7 @@ note: "You've practiced fighting while prone, gaining the following benefits:"
 source: phb
 mechanics:
   - type: asi
-    ability: you
+    ability: dex
     amount: 1
 
 ---

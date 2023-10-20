@@ -10,18 +10,20 @@ profs:
   armor:
     text: Light armor, medium armor
     has:
-      - light_armor
-      - medium_armor
+      - light
+      - medium
   weapon:
     text: All blasters, all vibroweapons
     has:
-      - all_blasters
-      - all_vibroweapons
+      - simple_blaster
+      - simple_vibroweapon
+      - martial_blaster
+      - martial_vibroweapon
   tool: false
   skill:
     text: Choose two from Animal Handling,Athletics,Insight,Investigation,Perception,Piloting,Stealth,Survival,Technology
     choices:
-      items: [animal handling,athletics,insight,investigation,perception,piloting,stealth,survival,technology]
+      items: [animal_handling,athletics,insight,investigation,perception,piloting,stealth,survival,technology]
       count: 2
   saving-throw:
     text: Strength, Dexterity
@@ -45,10 +47,10 @@ startingWealth:
 subclassLabel: Scout Techniques
 progression:
   subclass:
-    - 2
-    - 6
-    - 10
-    - 14
+    - 3
+    - 7
+    - 11
+    - 15
   abi:
     - 4
     - 8

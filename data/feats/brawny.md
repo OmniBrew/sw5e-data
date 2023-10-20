@@ -4,13 +4,11 @@ note: "You become stronger, gaining the following benefits: "
 source: phb
 mechanics:
   - type: asi
-    ability: you
+    ability: str
     amount: 1
-  - type: skill
-    value: ['athletics']
-    effect:
-      type: advantage
-      note: when making a check
+  - type: skill-or-expertise
+    value: [athletics]
+
 
 ---
 You become stronger, gaining the following benefits: 

@@ -3,6 +3,8 @@ name: Alert
 note: "Always on the lookout for danger, you gain the following benefits:"
 source: phb
 mechanics:
+  - type: skill-check
+    value: initiative
 
 ---
 Always on the lookout for danger, you gain the following benefits:

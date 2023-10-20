@@ -4,7 +4,7 @@ note: "You excel at scaling cliffsides, hills, trees, and general climbing. You 
 source: phb
 mechanics:
   - type: asi
-    ability: you
+    ability: str
     amount: 1
 
 ---

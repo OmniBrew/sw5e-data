@@ -3,8 +3,9 @@ name: Athlete
 note: "You have undergone extensive physical training to gain the following benefits:"
 source: phb
 mechanics:
-  - type: asi
-    ability: you
+  - type: asi-choice
+    options: true
+    limit: [str, dex]
     amount: 1
 
 ---

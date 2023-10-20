@@ -484,6 +484,113 @@
     "id": "consular.way-of-balance.projected-barrier"
   },
   {
+    "level": 10,
+    "mechanics": [
+      {
+        "name": "At-Will Barrier",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.at-will-barrier"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "At-Will Barrier"
+      }
+    ],
+    "name": "At-Will Barrier",
+    "html": "<p>Your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will\nuniversal power, the barrier regains 1 hit point. You can’t restore your barrier above half its maximum hit points in this way.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-lightning",
+    "id": "consular.way-of-lightning.blistering-rebuke"
+  },
+  {
+    "level": 14,
+    "mechanics": [
+      {
+        "name": "Improved Suppression",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-balance.improved-suppression"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "Improved Suppression"
+      }
+    ],
+    "name": "Improved Suppression",
+    "html": "<p>When you cast a force power that requires you to make an ability check as a part of casting that power, such as sever force or force suppression, you add your proficiency bonus to that ability check.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-lightning",
+    "id": "consular.way-of-lightning.electric-attunement"
+  },
+  {
+    "level": 6,
+    "mechanics": [
+      {
+        "name": "Projected Barrier",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-lightning.projected-barrier"
+        },
+        "type": "reaction",
+        "resource": {
+          "displayType": "counter",
+          "id": "force-barrier",
+          "reset": "off"
+        }
+      }
+    ],
+    "name": "Force Barrier",
+    "html": "<p>When a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your\nForce Barrier to absorb that damage. If this damage reduces the barrier to 0 hit points, the warded creature takes any remaining damage.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-lightning",
+    "id": "consular.way-of-lightning.projected-barrier"
+  },
+  {
+    "level": 3,
+    "mechanics": [
+      {
+        "name": "Shocking Affinity",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-lightning.shocking-affinity"
+        },
+        "type": "other",
+        "resource": {
+          "displayType": "counter",
+          "id": "shocking-affinity",
+          "reset": "off"
+        }
+      }
+    ],
+    "name": "Shocking Affinity",
+    "html": "<p>When you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.</p>\n<p>Additionally, when you cast a damage-dealing force power that requires a force attack or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. If you hit with the power, or the target fails the power’s saving throw, affected creatures become shocked until the start of your next turn. You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you finish a short or long rest.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-lightning",
+    "id": "consular.way-of-lightning.shocking-affinity"
+  },
+  {
+    "level": 18,
+    "mechanics": [
+      {
+        "type": "resistance",
+        "label": "Force Powers"
+      },
+      {
+        "type": "saving-throw",
+        "effect": {
+          "type": "advantage",
+          "note": "against force powers"
+        }
+      }
+    ],
+    "name": "Force Resistance",
+    "html": "<p>Your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will\nuniversal power, the barrier regains 1 hit point. You can’t restore your barrier above half its maximum hit points in this way.</p>\n",
+    "klass": "consular",
+    "subclass": "way-of-lightning",
+    "id": "consular.way-of-lightning.unlimited-power"
+  },
+  {
     "html": "",
     "klass": "engineer",
     "id": "engineer.engineering-discipline-14"

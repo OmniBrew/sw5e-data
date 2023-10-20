@@ -3,14 +3,14 @@ name: Armor Expert
 note: "You've learned how to fluidly move in armor, gaining the following benefits:"
 source: phb
 mechanics:
-  - type: asi
-    ability: you
+  - type: asi-choice
+    options: true
+    limit: [str,dex,con]
     amount: 1
-  - type: skill
-    value: ['armor']
-    effect:
-      type: advantage
-      note: when making a check
+  - type: armor-choice
+    options: true
+    selections: 1
+
 
 ---
 You've learned how to fluidly move in armor, gaining the following benefits:

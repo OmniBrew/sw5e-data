@@ -110,7 +110,12 @@
     "name": "Alert",
     "note": "Always on the lookout for danger, you gain the following benefits:",
     "source": "phb",
-    "mechanics": null,
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "initiative"
+      }
+    ],
     "html": "<p>Always on the lookout for danger, you gain the following benefits:</p>\n<ul>\n<li>You are proficient in Initiative checks..</li>\n<li>You can't be surprised while you are conscious.</li>\n<li>Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.</li>\n</ul>\n",
     "id": "alert"
   },
@@ -121,18 +126,23 @@
     "mechanics": [
       {
         "type": "asi",
-        "ability": "you",
+        "ability": "wis",
         "amount": 1
       },
       {
-        "type": "skill",
+        "type": "skill-or-expertise",
         "value": [
-          "animal"
-        ],
-        "effect": {
-          "type": "advantage",
-          "note": "when making a check"
-        }
+          "animal-handling"
+        ]
+      },
+      {
+        "name": "Animal Handler",
+        "moreInfo": {
+          "model": "feats",
+          "id": "animal-handler"
+        },
+        "type": "bonus-action",
+        "shortDesc": "Command your beast to take an action on its turn"
       }
     ],
     "html": "<p>You master the techniques needed to train and handle animals. You gain the following benefits:</p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20.</li>\n<li>You gain proficiency in the Animal Handling skill. If you are already proficient in it, you instead gain expertise in it.</li>\n<li>You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.</li>\n</ul>\n",
@@ -144,19 +154,19 @@
     "source": "phb",
     "mechanics": [
       {
-        "type": "asi",
-        "ability": "you",
+        "type": "asi-choice",
+        "options": true,
+        "limit": [
+          "str",
+          "dex",
+          "con"
+        ],
         "amount": 1
       },
       {
-        "type": "skill",
-        "value": [
-          "armor"
-        ],
-        "effect": {
-          "type": "advantage",
-          "note": "when making a check"
-        }
+        "type": "armor-choice",
+        "options": true,
+        "selections": 1
       }
     ],
     "html": "<p>You've learned how to fluidly move in armor, gaining the following benefits:</p>\n<ul>\n<li>Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.</li>\n<li>You gain proficiency with light armor. If you are already proficient with light armor, instead while you are wearing light armor, your speed increases by 5 feet.</li>\n<li>If you are already proficient in light armor when you take this feat, you also gain proficiency in medium armor. If you are already proficient with medium armor, instead while you are wearing medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher, and you ignore the bulky property of medium armor.</li>\n<li>If you are already proficient in medium armor when you take this feat, you also gain proficiency in heavy armor. If you are already proficient with heavy armor, instead while you are wearing heavy armor, critical hits made against you are treated as normal hits.</li>\n</ul>\n<p>You can take this feat multiple times.</p>\n",
@@ -168,8 +178,12 @@
     "source": "phb",
     "mechanics": [
       {
-        "type": "asi",
-        "ability": "you",
+        "type": "asi-choice",
+        "options": true,
+        "limit": [
+          "str",
+          "dex"
+        ],
         "amount": 1
       }
     ],
@@ -183,7 +197,7 @@
     "mechanics": [
       {
         "type": "asi",
-        "ability": "you",
+        "ability": "con",
         "amount": 1
       }
     ],
@@ -205,18 +219,14 @@
     "mechanics": [
       {
         "type": "asi",
-        "ability": "you",
+        "ability": "str",
         "amount": 1
       },
       {
-        "type": "skill",
+        "type": "skill-or-expertise",
         "value": [
           "athletics"
-        ],
-        "effect": {
-          "type": "advantage",
-          "note": "when making a check"
-        }
+        ]
       }
     ],
     "html": "<p>You become stronger, gaining the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20.</li>\n<li>You gain proficiency in the Athletics skill. If you are already proficient in it, you instead gain expertise in it.</li>\n<li>Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.</li>\n</ul>\n",
@@ -233,14 +243,10 @@
         "amount": 1
       },
       {
-        "type": "skill",
+        "type": "skill-or-expertise",
         "value": [
           "persuasion"
-        ],
-        "effect": {
-          "type": "advantage",
-          "note": "when making a check"
-        }
+        ]
       }
     ],
     "html": "<p>You've master the art of charming those around you, gaining the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>You gain proficiency in the Persuasion skill. If you are already proficient in it, you instead gain expertise in it.</li>\n<li>If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter.</li>\n</ul>\n",
@@ -253,7 +259,7 @@
     "mechanics": [
       {
         "type": "asi",
-        "ability": "you",
+        "ability": "str",
         "amount": 1
       }
     ],
@@ -267,7 +273,7 @@
     "mechanics": [
       {
         "type": "asi",
-        "ability": "you",
+        "ability": "dex",
         "amount": 1
       }
     ],
