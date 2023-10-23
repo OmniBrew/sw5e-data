@@ -1,0 +1,3 @@
+---
+name: Fireteam Specialist (Companion)
+---

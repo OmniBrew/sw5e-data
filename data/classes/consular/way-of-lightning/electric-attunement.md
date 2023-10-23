@@ -3,10 +3,11 @@ level: 14
 mechanics:
   - type: global-note
     subType: power
-    value: Improved Suppression
+    value: electric-attunement
     moreInfo:
       model: class-features
-      id: consular.way-of-balance.improved-suppression
-name: Improved Suppression
+      id: consular.way-of-lightning.electric-attunement
+name: electric-attunement
 ---
-When you cast a force power that requires you to make an ability check as a part of casting that power, such as sever force or force suppression, you add your proficiency bonus to that ability check.
+_**Way of Lightning:** 14th level_
+You gain resistance to lightning damage, and force powers you cast ignore resistance to lightning damage.

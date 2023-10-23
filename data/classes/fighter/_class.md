@@ -33,6 +33,16 @@ profs:
       - str
       - con
 startingEquipment:
+  - choices:
+      items: [m-3-predator,m-4-shuriken,m-8-avenger,m-92-mantis,m-23-katana]
+      count: 1
+  - choices:
+      items: [omni-blade,omni-hamer]
+      count: 1
+  - has:
+      - stock-light-armor
+      - stock-medium-armor
+      - stock-heavy-armor
   - text:  (a) mesh armor or (b) a combat suit,
   - text:  blaster rifle or simple blaster
   - text:  and two power cells

@@ -1,15 +1,129 @@
 [
   {
+    "name": "Addicted Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "addicted-approach"
+  },
+  {
+    "name": "Armored Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "armored-approach"
+  },
+  {
+    "name": "Ballistic Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "ballistic-approach"
+  },
+  {
+    "name": "Beastmaster Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "beastmaster-approach"
+  },
+  {
+    "name": "Beastmaster Approach (Companion)",
+    "html": "",
+    "klass": "berserker",
+    "id": "beastmaster-approach-(companion)"
+  },
+  {
+    "name": "Bloodstorm Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "bloodstorm-approach"
+  },
+  {
+    "name": "Brawling Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "brawling-approach"
+  },
+  {
+    "name": "Champion Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "champion-approach"
+  },
+  {
+    "name": "Cyclone Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "cyclone-approach"
+  },
+  {
+    "name": "Frenzied Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "frenzied-approach"
+  },
+  {
+    "name": "Industrial Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "industrial-approach"
+  },
+  {
+    "name": "Juggernaut Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "juggernaut-approach"
+  },
+  {
+    "name": "Marauder Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "marauder-approach"
+  },
+  {
+    "name": "Precision Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "precision-approach"
+  },
+  {
+    "name": "Warchief Approach",
+    "html": "",
+    "klass": "berserker",
+    "id": "warchief-approach"
+  },
+  {
     "name": "Way of Balance",
     "html": "<p>There is serenity in balance, and no one knows this better than the consular. Those consulars who follow the Way of\nBalance focus on utilizing the Force to equalize the battlefield. They bend the Force to shield their allies\nand expose their foes.</p>\n",
     "klass": "consular",
     "id": "way-of-balance"
   },
   {
+    "name": "Way of Confluence",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-confluence"
+  },
+  {
+    "name": "Way of Endurance",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-endurance"
+  },
+  {
     "name": "Way of Lightning",
-    "html": "<p>Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars\nwho follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing\ndamage from a distance, leaving them shaken and vulnerable – if not dead.</p>\n",
+    "html": "",
     "klass": "consular",
     "id": "way-of-lightning"
+  },
+  {
+    "name": "Way of Manipulation",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-manipulation"
+  },
+  {
+    "name": "Way of Negation",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-negation"
   },
   {
     "name": "Way of Balance",
@@ -18,9 +132,699 @@
     "id": "way-of-sage"
   },
   {
-    "name": "Way of Balance",
-    "html": "<p>There is serenity in balance, and no one knows this better than the consular. Those consulars who follow the Way of\nBalance focus on utilizing the Force to equalize the battlefield. They bend the Force to shield their allies\nand expose their foes.</p>\n",
+    "name": "Way of Suggestion",
+    "html": "",
     "klass": "consular",
     "id": "way-of-suggestion"
+  },
+  {
+    "name": "Way of Technology",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-technology"
+  },
+  {
+    "name": "Way of Telekinetics",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-telekinetics"
+  },
+  {
+    "name": "Way of the Sage",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-the-sage"
+  },
+  {
+    "name": "Way of the Seer",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-the-seer"
+  },
+  {
+    "name": "Way of Tutelage",
+    "html": "",
+    "klass": "consular",
+    "id": "way-of-tutelage"
+  },
+  {
+    "name": "Armormech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "armormech-engineering"
+  },
+  {
+    "name": "Armstech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "armstech-engineering"
+  },
+  {
+    "name": "Artificer Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "artificer-engineering"
+  },
+  {
+    "name": "Astrotech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "astrotech-engineering"
+  },
+  {
+    "name": "Astrotech Engineering (Companion)",
+    "html": "",
+    "klass": "engineer",
+    "id": "astrotech-engineering-(companion)"
+  },
+  {
+    "name": "Audiotech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "audiotech-engineering"
+  },
+  {
+    "name": "Biochem Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "biochem-engineering"
+  },
+  {
+    "name": "Biotech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "biotech-engineering"
+  },
+  {
+    "name": "Construction Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "construction-engineering"
+  },
+  {
+    "name": "Cybertech Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "cybertech-engineering"
+  },
+  {
+    "name": "Cybertech Engineering (Depreciated)",
+    "html": "",
+    "klass": "engineer",
+    "id": "cybertech-engineering-(depreciated)"
+  },
+  {
+    "name": "Cybertech Engineering (Old)",
+    "html": "",
+    "klass": "engineer",
+    "id": "cybertech-engineering-(old)"
+  },
+  {
+    "name": "Gadgeteer Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "gadgeteer-engineering"
+  },
+  {
+    "name": "Unstable Engineering",
+    "html": "",
+    "klass": "engineer",
+    "id": "unstable-engineering"
+  },
+  {
+    "name": "Adept Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "adept-specialist"
+  },
+  {
+    "name": "Assault Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "assault-specialist"
+  },
+  {
+    "name": "Blademaster Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "blademaster-specialist"
+  },
+  {
+    "name": "Demolitions Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "demolitions-specialist"
+  },
+  {
+    "name": "Enhancement Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "enhancement-specialist"
+  },
+  {
+    "name": "Exhibition Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "exhibition-specialist"
+  },
+  {
+    "name": "Fireteam Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "fireteam-specialist"
+  },
+  {
+    "name": "Fireteam Specialist (Companion)",
+    "html": "",
+    "klass": "fighter",
+    "id": "fireteam-specialist-(companion)"
+  },
+  {
+    "name": "Heavy Weapons Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "heavy-weapons-specialist"
+  },
+  {
+    "name": "Mounted Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "mounted-specialist"
+  },
+  {
+    "name": "Praetorian Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "praetorian-specialist"
+  },
+  {
+    "name": "Shield Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "shield-specialist"
+  },
+  {
+    "name": "Tactical Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "tactical-specialist"
+  },
+  {
+    "name": "Totem Specialist",
+    "html": "",
+    "klass": "fighter",
+    "id": "totem-specialist"
+  },
+  {
+    "name": "Aqinos Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "aqinos-form"
+  },
+  {
+    "name": "Ataru Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "ataru-form"
+  },
+  {
+    "name": "Jar'Kai Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "jar'kai-form"
+  },
+  {
+    "name": "Juyo/Vaapad Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "juyo-vaapad-form"
+  },
+  {
+    "name": "Makashi Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "makashi-form"
+  },
+  {
+    "name": "Niman Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "niman-form"
+  },
+  {
+    "name": "Shien/Djem So Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "shien-djem-so-form"
+  },
+  {
+    "name": "Shii-Cho Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "shii-cho-form"
+  },
+  {
+    "name": "Sokan Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "sokan-form"
+  },
+  {
+    "name": "Soresu Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "soresu-form"
+  },
+  {
+    "name": "Trakata Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "trakata-form"
+  },
+  {
+    "name": "Vonil/Ishu Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "vonil-ishu-form"
+  },
+  {
+    "name": "Vonil/Ishu Form (Companion)",
+    "html": "",
+    "klass": "guardian",
+    "id": "vonil-ishu-form-companion"
+  },
+  {
+    "name": "Ysannanite Form",
+    "html": "",
+    "klass": "guardian",
+    "id": "ysannanite-form"
+  },
+  {
+    "name": "Aing-Tii Order",
+    "html": "",
+    "klass": "monk",
+    "id": "aing-tii-order"
+  },
+  {
+    "name": "Crimson Order",
+    "html": "",
+    "klass": "monk",
+    "id": "crimson-order"
+  },
+  {
+    "name": "Echani Order",
+    "html": "",
+    "klass": "monk",
+    "id": "echani-order"
+  },
+  {
+    "name": "Jal Shey Order",
+    "html": "",
+    "klass": "monk",
+    "id": "jal-shey-order"
+  },
+  {
+    "name": "Kage Order",
+    "html": "",
+    "klass": "monk",
+    "id": "kage-order"
+  },
+  {
+    "name": "Kro Var Order",
+    "html": "",
+    "klass": "monk",
+    "id": "kro-var-order"
+  },
+  {
+    "name": "Kyuzo Order",
+    "html": "",
+    "klass": "monk",
+    "id": "kyuzo-order"
+  },
+  {
+    "name": "Matukai Order",
+    "html": "",
+    "klass": "monk",
+    "id": "matukai-order"
+  },
+  {
+    "name": "Nightsister Order",
+    "html": "",
+    "klass": "monk",
+    "id": "nightsister-order"
+  },
+  {
+    "name": "Rakatan Order",
+    "html": "",
+    "klass": "monk",
+    "id": "rakatan-order"
+  },
+  {
+    "name": "Teras Kasi Order",
+    "html": "",
+    "klass": "monk",
+    "id": "teras-kasi-order"
+  },
+  {
+    "name": "Trickster Order",
+    "html": "",
+    "klass": "monk",
+    "id": "trickster-order"
+  },
+  {
+    "name": "Whills Order",
+    "html": "",
+    "klass": "monk",
+    "id": "whills-order"
+  },
+  {
+    "name": "Acquisitions Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "acquisitions-practice"
+  },
+  {
+    "name": "Beguiler Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "beguiler-practice"
+  },
+  {
+    "name": "Bolstering Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "bolstering-practice"
+  },
+  {
+    "name": "Disabling Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "disabling-practice"
+  },
+  {
+    "name": "Gunslinger Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "gunslinger-practice"
+  },
+  {
+    "name": "Lethality Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "lethality-practice"
+  },
+  {
+    "name": "Maverick Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "maverick-practice"
+  },
+  {
+    "name": "Performance Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "performance-practice"
+  },
+  {
+    "name": "Pugnacity Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "pugnacity-practice"
+  },
+  {
+    "name": "Ruffian Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "ruffian-practice"
+  },
+  {
+    "name": "Saboteur Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "saboteur-practice"
+  },
+  {
+    "name": "Sawbones Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "sawbones-practice"
+  },
+  {
+    "name": "Scrapper Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "scrapper-practice"
+  },
+  {
+    "name": "Shadow Killer Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "shadow-killer-practice"
+  },
+  {
+    "name": "Sharpshooter Practice",
+    "html": "",
+    "klass": "operative",
+    "id": "sharpshooter-practice"
+  },
+  {
+    "name": "Archaeologist Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "archaeologist-pursuit"
+  },
+  {
+    "name": "Chef Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "chef-pursuit"
+  },
+  {
+    "name": "Detective Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "detective-pursuit"
+  },
+  {
+    "name": "Explorer Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "explorer-pursuit"
+  },
+  {
+    "name": "Gambler Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "gambler-pursuit"
+  },
+  {
+    "name": "Geneticist Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "geneticist-pursuit"
+  },
+  {
+    "name": "Occultist Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "occultist-pursuit"
+  },
+  {
+    "name": "Physician Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "physician-pursuit"
+  },
+  {
+    "name": "Politician Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "politician-pursuit"
+  },
+  {
+    "name": "Slicer Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "slicer-pursuit"
+  },
+  {
+    "name": "Tactician Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "tactician-pursuit"
+  },
+  {
+    "name": "Zoologist Pursuit",
+    "html": "",
+    "klass": "scholar",
+    "id": "zoologist-pursuit"
+  },
+  {
+    "name": "Artillerist Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "artillerist-technique"
+  },
+  {
+    "name": "Artillerist Technique (Companion)",
+    "html": "",
+    "klass": "scout",
+    "id": "artillerist-technique-(companion)"
+  },
+  {
+    "name": "Bulwark Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "bulwark-technique"
+  },
+  {
+    "name": "Deadeye Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "deadeye-technique"
+  },
+  {
+    "name": "Hunter Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "hunter-technique"
+  },
+  {
+    "name": "Illusionist Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "illusionist-technique"
+  },
+  {
+    "name": "Inquisitor Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "inquisitor-technique"
+  },
+  {
+    "name": "Mastermind Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "mastermind-technique"
+  },
+  {
+    "name": "Mechanist Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "mechanist-technique"
+  },
+  {
+    "name": "Mechanist Technique (Companion)",
+    "html": "",
+    "klass": "scout",
+    "id": "mechanist-technique-(companion)"
+  },
+  {
+    "name": "Predator Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "predator-technique"
+  },
+  {
+    "name": "Slayer Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "slayer-technique"
+  },
+  {
+    "name": "Stalker Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "stalker-technique"
+  },
+  {
+    "name": "Teleportation Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "teleportation-technique"
+  },
+  {
+    "name": "Triage Technique",
+    "html": "",
+    "klass": "scout",
+    "id": "triage-technique"
+  },
+  {
+    "name": "Path of Aggression",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-aggression"
+  },
+  {
+    "name": "Path of Communion",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-communion"
+  },
+  {
+    "name": "Path of Ethereality",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-ethereality"
+  },
+  {
+    "name": "Path of Focus",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-focus"
+  },
+  {
+    "name": "Path of Iron",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-iron"
+  },
+  {
+    "name": "Path of Meditation",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-meditation"
+  },
+  {
+    "name": "Path of Shadows",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-shadows"
+  },
+  {
+    "name": "Path of Synthesis",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-synthesis"
+  },
+  {
+    "name": "Path of Tenacity",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-tenacity"
+  },
+  {
+    "name": "Path of the Corsair",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-the-corsair"
+  },
+  {
+    "name": "Path of the Forceblade",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-the-forceblade"
+  },
+  {
+    "name": "Path of Witchcraft",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-witchcraft"
+  },
+  {
+    "name": "Path of Witchcraft (Companion)",
+    "html": "",
+    "klass": "sentinel",
+    "id": "path-of-witchcraft-(companion)"
   }
 ]
