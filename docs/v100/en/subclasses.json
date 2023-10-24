@@ -13,7 +13,7 @@
   },
   {
     "name": "Ballistic Approach",
-    "html": "",
+    "html": "<p>For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn’t a last resort; it’s the primary plan. Leading with a blaster and pure, unbridled rage, the berserker never lets an empty gun diminish their fury.</p>\n",
     "klass": "berserker",
     "id": "ballistic-approach"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Cyclone Approach",
-    "html": "",
+    "html": "<p>The Cyclone Approach empowers the berserker’s ability to fight with weapons in each hand. Followers of this approach learn to move quickly to avoid attacks and can become a whirlwind of fury and steel, cleaving through hordes of enemies.</p>\n",
     "klass": "berserker",
     "id": "cyclone-approach"
   },
@@ -109,7 +109,7 @@
   },
   {
     "name": "Way of Lightning",
-    "html": "",
+    "html": "<p>Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable – if not dead.</p>\n",
     "klass": "consular",
     "id": "way-of-lightning"
   },
@@ -169,7 +169,7 @@
   },
   {
     "name": "Armormech Engineering",
-    "html": "",
+    "html": "<p>Those engineers who choose the Armormech Engineering discipline focus on the ability to work with hard metals and electronic shielding to construct and enhance all types of personal armor.</p>\n",
     "klass": "engineer",
     "id": "armormech-engineering"
   },
@@ -265,7 +265,7 @@
   },
   {
     "name": "Blademaster Specialist",
-    "html": "",
+    "html": "<p>Those fighters who choose to become Blademaster Specialists hone their focus to a blade’s edge, becoming so in tune with their arsenal that it becomes both their weapon and their armor.</p>\n",
     "klass": "fighter",
     "id": "blademaster-specialist"
   },
@@ -361,7 +361,7 @@
   },
   {
     "name": "Makashi Form",
-    "html": "",
+    "html": "<p>Makashi Form, also known as Contention Form, encourages precision and efficiency over power, using jabs, parries and light cuts over slashes, blocks and chops. Those guardians who focus on Makashi Form utilize calculated blade manipulation, intense focus, and expert timing to confuse and trap their opponents.</p>\n",
     "klass": "guardian",
     "id": "makashi-form"
   },
@@ -427,7 +427,7 @@
   },
   {
     "name": "Crimson Order",
-    "html": "",
+    "html": "<p>Monks of the Crimson Order are unyielding in their resolve. They pledge themselves to a singular entity or belief, and uphold their service with solemnity and diligence.</p>\n",
     "klass": "monk",
     "id": "crimson-order"
   },
@@ -583,7 +583,7 @@
   },
   {
     "name": "Sharpshooter Practice",
-    "html": "",
+    "html": "<p>Those operatives who choose the Sharpshooter Practice are bringers of death. Striking from a safe distance, the Sharpshooter uses precision shooting to control the battlefield and bring targets down quickly.</p>\n",
     "klass": "operative",
     "id": "sharpshooter-practice"
   },

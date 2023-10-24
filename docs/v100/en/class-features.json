@@ -230,37 +230,58 @@
     "id": "berserker.armored-approach.spiked-armor"
   },
   {
+    "level": 14,
+    "mechanics": [
+      {
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "weapon",
+          "special": "bf"
+        },
+        "augmentTypes": [
+          "damage"
+        ],
+        "bonus": {
+          "type": "flat",
+          "value": 5
+        }
+      }
+    ],
+    "name": "Brawn",
+    "html": "<p><em><strong>Ballistic Approach:</strong> 14th level</em></p>\n<p>When you use the burst property of a blaster with which are you proficient, you can apply your rage damage bonus to every target that takes damage, instead of just one. Additionally, when a Large or smaller creature fails the saving throw against your burst or rapid property while within 30 feet of you, it is knocked prone.</p>\n",
+    "klass": "berserker",
+    "subclass": "ballistic-approach",
+    "id": "berserker.ballistic-approach.brawn"
+  },
+  {
     "level": 10,
     "mechanics": [
       {
-        "name": "down,-not-out",
+        "name": "down, not out",
         "moreInfo": {
           "model": "class-features",
           "id": "berserker.ballistic-approach.down,-not-out"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "down,-not-out"
+        "type": "reaction",
+        "shortDesc": "When you take damage from a creature that is within <me-distance length=\"30\" /> of you, you can use your reaction to make a weapon attack against that creature."
       }
     ],
-    "name": "down,-not-out",
+    "name": "down, not out",
     "html": "<p><em><strong>Ballistic Approach:</strong> 10th level</em></p>\n<p>When you are hit with an attack by a creature within 30 feet of you, you can use your reaction to make a single attack against that creature with a blaster with which you are proficient.</p>\n",
     "klass": "berserker",
     "subclass": "ballistic-approach",
     "id": "berserker.ballistic-approach.down,-not-out"
   },
   {
-    "level": 9,
+    "level": 3,
     "mechanics": [
       {
-        "name": "explosive",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "berserker.ballistic-approach.explosive"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "explosive"
+        "type": "attack-augmentenlightdie-",
+        "value": "proficient",
+        "effect": {
+          "type": "die-bonus",
+          "note": "min roll = 3"
+        }
       }
     ],
     "name": "explosive",
@@ -273,14 +294,19 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "firestorm",
+        "type": "weapon",
+        "proficient": true,
+        "bonus": {
+          "type": "modComparison",
+          "value": [
+            "str",
+            "dex"
+          ]
+        },
         "moreInfo": {
           "model": "class-features",
           "id": "berserker.ballistic-approach.firestorm"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "firestorm"
+        }
       }
     ],
     "name": "firestorm",
@@ -298,9 +324,8 @@
           "model": "class-features",
           "id": "berserker.ballistic-approach.rampage"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "rampage"
+        "type": "bonus-action",
+        "shortDesc": "As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started. Make one melee attack with your blaster."
       }
     ],
     "name": "rampage",
@@ -853,14 +878,15 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "dual-wielder",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "berserker.cyclone-approach.dual-wielder"
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "weapon",
+          "special": "twf"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "dual-wielder"
+        "augmentTypes": [
+          "damage"
+        ],
+        "abilityMod": true
       }
     ],
     "name": "dual-wielder",
@@ -888,6 +914,26 @@
     "klass": "berserker",
     "subclass": "cyclone-approach",
     "id": "berserker.cyclone-approach.mighty-leap"
+  },
+  {
+    "level": 14,
+    "mechanics": [
+      {
+        "name": "tornado",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "berserker.cyclone-approach.tornado"
+        },
+        "type": "global-note",
+        "subType": "power",
+        "value": "tornado"
+      }
+    ],
+    "name": "tornado",
+    "html": "<p><em><strong>Cyclone Approach:</strong> 14th and 17th level</em></p>\n<p>Once on each of your turns, you can become a tornado of attacks. When you take the Attack action on your turn, you can forgo one of your regular attacks to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target. If you are wielding a separate melee weapon in each hand, each successful hit against a target deals damage equal to the damage dice of both weapons + your ability modifier + any other modifiers.</p>\n<p>You can use this feature five times. You gain an additional use at 17th level. You regain all expended uses when you finish a short or long rest.</p>\n",
+    "klass": "berserker",
+    "subclass": "cyclone-approach",
+    "id": "berserker.cyclone-approach.tornado"
   },
   {
     "level": 6,
@@ -1947,14 +1993,36 @@
     "level": 17,
     "mechanics": [
       {
-        "name": "blistering-rebuke",
+        "name": "Blistering Rebuke",
         "moreInfo": {
           "model": "class-features",
           "id": "consular.way-of-lightning.blistering-rebuke"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "blistering-rebuke"
+        "type": "reaction",
+        "dc": {
+          "base": 8,
+          "proficient": true,
+          "bonus": {
+            "type": "powercastingMod",
+            "value": "consular"
+          }
+        },
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": 10,
+            "type": "lightning"
+          }
+        ],
+        "bonus": {
+          "type": "level",
+          "value": "consular",
+          "multiplier": 1
+        },
+        "resource": {
+          "id": "consular.way-of-lightning.blistering-rebuke"
+        },
+        "shortDesc": "When you are hit by a creature within 5 feet of you, at the cost of your reaction, they must make a Dex save (DC {{ dc }}) or they take 1d10plus your consular level lightning damage, is pushed back 10 feet, and becomes *shocked* until the end of their next turn. On a successful save, the creature takes half as much damage and isn't moved or *shocked*."
       }
     ],
     "name": "blistering-rebuke",
@@ -1967,13 +2035,16 @@
     "level": 14,
     "mechanics": [
       {
+        "type": "resistance",
+        "value": "lightning"
+      },
+      {
         "name": "electric-attunement",
         "moreInfo": {
           "model": "class-features",
           "id": "consular.way-of-lightning.electric-attunement"
         },
         "type": "global-note",
-        "subType": "power",
         "value": "electric-attunement"
       }
     ],
@@ -1987,14 +2058,20 @@
     "level": 6,
     "mechanics": [
       {
-        "name": "potent-lightning",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "consular.way-of-lightning.potent-lightning"
+        "type": "attack-augment",
+        "attackLimit": {
+          "model": "power",
+          "modelTypes": [
+            "lightning"
+          ]
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "potent-lightning"
+        "augmentTypes": [
+          "damage"
+        ],
+        "bonus": {
+          "type": "powercastingMod",
+          "value": "consular"
+        }
       }
     ],
     "name": "potent-lightning",
@@ -2041,7 +2118,7 @@
       }
     ],
     "name": "shocking-affinity",
-    "html": "<p><em><strong>Way of Lightning:</strong> 3rd level</em></p>\n<p>When you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.</p>\n<p>Additionally, when you cast a damage-dealing force power that requires a force attack or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. If</p>\n<p>you hit with the power, or the target fails the power's saving throw, affected creatures become <em>shocked</em> until the start of your next turn. You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you finish a short or long rest.</p>\n",
+    "html": "<p><em><strong>Way of Lightning:</strong> 3rd level</em></p>\n<p>When you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.</p>\n<p>Additionally, when you cast a damage-dealing force power that requires a force attack or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw.\nIf you hit with the power, or the target fails the power's saving throw, affected creatures become <em>shocked</em> until the start of your next turn. You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and 17th level. You regain all expended uses when you finish a short or long rest.</p>\n",
     "klass": "consular",
     "subclass": "way-of-lightning",
     "id": "consular.way-of-lightning.shocking-affinity"
@@ -2051,18 +2128,20 @@
     "mechanics": [
       {
         "type": "resistance",
-        "label": "Force Powers"
+        "value": "lightning"
       },
       {
-        "type": "saving-throw",
-        "effect": {
-          "type": "advantage",
-          "note": "against force powers"
-        }
+        "name": "unlimited-power",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "consular.way-of-lightning.unlimited-power"
+        },
+        "type": "global-note",
+        "value": "unlimited-power"
       }
     ],
-    "name": "Force Resistance",
-    "html": "<p>Your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will\nuniversal power, the barrier regains 1 hit point. You can’t restore your barrier above half its maximum hit points in this way.</p>\n",
+    "name": "unlimited-power",
+    "html": "<p>You can increase the power of your simpler lightning force powers. When you cast a force power of 1st through 6th level that deals lightning damage, you can deal maximum damage with that power.</p>\n<p>You can use this feature with no adverse effects a number of times equal to your proficiency bonus, as shown in the consular table. If you use this feature beyond this before you finish a long rest, you take 2d12 true damage for each level of the power, immediately after you cast it. Each time you use this feature again before finishing a long rest, the damage increases by 1d12.</p>\n",
     "klass": "consular",
     "subclass": "way-of-lightning",
     "id": "consular.way-of-lightning.unlimited-power"
@@ -2869,6 +2948,15 @@
         "type": "global-note",
         "subType": "power",
         "value": "armormech's-celerity"
+      },
+      {
+        "name": "armormech's-celerity",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "engineer.armormech-engineering.armormech's-celerity"
+        },
+        "type": "bonus-action",
+        "shortDesc": "When you take the Attack action or use your action to a cast a tech power of 1st-level or higher, you can make one weapon attack as a bonus action."
       }
     ],
     "name": "armormech's-celerity",
@@ -2881,14 +2969,15 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "bonus-proficiencies",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "engineer.armormech-engineering.bonus-proficiencies"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "bonus-proficiencies"
+        "type": "armor",
+        "value": [
+          "heavy",
+          "medium"
+        ]
+      },
+      {
+        "type": "tool",
+        "value": "armormechs-implements"
       }
     ],
     "name": "bonus-proficiencies",
@@ -2907,8 +2996,37 @@
           "id": "engineer.armormech-engineering.damage-absorption"
         },
         "type": "global-note",
-        "subType": "power",
+        "subType": "defense",
         "value": "damage-absorption"
+      },
+      {
+        "name": "Damage Absorption",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "engineer.armormech-engineering.damage-absorption"
+        },
+        "type": "reaction",
+        "damage": [
+          {
+            "dieCount": 1,
+            "dieType": {
+              "type": "progressive",
+              "value": {
+                "1": 4,
+                "5": 6,
+                "9": 8,
+                "13": 10,
+                "17": 12
+              },
+              "bonus": {
+                "type": "mod",
+                "value": "int"
+              }
+            },
+            "label": "Potent Aptitude"
+          }
+        ],
+        "shortDesc": "When you take damage, you can use your reaction and expend one use of your Potent Aptitude to absorb some of that damage. When you do so, the damage you take from the attack is reduced by the amount rolled on the die + your Intelligence modifier (minimum of +1)."
       }
     ],
     "name": "damage-absorption",
@@ -2921,14 +3039,8 @@
     "level": 6,
     "mechanics": [
       {
-        "name": "extra-attack",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "engineer.armormech-engineering.extra-attack"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "extra-attack"
+        "type": "extra-attack",
+        "value": 2
       }
     ],
     "name": "extra-attack",
@@ -5173,14 +5285,9 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "unarmored-defense",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "fighter.blademaster-specialist.unarmored-defense"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "unarmored-defense"
+        "type": "natural-armor",
+        "base": 10,
+        "mod": "str,dex"
       }
     ],
     "name": "unarmored-defense",
@@ -7041,14 +7148,9 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "channel-the-force",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "guardian.makashi-form.channel-the-force"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "channel-the-force"
+        "type": "model-choice",
+        "options": "makashi-riposte",
+        "model": "channel-the-force"
       }
     ],
     "name": "channel-the-force",
@@ -7081,14 +7183,9 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "form-basics",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "guardian.makashi-form.form-basics"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "form-basics"
+        "type": "model-choice",
+        "options": "makashi",
+        "model": "lightsaber-forms"
       }
     ],
     "name": "form-basics",
@@ -7101,14 +7198,13 @@
     "level": 15,
     "mechanics": [
       {
-        "name": "glancing-blow",
+        "name": "Glancing blow",
         "moreInfo": {
           "model": "class-features",
           "id": "guardian.makashi-form.glancing-blow"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "glancing-blow"
+        "type": "reaction",
+        "shortDesc": "When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you."
       }
     ],
     "name": "glancing-blow",
@@ -7116,6 +7212,45 @@
     "klass": "guardian",
     "subclass": "makashi-form",
     "id": "guardian.makashi-form.glancing-blow"
+  },
+  {
+    "level": 7,
+    "mechanics": [
+      {
+        "name": "Master of Contention",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "master-of-contention"
+        },
+        "type": "global-note",
+        "subType": "action",
+        "value": "Master of Contention"
+      },
+      {
+        "type": "asi-choice",
+        "options": true,
+        "limit": [
+          "dex",
+          "wis",
+          "cha"
+        ],
+        "amount": 2
+      },
+      {
+        "type": "asi-maximum",
+        "abilities": [
+          "dex",
+          "wis",
+          "cha"
+        ],
+        "max": 22
+      }
+    ],
+    "name": "Master of Contention",
+    "html": "<p><em><strong>Makashi Form:</strong> 20th level</em></p>\n<p>You are a duelist of the highest caliber. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:</p>\n<p>You have resistance to kinetic and energy damage, and you ignore resistance to kinetic and energy damage.\nAll melee attacks have disadvantage against you.\nYour melee weapon attacks inflict an additional damage die.\nThis effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.</p>\n",
+    "klass": "guardian",
+    "subclass": "makashi-form",
+    "id": "guardian.makashi-form.master-of-contention"
   },
   {
     "level": 7,
@@ -7146,9 +7281,36 @@
           "model": "class-features",
           "id": "guardian.makashi-form.the-way-of-the-ysalamiri"
         },
-        "type": "global-note",
-        "subType": "power",
-        "value": "the-way-of-the-ysalamiri"
+        "type": "bonus-action",
+        "resource": {
+          "id": "guardian.makashi-form.the-way-of-the-ysalamiri"
+        },
+        "toggle": {
+          "id": "assault-hunter-mode",
+          "whenOn": [
+            {
+              "type": "speed-bonus",
+              "value": [
+                "walk"
+              ],
+              "bonus": {
+                "type": "flat",
+                "value": 5
+              }
+            },
+            {
+              "type": "attack-augment",
+              "augmentTypes": [
+                "damage"
+              ],
+              "bonus": {
+                "type": "powercastingMod",
+                "value": "guardian"
+              }
+            }
+          ]
+        },
+        "shortDesc": "As a bonus action, for one minute, you add your Wisdom or Charisma modifier (your choice) to the first melee weapon attack and damage rolls you make each turn."
       }
     ],
     "name": "the-way-of-the-ysalamiri",
@@ -8326,14 +8488,11 @@
     "level": 3,
     "mechanics": [
       {
-        "name": "crimson-armaments",
-        "moreInfo": {
-          "model": "class-features",
-          "id": "monk.crimson-order.crimson-armaments"
-        },
-        "type": "global-note",
-        "subType": "power",
-        "value": "crimson-armaments"
+        "type": "armor",
+        "value": [
+          "light",
+          "medium"
+        ]
       }
     ],
     "name": "crimson-armaments",
@@ -8345,6 +8504,18 @@
   {
     "level": 6,
     "mechanics": [
+      {
+        "name": "Crimson Squal",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "monk.crimson-order.crimson-squall"
+        },
+        "type": "bonus-action",
+        "range": {
+          "short": 5
+        },
+        "shortDesc": "As a bonus action while wielding a monk weapon, you can expend 1 focus point to cause the area within 5 feet of you to become difficult terrain for hostile creatures for 1 minute. This area travels with you, and affected creatures within the area can not make opportunity attacks."
+      },
       {
         "name": "crimson-squall",
         "moreInfo": {
@@ -8361,6 +8532,67 @@
     "klass": "monk",
     "subclass": "crimson-order",
     "id": "monk.crimson-order.crimson-squall"
+  },
+  {
+    "level": 17,
+    "mechanics": [
+      {
+        "name": "sovereign-protector",
+        "moreInfo": {
+          "model": "class-features",
+          "id": "monk.crimson-order.sovereign-protector"
+        },
+        "type": "bonus-action",
+        "resource": {
+          "id": "monk.crimson-order.sovereign-protector"
+        },
+        "toggle": {
+          "id": "sovereign-protector",
+          "whenOn": [
+            {
+              "type": "speed-bonus",
+              "value": [
+                "walk"
+              ],
+              "bonus": {
+                "type": "flat",
+                "value": 30
+              }
+            },
+            {
+              "type": "ac",
+              "bonus": {
+                "type": "flat",
+                "value": 2
+              }
+            },
+            {
+              "type": "attack-augment",
+              "attackLimit": {
+                "type": "melee",
+                "model": "weapon"
+              },
+              "augmentTypes": [
+                "hit"
+              ],
+              "bonus": {
+                "type": "flat",
+                "value": 1
+              }
+            },
+            {
+              "type": "extra-attack-add"
+            }
+          ]
+        },
+        "shortDesc": "As a bonus action, you can gain the following effects for 1 minute. Your speed is doubled. Your AC increases by 2. You have advantage on Dexterity saving throws. You gain an additional action of each of your turns. This action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action."
+      }
+    ],
+    "name": "sovereign-protector",
+    "html": "<p><em><strong>Crimson Order:</strong> 17th level</em></p>\n<p>Your mastery of focus has allowed you to unlock your fullest potential in combat. As a bonus action, you can gain the following effects for 1 minute.</p>\n<p>Your speed is doubled.\nYour AC increases by 2.\nYou have advantage on Dexterity saving throws.\nYou gain an additional action of each of your turns. This action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.\nThis effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.</p>\n",
+    "klass": "monk",
+    "subclass": "crimson-order",
+    "id": "monk.crimson-order.sovereign-protector"
   },
   {
     "level": 11,
@@ -10465,6 +10697,12 @@
   {
     "level": 3,
     "mechanics": [
+      {
+        "type": "weapon-choice",
+        "options": true,
+        "limit": "martial-blaster",
+        "selections": 2
+      },
       {
         "name": "assume-the-position",
         "moreInfo": {

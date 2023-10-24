@@ -1,6 +1,10 @@
 ---
 level: 3
 mechanics:
+  - type: weapon-choice
+    options: true
+    limit: martial-blaster
+    selections: 2
   - type: global-note
     subType: power
     value: assume-the-position
@@ -9,6 +13,8 @@ mechanics:
       id: operative.sharpshooter-practice.assume-the-position
 name: assume-the-position
 ---
-_**Sharpshooter Practice:** 3rd level_
-You don't need advantage on your attack roll to use your Sneak Attack if your target is greater than 30 feet from you and no enemies are within 5 feet of you. Additionally, standing up from prone now only costs 5 feet of movement.
+_**Sharpshooter Practice:** 3rd level_
+
+You don't need advantage on your attack roll to use your Sneak Attack if your target is greater than 30 feet from you and no enemies are within 5 feet of you. Additionally, standing up from prone now only costs 5 feet of movement.
+
 Additionally, you gain proficiency with two martial blasters of your choice.
