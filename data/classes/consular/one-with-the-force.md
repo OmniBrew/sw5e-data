@@ -1,18 +1,18 @@
 ---
-level: 1
+level: 20
 mechanics:
-  - type: asi-maximum
-    abilities: [wis, cha]
-    max: 24
-  - type: asi
-    ability: wis
-    amount: 4
-  - type: asi
-    ability: cha
-    amount: 4
+  - type: asi-choice
+    options: true
+    limit: [cha, wis]
+    selections: 1
+    total: 4
+    max: 1
   - type: model-choice
-    model: asi
-    options: [cha, wis]
+    options: true
+    label: 'Charisma or Wisdom'
+    model: max-asi
+    selections: 1
+    limits: ['charisma-24', 'wisdom-24']
   - type: model-choice
     model: powers
     options: true
