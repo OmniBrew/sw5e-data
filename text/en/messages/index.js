@@ -149,8 +149,6 @@ module.exports = {
         tactical_cloak_uses: 'Tactical Cloak Uses',
         tech_points: 'Tech Points',
         tech_point_limit: 'Tech Point Limit',
-        force_points: 'Force Points',
-        force_point_limit: 'Force Point Limit',
     },
     class_features_title: 'Class Features',
     concentration_abbr: 'C',
