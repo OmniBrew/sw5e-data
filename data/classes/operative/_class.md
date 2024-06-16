@@ -16,15 +16,11 @@ profs:
     has:
       - simple_blasters
       - simple_vibroweapons
-      - martial_blasters_that_lack_the_auto
-      - special
-      - strength
-      - and_two-handed_properties
-      - martial_vibroweapons_with_the_finesse_property
   tool:
     text: One specialist's kit of your choice
-    has:
-      - one_specialist's_kit_of_your_choice
+    choices:
+      items: [Biochemist_kit,chef_kit,demolition_kit,disguise_kit,forgery_kit,mechanic_kit,poisoner_kit,security_kit,slicer_kit,trapper_kit]
+      count: 1
   skill:
     text: Choose two from Any
     choices:

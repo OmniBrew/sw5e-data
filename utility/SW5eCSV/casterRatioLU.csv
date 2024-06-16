@@ -1,0 +1,18 @@
+PartitionKey,RowKey,Timestamp,CasterRatioType,CasterRatioType@type,CasterType,CasterType@type,Name,Name@type,Ratio,Ratio@type
+Core,Adept Specialist,2020-05-25T18:48:30.1649144Z,Archetype,String,Force,String,Adept Specialist,String,0.3333333333333333,Double
+Core,Aing-Tii Order,2020-05-25T18:48:30.1649144Z,Archetype,String,Force,String,Aing-Tii Order,String,0.3333333333333333,Double
+Core,Archaelogist Pursuit,2021-01-03T19:09:39.4054793Z,Archetype,String,Force,String,Archaeologist Pursuit,String,0.3333333333333333,Double
+Core,Artificer Engineering,2020-05-25T19:54:29.8702512Z,Archetype,String,Force,String,Artificer Engineering,String,0,Double
+Core,Beguiler Practice,2020-05-25T18:48:30.1649144Z,Archetype,String,Force,String,Beguiler Practice,String,0.3333333333333333,Double
+Core,Consular,2020-05-25T18:56:26.5828665Z,Class,String,Force,String,Consular,String,1,Double
+Core,Engineer,2020-05-25T18:48:30.1659161Z,Class,String,Tech,String,Engineer,String,1,Double
+Core,Guardian,2020-05-25T18:48:30.1659161Z,Class,String,Force,String,Guardian,String,0.5,Double
+Core,Industrial Approach,2020-09-12T19:04:17.1621051Z,Archetype,String,Tech,String,Industrial Approach,String,0.1666666666666667,Double
+Core,Inquisitor Technique,2020-05-25T19:54:55.9759361Z,Archetype,String,Force,String,Inquisitor Technique,String,0,Double
+Core,Marauder Approach,2020-05-25T18:48:30.1659161Z,Archetype,String,Force,String,Marauder Approach,String,0.3333333333333333,Double
+Core,Path of Synthesis,2020-05-25T19:53:58.1148681Z,Archetype,String,Tech,String,Path of Synthesis,String,0,Double
+Core,Saboteur Practice,2020-05-25T18:48:30.1669161Z,Archetype,String,Tech,String,Saboteur Practice,String,0.3333333333333333,Double
+Core,Scout,2020-05-25T18:48:30.1669161Z,Class,String,Tech,String,Scout,String,0.5,Double
+Core,Sentinel,2020-05-25T18:48:30.1669161Z,Class,String,Force,String,Sentinel,String,0.6666666666666666,Double
+Core,Shield Specialist,2020-05-25T18:48:30.1669161Z,Archetype,String,Tech,String,Shield Specialist,String,0.3333333333333333,Double
+Core,Slicer Pursuit,2020-05-25T19:41:54.3488157Z,Archetype,String,Tech,String,Slicer Pursuit,String,0.3333333333333333,Double

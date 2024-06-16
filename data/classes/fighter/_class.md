@@ -71,16 +71,7 @@ progression:
     - 14
     - 16
     - 19
-  columns:
-    - label: features
-    - label: maneuvers_known
-      values: [0,1,2,2,4,4,5,5,6,6,7,7,9,9,10,10,11,11,12,12]
-    - label: superiority_dice_quantity
-      values: [0,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6]
-    - label: superiority_dice_size
-      values: [1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5,6,6,6]
-    - label: strategies_known
-      values: [0,0,1,1,1,1,2,2,2,2,2,2,3,3,3,3,4,4,4,4]
+
 ---
 A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
 

@@ -1,0 +1,70 @@
+PartitionKey,RowKey,Timestamp,Content,Content@type,ContentSource,ContentSource@type,ContentType,ContentType@type,Name,Name@type
+Core,Absorptive,2023-05-30T20:15:17.800161Z,"#### Absorptive
+When you are wearing armor or wielding a shield with this property, damage that you take from weapons is reduced by an amount equal to the absorptive number. If this would reduce the damage to 0, the damage is instead reduced to 1.",String,None,String,Core,String,Absorptive,String
+Core,Agile,2023-05-30T20:15:17.800161Z,"#### Agile
+While wearing armor or wielding a shield with this property, your Dexterity score becomes equal to the agile number. If your Dexterity is already equal to or greater than the agile number, it has no effect on you.",String,None,String,Core,String,Agile,String
+Core,Anchor,2023-05-30T20:15:17.800161Z,"#### Anchor
+A shield with this property can be used to provide cover. As an action, you can anchor or recover the shield. While anchored, you gain no benefit from a shield, and it does not require the use of a hand. Instead, while anchored, a light shield provides one-quarter cover, a medium shield provides half cover, and a heavy shield provides three-quarters cover.",String,None,String,Core,String,Anchor,String
+Core,Avoidant,2023-05-30T20:15:17.800161Z,"#### Avoidant
+When wearing armor or wielding a shield with this property and a creature makes an attack against you, the critical hit range decreases by an amount equal to the avoidant number, to a minimum of 1.",String,None,String,Core,String,Avoidant,String
+Core,Barbed,2023-05-30T20:15:17.800161Z,"#### Barbed
+When you succeed on a Strength (Athletics) check to initiate or maintain a grapple while wearing armor with this property, the creature takes kinetic damage using the barbed damage (which appears in parentheses with the property) + your Strength modifier.",String,None,String,Core,String,Barbed,String
+Core,Bulky,2023-05-30T20:15:12.9409313Z,"#### Bulky
+While wearing armor with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sound.",String,None,String,Core,String,Bulky,String
+Core,Charging,2023-05-30T20:15:17.800161Z,"#### Charging
+When you take damage while wearing armor or wielding a shield with this property, you gain a charge. You can store a maximum number of charges equal to the charging number, and the charges last for 1 minute. The next time you hit with a melee weapon attack while you have charges, you deal additional damage of the same type as the weapon's damage equal to the number of charges stored, and the charges are expended.",String,None,String,Core,String,Charging,String
+Core,Concealing,2023-05-30T20:15:17.800161Z,"#### Concealing
+While wielding a shield with this property, you have advantage on Dexterity (Stealth) checks that rely on sight.",String,None,String,Core,String,Concealing,String
+Core,Cumbersome,2023-05-30T20:15:17.800161Z,"#### Cumbersome
+While wearing armor or wielding a shield with this property, your speed is reduced by 5.",String,None,String,Core,String,Cumbersome,String
+Core,Gauntleted,2023-05-30T20:15:17.800161Z,"#### Gauntleted
+While wearing armor with this property, your unarmed strikes deal kinetic damage using the gauntleted damage (which appears in parentheses with the property) + your Strength modifier.",String,None,String,Core,String,Gauntleted,String
+Core,Imbalanced,2023-05-30T20:15:17.800161Z,"#### Imbalanced
+When you are critically hit while wielding a shield with this property, you can't take reactions until the start of your next turn, and you gain no AC benefit from your shield against the next attack against you before the start of your next turn.",String,None,String,Core,String,Imbalanced,String
+Core,Impermeable,2023-05-30T20:15:17.800161Z,"#### Impermeable 2
+Armor with this property includes the limited functions of a number of enviromental suits equal the impermeable number from the list below, which are either included in parentheses with the property or determined by the GM. Additionally, it includes 4 hours' capacity of oxygen, which can be replenished by oxygen tanks.
+- **Chemical Suit:** You are immune to the corroded condition.
+- **Conductive Suit:** You are immune to the shocked condition.
+- **Dampening Suit:** You are immune to the deafened condition, and you can't have disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks that rely on sound.
+- **Diving Suit:** You are protected from the hazards associated with high pressure environments.
+- **Flame-Proof Suit:** You are immune to the ignited condition.
+- **Hazard Suit:** You are immune to the poisoned condition.
+- **Mind-Shielding Suit:** You have advantage on saving throws to avoid being frightened, and you have advantage on saving throws to avoid having your mind read or affected.
+- **Space Suit:** You are protected from the hazards associated with low pressure environments.
+- **Stabilizer Suit:** You have advantage on ability checks and saving throws to avoid being moved.",String,None,String,Core,String,Impermeable,String
+Core,Insulated,2023-05-30T20:15:17.8011599Z,"#### Insulated
+When you make a saving throw against an effect that would deal ion or lightning damage while wearing armor or wielding a shield with this property, you can treat a d20 roll of below the insulated number as the insulated number.",String,None,String,Core,String,Insulated,String
+Core,Interlocking,2023-05-30T20:15:17.8011599Z,"#### Interlocking
+While wielding a shield with this property within 5 feet of a friendly creature who is also wielding a shield with this property, you can both use your reactions on either of your turns to interlock the shields. While interlocked, both creatures gain a bonus to AC equal to the interlocking number. If at any point the creatures are more than 5 feet from each other, the shields immediately de-interlock, and this effect ends.",String,None,String,Core,String,Interlocking,String
+Core,Lambent,2023-05-30T20:15:17.8011599Z,"#### Lambent
+While wielding a shield with this property, you can use a bonus action to activate or deactivate the shield's light. While active, the shield sheds bright light in a 5-foot radius and dim light for an additional 5 feet. Additionally, Dexterity (Stealth) checks made while the shield's light is active that rely on sight have disadvantage.",String,None,String,Core,String,Lambent,String
+Core,Lightweight,2023-05-30T20:15:17.8011599Z,"#### Lightweight
+Armor and shields with this property have their weight reduced by half.",String,None,String,Core,String,Lightweight,String
+Core,Magnetic,2023-05-30T20:15:17.8011599Z,"#### Magnetic 
+While you are wielding a shield with this property and a melee weapon attack misses you by an amount less than or equal to your bonus to AC from your shield, the attacking creature must make a Strength check, DC equal to the magnetic number. On a failed save, the creature's weapon adheres to the shield. As an action, a creature can repeat this check. On a success, the weapon is freed.",String,None,String,Core,String,Magnetic,String
+Core,Obscured,2023-05-30T20:15:17.8011599Z,"#### Obscured
+While wearing armor or wielding a shield with this property, electronic sensors and cameras have disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks against you that rely on sight.",String,None,String,Core,String,Obscured,String
+Core,Obtrusive,2023-05-30T20:15:12.9409313Z,"#### Obtrusive
+While wielding a shield with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sight.",String,None,String,Core,String,Obtrusive,String
+Core,Powered,2023-05-30T20:15:17.8011599Z,"#### Powered
+While wearing armor with this property, your Strength score becomes equal to the powered number. If your Strength is already equal to or greater than the powered number, it has no effect on you.",String,None,String,Core,String,Powered,String
+Core,Reactive,2023-05-30T20:15:17.8011599Z,"#### Reactive
+When you are wearing armor with this property and a creature hits you with an attack roll, you gain a bonus to AC against the next attack from that creature before the start of your next turn equal to the reactive number.",String,None,String,Core,String,Reactive,String
+Core,Regulated,2023-05-30T20:15:17.8011599Z,"#### Regulated
+When you are wearing armor or wielding a shield with this property and a creature rolls the maximum on a weapon damage die against you, they must reroll and use the new roll, even if the new roll is the maximum on the weapon damage die.",String,None,String,Core,String,Regulated,String
+Core,Reinforced,2023-05-30T20:15:17.8011599Z,"#### Reinforced
+When you make a long jump while wearing armor with this property, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.",String,None,String,Core,String,Reinforced,String
+Core,Responsive,2023-05-30T20:15:17.8011599Z,"#### Responsive
+While you are wielding a shield with this property and an attack misses you by an amount less than or equal to your bonus to AC from your shield, you gain a bonus to AC against the next attack from that creature before the start of your next turn equal to the responsive number.",String,None,String,Core,String,Responsive,String
+Core,Rigid,2023-05-30T20:15:17.802159Z,"#### Rigid
+While wearing armor with this property, you add half your Dexterity modifier (rounded down), instead of your full Dexterity modifier, to Dexterity saving throws you make. If your Dexterity modifier is negative, you instead subtract the full modifier.",String,None,String,Core,String,Rigid,String
+Core,Silent,2023-05-30T20:15:17.802159Z,"#### Silent
+While wearing armor with this property, you have advantage on Dexterity (Stealth) checks that rely on sound.",String,None,String,Core,String,Silent,String
+Core,Spiked,2023-05-30T20:15:17.802159Z,"#### Spiked
+When you succeed on a Strength (Athletics) check to shove or trip a creature while wielding a shield with this property, the creature takes kinetic damage using the spiked damage (which appears in parentheses with the property) + your Strength modifier. If you use a shield with this property as an improvised weapon, the damage increases by one step (from d4 to d6, d6 to d8, or d8 to 2d4).",String,None,String,Core,String,Spiked,String
+Core,Steadfast,2023-05-30T20:15:17.802159Z,"#### Steadfast 
+While wearing armor or wielding a shield with this property, you have advantage on Strength checks and Strength saving throws to avoid being moved.",String,None,String,Core,String,Steadfast,String
+Core,Strength,2023-05-30T20:15:12.9409313Z,"#### Strength
+While wearing armor or wielding a shield with this property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number. ",String,None,String,Core,String,Strength,String
+Core,Versatile,2023-05-30T20:15:17.802159Z,"#### Versatile
+A shield with this property can be used with one or two hands. While wielded in two hands, you gain an additional bonus to AC equal to the versatile number.",String,None,String,Core,String,Versatile,String
