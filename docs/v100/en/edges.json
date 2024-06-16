@@ -1091,5 +1091,45 @@
     "html": "<p>When you cast a power that can only have one target and doesn’t have a range of self, you can spend a number of\nadditional force points equal to the power’s level to choose a second target in range with the same power\n(1 force point if the power is at-will).</p>\n",
     "id": "twinned-power",
     "type": "force-empowered-castings"
+  },
+  {
+    "name": "Charisma",
+    "mechanics": [
+      {
+        "type": "asi-maximum",
+        "abilities": [
+          "cha"
+        ],
+        "max": 24
+      },
+      {
+        "type": "asi",
+        "ability": "cha",
+        "amount": 4
+      }
+    ],
+    "html": "",
+    "id": "charisma-24",
+    "type": "max-asi"
+  },
+  {
+    "name": "Wisdom",
+    "mechanics": [
+      {
+        "type": "asi-maximum",
+        "abilities": [
+          "wis"
+        ],
+        "max": 24
+      },
+      {
+        "type": "asi",
+        "ability": "wis",
+        "amount": 4
+      }
+    ],
+    "html": "",
+    "id": "wisdom-24",
+    "type": "max-asi"
   }
 ]
