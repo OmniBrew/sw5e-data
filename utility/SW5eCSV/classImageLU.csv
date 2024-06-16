@@ -1,0 +1,17 @@
+PartitionKey,RowKey,Timestamp,Class,Class@type,URL,URL@type
+Core,Berserker01,2020-05-25T16:37:52.2487964Z,Berserker,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/berserker_01.png,String
+Core,Consular01,2020-05-25T16:37:52.2487964Z,Consular,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/consular_01.png,String
+Core,Consular02,2020-05-25T16:37:52.2497994Z,Consular,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/consular_02.png,String
+Core,Engineer01,2020-05-25T16:37:52.2497994Z,Engineer,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/engineer_01.png,String
+Core,Fighter01,2020-05-25T16:37:52.2497994Z,Fighter,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/fighter_01.png,String
+Core,Guardian01,2020-05-25T16:37:52.2497994Z,Guardian,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_01.png,String
+Core,Guardian02,2020-05-25T16:37:52.2497994Z,Guardian,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_02.png,String
+Core,Monk01,2020-05-25T16:37:52.2507981Z,Monk,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/monk_01.png,String
+Core,Monk02,2020-05-25T16:37:52.2507981Z,Monk,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/monk_02.png,String
+Core,Operative01,2020-05-25T16:37:52.2507981Z,Operative,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/operative_01.png,String
+Core,Scholar01,2020-05-25T16:37:52.2517994Z,Scholar,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/scholar_01.png,String
+Core,Scholar02,2020-05-25T16:37:52.2517994Z,Scholar,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/scholar_02.png,String
+Core,Scout01,2020-05-25T16:37:52.2517994Z,Scout,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_01.png,String
+Core,Scout02,2020-05-25T16:37:52.2517994Z,Scout,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_02.png,String
+Core,Sentinel01,2020-05-25T16:37:52.2527998Z,Sentinel,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_01.png,String
+Core,Sentinel02,2020-05-25T16:37:52.2527998Z,Sentinel,String,https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_02.png,String

@@ -1,0 +1,24 @@
+PartitionKey,RowKey,Timestamp,Class,Class@type,Proficiency,Proficiency@type
+Core,Berserker-Light armor,2020-05-25T16:37:46.2588112Z,Berserker,String,Light armor,String
+Core,Berserker-all vibroweapons,2020-05-25T16:37:46.2588112Z,Berserker,String,all vibroweapons,String
+Core,Consular-Simple lightweapons,2020-05-25T16:37:46.2598124Z,Consular,String,Simple lightweapons,String
+Core,Engineer-Light armor,2020-05-25T16:37:46.2598124Z,Engineer,String,Light armor,String
+Core,Fighter-Light armor,2020-05-25T16:37:46.2598124Z,Fighter,String,Light armor,String
+Core,Fighter-all blasters,2020-05-25T16:37:46.2598124Z,Fighter,String,all blasters,String
+Core,Fighter-all vibroweapons,2020-05-25T16:37:46.2608133Z,Fighter,String,all vibroweapons,String
+Core,Fighter-medium armor,2020-05-25T16:37:46.2608133Z,Fighter,String,medium armor,String
+Core,Guardian-Light armor,2020-05-25T16:37:46.2608133Z,Guardian,String,Light armor,String
+Core,Guardian-all lightweapons,2020-05-25T16:37:46.2608133Z,Guardian,String,all lightweapons,String
+Core,Guardian-all vibroweapons,2020-05-25T16:37:46.2618145Z,Guardian,String,all vibroweapons,String
+Core,Guardian-medium armor,2020-05-25T16:37:46.2618145Z,Guardian,String,medium armor,String
+Core,Monk-Simple vibroweapons,2020-05-25T16:37:46.2618145Z,Monk,String,Simple vibroweapons,String
+Core,Monk-techblades,2020-05-25T16:37:46.2618145Z,Monk,String,techblades,String
+Core,Operative-Light armor,2020-05-25T16:37:46.2628149Z,Operative,String,Light armor,String
+Core,Scholar-Light armor,2020-05-25T16:37:46.2628149Z,Scholar,String,Light armor,String
+Core,Scout-Light armor,2020-05-25T16:37:46.2628149Z,Scout,String,Light armor,String
+Core,Scout-all blasters,2020-05-25T16:37:46.2628149Z,Scout,String,all blasters,String
+Core,Scout-all vibroweapons,2020-05-25T16:37:46.2638153Z,Scout,String,all vibroweapons,String
+Core,Scout-medium armor,2020-05-25T16:37:46.2638153Z,Scout,String,medium armor,String
+Core,Sentinel-Light armor,2020-05-25T16:37:46.2648166Z,Sentinel,String,Light armor,String
+Core,Sentinel-simple lightweapons,2020-05-25T16:37:46.2648166Z,Sentinel,String,simple lightweapons,String
+Core,Sentinel-simple vibroweapons,2020-05-25T16:37:46.2648166Z,Sentinel,String,simple vibroweapons,String

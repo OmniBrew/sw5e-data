@@ -1,0 +1,19 @@
+PartitionKey,RowKey,Timestamp,BaseAttribute,BaseAttribute@type,ContentType,ContentType@type,Name,Name@type
+Core,Acrobatics,2020-01-17T18:31:59.8577008Z,Dexterity,String,Lookup,String,Acrobatics,String
+Core,Animal Handling,2020-01-17T18:31:59.8587014Z,Wisdom,String,Lookup,String,Animal Handling,String
+Core,Athletics,2020-01-17T18:31:59.8587014Z,Strength,String,Lookup,String,Athletics,String
+Core,Deception,2020-01-17T18:31:59.8587014Z,Charisma,String,Lookup,String,Deception,String
+Core,Insight,2020-01-17T18:31:59.8587014Z,Wisdom,String,Lookup,String,Insight,String
+Core,Intimidation,2020-01-17T18:31:59.8587014Z,Charisma,String,Lookup,String,Intimidation,String
+Core,Investigation,2020-01-17T18:31:59.8587014Z,Intelligence,String,Lookup,String,Investigation,String
+Core,Lore,2020-01-17T18:31:59.8587014Z,Intelligence,String,Lookup,String,Lore,String
+Core,Medicine,2020-01-17T18:31:59.8587014Z,Wisdom,String,Lookup,String,Medicine,String
+Core,Nature,2020-01-17T18:31:59.8587014Z,Intelligence,String,Lookup,String,Nature,String
+Core,Perception,2020-01-17T18:31:59.8587014Z,Wisdom,String,Lookup,String,Perception,String
+Core,Performance,2020-01-17T18:31:59.8587014Z,Charisma,String,Lookup,String,Performance,String
+Core,Persuasion,2020-01-17T18:31:59.8587014Z,Charisma,String,Lookup,String,Persuasion,String
+Core,Piloting,2020-01-17T18:31:59.8587014Z,Intelligence,String,Lookup,String,Piloting,String
+Core,Sleight of Hand,2020-01-17T18:31:59.8587014Z,Dexterity,String,Lookup,String,Sleight of Hand,String
+Core,Stealth,2020-01-17T18:31:59.8587014Z,Dexterity,String,Lookup,String,Stealth,String
+Core,Survival,2020-01-17T18:31:59.8587014Z,Wisdom,String,Lookup,String,Survival,String
+Core,Technology,2020-01-17T18:31:59.8587014Z,Intelligence,String,Lookup,String,Technology,String
