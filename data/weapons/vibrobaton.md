@@ -14,6 +14,5 @@ damage:
 range:
   short: 5
   long: 5
-properties:
-  - —
+
 ---

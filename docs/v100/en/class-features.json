@@ -4745,7 +4745,8 @@
               11,
               12,
               12
-            ]
+            ],
+            "order": 16
           },
           {
             "label": "superiority_dice_quantity",
@@ -4770,7 +4771,8 @@
               6,
               6,
               6
-            ]
+            ],
+            "order": 17
           },
           {
             "label": "superiority_dice_size",
@@ -4795,7 +4797,8 @@
               6,
               6,
               6
-            ]
+            ],
+            "order": 18
           }
         ]
       }
