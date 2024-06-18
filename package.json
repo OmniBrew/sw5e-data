@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/omnibrew/sw5e-data#readme",
   "devDependencies": {
+    "csv-parser": "^3.0.0",
     "front-matter": "^4.0.2",
     "fs-extra": "^9.1.0",
     "js-yaml": "^4.0.0",
