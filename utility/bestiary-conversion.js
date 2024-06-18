@@ -36,6 +36,7 @@ function convertBestiaryItem(item) {
         size: item.Size.toLowerCase(),
         alignment: _.snakeCase(item.Alignment)
     }
+    item.id = _.kebabCase(item.RowKey)
     // alignment
     return item
 }
