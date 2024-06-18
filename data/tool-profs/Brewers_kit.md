@@ -15,7 +15,6 @@ Over the course of a short or long rest, you can make a DC 15 brewer’s kit che
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Detect poison or impurities in a drink | 10
 Identify alcohol | 15
 Ignore effects of alcohol | 20

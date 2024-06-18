@@ -12,6 +12,5 @@ Over the course of a short or long rest, you can make a DC 15 artillerist’s ki
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Disable a turret | 20
 Repair a turret | 15

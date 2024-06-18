@@ -2,17 +2,18 @@
 type: artisan
 name: Scavenging kit
 ---
-This kit contains the necessary implements to harvest and scavenge ores and metals.
-__SKILL 1__
-Skill and tool description interaction.
-__SKILL 2__
-Skill and tool description interaction.
-__SKILL 3__
-Skill and tool description interaction.
-__HONE BLADE__
-Over the course of a short or long rest, you can make a DC 15 scavenging kit check to temporarily hone the edge of a vibroweapon. To use this benefit, you must have a scavenging kit, and the vibroweapon must be within reach. The first time a character deals damage with the vibroweapon before the end of your next short or long rest, and it deals extra damage equal to your Intelligence modifier of the same type it would normally deal.
-Sample Activities
+A scavenging kit includes the necessary implements to harvest and scavenge valuable materials from the environment, such as ores, metals, and other resources. This kit is perfect for those who rely on finding and repurposing materials.
+__Survival__
+Locate and extract valuable materials in the wild.
+__Perception__
+Spot valuable resources that others might overlook.
+__Nature__
+Understand the properties and potential uses of found materials.
+__Material Extraction__
+ During a short or long rest, you can make a DC 15 Scavenging Kit check to extract valuable materials from the environment. On a success, you gain enough materials to craft a basic item or enhance an existing one.
+__Sample Activities__
 Activity | DC
 --- | ---
-Activity	DC
-Activity description	xx
+Identify valuable materials | 15
+Harvest resources from the environment | 20
+Repurpose materials into crafting components | 25

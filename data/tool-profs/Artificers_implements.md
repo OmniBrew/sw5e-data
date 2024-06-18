@@ -14,7 +14,6 @@ Over the course of a short or long rest, you can make a DC 15 artificer’s impl
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Disassemble a lightweapon | 20
 Repair a lightweapon | 15
 Sunder a lightweapon | 10

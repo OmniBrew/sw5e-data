@@ -12,6 +12,5 @@ Over the course of a short or long rest, you can make a DC 15 artist’s impleme
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Paint an accurate portrait | 10
 Create a painting with a hidden message | 20

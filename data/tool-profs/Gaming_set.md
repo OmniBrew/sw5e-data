@@ -9,12 +9,12 @@ __INSIGHT__
 Playing games with someone is a good way to gain understanding of their personality, granting you a better ability to discern their lies from their truths and read their mood.
 __SLEIGHT OF HAND__
 Sleight of Hand is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
-__FEATURE__
-Feature that utilizes the tool in some capacity.
-Over the course of a short or long rest, you can make a DC 15
+__Master Strategist__
+During a short or long rest, you can make a DC 15 Gaming Set check to devise a new strategy or game plan. On a success, you gain advantage on your next skill check related to the game. The game must be from your Gaming Set or sufficiently related to it. 
+
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Catch a player cheating | 15
 Gain insight into an opponent’s personality | 15
+Entertain a crowd with a game | 10

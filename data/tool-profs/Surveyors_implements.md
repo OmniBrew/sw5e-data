@@ -9,13 +9,12 @@ __NATURE__
 Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.
 __SURVIVAL__
 Your understand of geography makes it easier to find paths to civilization, to predict reas where towns might be found, and to avoid becoming lost. You have studied so many maps that common patterns, such as how trade routes evolve and where settlements arise in relation to gegraphic locations, are familiar to you.
-__FEATURE__
-Feature that utilizes the tool in some capacity.
-Over the course of a short or long rest, you can make a DC 15
+__Mapmaking__
+During a short or long rest, you can make a DC 15 Surveyor’s Implements check to create an accurate map of the area. On a success, the map provides a +1 bonus to navigation-related skill checks for the next 24 hours.
+
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Determine a map’s age and origin | 10
 Estimate direction and distance to a landmark | 15
 Discern that a map is fake | 15

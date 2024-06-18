@@ -9,11 +9,12 @@ __INSIGHT__
 Your knowledge of cybernetics’ functionality grants you improved awareness of the facial ticks of the cybernetically-enhanced.
 __TECHNOLOGY__
 Your knowledge and experience lets you identify cybernetic augmentations, and their function.
-__FEATURE__
-Feature that utilizes the tool in some capacity.
+
+__ENHANCE__
+During a short or long rest, you can make a DC 15 Biotech’s Implements check to temporarily enhance a creature's cybernetics. On a success, the target gains a +1 bonus to an ability score of your choice for the next 24 hours.
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
-Install an augmentation	Varies
-Reverse engineer an augmentation	Varies
+Install a cybernetic augmentation | 20
+Repair damaged cybernetics | 15
+Analyze a cybernetic system | 25

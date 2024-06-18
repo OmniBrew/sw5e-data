@@ -9,14 +9,11 @@ __INVESTIGATION__
 Your experience lets you more readily identify aftermarket modifications in vehicles and ships.
 __TECHNOLOGY__
 Your experience grants you greater insight when conducting repairs on ships or vehicles.
-__FEATURE__
-Feature that utilizes the tool in some capacity.
-Over the course of a short or long rest, you can make a DC 15
+
 __QUICK FIXER__
 When you are interrupted while you are conducting repairs on a vehicle or ship, reduce the required time by half as long as you are present during the entirety of the repairs.
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Restoring power to a damaged vehicle | 15
 Disassembling a vehicle’s engine | 20

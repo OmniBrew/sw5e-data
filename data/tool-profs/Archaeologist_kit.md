@@ -14,5 +14,4 @@ Over the course of a short or long rest, you can make a DC 15 archaelogist kit c
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Appraise a gemstone or relic | 20

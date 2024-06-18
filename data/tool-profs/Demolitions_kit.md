@@ -12,6 +12,5 @@ Over the course of a short or long rest, you can make a DC 15 demolitions kit ch
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Conceal an explosive | 15
 Disarm a mine	Varies

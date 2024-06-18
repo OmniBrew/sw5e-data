@@ -9,12 +9,11 @@ __INVESTIGATION__
 You gain additional insight when looking for digital securities when using computers and terminals.
 __TECHNOLOGY__
 Your knowledge of common digital security types makes it easier for you to identify them.
-__FEATURE__
-Feature that utilizes the tool in some capacity.
-Over the course of a short or long rest, you can make a DC 15
+__Security Breach__
+During a short or long rest, you can make a DC 15 Slicer’s Kit check to hack into a secure system. On a success, you gain access to restricted information or control over the system for the next 24 hours.
+
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Identify a hidden security routine | 15
 Reprogram a security routine | 20

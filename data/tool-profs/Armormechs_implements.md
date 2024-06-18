@@ -14,6 +14,5 @@ Over the course of a short or long rest, you can make a DC 15 armormech’s impl
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Repair a suit of armor or a shield | 15
 Sunder a suit of armor or a shield | 10

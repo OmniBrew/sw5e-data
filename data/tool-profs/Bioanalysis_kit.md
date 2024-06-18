@@ -12,6 +12,5 @@ Over the course of a short or long rest, you can make a DC 15 bioanalysis kit ch
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Find plants | 15
 Identify plants and derivatives | 20

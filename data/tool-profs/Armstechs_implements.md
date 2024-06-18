@@ -14,6 +14,5 @@ Over the course of a short or long rest, you can make a DC 15 arsmtech’s imple
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Repair a blaster or vibroweapon | 15
 Sunder a blaster or vibroweapon | 10

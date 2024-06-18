@@ -15,6 +15,5 @@ Just as you can disable traps, you can also set them. As part of a short rest, y
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Pick a moderate lock | 15
 Disable a trap	Varies

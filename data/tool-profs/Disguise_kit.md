@@ -14,6 +14,5 @@ Over the course of a short or long rest, you can make a DC 15 disguise kit check
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Cover injuries or distinguishing marks | 10
 Spot a disguise being used by someone else | 15

@@ -14,6 +14,5 @@ Over the course of a short or long rest, you can make a DC 15 astrotech’s impl
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Identify a droid’s designation | 10
 Determine if a droid has any modifications | 15

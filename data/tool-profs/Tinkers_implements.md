@@ -16,7 +16,6 @@ With access to your tools, you can repair small items. For any object, you need 
 Sample Activities
 Activity | DC
 --- | ---
-Activity	DC
 Temporarily repair a disabled device | 10
 Repair an item in half the time | 15
 Improvise an item using scraps | 20
