@@ -1,5 +1,5 @@
 ---
-type: kit
+type: false
 name: Medical Kit
 ---
 Medical Kits contain the necessary tools and supplies to triage injuries and treat diseases.

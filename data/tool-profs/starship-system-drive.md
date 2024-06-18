@@ -1,4 +1,4 @@
 ---
-type: starship
+type: false
 name: starship system
 ---

@@ -1,5 +1,5 @@
 ---
-type: kit
+type: false
 name: Disguise Kit
 ---
 The perfect tool for anyone who wants to engage in trickery, a disguise kit enables its owner to adopt a false identity.

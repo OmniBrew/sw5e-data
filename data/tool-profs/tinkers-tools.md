@@ -1,5 +1,5 @@
 ---
-type: artisan
+type: false
 name: Tinker's Tools
 ---
 A set of tinker's tools is designed to create small, inventive devices from omni-gel. Some examples include a motion sensor,

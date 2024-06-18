@@ -1,5 +1,5 @@
 ---
-type: artisan
+type: false
 name: Weaponsmith's Workbench
 ---
 A weaponsmith's workbench allows you to customize, craft, and repair weapons.

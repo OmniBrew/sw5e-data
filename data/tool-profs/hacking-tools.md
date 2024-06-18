@@ -1,5 +1,5 @@
 ---
-type: kit
+type: false
 name: Hacking Tools
 ---
 Hacking tools are used to override security systems in order to gain access to encrypted files, open locked doors, or

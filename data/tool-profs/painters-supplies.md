@@ -1,5 +1,5 @@
 ---
-type: artisan
+type: false
 name: Painter's Supplies
 ---
 Proficiency with painter's supplies represents your ability to paint and draw, design decals and paint jobs for armor and vehicles,

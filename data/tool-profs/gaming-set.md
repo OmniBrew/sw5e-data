@@ -1,5 +1,5 @@
 ---
-type: kit
+type: false
 name: Gaming Set
 ---
 Proficiency with a gaming set applies to one type of game, such as Skyllian-5 or games of chance that use dice.

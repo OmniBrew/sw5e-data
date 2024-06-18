@@ -1,5 +1,5 @@
 ---
-type: instrument
+type: false
 name: Musical Instrument
 choices: [
     clarinet: Clarinet,
