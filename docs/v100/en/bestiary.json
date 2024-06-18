@@ -140,7 +140,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "000-series-protocol-droid"
   },
   {
     "PartitionKey": "Core",
@@ -314,7 +315,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "1-4-fd-p-tower-turret"
   },
   {
     "PartitionKey": "Core",
@@ -440,7 +442,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "3-p-0-series"
   },
   {
     "PartitionKey": "Core",
@@ -647,7 +650,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "74-z-speeder-bike"
   },
   {
     "PartitionKey": "Core",
@@ -967,7 +971,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "aat"
   },
   {
     "PartitionKey": "Core",
@@ -1321,7 +1326,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "at-at"
   },
   {
     "PartitionKey": "Core",
@@ -1528,7 +1534,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "at-rt"
   },
   {
     "PartitionKey": "Core",
@@ -1780,7 +1787,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "at-st"
   },
   {
     "PartitionKey": "Core",
@@ -2099,7 +2107,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "at-te"
   },
   {
     "PartitionKey": "Core",
@@ -2244,7 +2253,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "acklay-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -2389,7 +2399,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "acklay-adult"
   },
   {
     "PartitionKey": "Core",
@@ -2554,7 +2565,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "aiwha"
   },
   {
     "PartitionKey": "Core",
@@ -2665,7 +2677,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "anooba"
   },
   {
     "PartitionKey": "Core",
@@ -2793,7 +2806,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "aryx"
   },
   {
     "PartitionKey": "Core",
@@ -2967,7 +2981,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "auto-turret"
   },
   {
     "PartitionKey": "Core",
@@ -3124,7 +3139,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ax-108-sentry-gun"
   },
   {
     "PartitionKey": "Core",
@@ -3271,7 +3287,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bomarr-brain-walker"
   },
   {
     "PartitionKey": "Core",
@@ -3386,7 +3403,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bomarr-monk-initiate"
   },
   {
     "PartitionKey": "Core",
@@ -3559,7 +3577,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "b-1-series-b-1-a"
   },
   {
     "PartitionKey": "Core",
@@ -3751,7 +3770,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "b-1-series-b-1-x"
   },
   {
     "PartitionKey": "Core",
@@ -3988,7 +4008,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "b-1-series-squad"
   },
   {
     "PartitionKey": "Core",
@@ -4178,7 +4199,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "b-2-series-b-2-a"
   },
   {
     "PartitionKey": "Core",
@@ -4387,7 +4409,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "b-2-series-b-2-ha"
   },
   {
     "PartitionKey": "Core",
@@ -4548,7 +4571,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bb-series-astromech-droid"
   },
   {
     "PartitionKey": "Core",
@@ -4760,7 +4784,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bx-series-bx-5-c"
   },
   {
     "PartitionKey": "Core",
@@ -4953,7 +4978,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bx-series-bx-a"
   },
   {
     "PartitionKey": "Core",
@@ -5098,7 +5124,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bantha-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -5243,7 +5270,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bantha-adult"
   },
   {
     "PartitionKey": "Core",
@@ -5459,7 +5487,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "battle-hydra"
   },
   {
     "PartitionKey": "Core",
@@ -5607,7 +5636,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "beggars-canyon-womp-rat"
   },
   {
     "PartitionKey": "Core",
@@ -5870,7 +5900,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "blastromech-series-bt-1"
   },
   {
     "PartitionKey": "Core",
@@ -6034,7 +6065,8 @@
     "Wisdom": "7",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "blurrg"
   },
   {
     "PartitionKey": "Core",
@@ -6197,7 +6229,8 @@
     "Wisdom": "7",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "boar-wolf"
   },
   {
     "PartitionKey": "Core",
@@ -6344,7 +6377,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bogwing-greater"
   },
   {
     "PartitionKey": "Core",
@@ -6474,7 +6508,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bogwing-lesser"
   },
   {
     "PartitionKey": "Core",
@@ -6789,7 +6824,8 @@
     "Wisdom": "18",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "bor-gullet"
   },
   {
     "PartitionKey": "Core",
@@ -6979,7 +7015,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "brain-worm"
   },
   {
     "PartitionKey": "Core",
@@ -7157,7 +7194,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "c-1-series-astromech-droid"
   },
   {
     "PartitionKey": "Core",
@@ -7364,7 +7402,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "cantina-brawl"
   },
   {
     "PartitionKey": "Core",
@@ -7519,7 +7558,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "carnivorous-plant"
   },
   {
     "PartitionKey": "Core",
@@ -7720,7 +7760,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "cliff-wampa"
   },
   {
     "PartitionKey": "Core",
@@ -7848,7 +7889,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "clodhopper"
   },
   {
     "PartitionKey": "Core",
@@ -8013,7 +8055,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "condor-dragon"
   },
   {
     "PartitionKey": "Core",
@@ -8366,7 +8409,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "cyborg-khagan"
   },
   {
     "PartitionKey": "Core",
@@ -8591,7 +8635,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "df-9-anti-infantry-turret"
   },
   {
     "PartitionKey": "Core",
@@ -8750,7 +8795,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "drk-1-tracker-droid"
   },
   {
     "PartitionKey": "Core",
@@ -8959,7 +9005,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dsd-1-dwarf-spider-droid"
   },
   {
     "PartitionKey": "Core",
@@ -9184,7 +9231,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dum-series-pit-droid"
   },
   {
     "PartitionKey": "Core",
@@ -9472,7 +9520,8 @@
     "Wisdom": "21",
     "Wisdom@type": "Int32",
     "WisdomModifier": "5",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dark-lord-spirit"
   },
   {
     "PartitionKey": "Core",
@@ -9661,7 +9710,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dark-side-spirit"
   },
   {
     "PartitionKey": "Core",
@@ -9933,7 +9983,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "death-trooper"
   },
   {
     "PartitionKey": "Core",
@@ -10142,7 +10193,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "destroyer-droid"
   },
   {
     "PartitionKey": "Core",
@@ -10306,7 +10358,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dewback-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -10470,7 +10523,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dewback-adult"
   },
   {
     "PartitionKey": "Core",
@@ -10635,7 +10689,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dianoga-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -10836,7 +10891,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dianoga-adult"
   },
   {
     "PartitionKey": "Core",
@@ -11018,7 +11074,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "dragonsnake"
   },
   {
     "PartitionKey": "Core",
@@ -11311,7 +11368,8 @@
     "Wisdom": "18",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "emperors-hand"
   },
   {
     "PartitionKey": "Core",
@@ -11533,7 +11591,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "energy-spider"
   },
   {
     "PartitionKey": "Core",
@@ -11644,7 +11703,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "eopie"
   },
   {
     "PartitionKey": "Core",
@@ -11755,7 +11815,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ewok-pony"
   },
   {
     "PartitionKey": "Core",
@@ -11990,7 +12051,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "exogorth-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -12225,7 +12287,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "exogorth-adult"
   },
   {
     "PartitionKey": "Core",
@@ -12389,7 +12452,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "fambaa"
   },
   {
     "PartitionKey": "Core",
@@ -12570,7 +12634,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "fambaa-howdah"
   },
   {
     "PartitionKey": "Core",
@@ -12717,7 +12782,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "fathier"
   },
   {
     "PartitionKey": "Core",
@@ -12906,7 +12972,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "fexian-skullborer"
   },
   {
     "PartitionKey": "Core",
@@ -13034,7 +13101,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "flesh-raider"
   },
   {
     "PartitionKey": "Core",
@@ -13202,7 +13270,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "flesh-raider-apprentice"
   },
   {
     "PartitionKey": "Core",
@@ -13351,7 +13420,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "flesh-raider-berserker"
   },
   {
     "PartitionKey": "Core",
@@ -13498,7 +13568,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "flutterplume"
   },
   {
     "PartitionKey": "Core",
@@ -13785,7 +13856,8 @@
     "Wisdom": "21",
     "Wisdom@type": "Int32",
     "WisdomModifier": "5",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "force-storm-eye"
   },
   {
     "PartitionKey": "Core",
@@ -13988,7 +14060,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "forest-nexu-adult"
   },
   {
     "PartitionKey": "Core",
@@ -14153,7 +14226,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "fyrnock"
   },
   {
     "PartitionKey": "Core",
@@ -14344,7 +14418,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gh-7-medical-analysis-unit"
   },
   {
     "PartitionKey": "Core",
@@ -14493,7 +14568,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gamorrean-guard"
   },
   {
     "PartitionKey": "Core",
@@ -14623,7 +14699,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "geejaw"
   },
   {
     "PartitionKey": "Core",
@@ -14822,7 +14899,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ghest"
   },
   {
     "PartitionKey": "Core",
@@ -14975,7 +15053,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "giant-worrt"
   },
   {
     "PartitionKey": "Core",
@@ -15121,7 +15200,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gizka"
   },
   {
     "PartitionKey": "Core",
@@ -15275,7 +15355,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gizka-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -15416,7 +15497,8 @@
     "Wisdom": "7",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gonk-droid"
   },
   {
     "PartitionKey": "Core",
@@ -15638,7 +15720,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gorax"
   },
   {
     "PartitionKey": "Core",
@@ -16023,7 +16106,8 @@
     "Wisdom": "23",
     "Wisdom@type": "Int32",
     "WisdomModifier": "6",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "grand-admiral"
   },
   {
     "PartitionKey": "Core",
@@ -16168,7 +16252,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "greysor"
   },
   {
     "PartitionKey": "Core",
@@ -16333,7 +16418,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gundark-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -16515,7 +16601,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gundark-adult"
   },
   {
     "PartitionKey": "Core",
@@ -16714,7 +16801,8 @@
     "Wisdom": "9",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gundark-alpha"
   },
   {
     "PartitionKey": "Core",
@@ -16916,7 +17004,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gundark-matriarch"
   },
   {
     "PartitionKey": "Core",
@@ -17062,7 +17151,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "gutkurr"
   },
   {
     "PartitionKey": "Core",
@@ -17343,7 +17433,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hk-series-hk-47"
   },
   {
     "PartitionKey": "Core",
@@ -17508,7 +17599,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hawk-bat"
   },
   {
     "PartitionKey": "Core",
@@ -17681,7 +17773,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hawk-bat-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -17855,7 +17948,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hidden-turret"
   },
   {
     "PartitionKey": "Core",
@@ -18009,7 +18103,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hive-rat"
   },
   {
     "PartitionKey": "Core",
@@ -18191,7 +18286,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "horned-kath-hound"
   },
   {
     "PartitionKey": "Core",
@@ -18320,7 +18416,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hrumph"
   },
   {
     "PartitionKey": "Core",
@@ -18527,7 +18624,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hssiss"
   },
   {
     "PartitionKey": "Core",
@@ -18893,7 +18991,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hutt-crime-lord"
   },
   {
     "PartitionKey": "Core",
@@ -19084,7 +19183,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hutt-wrestler"
   },
   {
     "PartitionKey": "Core",
@@ -19327,7 +19427,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "hyena-class-bomber"
   },
   {
     "PartitionKey": "Core",
@@ -19466,7 +19567,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "id-9-seeker-droid"
   },
   {
     "PartitionKey": "Core",
@@ -19716,7 +19818,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ig-series-model-88"
   },
   {
     "PartitionKey": "Core",
@@ -19897,7 +20000,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ig-100-series"
   },
   {
     "PartitionKey": "Core",
@@ -20091,7 +20195,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ig-227-hailfire-class-droid"
   },
   {
     "PartitionKey": "Core",
@@ -20278,7 +20383,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "isb-infiltrator"
   },
   {
     "PartitionKey": "Core",
@@ -20430,7 +20536,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "isb-officer"
   },
   {
     "PartitionKey": "Core",
@@ -20570,7 +20677,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "it-o-interrog-unit"
   },
   {
     "PartitionKey": "Core",
@@ -20747,7 +20855,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ig-series-model-86"
   },
   {
     "PartitionKey": "Core",
@@ -20952,7 +21061,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "imperial-guard-champion"
   },
   {
     "PartitionKey": "Core",
@@ -21085,7 +21195,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "imperial-guard-sentinel"
   },
   {
     "PartitionKey": "Core",
@@ -21273,7 +21384,8 @@
     "Wisdom": "17",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "imperial-royal-guard"
   },
   {
     "PartitionKey": "Core",
@@ -21423,7 +21535,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "imperial-senate-guard"
   },
   {
     "PartitionKey": "Core",
@@ -21576,7 +21689,8 @@
     "Wisdom": "19",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "imperial-shadow-guard"
   },
   {
     "PartitionKey": "Core",
@@ -21800,7 +21914,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "inquisitor-grand"
   },
   {
     "PartitionKey": "Core",
@@ -21987,7 +22102,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "inquisitor-knight"
   },
   {
     "PartitionKey": "Core",
@@ -22192,7 +22308,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "inquisitor-master"
   },
   {
     "PartitionKey": "Core",
@@ -22415,7 +22532,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jk-13-security-droid"
   },
   {
     "PartitionKey": "Core",
@@ -22545,7 +22663,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jakrab"
   },
   {
     "PartitionKey": "Core",
@@ -22695,7 +22814,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jawa-scrapper"
   },
   {
     "PartitionKey": "Core",
@@ -22863,7 +22983,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jawa-shaman"
   },
   {
     "PartitionKey": "Core",
@@ -23014,7 +23135,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jawa-tinkerer"
   },
   {
     "PartitionKey": "Core",
@@ -23164,7 +23286,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jubba-bird"
   },
   {
     "PartitionKey": "Core",
@@ -23294,7 +23417,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "jundland-wastes-womp-rat"
   },
   {
     "PartitionKey": "Core",
@@ -23464,7 +23588,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "junk-behemoth"
   },
   {
     "PartitionKey": "Core",
@@ -23634,7 +23759,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "junk-droid"
   },
   {
     "PartitionKey": "Core",
@@ -23765,7 +23891,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "klorslug"
   },
   {
     "PartitionKey": "Core",
@@ -23906,7 +24033,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kx-series-security-droid"
   },
   {
     "PartitionKey": "Core",
@@ -24034,7 +24162,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kaadu"
   },
   {
     "PartitionKey": "Core",
@@ -24201,7 +24330,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "katarn"
   },
   {
     "PartitionKey": "Core",
@@ -24349,7 +24479,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kath-hound"
   },
   {
     "PartitionKey": "Core",
@@ -24555,7 +24686,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "knobby-white-spider"
   },
   {
     "PartitionKey": "Core",
@@ -24705,7 +24837,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "knobby-white-spiderling"
   },
   {
     "PartitionKey": "Core",
@@ -24876,7 +25009,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-baatar"
   },
   {
     "PartitionKey": "Core",
@@ -25061,7 +25195,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-blackarm"
   },
   {
     "PartitionKey": "Core",
@@ -25249,7 +25384,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-khagan"
   },
   {
     "PartitionKey": "Core",
@@ -25454,7 +25590,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-khan"
   },
   {
     "PartitionKey": "Core",
@@ -25640,7 +25777,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-tarkhan"
   },
   {
     "PartitionKey": "Core",
@@ -25809,7 +25947,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "kolkpravis-warrior"
   },
   {
     "PartitionKey": "Core",
@@ -26069,7 +26208,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "krayt-dragon-adult"
   },
   {
     "PartitionKey": "Core",
@@ -26320,7 +26460,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "krayt-dragon-greater"
   },
   {
     "PartitionKey": "Core",
@@ -26486,7 +26627,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "krayt-dragon-juvenile"
   },
   {
     "PartitionKey": "Core",
@@ -26645,7 +26787,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "l-0-m-series"
   },
   {
     "PartitionKey": "Core",
@@ -26800,7 +26943,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "lr-1-k-sonic-cannon"
   },
   {
     "PartitionKey": "Core",
@@ -26982,7 +27126,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "lylek"
   },
   {
     "PartitionKey": "Core",
@@ -27166,7 +27311,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "maalraas"
   },
   {
     "PartitionKey": "Core",
@@ -27454,7 +27600,8 @@
     "Wisdom": "17",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "manifestation-of-abeloth"
   },
   {
     "PartitionKey": "Core",
@@ -27628,7 +27775,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "marksman-h-remote"
   },
   {
     "PartitionKey": "Core",
@@ -27776,7 +27924,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "massiff"
   },
   {
     "PartitionKey": "Core",
@@ -27985,7 +28134,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "melee-destroyer-droid"
   },
   {
     "PartitionKey": "Core",
@@ -28151,7 +28301,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mistryl-apprentice"
   },
   {
     "PartitionKey": "Core",
@@ -28357,7 +28508,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mistryl-master"
   },
   {
     "PartitionKey": "Core",
@@ -28598,7 +28750,8 @@
     "Wisdom": "18",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mistryl-prime"
   },
   {
     "PartitionKey": "Core",
@@ -28753,7 +28906,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mob"
   },
   {
     "PartitionKey": "Core",
@@ -28874,7 +29028,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mole-serpent-adult"
   },
   {
     "PartitionKey": "Core",
@@ -29002,7 +29157,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "monkey-lizard"
   },
   {
     "PartitionKey": "Core",
@@ -29160,7 +29316,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "monkey-lizard-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -29305,7 +29462,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "moof"
   },
   {
     "PartitionKey": "Core",
@@ -29450,7 +29608,8 @@
     "Wisdom": "9",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mott"
   },
   {
     "PartitionKey": "Core",
@@ -29695,7 +29854,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mucous-salamander"
   },
   {
     "PartitionKey": "Core",
@@ -29858,7 +30018,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mynock"
   },
   {
     "PartitionKey": "Core",
@@ -30034,7 +30195,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "mynock-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -30261,7 +30423,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "nr-n-99-persuader-class-enforcer"
   },
   {
     "PartitionKey": "Core",
@@ -30450,7 +30613,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "narglatch"
   },
   {
     "PartitionKey": "Core",
@@ -30567,7 +30731,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "navy-pilot"
   },
   {
     "PartitionKey": "Core",
@@ -30698,7 +30863,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "navy-trooper"
   },
   {
     "PartitionKey": "Core",
@@ -30846,7 +31012,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "nerf"
   },
   {
     "PartitionKey": "Core",
@@ -30976,7 +31143,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "nuna"
   },
   {
     "PartitionKey": "Core",
@@ -31141,7 +31309,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "officer-junior"
   },
   {
     "PartitionKey": "Core",
@@ -31323,7 +31492,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "officer-senior"
   },
   {
     "PartitionKey": "Core",
@@ -31471,7 +31641,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "opee-sea-killer"
   },
   {
     "PartitionKey": "Core",
@@ -31603,7 +31774,8 @@
     "Wisdom": "4",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "orbalisk"
   },
   {
     "PartitionKey": "Core",
@@ -31769,7 +31941,8 @@
     "Wisdom": "4",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "orbalisk-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -31888,7 +32061,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "pelko-bug"
   },
   {
     "PartitionKey": "Core",
@@ -32024,7 +32198,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "pelko-bug-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -32212,7 +32387,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "pistoeka-sabotage-droid"
   },
   {
     "PartitionKey": "Core",
@@ -32342,7 +32518,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "porg"
   },
   {
     "PartitionKey": "Core",
@@ -32500,7 +32677,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "porg-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -32657,7 +32835,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "probe-killer-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -32878,7 +33057,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "purge-trooper"
   },
   {
     "PartitionKey": "Core",
@@ -33056,7 +33236,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "r-2-series-astromech-droid"
   },
   {
     "PartitionKey": "Core",
@@ -33220,7 +33401,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rakghoul"
   },
   {
     "PartitionKey": "Core",
@@ -33402,7 +33584,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rakghoul-hulking"
   },
   {
     "PartitionKey": "Core",
@@ -33582,7 +33765,8 @@
     "Wisdom": "9",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rancor-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -33784,7 +33968,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rancor-adult"
   },
   {
     "PartitionKey": "Core",
@@ -34078,7 +34263,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rancor-ancient"
   },
   {
     "PartitionKey": "Core",
@@ -34224,7 +34410,8 @@
     "Wisdom": "9",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rancor-juvenile"
   },
   {
     "PartitionKey": "Core",
@@ -34433,7 +34620,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rathtar"
   },
   {
     "PartitionKey": "Core",
@@ -34639,7 +34827,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rathtar-dwarf"
   },
   {
     "PartitionKey": "Core",
@@ -34767,7 +34956,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "reek-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -34895,7 +35085,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "reek-adult"
   },
   {
     "PartitionKey": "Core",
@@ -35067,7 +35258,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "riot"
   },
   {
     "PartitionKey": "Core",
@@ -35181,7 +35373,8 @@
     "Wisdom": "9",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "rock-wart"
   },
   {
     "PartitionKey": "Core",
@@ -35327,7 +35520,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ronto"
   },
   {
     "PartitionKey": "Core",
@@ -35588,7 +35782,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sd-k-4-assassin-droid"
   },
   {
     "PartitionKey": "Core",
@@ -35960,7 +36155,8 @@
     "Wisdom": "18",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sando-aqua-monster"
   },
   {
     "PartitionKey": "Core",
@@ -36297,7 +36493,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sarlacc-adult"
   },
   {
     "PartitionKey": "Core",
@@ -36497,7 +36694,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "scrange"
   },
   {
     "PartitionKey": "Core",
@@ -36660,7 +36858,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "scurrier"
   },
   {
     "PartitionKey": "Core",
@@ -36773,7 +36972,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "shaak"
   },
   {
     "PartitionKey": "Core",
@@ -36911,7 +37111,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "shrub"
   },
   {
     "PartitionKey": "Core",
@@ -37040,7 +37241,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "shyrack"
   },
   {
     "PartitionKey": "Core",
@@ -37197,7 +37399,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "shyrack-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -37345,7 +37548,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sibian-hound"
   },
   {
     "PartitionKey": "Core",
@@ -37521,7 +37725,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sith-probe-droid"
   },
   {
     "PartitionKey": "Core",
@@ -37633,7 +37838,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "sketto"
   },
   {
     "PartitionKey": "Core",
@@ -37835,7 +38041,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "snow-wampa"
   },
   {
     "PartitionKey": "Core",
@@ -37998,7 +38205,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "spotlight-sloth"
   },
   {
     "PartitionKey": "Core",
@@ -38255,7 +38463,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "starweird"
   },
   {
     "PartitionKey": "Core",
@@ -38403,7 +38612,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "steelpecker"
   },
   {
     "PartitionKey": "Core",
@@ -38557,7 +38767,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "steep"
   },
   {
     "PartitionKey": "Core",
@@ -38703,7 +38914,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "stintaril"
   },
   {
     "PartitionKey": "Core",
@@ -38860,7 +39072,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "stintaril-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -39166,7 +39379,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "super-tactical-droid"
   },
   {
     "PartitionKey": "Core",
@@ -39378,7 +39592,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "swamp-slug"
   },
   {
     "PartitionKey": "Core",
@@ -39544,7 +39759,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "swamp-wampa"
   },
   {
     "PartitionKey": "Core",
@@ -39728,7 +39944,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "t-series-tactical-droid"
   },
   {
     "PartitionKey": "Core",
@@ -39886,7 +40103,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "t-3-series-utility-droid"
   },
   {
     "PartitionKey": "Core",
@@ -40138,7 +40356,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tx-225-occupier-tank"
   },
   {
     "PartitionKey": "Core",
@@ -40249,7 +40468,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tauntaun"
   },
   {
     "PartitionKey": "Core",
@@ -40456,7 +40676,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "terentatek"
   },
   {
     "PartitionKey": "Core",
@@ -40713,7 +40934,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trandoshan-elite-warrior"
   },
   {
     "PartitionKey": "Core",
@@ -40918,7 +41140,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trandoshan-hunter"
   },
   {
     "PartitionKey": "Core",
@@ -41177,7 +41400,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trandoshan-huntmaster"
   },
   {
     "PartitionKey": "Core",
@@ -41557,7 +41781,8 @@
     "Wisdom": "16",
     "Wisdom@type": "Int32",
     "WisdomModifier": "3",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trandoshan-tdoshok"
   },
   {
     "PartitionKey": "Core",
@@ -41762,7 +41987,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trandoshan-warrior"
   },
   {
     "PartitionKey": "Core",
@@ -41900,7 +42126,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tree"
   },
   {
     "PartitionKey": "Core",
@@ -42030,7 +42257,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper"
   },
   {
     "PartitionKey": "Core",
@@ -42236,7 +42464,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-captain"
   },
   {
     "PartitionKey": "Core",
@@ -42400,7 +42629,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-demolitions"
   },
   {
     "PartitionKey": "Core",
@@ -42548,7 +42778,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-flame"
   },
   {
     "PartitionKey": "Core",
@@ -42717,7 +42948,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-headhunter"
   },
   {
     "PartitionKey": "Core",
@@ -42865,7 +43097,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-heavy"
   },
   {
     "PartitionKey": "Core",
@@ -43028,7 +43261,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-jump"
   },
   {
     "PartitionKey": "Core",
@@ -43246,7 +43480,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-mounted"
   },
   {
     "PartitionKey": "Core",
@@ -43416,7 +43651,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-scout"
   },
   {
     "PartitionKey": "Core",
@@ -43584,7 +43820,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-shore"
   },
   {
     "PartitionKey": "Core",
@@ -43737,7 +43974,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-sniper"
   },
   {
     "PartitionKey": "Core",
@@ -43931,7 +44169,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "trooper-squad"
   },
   {
     "PartitionKey": "Core",
@@ -44147,7 +44386,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tukata"
   },
   {
     "PartitionKey": "Core",
@@ -44312,7 +44552,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tusk-cat"
   },
   {
     "PartitionKey": "Core",
@@ -44459,7 +44700,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tusken-brute"
   },
   {
     "PartitionKey": "Core",
@@ -44646,7 +44888,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tusken-chieftain"
   },
   {
     "PartitionKey": "Core",
@@ -44793,7 +45036,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "tusken-raider"
   },
   {
     "PartitionKey": "Core",
@@ -44940,7 +45184,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "twirrl"
   },
   {
     "PartitionKey": "Core",
@@ -45112,7 +45357,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "uprising"
   },
   {
     "PartitionKey": "Core",
@@ -45240,7 +45486,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "varactyl-adolescent"
   },
   {
     "PartitionKey": "Core",
@@ -45368,7 +45615,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "varactyl-adult"
   },
   {
     "PartitionKey": "Core",
@@ -45539,7 +45787,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "veermok"
   },
   {
     "PartitionKey": "Core",
@@ -45831,7 +46080,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vessel-of-abeloth"
   },
   {
     "PartitionKey": "Core",
@@ -45971,7 +46221,8 @@
     "Wisdom": "6",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vesuvague-tree"
   },
   {
     "PartitionKey": "Core",
@@ -46124,7 +46375,8 @@
     "Wisdom": "7",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vines"
   },
   {
     "PartitionKey": "Core",
@@ -46299,7 +46551,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "viper-probe-droid"
   },
   {
     "PartitionKey": "Core",
@@ -46465,7 +46718,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vornskr"
   },
   {
     "PartitionKey": "Core",
@@ -46586,7 +46840,8 @@
     "Wisdom": "18",
     "Wisdom@type": "Int32",
     "WisdomModifier": "4",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "voxyn"
   },
   {
     "PartitionKey": "Core",
@@ -46718,7 +46973,8 @@
     "Wisdom": "14",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vulptex"
   },
   {
     "PartitionKey": "Core",
@@ -46927,7 +47183,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "vulture-class-droid"
   },
   {
     "PartitionKey": "Core",
@@ -47220,7 +47477,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "war-wyrm"
   },
   {
     "PartitionKey": "Core",
@@ -47378,7 +47636,8 @@
     "Wisdom": "7",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "weaponized-gonk-droid"
   },
   {
     "PartitionKey": "Core",
@@ -47525,7 +47784,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "whisper-bird"
   },
   {
     "PartitionKey": "Core",
@@ -47710,7 +47970,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "woodoo"
   },
   {
     "PartitionKey": "Core",
@@ -47877,7 +48138,8 @@
     "Wisdom": "11",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "wookiee-berserker"
   },
   {
     "PartitionKey": "Core",
@@ -48062,7 +48324,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "wookiee-engineer"
   },
   {
     "PartitionKey": "Core",
@@ -48282,7 +48545,8 @@
     "Wisdom": "15",
     "Wisdom@type": "Int32",
     "WisdomModifier": "2",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "wookiee-hunter"
   },
   {
     "PartitionKey": "Core",
@@ -48435,7 +48699,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "worrt"
   },
   {
     "PartitionKey": "Core",
@@ -48599,7 +48864,8 @@
     "Wisdom": "10",
     "Wisdom@type": "Int32",
     "WisdomModifier": "0",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "wraid"
   },
   {
     "PartitionKey": "Core",
@@ -48782,7 +49048,8 @@
     "Wisdom": "13",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "wyyyschokk"
   },
   {
     "PartitionKey": "Core",
@@ -48911,7 +49178,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ysalamir"
   },
   {
     "PartitionKey": "Core",
@@ -49065,7 +49333,8 @@
     "Wisdom": "8",
     "Wisdom@type": "Int32",
     "WisdomModifier": "-1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "ysalamiri-swarm"
   },
   {
     "PartitionKey": "Core",
@@ -49256,7 +49525,8 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "z-58-series-security-droid"
   },
   {
     "PartitionKey": "Core",
@@ -49421,6 +49691,7 @@
     "Wisdom": "12",
     "Wisdom@type": "Int32",
     "WisdomModifier": "1",
-    "WisdomModifier@type": "Int32"
+    "WisdomModifier@type": "Int32",
+    "id": "zalaaca"
   }
 ]
