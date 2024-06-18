@@ -1,3 +1,0 @@
----
-name: Disabling Practice
----

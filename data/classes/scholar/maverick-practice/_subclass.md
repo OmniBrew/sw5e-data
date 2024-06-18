@@ -1,3 +1,0 @@
----
-name: Maverick Practice
----

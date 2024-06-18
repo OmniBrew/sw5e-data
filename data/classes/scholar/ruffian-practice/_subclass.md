@@ -1,3 +1,0 @@
----
-name: Ruffian Practice
----

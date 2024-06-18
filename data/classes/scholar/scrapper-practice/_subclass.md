@@ -1,3 +1,0 @@
----
-name: Scrapper Practice
----

@@ -2,7 +2,7 @@
   {
     "name": "Berserker",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/berserker_01.png",
-    "snippet": "People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority",
+    "snippet": "Melee combatant who utilizes rage to increase prowess",
     "primaryAbility": [
       "str"
     ],
@@ -155,7 +155,7 @@
   {
     "name": "Engineer",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/engineer_01.png",
-    "snippet": "While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic",
+    "snippet": "Tech caster who enhances items to benefit allies",
     "primaryAbility": [
       "int"
     ],
@@ -164,33 +164,24 @@
       "armor": {
         "text": "Light armor",
         "has": [
-          "light"
+          "light_armor"
         ]
       },
       "weapon": {
         "text": "Simple blasters, simple vibroweapons",
         "has": [
-          "simple_blaster",
-          "simple_vibroweapon"
+          "simple_blasters",
+          "simple_vibroweapons"
         ]
       },
       "tool": {
-        "choices": {
-          "items": [
-            "armorsmiths-workbench",
-            "tailors-tools",
-            "tinkers-tools",
-            "weaponsmiths-workbench"
-          ],
-          "count": 1
-        },
         "text": "Tinker's implements,one of your choice",
         "has": [
-          "tinkers-tools"
+          "tinker's_implements,one_of_your_choice"
         ]
       },
       "skill": {
-        "text": "Choose two from Investigation, Lore, Medicine, Nature, Piloting, Technology",
+        "text": "Choose two from Investigation,Lore,Medicine,Nature,Piloting,Technology",
         "choices": {
           "items": [
             "investigation",
@@ -238,10 +229,10 @@
     "subclassLabel": "Engineering Disciplines",
     "progression": {
       "subclass": [
-        3,
+        2,
         6,
-        14,
-        16
+        10,
+        14
       ],
       "abi": [
         4,
@@ -249,61 +240,6 @@
         12,
         16,
         19
-      ],
-      "columns": [
-        {
-          "label": "features"
-        },
-        {
-          "label": "tech_points",
-          "values": [
-            2,
-            4,
-            5,
-            7,
-            11,
-            13,
-            15,
-            17,
-            20,
-            23,
-            26,
-            26,
-            30,
-            30,
-            34,
-            34,
-            39,
-            42,
-            45,
-            50
-          ]
-        },
-        {
-          "label": "tech_point_limit",
-          "values": [
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            2,
-            3,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            4,
-            5,
-            5,
-            6,
-            6
-          ]
-        }
       ]
     },
     "html": "<p>Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.</p>\n<p>Inside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety.</p>\n<p>A Cerean officer surveys the battlefield, looking for weaknesses. When he identifies a potential problem, he keys in a quick combination in his wristpad. In a blink, a custom suit of armor assembles itself around him. As the helmet locks into place, the officer leaps into the air, flying overhead and raining destruction on the opposition.</p>\n<p>Every machine needs an engineer to run it, and a living crew is no different. Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.</p>\n<me-tpg e=\"div\" s=\"h3\">Behind the Curtain</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic. They are armorers and gunsmiths, electricians and welders, or any other facet to be found in facilities across the galaxy. Their work, often unsung, is what keeps starships (and their crew) intact.</p>\n<me-tpg e=\"div\" s=\"h3\">Unflappable</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>It takes bravery for a soldier to enter a battlefield. It perhaps takes more for someone who is unarmed, and untrained in combat, to do the same. Engineers put their lives on the line for a living, whether by choice or acknowledging their plights as an occupational hazard. Whether they come from an elite training academy or learned their talents surviving in the slums, they are no strangers to danger and conflict.</p>\n",
@@ -543,7 +479,7 @@
   {
     "name": "Guardian",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_01.png",
-    "snippet": "An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons",
+    "snippet": "Force-wielder specializing in melee combat",
     "primaryAbility": [
       "str"
     ],
@@ -552,17 +488,15 @@
       "armor": {
         "text": "Light armor, medium armor",
         "has": [
-          "light",
-          "medium"
+          "light_armor",
+          "medium_armor"
         ]
       },
       "weapon": {
         "text": "All lightweapons, all vibroweapons",
         "has": [
-          "simple_lightweapon",
-          "martial_lightweapon",
-          "martial_vibroweapon",
-          "simple_vibroweapon"
+          "all_lightweapons",
+          "all_vibroweapons"
         ]
       },
       "tool": false,
@@ -615,10 +549,10 @@
     "subclassLabel": "Guardian Foci",
     "progression": {
       "subclass": [
-        3,
-        7,
-        15,
-        20
+        2,
+        6,
+        10,
+        14
       ],
       "abi": [
         4,
@@ -626,136 +560,6 @@
         12,
         16,
         19
-      ],
-      "columns": [
-        {
-          "label": "features"
-        },
-        {
-          "label": "barrier_uses",
-          "values": [
-            2,
-            2,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            5,
-            5,
-            5,
-            5,
-            5,
-            6,
-            6,
-            6,
-            6
-          ]
-        },
-        {
-          "label": "barrier_ticks",
-          "values": [
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            5,
-            5,
-            5,
-            6,
-            6,
-            6,
-            7,
-            7,
-            7,
-            8,
-            8,
-            9,
-            9,
-            10
-          ]
-        },
-        {
-          "label": "powers_known",
-          "values": [
-            5,
-            7,
-            9,
-            10,
-            12,
-            13,
-            14,
-            15,
-            17,
-            18,
-            19,
-            20,
-            22,
-            23,
-            24,
-            25,
-            27,
-            28,
-            29,
-            30
-          ]
-        },
-        {
-          "label": "tech_points",
-          "values": [
-            2,
-            4,
-            6,
-            8,
-            10,
-            12,
-            14,
-            16,
-            18,
-            20,
-            22,
-            24,
-            26,
-            28,
-            30,
-            32,
-            34,
-            36,
-            38,
-            40
-          ]
-        },
-        {
-          "label": "tech_point_limit",
-          "values": [
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
-            2,
-            2,
-            3,
-            3,
-            3,
-            3,
-            4,
-            4,
-            4,
-            4,
-            5,
-            5,
-            5,
-            5
-          ]
-        }
       ]
     },
     "html": "<p>A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him.</p>\n<p>A sith pureblood, clad head to toe in black and red armor, charges towards a line of soldiers. Shot after shot deflects off his armor until he reaches his prey, where he unleashes his fury in a series of devastating lightsaber sweeps.</p>\n<p>A zabrak general dramatically leaps to his soon-to-be overrun squad, landing with a flurry of lightsaber attacks. At the arrival of this powerful Jedi, the attackers fall back.</p>\n<p>Guardians are the master of the art of lightsaber combat. They focus on utilizing the everpresent power of the Force to enable devastating attacks, often single-handedly turning the tide of battle.</p>\n<me-tpg e=\"div\" s=\"h3\">Protector or Destroyer</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons. Their skills with a lightsaber are unrivalled. Subduing their enemies and bolstering their allies, the guardian uses the Force to control what happens around them.</p>\n<me-tpg e=\"div\" s=\"h3\">Natural Leaders</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The guardian's command of the Force lends them a powerful presence. Whether through fear and intimidation or respect and admiration, the guardian is one of the greatest generals on the battlefield. They are a symbol of power to their followers.</p>\n",
@@ -764,7 +568,7 @@
   {
     "name": "Monk",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/monk_01.png",
-    "snippet": "Monks make careful study of a mystical energy that most monastic orders call focus",
+    "snippet": "Unarmed combatant who uses focus to fuel abilities",
     "primaryAbility": [
       "dex"
     ],
@@ -842,7 +646,7 @@
   {
     "name": "Operative",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/operative_01.png",
-    "snippet": "Operatives have a knack for getting out of trouble",
+    "snippet": "Controller who focuses on stealth and techniques",
     "primaryAbility": [
       "dex"
     ],
@@ -858,26 +662,19 @@
         "text": "Simple blasters, simple vibroweapons, martial blasters that lack the auto, special, strength, and two-handed properties, martial vibroweapons with the finesse property",
         "has": [
           "simple_blasters",
-          "simple_vibroweapons"
+          "simple_vibroweapons",
+          "martial_blasters_that_lack_the_auto",
+          "special",
+          "strength",
+          "and_two-handed_properties",
+          "martial_vibroweapons_with_the_finesse_property"
         ]
       },
       "tool": {
         "text": "One specialist's kit of your choice",
-        "choices": {
-          "items": [
-            "Biochemist_kit",
-            "chef_kit",
-            "demolition_kit",
-            "disguise_kit",
-            "forgery_kit",
-            "mechanic_kit",
-            "poisoner_kit",
-            "security_kit",
-            "slicer_kit",
-            "trapper_kit"
-          ],
-          "count": 1
-        }
+        "has": [
+          "one_specialist's_kit_of_your_choice"
+        ]
       },
       "skill": {
         "text": "Choose two from Any",
@@ -945,7 +742,7 @@
   {
     "name": "Scholar",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/scholar_01.png",
-    "snippet": "A true scholar is never satisfied",
+    "snippet": "Academic who uses wits and allies to control the battlefield",
     "primaryAbility": [
       "int"
     ],
@@ -1042,7 +839,7 @@
   {
     "name": "Scout",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_01.png",
-    "snippet": "Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization�humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids",
+    "snippet": "Versatile combatant who blends tech powers with weapons",
     "primaryAbility": [
       "dex"
     ],
@@ -1051,17 +848,15 @@
       "armor": {
         "text": "Light armor, medium armor",
         "has": [
-          "light",
-          "medium"
+          "light_armor",
+          "medium_armor"
         ]
       },
       "weapon": {
         "text": "All blasters, all vibroweapons",
         "has": [
-          "simple_blaster",
-          "simple_vibroweapon",
-          "martial_blaster",
-          "martial_vibroweapon"
+          "all_blasters",
+          "all_vibroweapons"
         ]
       },
       "tool": false,
@@ -1069,7 +864,7 @@
         "text": "Choose two from Animal Handling,Athletics,Insight,Investigation,Perception,Piloting,Stealth,Survival,Technology",
         "choices": {
           "items": [
-            "animal_handling",
+            "animal handling",
             "athletics",
             "insight",
             "investigation",
@@ -1120,10 +915,10 @@
     "subclassLabel": "Scout Techniques",
     "progression": {
       "subclass": [
-        3,
-        7,
-        11,
-        15
+        2,
+        6,
+        10,
+        14
       ],
       "abi": [
         4,
@@ -1139,7 +934,7 @@
   {
     "name": "Sentinel",
     "img": "https://starwars5ecentral.blob.core.windows.net/site-images/classes/sentinel_01.png",
-    "snippet": "The sentinel uses stealth and subterfuge to accomplish the will of the Force",
+    "snippet": "Force-wielder who blends melee combat with the Force",
     "primaryAbility": [
       "dex"
     ],
