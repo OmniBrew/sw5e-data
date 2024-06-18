@@ -3,13 +3,17 @@ type: artisan
 name: Surveyor’s implements
 ---
 Surveyor’s implements include all of the necessary components to draw and store maps.
-__LORE__
+
+__LORE__. 
 You can use your knowledge of maps and locations to unearth more detailed information. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.
-__NATURE__
+
+__NATURE__. 
 Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.
-__SURVIVAL__
+
+__SURVIVAL__. 
 Your understand of geography makes it easier to find paths to civilization, to predict reas where towns might be found, and to avoid becoming lost. You have studied so many maps that common patterns, such as how trade routes evolve and where settlements arise in relation to gegraphic locations, are familiar to you.
-__Mapmaking__
+
+__Mapmaking__. 
 During a short or long rest, you can make a DC 15 Surveyor’s Implements check to create an accurate map of the area. On a success, the map provides a +1 bonus to navigation-related skill checks for the next 24 hours.
 
 Sample Activities

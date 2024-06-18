@@ -1,5 +1,4 @@
 ---
-type: false
 name: Vehicles
 ---
 Proficiency with a vehicle applies to one type of environment. The proficiency reflects the ability to navigate and maneuver
