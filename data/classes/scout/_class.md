@@ -2,7 +2,7 @@
 name: Scout
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/scout_01.png
 snippet: >-
-  Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization�humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids
+  Versatile combatant who blends tech powers with weapons
 primaryAbility:
   - dex
 hitDie: 10
@@ -10,20 +10,18 @@ profs:
   armor:
     text: Light armor, medium armor
     has:
-      - light
-      - medium
+      - light_armor
+      - medium_armor
   weapon:
     text: All blasters, all vibroweapons
     has:
-      - simple_blaster
-      - simple_vibroweapon
-      - martial_blaster
-      - martial_vibroweapon
+      - all_blasters
+      - all_vibroweapons
   tool: false
   skill:
     text: Choose two from Animal Handling,Athletics,Insight,Investigation,Perception,Piloting,Stealth,Survival,Technology
     choices:
-      items: [animal_handling,athletics,insight,investigation,perception,piloting,stealth,survival,technology]
+      items: [animal handling,athletics,insight,investigation,perception,piloting,stealth,survival,technology]
       count: 2
   saving-throw:
     text: Strength, Dexterity
@@ -47,10 +45,10 @@ startingWealth:
 subclassLabel: Scout Techniques
 progression:
   subclass:
-    - 3
-    - 7
-    - 11
-    - 15
+    - 2
+    - 6
+    - 10
+    - 14
   abi:
     - 4
     - 8

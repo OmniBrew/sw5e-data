@@ -2,7 +2,7 @@
 name: Guardian
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/guardian_01.png
 snippet: >-
-  An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons
+  Force-wielder specializing in melee combat
 primaryAbility:
   - str
 hitDie: 10
@@ -10,15 +10,13 @@ profs:
   armor:
     text: Light armor, medium armor
     has:
-      - light
-      - medium
+      - light_armor
+      - medium_armor
   weapon:
     text: All lightweapons, all vibroweapons
     has:
-      - simple_lightweapon
-      - martial_lightweapon
-      - martial_vibroweapon
-      - simple_vibroweapon
+      - all_lightweapons
+      - all_vibroweapons
   tool: false
   skill:
     text: Choose two from Acrobatics,Athletics,Deception,Insight,Intimidation,Lore,Perception,Persuasion,Piloting
@@ -45,28 +43,16 @@ startingWealth:
 subclassLabel: Guardian Foci
 progression:
   subclass:
-    - 3
-    - 7
-    - 15
-    - 20
+    - 2
+    - 6
+    - 10
+    - 14
   abi:
     - 4
     - 8
     - 12
     - 16
     - 19
-  columns:
-    - label: features
-    - label: barrier_uses
-      values: [2,2,3,3,3,4,4,4,4,4,4,5,5,5,5,5,6,6,6,6]
-    - label: barrier_ticks
-      values: [3,3,3,4,4,4,5,5,5,6,6,6,7,7,7,8,8,9,9,10]
-    - label: powers_known
-      values: [5,7,9,10,12,13,14,15,17,18,19,20,22,23,24,25,27,28,29,30]
-    - label: tech_points
-      values: [2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40]
-    - label: tech_point_limit
-      values: [1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5]
 ---
 A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him. 
 

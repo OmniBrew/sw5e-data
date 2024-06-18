@@ -2,7 +2,7 @@
 name: Scholar
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/scholar_01.png
 snippet: >-
-  A true scholar is never satisfied
+  Academic who uses wits and allies to control the battlefield
 primaryAbility:
   - int
 hitDie: 8

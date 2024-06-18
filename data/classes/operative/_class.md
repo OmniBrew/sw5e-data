@@ -2,7 +2,7 @@
 name: Operative
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/operative_01.png
 snippet: >-
-  Operatives have a knack for getting out of trouble
+  Controller who focuses on stealth and techniques
 primaryAbility:
   - dex
 hitDie: 8

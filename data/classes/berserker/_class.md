@@ -2,7 +2,7 @@
 name: Berserker
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/berserker_01.png
 snippet: >-
-  People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority
+  Melee combatant who utilizes rage to increase prowess
 primaryAbility:
   - str
 hitDie: 12

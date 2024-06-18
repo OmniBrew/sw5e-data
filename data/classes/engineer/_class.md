@@ -2,7 +2,7 @@
 name: Engineer
 img: https://starwars5ecentral.blob.core.windows.net/site-images/classes/engineer_01.png
 snippet: >-
-  While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic
+  Tech caster who enhances items to benefit allies
 primaryAbility:
   - int
 hitDie: 8
@@ -10,21 +10,18 @@ profs:
   armor:
     text: Light armor
     has:
-      - light
+      - light_armor
   weapon:
     text: Simple blasters, simple vibroweapons
     has:
-      - simple_blaster
-      - simple_vibroweapon
+      - simple_blasters
+      - simple_vibroweapons
   tool:
-    choices:
-      items: [armorsmiths-workbench,tailors-tools,tinkers-tools,weaponsmiths-workbench]
-      count: 1
     text: Tinker's implements,one of your choice
     has:
-      - tinkers-tools
+      - tinker's_implements,one_of_your_choice
   skill:
-    text: Choose two from Investigation, Lore, Medicine, Nature, Piloting, Technology
+    text: Choose two from Investigation,Lore,Medicine,Nature,Piloting,Technology
     choices:
       items: [investigation,lore,medicine,nature,piloting,technology]
       count: 2
@@ -49,22 +46,16 @@ startingWealth:
 subclassLabel: Engineering Disciplines
 progression:
   subclass:
-    - 3
+    - 2
     - 6
+    - 10
     - 14
-    - 16
   abi:
     - 4
     - 8
     - 12
     - 16
     - 19
-  columns:
-    - label: features
-    - label: tech_points
-      values: [2,4,5,7,11,13,15,17,20,23,26,26,30,30,34,34,39,42,45,50]
-    - label: tech_point_limit
-      values: [1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,5,6,6]
 ---
 Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off. 
 

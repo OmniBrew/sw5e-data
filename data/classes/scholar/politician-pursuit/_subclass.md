@@ -1,3 +1,0 @@
----
-name: Politician Pursuit
----
