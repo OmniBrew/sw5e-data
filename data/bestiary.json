@@ -135,9 +135,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -311,9 +309,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -439,9 +435,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -648,9 +642,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -970,9 +962,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -1326,9 +1316,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "8",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -1535,9 +1523,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -1789,9 +1775,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -2110,9 +2094,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -2257,9 +2239,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -2404,9 +2384,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -2571,9 +2549,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -2684,9 +2660,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -2814,9 +2788,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -2990,9 +2962,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -3149,9 +3119,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -3298,9 +3266,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -3415,9 +3381,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -3590,9 +3554,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -3784,9 +3746,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -4023,9 +3983,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium droids"
-    ],
+    "TypesJson": "swarm of Medium droids",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -4215,9 +4173,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -4426,9 +4382,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -4589,9 +4543,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -4803,9 +4755,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -4998,9 +4948,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -5145,9 +5093,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -5292,9 +5238,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -5510,9 +5454,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -5660,9 +5602,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -5925,9 +5865,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -6091,9 +6029,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "7",
     "Wisdom@type": "Int32",
@@ -6256,9 +6192,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "7",
     "Wisdom@type": "Int32",
@@ -6405,9 +6339,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -6537,9 +6469,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -6854,9 +6784,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "18",
     "Wisdom@type": "Int32",
@@ -7046,9 +6974,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -7226,9 +7152,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -7435,9 +7359,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium humanoids"
-    ],
+    "TypesJson": "swarm of Medium humanoids",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -7592,9 +7514,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -7795,9 +7715,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -7925,9 +7843,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -8092,9 +8008,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -8447,9 +8361,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid (Villainous"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -8674,9 +8586,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -8835,9 +8745,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -9046,9 +8954,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -9273,9 +9179,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -9563,9 +9467,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "undead"
-    ],
+    "TypesJson": "undead",
     "TypesJson@type": "String",
     "Wisdom": "21",
     "Wisdom@type": "Int32",
@@ -9754,9 +9656,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "undead"
-    ],
+    "TypesJson": "undead",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -10028,9 +9928,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -10239,9 +10137,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -10405,9 +10301,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -10571,9 +10465,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -10738,9 +10630,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -10941,9 +10831,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -11125,9 +11013,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -11420,9 +11306,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "human"
-    ],
+    "TypesJson": "human",
     "TypesJson@type": "String",
     "Wisdom": "18",
     "Wisdom@type": "Int32",
@@ -11644,9 +11528,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -11757,9 +11639,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -11870,9 +11750,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -12107,9 +11985,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -12344,9 +12220,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "9",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -12510,9 +12384,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -12693,9 +12565,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -12842,9 +12712,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -13033,9 +12901,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -13163,9 +13029,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -13333,9 +13197,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -13484,9 +13346,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -13633,9 +13493,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -13922,9 +13780,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "elemental"
-    ],
+    "TypesJson": "elemental",
     "TypesJson@type": "String",
     "Wisdom": "21",
     "Wisdom@type": "Int32",
@@ -14127,9 +13983,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -14294,9 +14148,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -14487,9 +14339,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -14638,9 +14488,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -14770,9 +14618,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -14971,9 +14817,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -15126,9 +14970,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -15274,9 +15116,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -15430,9 +15270,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -15573,9 +15411,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "7",
     "Wisdom@type": "Int32",
@@ -15797,9 +15633,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -16184,9 +16018,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "23",
     "Wisdom@type": "Int32",
@@ -16331,9 +16163,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -16498,9 +16328,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -16682,9 +16510,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -16883,9 +16709,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "9",
     "Wisdom@type": "Int32",
@@ -17087,9 +16911,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -17235,9 +17057,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -17518,9 +17338,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -17685,9 +17503,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -17860,9 +17676,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Small beasts"
-    ],
+    "TypesJson": "swarm of Small beasts",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -18036,9 +17850,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -18192,9 +18004,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -18376,9 +18186,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -18507,9 +18315,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -18716,9 +18522,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -19084,9 +18888,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -19277,9 +19079,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -19522,9 +19322,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -19663,9 +19461,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -19915,9 +19711,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -20098,9 +19892,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -20294,9 +20086,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -20483,9 +20273,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -20637,9 +20425,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -20779,9 +20565,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -20958,9 +20742,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -21165,9 +20947,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -21300,9 +21080,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -21490,9 +21268,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "17",
     "Wisdom@type": "Int32",
@@ -21642,9 +21418,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -21797,9 +21571,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "19",
     "Wisdom@type": "Int32",
@@ -22023,9 +21795,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -22212,9 +21982,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -22419,9 +22187,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -22644,9 +22410,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -22776,9 +22540,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -22928,9 +22690,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -23098,9 +22858,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -23251,9 +23009,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -23403,9 +23159,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -23535,9 +23289,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -23707,9 +23459,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -23879,9 +23629,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -24012,9 +23760,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -24155,9 +23901,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -24285,9 +24029,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -24454,9 +24196,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -24604,9 +24344,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -24812,9 +24550,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -24964,9 +24700,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -25137,9 +24871,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -25324,9 +25056,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -25514,9 +25244,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -25721,9 +25449,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -25909,9 +25635,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -26080,9 +25804,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -26342,9 +26064,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -26595,9 +26315,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "10",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -26763,9 +26481,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -26924,9 +26640,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -27081,9 +26795,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -27265,9 +26977,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -27451,9 +27161,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -27741,9 +27449,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "9",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "undead"
-    ],
+    "TypesJson": "undead",
     "TypesJson@type": "String",
     "Wisdom": "17",
     "Wisdom@type": "Int32",
@@ -27917,9 +27623,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -28067,9 +27771,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -28278,9 +27980,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -28446,9 +28146,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "human"
-    ],
+    "TypesJson": "human",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -28654,9 +28352,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "human"
-    ],
+    "TypesJson": "human",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -28897,9 +28593,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "human"
-    ],
+    "TypesJson": "human",
     "TypesJson@type": "String",
     "Wisdom": "18",
     "Wisdom@type": "Int32",
@@ -29054,9 +28748,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium humanoids"
-    ],
+    "TypesJson": "swarm of Medium humanoids",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -29177,9 +28869,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "9",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -29307,9 +28997,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -29467,9 +29155,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -29614,9 +29300,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -29761,9 +29445,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "9",
     "Wisdom@type": "Int32",
@@ -30008,9 +29690,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -30173,9 +29853,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -30351,9 +30029,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Small beasts"
-    ],
+    "TypesJson": "swarm of Small beasts",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -30580,9 +30256,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -30771,9 +30445,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -30890,9 +30562,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -31023,9 +30693,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -31173,9 +30841,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -31305,9 +30971,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -31472,9 +31136,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -31656,9 +31318,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -31806,9 +31466,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -31940,9 +31598,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "4",
     "Wisdom@type": "Int32",
@@ -32108,9 +31764,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "4",
     "Wisdom@type": "Int32",
@@ -32229,9 +31883,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -32367,9 +32019,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -32557,9 +32207,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -32689,9 +32337,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -32849,9 +32495,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -33008,9 +32652,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny droids"
-    ],
+    "TypesJson": "swarm of Tiny droids",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -33231,9 +32873,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -33411,9 +33051,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -33577,9 +33215,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -33761,9 +33397,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -33943,9 +33577,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "9",
     "Wisdom@type": "Int32",
@@ -34147,9 +33779,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -34443,9 +34073,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -34591,9 +34219,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "9",
     "Wisdom@type": "Int32",
@@ -34802,9 +34428,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -35010,9 +34634,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -35140,9 +34762,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -35270,9 +34890,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -35444,9 +35062,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium humanoids"
-    ],
+    "TypesJson": "swarm of Medium humanoids",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -35560,9 +35176,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "9",
     "Wisdom@type": "Int32",
@@ -35708,9 +35322,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -35971,9 +35583,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -36345,9 +35955,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "10",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "18",
     "Wisdom@type": "Int32",
@@ -36684,9 +36292,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "8",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -36886,9 +36492,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -37051,9 +36655,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -37166,9 +36768,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -37306,9 +36906,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -37437,9 +37035,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -37596,9 +37192,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Small beasts"
-    ],
+    "TypesJson": "swarm of Small beasts",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -37746,9 +37340,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -37924,9 +37516,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -38038,9 +37628,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -38242,9 +37830,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -38407,9 +37993,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -38666,9 +38250,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -38816,9 +38398,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -38972,9 +38552,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -39120,9 +38698,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -39279,9 +38855,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -39587,9 +39161,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -39801,9 +39373,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -39969,9 +39539,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -40155,9 +39723,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -40315,9 +39881,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -40569,9 +40133,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "construct"
-    ],
+    "TypesJson": "construct",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -40682,9 +40244,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -40891,9 +40451,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -41150,9 +40708,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -41357,9 +40913,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -41618,9 +41172,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -42000,9 +41552,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "6",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "16",
     "Wisdom@type": "Int32",
@@ -42207,9 +41757,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -42347,9 +41895,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -42479,9 +42025,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -42687,9 +42231,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -42853,9 +42395,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -43003,9 +42543,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -43174,9 +42712,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -43324,9 +42860,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -43489,9 +43023,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -43709,9 +43241,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "Humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -43881,9 +43411,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -44051,9 +43579,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -44206,9 +43732,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -44402,9 +43926,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium humanoids"
-    ],
+    "TypesJson": "swarm of Medium humanoids",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -44620,9 +44142,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -44787,9 +44307,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -44936,9 +44454,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -45125,9 +44641,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -45274,9 +44788,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -45423,9 +44935,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -45597,9 +45107,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Medium humanoids"
-    ],
+    "TypesJson": "swarm of Medium humanoids",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -45727,9 +45235,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -45857,9 +45363,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -46030,9 +45534,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -46324,9 +45826,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "undead"
-    ],
+    "TypesJson": "undead",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -46466,9 +45966,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "tree"
-    ],
+    "TypesJson": "tree",
     "TypesJson@type": "String",
     "Wisdom": "6",
     "Wisdom@type": "Int32",
@@ -46621,9 +46119,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "plant"
-    ],
+    "TypesJson": "plant",
     "TypesJson@type": "String",
     "Wisdom": "7",
     "Wisdom@type": "Int32",
@@ -46798,9 +46294,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -46966,9 +46460,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -47089,9 +46581,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "5",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "18",
     "Wisdom@type": "Int32",
@@ -47223,9 +46713,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "14",
     "Wisdom@type": "Int32",
@@ -47434,9 +46922,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -47729,9 +47215,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "7",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "aberration"
-    ],
+    "TypesJson": "aberration",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -47889,9 +47373,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "0",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "7",
     "Wisdom@type": "Int32",
@@ -48038,9 +47520,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -48225,9 +47705,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -48394,9 +47872,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "11",
     "Wisdom@type": "Int32",
@@ -48581,9 +48057,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -48803,9 +48277,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "humanoid"
-    ],
+    "TypesJson": "humanoid",
     "TypesJson@type": "String",
     "Wisdom": "15",
     "Wisdom@type": "Int32",
@@ -48958,9 +48430,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -49124,9 +48594,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "3",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "10",
     "Wisdom@type": "Int32",
@@ -49309,9 +48777,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "2",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "13",
     "Wisdom@type": "Int32",
@@ -49440,9 +48906,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -49596,9 +49060,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-1",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "swarm of Tiny beasts"
-    ],
+    "TypesJson": "swarm of Tiny beasts",
     "TypesJson@type": "String",
     "Wisdom": "8",
     "Wisdom@type": "Int32",
@@ -49789,9 +49251,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "-4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "droid"
-    ],
+    "TypesJson": "droid",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",
@@ -49956,9 +49416,7 @@
     "Strength@type": "Int32",
     "StrengthModifier": "4",
     "StrengthModifier@type": "Int32",
-    "TypesJson": [
-      "beast"
-    ],
+    "TypesJson": "beast",
     "TypesJson@type": "String",
     "Wisdom": "12",
     "Wisdom@type": "Int32",

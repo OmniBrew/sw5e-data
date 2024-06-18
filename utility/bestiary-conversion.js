@@ -12,11 +12,19 @@ function convertBestiaryItem(item) {
         // console.log(key)
         if (key.endsWith('Json') && item[key]) {
             try {
-                item[key] = JSON.parse(item[key])
+                if (key === 'TypesJson') {
+                    let type = JSON.parse(item[key])[0] 
+                    if (type.startsWith('H') || type.endsWith('Villainous')) {
+                        type = 'humanoid'
+                    }
+                    item[key] = type
+                } else {
+                    item[key] = JSON.parse(item[key])
+                }
             } catch(e) {
+                console.log(`${item.RowKey} failed`)
                 continue
             }
-            
         }
     }
     const fileName = _.kebabCase(item.RowKey) + '.md'
