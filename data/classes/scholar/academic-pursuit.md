@@ -1,5 +1,5 @@
 ---
-level: 9
+level: 3
 name: Academic Pursuit
 mechanics:
 ---

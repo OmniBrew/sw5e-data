@@ -1,5 +1,5 @@
 ---
-level: 10
+level: 3
 name: Expertise
 mechanics:
 ---
