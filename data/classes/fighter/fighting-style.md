@@ -5,6 +5,7 @@ mechanics:
   - type: model-choice
     options: true
     model: fighting-styles
+shortDescription: 'You adopt a particular style of fighting as your specialty. Choose one of the fighting style options:'
 ---
 _**Fighter:** 1st level_
 You adopt a particular style of fighting as your specialty. Choose one of the fighting style options:

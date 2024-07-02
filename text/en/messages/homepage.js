@@ -4,12 +4,10 @@ module.exports = {
     get_started: 'Get Started',
     begin: 'Begin Your Journey',
     begin_text: `
-        Star Wars 5e lets you take the immersive and cooperative story-telling gameplay of Dungeons & Dragons 
-        5th edition and experience new adventures in the Star Wars universe. Go exploring in the Outer Terminus.
-        Stop a political assassination on Thessia. Battle the Reaper invasion on Earth, Palavan, or Sur'Kesh. 
-        Solve crimes as a C-SEC officer on the Citadel. With Star Wars 5e, the adventure is in your hands. 
-        You can play anywhere in the Star Wars timeline, create new worlds, or revisit old ones. So, gear up 
-        and start making your own journey.
+    Star Wars 5e lets you take the immersive and cooperative story-telling gameplay of Dungeons & Dragons 5th edition and experience new adventures in the
+    Star Wars universe. Go exploring in the Outer Rim. Stop a political assassination on Naboo. Battle an Imperial invasion on Dantooine.
+    Solve crimes as a security officer on Coruscant. With Star Wars 5e, the adventure is in your hands. You can play anywhere in the Star Wars timeline, create
+    new worlds, or revisit old ones. So, gear up and start making your own journey.
     `,
     play_text: 'Play with the best tech',
     news: 'Latest news',
@@ -17,10 +15,10 @@ module.exports = {
         {
             title: 'Mix & Match',
             text: `
-                Star Wars 5e lets you mix and match a variety of classic alien races with your favorite Star Wars class.
-                Wreak havoc on the front lines as a Krogan Shocktrooper. Crush your enemies like a biotic god as a
-                Volus Commando. With 12 races, 6 classes, and 18 specializations, Star Wars 5e has options to fit any
-                play style.
+                Star Wars 5e lets you mix and match a variety of classic alien species with your favorite Star Wars class.
+                Wreak havoc on the front lines as a Wookiee Warrior. Crush your enemies with the Force as a
+                Twi'lek Jedi. With so many species, classes, and specializations to choose from, Star Wars 5e has options to
+                fit any play style.
             `
         },
         {
@@ -35,7 +33,7 @@ module.exports = {
             title: 'Unique Enemies',
             text: `
                 Our bestiary is filled with iconic Star Wars enemies custom-made using D&D's Dungeon Master Guide
-                to ensure balanced combat. From Reaper forces to Blue Sun grunts, we've got enough monsters to keep your
+                to ensure balanced combat. From Imperial forces to Black Sun grunts, we've got enough monsters to keep your
                 players engaged and challenged.
             `
         },

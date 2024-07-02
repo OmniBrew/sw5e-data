@@ -1,7 +1,7 @@
 ---
 name: Cunning Strategist
 mechanics:
-  type: bonus-action
+#  - type: bonus-action
     type: model-choice
     options: true
     selections: 2
