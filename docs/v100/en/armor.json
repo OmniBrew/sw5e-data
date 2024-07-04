@@ -1,20 +1,418 @@
 [
   {
-    "placement": "head",
-    "type": "light",
-    "cost": 62050,
-    "manufacturer": "andromeda-initiative",
-    "image": "https://vignette.wikia.nocookie.net/masseffect/images/7/70/MEA_Andromeda_Elite_Helmet.png/revision/latest/scale-to-width-down/350?cb=20180505205348",
-    "tags": [
-      "ac",
-      "shields",
-      "shield_regen"
-    ],
-    "andromeda": false,
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
     "set": false,
-    "rarity": "rare",
-    "name": "Andromeda Elite Helmet",
-    "flavor": "This special-issue worst game ever Initiative helmet is custom designed for explorers who excel in the Initiative training programs taken on prior to departing for Andromeda. Its Pathfinder-grade construction is strong enough to protect the wearer from the dangers of unexplored space while remaining light enough to allow full mobility.",
+    "rarity": "prototype",
+    "name": "Adapted Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nYou have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.</p>\n<v-simple-table class=\"mb-8\"><template v-slot:default><thead>\n<tr>\n<th style=\"text-align:center\">d10</th>\n<th style=\"text-align:left\">Damage Type</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">1</td>\n<td style=\"text-align:left\">Acid</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">2</td>\n<td style=\"text-align:left\">Cold</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">3</td>\n<td style=\"text-align:left\">Fire</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">4</td>\n<td style=\"text-align:left\">Force</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">5</td>\n<td style=\"text-align:left\">Ion</td>\n</tr>\n</tbody>\n<tbody>\n<tr>\n<td style=\"text-align:center\">d10</td>\n<td style=\"text-align:left\">Damage Type</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">:---:</td>\n<td style=\"text-align:left\">:------------</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">6</td>\n<td style=\"text-align:left\">Lightning</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">7</td>\n<td style=\"text-align:left\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">8</td>\n<td style=\"text-align:left\">Poison</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">9</td>\n<td style=\"text-align:left\">Psychic</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">10</td>\n<td style=\"text-align:left\">Sonic</td>\n</tr>\n</tbody>\n</template></v-simple-table><p><em>Those foolhardy enough to not treat a hostile planet as worthy a foe as the ones carrying blasters don't often live long enough to boast about it.</em></p>\n",
+    "id": "adapted-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "artifact",
+    "name": "Armor (Champion)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>You have a +3 bonus to AC while wearing this armor. Additionally, while wearing this armor, damage you take is reduced by 2. If this would reduce the damage to 0, the damage is instead reduced to 1.</p>\n",
+    "id": "armor-champion"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "advanced",
+    "name": "Armor Chassis (Advanced)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications, as well as one augment slot. It can house modifications of advanced rarity or lower.</p>\n",
+    "id": "armor-chassis-advanced"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "artifact",
+    "name": "Armor Chassis (Artifact)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications, as well as two augment slots. It can house modifications of artifact rarity or lower.</p>\n",
+    "id": "armor-chassis-artifact"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "legendary",
+    "name": "Armor Chassis (Legendary)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications, as well as two augment slots. It can house modifications of legendary rarity or lower.</p>\n",
+    "id": "armor-chassis-legendary"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "premium",
+    "name": "Armor Chassis (Premium)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications. It can house modifications of premium rarity or lower.</p>\n",
+    "id": "armor-chassis-premium"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "prototype",
+    "name": "Armor Chassis (Prototype)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications, as well as one augment slot. It can house modifications of prototype rarity or lower.</p>\n",
+    "id": "armor-chassis-prototype"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "standard",
+    "name": "Armor Chassis (Standard)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis modifiable armor chassis comes with vacant modification slots for armor modifications. It can house modifications of standard rarity.</p>\n",
+    "id": "armor-chassis-standard"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "legendary",
+    "name": "Armor (Exceptional)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>You have a +3 bonus to AC while wearing this armor. Additionally, while wearing this armor, damage you take is reduced by 1. If this would reduce the damage to 0, the damage is instead reduced to 1.</p>\n",
+    "id": "armor-exceptional"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "premium",
+    "name": "Armor (Fine)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>You have a +1 bonus to AC while wearing this armor.</p>\n",
+    "id": "armor-fine"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "prototype",
+    "name": "Armor (Improved)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>You have a +2 bonus to AC while wearing this armor.</p>\n",
+    "id": "armor-improved"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "advanced",
+    "name": "Armor (Superior)",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>You have a +3 bonus to AC while wearing this armor.</p>\n",
+    "id": "armor-superior"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "heavy",
+    "cost": 2000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Assault armor",
+    "flavor": null,
+    "weight": 60,
+    "properties": [
+      "bulky",
+      "strength-15"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "17",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 17
+      }
+    ],
+    "html": "<p>Assault armor improved on battle armor, with the benefit of micro-hydraulics that boost the efficacy of the operator. It offers better protection, but increased weight.</p>\n",
+    "id": "assault-armor"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "heavy",
+    "cost": 750,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Battle armor",
+    "flavor": null,
+    "weight": 55,
+    "properties": [
+      "bulky",
+      "strength-13"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "16",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 16
+      }
+    ],
+    "html": "<p>Battle armor is an armor that reduced weight, but restricts movement. The armor is commonly used by mercenaries, bounty hunters, soldiers, and civilians that live in dangerous areas.</p>\n",
+    "id": "battle-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "medium",
+    "cost": 3000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Beskar weave armor",
+    "flavor": null,
+    "weight": 25,
+    "properties": [
+      "regulated",
+      "strength-11"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "14 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 14
+      }
+    ],
+    "html": "",
+    "id": "beskar-weave-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "shield",
+    "cost": 300,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Bone light shield",
+    "flavor": null,
+    "weight": 0,
+    "properties": [
+      "spiked-1-d-4"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+0",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 0
+        }
+      }
+    ],
+    "html": "",
+    "id": "bone-light-shield"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "light",
+    "cost": 100,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Combat suit",
+    "flavor": null,
+    "weight": 10,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "11 + Dex modifier",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 11
+      }
+    ],
+    "html": "<p>Combat suits are seen all over the galaxy, and can be found for sale by almost any merchant who dealt in weapons and armor. Many such suits are used by military organizations, such as the Galactic Republic's military, as well as by mercenaries, criminals, bounty hunters and even some Jedi.</p>\n<p>The suit itself offers decent protection from most types of attacks while maintaining maximum flexibility and minimum weight. However this armor is only recommended for light skirmishes.</p>\n",
+    "id": "combat-suit"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "medium",
+    "cost": 2500,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Composite armor",
+    "flavor": null,
+    "weight": 45,
+    "properties": [
+      "bulky"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "15 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 15
+      }
+    ],
+    "html": "<p>Composite armor is a type of armored suit that offers a good balance of mobility and protection against most types of weapons. The micro-hydraulics of this type of powered armor provide the operator with protection, but are more bulky than mesh or weave armors. This type of armor is rarely seen outside of professional mercenaries' and soldiers' use.</p>\n",
+    "id": "composite-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "shield",
+    "cost": 900,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Crystadium medium shield",
+    "flavor": null,
+    "weight": 18,
+    "properties": [
+      "absorptive-1",
+      "imbalanced",
+      "strength-13"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+2",
     "mechanics": [
       {
         "type": "ac",
@@ -22,59 +420,660 @@
           "type": "flat",
           "value": 2
         }
-      },
-      {
-        "type": "shields",
-        "capacity": {
-          "type": "flat",
-          "value": 5
-        },
-        "regen": {
-          "type": "flat",
-          "value": 5
-        }
       }
     ],
-    "html": "<ul>\n<li>+2 AC.</li>\n<li>+5 Shields and +5 Shield Regen</li>\n</ul>\n",
-    "id": "andromeda-elite-helmet"
+    "html": "",
+    "id": "crystadium-medium-shield"
   },
   {
-    "placement": "head",
-    "type": "light",
-    "cost": 62050,
-    "manufacturer": "andromeda-initiative",
-    "image": "https://vignette.wikia.nocookie.net/masseffect/images/7/70/MEA_Andromeda_Elite_Helmet.png/revision/latest/scale-to-width-down/350?cb=20180505205348",
-    "tags": [
-      "ac",
-      "shields",
-      "shield_regen"
-    ],
-    "andromeda": true,
+    "source": "WH",
+    "placement": "",
+    "type": "heavy",
+    "cost": 6750,
+    "image": null,
+    "tags": [],
     "set": false,
-    "rarity": "rare",
-    "name": "Helmet of Stuff",
-    "flavor": "This does nothing. ",
+    "rarity": "unenhanced",
+    "name": "Durafiber battle armor",
+    "flavor": null,
+    "weight": 55,
+    "properties": [
+      "bulky",
+      "strength-11"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "15",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 15
+      }
+    ],
+    "html": "",
+    "id": "durafiber-battle-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "light",
+    "cost": 1100,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Duranium combat suit",
+    "flavor": null,
+    "weight": 10,
+    "properties": [
+      "cumbersome",
+      "reactive-1"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "11 + Dex modifier",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 11
+      }
+    ],
+    "html": "",
+    "id": "duranium-combat-suit"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "heavy",
+    "cost": 15000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Durasteel exoskeleton",
+    "flavor": null,
+    "weight": 65,
+    "properties": [
+      "bulky",
+      "impermeable-2",
+      "rigid",
+      "strength-17"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "18",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 18
+      }
+    ],
+    "html": "",
+    "id": "durasteel-exoskeleton"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "light",
+    "cost": 1450,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Duravlex fiber armor",
+    "flavor": null,
+    "weight": 13,
+    "properties": [
+      "silent"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "11 + Dex modifier",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 11
+      }
+    ],
+    "html": "",
+    "id": "duravlex-fiber-armor"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "light",
+    "cost": 450,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Fiber armor",
+    "flavor": null,
+    "weight": 13,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "12 + Dex modifier",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 12
+      }
+    ],
+    "html": "<p>Fiber armor is a type of armor that offers more protection than the lighter combat suit. Fiber armor is heavier overall than combat suits, and not quite as flexible, but many consider the trade-offs worthwhile. It is a good source of defense from physical attacks and light blaster fire.</p>\n",
+    "id": "fiber-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "light",
+    "cost": 1450,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Fleximetal fiber armor",
+    "flavor": null,
+    "weight": 13,
+    "properties": [
+      "avoidant-1",
+      "strength-11"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "12 + Dex modifier",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 12
+      }
+    ],
+    "html": "",
+    "id": "fleximetal-fiber-armor"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "heavy",
+    "cost": 9000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Heavy exoskeleton",
+    "flavor": null,
+    "weight": 65,
+    "properties": [
+      "bulky",
+      "strength-17"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "18",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 18
+      }
+    ],
+    "html": "<p>Heavy exoskeletons are virtually the heaviest armor acquirable during the Galactic War. It is ideal for extreme combat situations that involved direct damage and also offers a very good level of protection in sacrifice of dexterity. Some consider it claustrophobic but that was the trade-off for safety.</p>\n",
+    "id": "heavy-exoskeleton"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 500,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Heavy physical shield",
+    "flavor": null,
+    "weight": 36,
+    "properties": [
+      "obtrusive",
+      "strength-15"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+3",
     "mechanics": [
       {
         "type": "ac",
         "bonus": {
           "type": "flat",
-          "value": 21
-        }
-      },
-      {
-        "type": "shields",
-        "capacity": {
-          "type": "flat",
-          "value": 5
-        },
-        "regen": {
-          "type": "flat",
-          "value": 5
+          "value": 3
         }
       }
     ],
-    "html": "<ul>\n<li>+2 AC.</li>\n<li>+5 Shields and +5 Shield Regen</li>\n</ul>\n",
-    "id": "helmet-of-stuff"
+    "html": "",
+    "id": "heavy-physical-shield"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 1250,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Heavy shield generator",
+    "flavor": null,
+    "weight": 12,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+3",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 3
+        }
+      }
+    ],
+    "html": "",
+    "id": "heavy-shield-generator"
+  },
+  {
+    "source": "WH",
+    "placement": "any_medium",
+    "type": "any_medium",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "prototype",
+    "name": "Jensaarai Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nWhile wearing this armor, you are considered proficient regardless of whether or not you have proficiency in medium armor. Additionally, it grants a +1 bonus to AC.</p>\n<p><em><strong>Jensaarai Regalia.</strong></em> While wearing and attuned to this armor and Jensaarai Cloak, you are adapted to both hot and cold climates, as described in chapter 5 of the Dungeon Master's Guide. Additionally, this armor now grants a +2 bonus to AC, instead of +1. While wearing and attuned to this armor, Jensaarai Cloak, and Jensaarai Headgear, this armor now grants a +3 bonus to AC, instead of +2.</p>\n<p><em>At the height of their training, Jensaarai craft and bond with their own armor. While each set of armor is unique to its bearer, they share similar traits.</em></p>\n",
+    "id": "jensaarai-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "heavy",
+    "cost": 8000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Laminanium assault",
+    "flavor": null,
+    "weight": 60,
+    "properties": [
+      "bulky",
+      "cumbersome",
+      "obscured",
+      "strength-15"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "17",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 17
+      }
+    ],
+    "html": "",
+    "id": "laminanium-assault"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 50,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Light physical shield",
+    "flavor": null,
+    "weight": 0,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+1",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 1
+        }
+      }
+    ],
+    "html": "",
+    "id": "light-physical-shield"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 125,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Light shield generator",
+    "flavor": null,
+    "weight": 0,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+1",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 1
+        }
+      }
+    ],
+    "html": "",
+    "id": "light-shield-generator"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "prototype",
+    "name": "Mandalorian Beskar'gam",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nThis armor comes equipped with 24 slots that can each hold a single item that weighs less than 2 lb. Additionally, it grants a +1 bonus to AC.</p>\n<p><em><strong>Mandalorian Vestments.</strong></em> While wearing and attuned to this armor and Mandalorian Helmet, you are able to survive and operate in zero gravity space and other dangerous conditions. Additionally, this armor now grants a +2 bonus to AC, instead of +1. While wearing and attuned to this armor, Mandalorian Helmet, and Mandalorian Shuk'orok, this armor now grants a +3 bonus to AC, instead of +2.</p>\n<p><em>This armor is forged from an incredibly rare material known as beskar, a highly durable metal.</em></p>\n",
+    "id": "mandalorian-beskargam"
+  },
+  {
+    "source": "WH",
+    "placement": "any_heavy",
+    "type": "any_heavy",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "premium",
+    "name": "Matrix Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>While wearing this suit of armor, any critical hit against you becomes a normal hit.</p>\n<p><em>This suit of armor has had its protective durasteel components replaced by equivalents made of matrix, a purple metal used to reinforce starships.</em></p>\n",
+    "id": "matrix-armor"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 150,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Medium physical shield",
+    "flavor": null,
+    "weight": 18,
+    "properties": [
+      "strength-13"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+2",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 2
+        }
+      }
+    ],
+    "html": "",
+    "id": "medium-physical-shield"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "shield",
+    "cost": 375,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Medium shield generator",
+    "flavor": null,
+    "weight": 0,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+2",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 2
+        }
+      }
+    ],
+    "html": "",
+    "id": "medium-shield-generator"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "medium",
+    "cost": 500,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Mesh armor",
+    "flavor": null,
+    "weight": 20,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "13 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 13
+      }
+    ],
+    "html": "<p>Providing solid protection for a minimal cost, mesh armor is considered excellent protection for entrenched troops or guards. However, this protection comes at a cost of mobility, limiting its uses by rapidly advancing infantry. Still, it provides more mobility than battle armor.</p>\n",
+    "id": "mesh-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "medium",
+    "cost": 2500,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Neutronium mesh",
+    "flavor": null,
+    "weight": 20,
+    "properties": [
+      "insulated-5",
+      "strength-11"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "13 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 13
+      }
+    ],
+    "html": "",
+    "id": "neutronium-mesh"
+  },
+  {
+    "source": "WH",
+    "placement": "heavy_exoskeleton",
+    "type": "specific",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "prototype",
+    "name": "Orbalisk Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>This armor has no weight and does not affect encumbrance. While wearing it, you are considered proficient regardless of whether or not you have proficiency with heavy armor, and you are resistant to all unenhanced damage.</p>\n<p><em><strong>Cursed.</strong></em> You can not remove this armor without first killing the orbalisks. While wearing this armor, whenever you complete a long rest, you must make a DC 15 Wisdom saving throw. You can choose to fail this saving throw. For each saving throw you fail, the size of your Hit Die is reduced by one step (from d12 to d10, from d10 to d8, from d8 to d6, from d6 to d4, or from d4 to d2). If you fail a saving throw while your Hit Die is a d2, you die as the orbalisks consume you. Additionally, for each saving throw you fail, your AC increases by 1. For each saving throw you succeed, the size of your Hit Die increases by one step (from d2 to d4, from d4 to d6, from d6 to d8, from d8 to d10, or from d10 to d12). Additionally, for each saving throw you succeed, your AC decreases by 1. The size of your Hit Die can not exceed the Hit Dice granted by your class, and your AC can not be increased or reduced more than the number of Hit Die increases or reductions.</p>\n<p><em>This armor is comprised of a series of small parasitic creatures called orbalisks. Over time, orbalisks reproduce until they cover the entirety of their host.</em></p>\n",
+    "id": "orbalisk-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "medium",
+    "cost": 4500,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Plastoid composite",
+    "flavor": null,
+    "weight": 45,
+    "properties": [
+      "bulky",
+      "reinforced",
+      "rigid"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": true,
+    "acString": "15 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 15
+      }
+    ],
+    "html": "",
+    "id": "plastoid-composite"
+  },
+  {
+    "source": "WH",
+    "placement": "",
+    "type": "shield",
+    "cost": 2000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Quadanium heavy shield",
+    "flavor": null,
+    "weight": 36,
+    "properties": [
+      "charging-1",
+      "cumbersome",
+      "obtrusive",
+      "strength-15"
+    ],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "+3",
+    "mechanics": [
+      {
+        "type": "ac",
+        "bonus": {
+          "type": "flat",
+          "value": 3
+        }
+      }
+    ],
+    "html": "",
+    "id": "quadanium-heavy-shield"
+  },
+  {
+    "source": "WH",
+    "placement": "heavy_exoskeleton",
+    "type": "specific",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "legendary",
+    "name": "Reactive Ultrachrome Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p><em><strong>Requires attunement</strong></em>\nYou have resistence to unenhanced damage while you wear this armor. Additionally, you can use an action to make yourself immune to unenhanced damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.</p>\n<p><em>Made with just enough ultrachrome to give you an edge while still keeping things interesting, these suits of armor can discharge an integrated power cell to catalyze this metal normally used in starship hulls into a more resilient state.</em></p>\n",
+    "id": "reactive-ultrachrome-armor"
+  },
+  {
+    "source": "WH",
+    "placement": "any",
+    "type": "any",
+    "cost": null,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "premium",
+    "name": "Viir Agathys's Armor",
+    "flavor": null,
+    "properites": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "",
+    "mechanics": [],
+    "html": "<p>This armor has 3 charges. As an action, you can spend 1 or more charges to cast the <em>voltaic shielding</em> tech power, 1 charge per level. All expended charges are regained after you complete a long rest.</p>\n<p><em>This proprietary armor made by the renowned engineer Viir Agathys includes integrated access to his signature tech power.</em></p>\n",
+    "id": "viir-agathyss-armor"
+  },
+  {
+    "source": "PHB",
+    "placement": "",
+    "type": "medium",
+    "cost": 1000,
+    "image": null,
+    "tags": [],
+    "set": false,
+    "rarity": "unenhanced",
+    "name": "Weave armor",
+    "flavor": null,
+    "weight": 25,
+    "properties": [],
+    "minStr": null,
+    "stealthDisadvantage": false,
+    "acString": "14 + Dex modifier (max 2)",
+    "mechanics": [
+      {
+        "type": "ac-set",
+        "value": 14
+      }
+    ],
+    "html": "<p>Weave armor was constructed from a mesh of metal or composite plates and a padded jumpsuit. Variants of the armor included less plates and more padding for a lighter, though less protect-ive armor, and heavier plating with molded pieces to fit the wearer. Though the armor was available unmodified, most users personalized their armor.</p>\n",
+    "id": "weave-armor"
   }
 ]
