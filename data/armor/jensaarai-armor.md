@@ -9,6 +9,10 @@ set: false
 rarity: prototype
 name: Jensaarai Armor
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 _**Requires attunement**_

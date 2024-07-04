@@ -9,6 +9,10 @@ set: false
 rarity: advanced
 name: Armor Chassis (Advanced)
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 _**Requires attunement**_

@@ -9,6 +9,10 @@ set: false
 rarity: prototype
 name: Armor Chassis (Prototype)
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 _**Requires attunement**_

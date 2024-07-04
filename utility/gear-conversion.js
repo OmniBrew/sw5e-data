@@ -65,9 +65,9 @@ function writeItem (dir, attributes, body, name) {
  * Armor conversion (enhanced)
  */
 /*
-const armor = require('./gear-armor.json')
+const armorEnc = require('./gear-armor.json')
 
-for (const a of armor) {
+for (const a of armorEnc) {
     const attributes = {
         source: a.ContentSource,
         placement: _.snakeCase(a.Subtype),
@@ -79,6 +79,10 @@ for (const a of armor) {
         rarity: _.snakeCase(JSON.parse(a.RarityOptionsJson)[0]),
         name: a.Name,
         flavor: null,
+        properites: [],
+        minStr: null,
+        stealthDisadvantage: false,
+        acString: '',
         mechanics: [
         ]
     }
@@ -86,36 +90,44 @@ for (const a of armor) {
     writeItem('armor', attributes, body, a.Name)
 }
 */
-
 /**
  * 
- * Armor conversion (enhanced)
+ * Armor conversion (regular)
  */
+/*
+const armorReg = require('./gear-armor-regular.json')
 
-const armor = require('./gear-armor-regular.json')
-
-for (const a of armor) {
+for (const a of armorReg) {
     const attributes = {
         source: a.ContentSource,
         placement: _.snakeCase(a.Subtype),
         type: _.snakeCase(a.ArmorClassification),
-        cost: a.Cost,
+        cost: parseInt(a.Cost),
         image: null,
         tags: [],
         set: false,
-        rarity: _.snakeCase(JSON.parse(a.RarityOptionsJson)[0]),
+        rarity: 'unenhanced',
         name: a.Name,
-        flavor: a.Description,
-        weight: a.Weight,
-        properties: JSON.parse(a.PropertiesJson).map(i => _.kebabCase(i)),
+        flavor: null,
+        weight: parseInt(a.Weight),
+        properties: [],
         minStr: a.StrengthRequirement || null,
         stealthDisadvantage: a.StealthDisadvantage === 'true' ? true : false,
         acString: a.AC,
         mechanics: []
     }
+    if (a.PropertiesJson) {
+        try {
+            const props = JSON.parse(a.PropertiesJson).map(i => _.kebabCase(i))
+            attributes.properties = props
+            allProps.push(...props)
+        } catch (e) {
+
+        }
+    }
     const acText = a.AC
     if (acText.startsWith('+')) {
-        const acValue = parseInt(acText.replaceAll(/\D/,'')) || 0
+        const acValue = parseInt(acText.replaceAll(/\D/g,'')) || 0
         mechanic = {
             type: 'ac',
             bonus: {
@@ -134,23 +146,35 @@ for (const a of armor) {
             attributes.mechanics.push(mechanic)
         }
     }
-    const body = ''
-    writeItem('armor', attributes, body, a.Name)
+    const body = a.Description
+    // writeItem('armor', attributes, body, a.Name)
 }
+    */
 
-
+/**
+ * 
+ * Armor properties
+ */
+/*
+const props = require('./gear-armorProps.json')
+for (const aprop of props) {
+    const attributes = {
+        is_new: true,
+        name: aprop.Name
+    }
+    contentSplit = aprop.Content.split('\r\n')
+    const body = contentSplit.slice(1).join('\r\n')
+    writeItem('armor-properties', attributes, body, aprop.Name)
+}
+*/
 
 /*
-fs.createReadStream('./utility/SW5eCSV/equipmenten.csv')
+let results = []
+fs.createReadStream('./utility/SW5eCSV/armorPropertiesen.csv')
     .pipe(csv())
     .on('data', (data) => results.push(data))
     .on('end', () => {
-        console.log(results.length)
-        const final = results.map(i => {
-            return convertArmor(i)
-        })
         // console.log(final.filter(i => i.TypesJson.length > 1).length)
-        fs.writeFile('./utility/gear-reg.json', JSON.stringify(final, null, 2), () => {})
+        fs.writeFile('./utility/gear-armorProps.json', JSON.stringify(results, null, 2), () => {})
     })
-
 */

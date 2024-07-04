@@ -9,6 +9,10 @@ set: false
 rarity: premium
 name: Matrix Armor
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 While wearing this suit of armor, any critical hit against you becomes a normal hit.

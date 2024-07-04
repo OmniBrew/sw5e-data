@@ -9,6 +9,10 @@ set: false
 rarity: prototype
 name: Adapted Armor
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 _**Requires attunement**_

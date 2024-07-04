@@ -9,6 +9,10 @@ set: false
 rarity: legendary
 name: Armor Chassis (Legendary)
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 _**Requires attunement**_

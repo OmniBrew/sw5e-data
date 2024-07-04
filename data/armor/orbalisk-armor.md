@@ -9,6 +9,10 @@ set: false
 rarity: prototype
 name: Orbalisk Armor
 flavor: null
+properites: []
+minStr: null
+stealthDisadvantage: false
+acString: ""
 mechanics: []
 ---
 This armor has no weight and does not affect encumbrance. While wearing it, you are considered proficient regardless of whether or not you have proficiency with heavy armor, and you are resistant to all unenhanced damage.
