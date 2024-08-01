@@ -2,8 +2,8 @@
 name: Athletic
 species:
   - gank
-    kage
-    vurk
+  - kage
+  - vurk
 mechanics: []
 ---
 You have proficiency in the Athletics skill.

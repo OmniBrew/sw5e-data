@@ -2,7 +2,7 @@
 name: Acrobatic
 species:
   - rattataki
-    zygerrian
+  - zygerrian
 mechanics: []
 ---
 You have proficiency in Acrobatics.

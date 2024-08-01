@@ -2,12 +2,8 @@
 name: Musical
 species:
   - mon calamari
-    ortolan
-    ryn
-mechanics:
-  - type: tool-choice
-    options: true
-    limit: [instrument]
-    selections: 1
+  - ortolan
+  - ryn
+mechanics: []
 ---
 You have proficiency in one musical instrument of your choice.

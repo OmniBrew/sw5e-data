@@ -2,7 +2,7 @@
 name: Spicer
 species:
   - balosar
-    pyke
+  - pyke
 mechanics: []
 ---
 You are proficient in spicer's kit.

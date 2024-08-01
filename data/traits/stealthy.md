@@ -2,7 +2,7 @@
 name: Stealthy
 species:
   - felucian
-    kushiban
+  - kushiban
 mechanics: []
 ---
 You are proficient in the Stealth skill.

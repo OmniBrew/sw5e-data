@@ -2,8 +2,8 @@
 name: Pilot
 species:
   - duros
-    iktotchi
-    sullustan
+  - iktotchi
+  - sullustan
 mechanics: []
 ---
 You have proficiency in Piloting.

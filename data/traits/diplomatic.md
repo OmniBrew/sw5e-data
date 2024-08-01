@@ -2,7 +2,7 @@
 name: Diplomatic
 species:
   - caamasi
-    quermian
+  - quermian
 mechanics: []
 ---
 You have proficiency in the Persuasion skill.

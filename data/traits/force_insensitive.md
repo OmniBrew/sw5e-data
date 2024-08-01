@@ -1,7 +1,13 @@
 ---
-name: Force Insensitive
+name: Force-Insensitive
 species:
-  - taung
+  - droid, class i
+  - droid, class ii
+  - droid, class iii
+  - droid, class iv
+  - droid, class v
+  - rakata
+  - ssi-ruu
 mechanics: []
 ---
-While taung can be manipulated by the force, they cannot sense the Force. You can not use force powers or take levels in forcecasting classes.
+While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
