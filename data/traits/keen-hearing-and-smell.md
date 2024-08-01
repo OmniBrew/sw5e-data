@@ -2,6 +2,11 @@
 name: Keen Hearing and Smell
 species:
   - bith
+  - rodian
+  - chadra-fan
+  - dowutin, young
+  - ortolan
+  - shistavanen
 mechanics:
   - type: skill-check
     value: perception

@@ -2,6 +2,10 @@
 name: Bite
 species:
   - aleena
+  - harch
+  - karkarodon
+  - squib
+  - ugnaught
 mechanics:
   - type: natural-weapon
     value:
