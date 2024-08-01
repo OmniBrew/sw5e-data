@@ -2,8 +2,7 @@
 name: Naturalist
 species:
   - ho'din
-  - tarasin
-mechanics:
+    tarasin
 mechanics: []
 ---
 You have proficiency in the Nature skill.

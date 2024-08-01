@@ -2,15 +2,15 @@
 name: Keen Smell
 species:
   - ewok
-  - weequay
-  - arcona
-  - baragwin
-  - caamasi
-  - kaleesh
-  - kubaz
-  - noghri
-  - squib
-  - ssi-ruu
+    weequay
+    arcona
+    baragwin
+    caamasi
+    kaleesh
+    kubaz
+    noghri
+    squib
+    ssi-ruu
 mechanics:
   - type: skill-check
     value: perception

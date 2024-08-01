@@ -2,8 +2,6 @@
 name: Silent Step
 species:
   - cathar
-mechanics:
-  - type: skill
-    value: [stealth]
+mechanics: []
 ---
 You have proficiency in the Stealth skill.

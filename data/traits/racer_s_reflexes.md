@@ -2,7 +2,7 @@
 name: Racer's Reflexes
 species:
   - aleena
-  - xexto
+    xexto
 mechanics:
   - type: other
     resource:

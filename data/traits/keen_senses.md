@@ -2,8 +2,6 @@
 name: Keen Senses
 species:
   - sith pureblood
-mechanics:
-  - type: unknown
-    description: You have proficiency in the Perception skill.
+mechanics: []
 ---
 You have proficiency in the Perception skill.

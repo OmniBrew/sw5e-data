@@ -2,8 +2,8 @@
 name: Musical
 species:
   - mon calamari
-  - ortolan
-  - ryn
+    ortolan
+    ryn
 mechanics:
   - type: tool-choice
     options: true

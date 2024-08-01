@@ -2,8 +2,7 @@
 name: Galactic Traveler
 species:
   - duros
-  - nothoiin
-mechanics:
+    nothoiin
 mechanics: []
 ---
 You have proficiency in the Piloting and Lore skills.

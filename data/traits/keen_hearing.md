@@ -2,13 +2,13 @@
 name: Keen Hearing
 species:
   - balosar
-  - chevin
-  - codru-ji
-  - kalleran
-  - lannik
-  - mikkian
-  - quarren
-  - sullustan
+    chevin
+    codru-ji
+    kalleran
+    lannik
+    mikkian
+    quarren
+    sullustan
 mechanics:
   - type: skill-check
     value: perception

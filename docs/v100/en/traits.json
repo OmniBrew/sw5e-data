@@ -1,5 +1,77 @@
 [
   {
+    "name": "Acrobatic",
+    "species": [
+      "rattataki zygerrian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Acrobatics.</p>\n",
+    "id": "acrobatic"
+  },
+  {
+    "name": "Acute Senses",
+    "species": [
+      "colicoid"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Perception skill.</p>\n",
+    "id": "acute_senses"
+  },
+  {
+    "name": "Acute Smell",
+    "species": [
+      "nautolan anx"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Perception) check involving smell, you are considered to have expertise in the Perception skill.</p>\n",
+    "id": "acute_smell"
+  },
+  {
+    "name": "Adaptation",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>The frequent radiation bursts from the nearby dying star caused the nikto to mutate and adapt into different subspecies over time, specialized for different environments. Choose one of the following adaptations:</p>\n",
+    "id": "adaptation"
+  },
+  {
+    "name": "Adaptive Resilience",
+    "species": [
+      "gormak rakata"
+    ],
+    "mechanics": [],
+    "html": "<p>Their innate understanding of technology allow gormak to readily adapt to its effects. You have advantage on Strength and Constitution saving throws against tech powers.</p>\n",
+    "id": "adaptive_resilience"
+  },
+  {
+    "name": "Adept Climbers",
+    "species": [
+      "rodian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 30 feet.</p>\n",
+    "id": "adept_climbers"
+  },
+  {
+    "name": "Aggressive",
+    "species": [
+      "tusken aqualish flesh raider gank gormak karkarodon yevetha"
+    ],
+    "mechanics": [],
+    "html": "<p>As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.</p>\n",
+    "id": "aggressive"
+  },
+  {
+    "name": "Agricultural Exports",
+    "species": [
+      "anomid"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an Intelligence (Nature) or Intelligence (Technology) check related to food, agriculture, or agricultural technology, you are considered to have expertise in the skill.</p>\n",
+    "id": "agricultural_exports"
+  },
+  {
     "name": "Bite",
     "species": [
       "aleena"
@@ -57,6 +129,517 @@
     "id": "aleena-bite"
   },
   {
+    "name": "Allies of the Force",
+    "species": [
+      "echani"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Insight) check against someone you know to wield the Force, you are considered to have expertise in the Insight skill.</p>\n",
+    "id": "allies_of_the_force"
+  },
+  {
+    "name": "Ambusher",
+    "species": [
+      "houk"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Stealth skill.</p>\n",
+    "id": "ambusher"
+  },
+  {
+    "name": "Amorphous Form",
+    "species": [
+      "ugor"
+    ],
+    "mechanics": [],
+    "html": "<p>You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing. You also have advantage on ability checks you make to initiate or escape a grapple.</p>\n",
+    "id": "amorphous_form"
+  },
+  {
+    "name": "Amphibious",
+    "species": [
+      "gungan mon calamari nautolan chagrian felucian kalleran karkarodon patrolian quarren rakata selkath vurk zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>You can breathe air and water.</p>\n",
+    "id": "amphibious"
+  },
+  {
+    "name": "Anatomical Knowledge",
+    "species": [
+      "anx"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Medicine skill.</p>\n",
+    "id": "anatomical_knowledge"
+  },
+  {
+    "name": "Animal Handler",
+    "species": [
+      "tusken kage"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Animal Handling skill.</p>\n",
+    "id": "animal_handler"
+  },
+  {
+    "name": "Arkanian Brilliance",
+    "species": [
+      "arkanian"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an ability check, attack roll, or saving throw using Intelligence, you can choose to add 1d4 to the result. You can choose to do this after the check is rolled, but before the DM determines if you've passed or failed the check. You cannot do so again until you complete a short or long rest.</p>\n",
+    "id": "arkanian_brilliance"
+  },
+  {
+    "name": "Armored Plates",
+    "species": [
+      "aing-tii"
+    ],
+    "mechanics": [],
+    "html": "<p>You have thick armored plates. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.</p>\n",
+    "id": "armored_plates"
+  },
+  {
+    "name": "Armor Integration",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech's implements. You must be proficient in armor in order to have it integrated.</p>\n",
+    "id": "armor_integration"
+  },
+  {
+    "name": "Arms Dealers",
+    "species": [
+      "aqualish baragwin"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Charisma (Persuasion) check related to buying or selling weapons, you are considered to have expertise in the Persuasion skill.</p>\n",
+    "id": "arms_dealers"
+  },
+  {
+    "name": "Arm Blades",
+    "species": [
+      "yevetha"
+    ],
+    "mechanics": [],
+    "html": "<p>Your retractable dewclaws are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "arm_blades"
+  },
+  {
+    "name": "Art Obsession",
+    "species": [
+      "kubaz"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an ability check related to the acquisition or location of art or valuables, you are considered proficient in the check. If you would already be proficient, you instead have expertise.</p>\n",
+    "id": "art_obsession"
+  },
+  {
+    "name": "Athletic",
+    "species": [
+      "gank kage vurk"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Athletics skill.</p>\n",
+    "id": "athletic"
+  },
+  {
+    "name": "Authoritative",
+    "species": [
+      "pau'an"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Persuasion or Intimidation (your choice).</p>\n",
+    "id": "authoritative"
+  },
+  {
+    "name": "Biological Specialists",
+    "species": [
+      "ho'din"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Medicine or Survival (your choice).</p>\n",
+    "id": "biological_specialists"
+  },
+  {
+    "name": "Bite",
+    "species": [
+      "aleena harch karkarodon squib ugnaught"
+    ],
+    "mechanics": [],
+    "html": "<p>Your sharp teeth are a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage. Lastly, as a bonus action, you can perform a special bite attack. On a hit, the target suffers the attack's normal effects, you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest.</p>\n",
+    "id": "bite"
+  },
+  {
+    "name": "Blindsight",
+    "species": [
+      "mikkian"
+    ],
+    "mechanics": [],
+    "html": "<p>Mikkian can perceive the world around them through heat and radiation. You have blindsight out to 30 feet. If another trait would grant you blindsight, the range is increased by half as many feet.</p>\n",
+    "id": "blindsight"
+  },
+  {
+    "name": "Born Pilots",
+    "species": [
+      "nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>Nothoiins demonstrate seemingly innate piloting abilities from a very young age.  You have proficiency in the Piloting skill.</p>\n",
+    "id": "born_pilots"
+  },
+  {
+    "name": "Bo-rifle Training",
+    "species": [
+      "lasat"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with blaster rifles, bo-rifles, and vibrostaffs.</p>\n",
+    "id": "bo_rifle_training"
+  },
+  {
+    "name": "Bureaucratic",
+    "species": [
+      "mikkian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Persuasion or Intimidation (your choice).</p>\n",
+    "id": "bureaucratic"
+  },
+  {
+    "name": "Business Savvy",
+    "species": [
+      "squib toydarian"
+    ],
+    "mechanics": [],
+    "html": "<p>A common trait of all Squibs is their desire and love of haggling. Squibs believe a deal is done when both sides believe they got the better of the other. Whenever you make a Charisma (Persuasion) check involving haggling you are considered to have expertise in the Persuasion skill.</p>\n",
+    "id": "business_savvy"
+  },
+  {
+    "name": "Call for Peace",
+    "species": [
+      "ithorian caamasi"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action on your turn, you can emphatically demand that your foes embrace peace, thereby distracting them. Until the end of your next turn, enemies within 10 feet of you that can see you gain disadvantage on attack rolls against your allies. Once you use this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "call_for_peace"
+  },
+  {
+    "name": "Cannibalize",
+    "species": [
+      "colicoid culisetto flesh raider rakata"
+    ],
+    "mechanics": [],
+    "html": "<p>If you spend at least 1 minute devouring the corpse of a beast or humanoid, you gain temporary hit points equal to your Constitution modifier (minimum of one). Once you've used this feature, you must complete a short or long rest before you can use it again.</p>\n",
+    "id": "cannibalize"
+  },
+  {
+    "name": "Cat's Claws",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [],
+    "html": "<p>Your unarmed strikes deal 1d6 kinetic damage and have the finesse property.</p>\n",
+    "id": "cat_s_claws"
+  },
+  {
+    "name": "Cat's Talent",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Perception and Stealth skills.</p>\n",
+    "id": "cat_s_talent"
+  },
+  {
+    "name": "Celestial Physiology",
+    "species": [
+      "diathim"
+    ],
+    "mechanics": [],
+    "html": "<p>You can survive for one day within the vacuum of space.</p>\n",
+    "id": "celestial_physiology"
+  },
+  {
+    "name": "Chameleon Skin",
+    "species": [
+      "tarasin"
+    ],
+    "mechanics": [],
+    "html": "<p>Your scales are translucent, allowing your color-shifting skin to help you blend into your surroundings. You have proficiency in the Stealth skill. Additionally, you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>\n",
+    "id": "chameleon_skin"
+  },
+  {
+    "name": "Changeling Instincts",
+    "species": [
+      "clawdite"
+    ],
+    "mechanics": [],
+    "html": "<p>You gain proficiency with two of the following skills of your choice: Deception, Intimidation, Insight, and Persuasion</p>\n",
+    "id": "changeling_instincts"
+  },
+  {
+    "name": "Charismatic",
+    "species": [
+      "twi'lek zeltron"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Deception or Persuasion (your choice).</p>\n",
+    "id": "charismatic"
+  },
+  {
+    "name": "Charming",
+    "species": [
+      "weequay"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Deception or Persuasion.</p>\n",
+    "id": "charming"
+  },
+  {
+    "name": "Claws",
+    "species": [
+      "trandoshan wookiee arcona dashade defel dowutin, young gormak rakata selkath taung thisspiasian togorian zygerrian"
+    ],
+    "mechanics": [
+      {
+        "type": "natural-weapon",
+        "value": {
+          "type": "natural-melee",
+          "replacesUnarmedStrike": true,
+          "value": {
+            "damageModOverride": "noMod",
+            "name": "Unarmed Strike / Claw",
+            "type": "natural-melee",
+            "range": {
+              "short": 5
+            },
+            "damage": {
+              "dieCount": 1,
+              "dieType": 4,
+              "type": "kinetic"
+            },
+            "moreInfo": {
+              "model": "traits",
+              "id": "finesse-claw"
+            }
+          }
+        }
+      }
+    ],
+    "html": "<p>Your claws are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage.</p>\n",
+    "id": "claws"
+  },
+  {
+    "name": "Clever",
+    "species": [
+      "arcona"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one Intelligence skill of your choice.</p>\n",
+    "id": "clever"
+  },
+  {
+    "name": "Climb",
+    "species": [
+      "chadra-fan culisetto quarren selonian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 25 feet.</p>\n",
+    "id": "climb"
+  },
+  {
+    "name": "Climbing",
+    "species": [
+      "lasat"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 30 feet.</p>\n",
+    "id": "climbing"
+  },
+  {
+    "name": "Closed Mind",
+    "species": [
+      "cerean aing-tii colicoid falleen hutt, adolescent lannik toydarian"
+    ],
+    "mechanics": [],
+    "html": "<p>Cereans have a natural attunement for the Force, which makes them resistant to its powers. You have advantage on Wisdom and Charisma saving throws against force powers.</p>\n",
+    "id": "closed_mind"
+  },
+  {
+    "name": "Coercive",
+    "species": [
+      "zabrak"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Persuasion or Intimidation (your choice).</p>\n",
+    "id": "coercive"
+  },
+  {
+    "name": "Cold Adaptation",
+    "species": [
+      "pantoran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on Constitution saving throws made to avoid exhaustion due to extreme cold.</p>\n",
+    "id": "cold_adaptation"
+  },
+  {
+    "name": "Cold Sensitivity",
+    "species": [
+      "ho'din"
+    ],
+    "mechanics": [],
+    "html": "<p>You have disadvantage on Constitution saving throws made to avoid exhaustion due to extreme cold.</p>\n",
+    "id": "cold_sensitivity"
+  },
+  {
+    "name": "Combative Culture",
+    "species": [
+      "echani"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Lore and Acrobatics.</p>\n",
+    "id": "combative_culture"
+  },
+  {
+    "name": "Compound Eyes",
+    "species": [
+      "culisetto"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Perception) check related to sight, you are considered to have expertise in the Perception skill.</p>\n",
+    "id": "compound_eyes"
+  },
+  {
+    "name": "Conniving",
+    "species": [
+      "patrolian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Deception or Stealth (your choice).</p>\n",
+    "id": "conniving"
+  },
+  {
+    "name": "Con Artist",
+    "species": [
+      "ryn"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one gaming set of your choice.</p>\n",
+    "id": "con_artist"
+  },
+  {
+    "name": "Cosmopolitan",
+    "species": [
+      "aleena"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Lore.</p>\n",
+    "id": "cosmopolitan"
+  },
+  {
+    "name": "Courageous",
+    "species": [
+      "dug"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against being frightened.</p>\n",
+    "id": "courageous"
+  },
+  {
+    "name": "Crafter",
+    "species": [
+      "geonosian"
+    ],
+    "mechanics": [],
+    "html": "<p>Geonosian culture promotes artisanry. You have proficiency in one set of artisan's implements of your choice.</p>\n",
+    "id": "crafter"
+  },
+  {
+    "name": "Crafters",
+    "species": [
+      "zabrak anzellan arkanian ho'din tognath ugnaught verpine"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with one set of artisan’s implements of your choice.</p>\n",
+    "id": "crafters"
+  },
+  {
+    "name": "Crude Weapon Specialists",
+    "species": [
+      "ewok"
+    ],
+    "mechanics": [],
+    "html": "<p>Ewoks are used to making do with less. You can spend 1 hour, which you can do over the course of a short rest, crafting a weapon out of loose materials. You can craft any simple kinetic weapon, but the weapon's damage suffers a -1 penalty.</p>\n",
+    "id": "crude_weapon_specialists"
+  },
+  {
+    "name": "Cultured",
+    "species": [
+      "chironian pantoran pau'an thisspiasian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Lore skill.</p>\n",
+    "id": "cultured"
+  },
+  {
+    "name": "Curiosity",
+    "species": [
+      "devaronian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Survival or Investigation (your choice).</p>\n",
+    "id": "curiosity"
+  },
+  {
+    "name": "Darkvision",
+    "species": [
+      "cathar chiss duros gungan jawa kel dor mon calamari nautolan rodian sith pureblood togruta trandoshan twi'lek weequay wookiee zabrak advozse aqualish ardennian arkanian barabel chagrian defel draethos esh-kha flesh raider harch kaleesh kubaz kyuzo lasat lurmen massassi mustafarian neimoidian patrolian pau'an quarren rakata ryn selonian shistavanen sullustan talz tiss'shar ugnaught ugor voss vurk zilkin zygerrian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>\n",
+    "id": "darkvision"
+  },
+  {
+    "name": "Defensive Ball",
+    "species": [
+      "colicoid"
+    ],
+    "mechanics": [],
+    "html": "<p>You are able to curl into a rolling ball for extra protection. When you take the Dash action while you aren't wielding a shield, you gain a bonus to AC equal to half your proficiency bonus until the start of your next turn.</p>\n",
+    "id": "defensive_ball"
+  },
+  {
+    "name": "Defiant",
+    "species": [
+      "human half-human"
+    ],
+    "mechanics": [],
+    "html": "<p>Humans are known to be stubborn and often refuse to give up, even against the worst odds. When you or a creature you can see that can see and understand you makes an ability check, attack roll, or saving throw, you can roll a d4 and add it to their roll (no action required). Once you've used this feature, you must complete a short or long rest before you can use it again.</p>\n",
+    "id": "defiant"
+  },
+  {
+    "name": "Deft Hand",
+    "species": [
+      "kubaz"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills: Deception, Sleight of Hand, or Stealth.</p>\n",
+    "id": "deft_hand"
+  },
+  {
+    "name": "Desert Protection",
+    "species": [
+      "tusken"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against being blinded.</p>\n",
+    "id": "desert_protection"
+  },
+  {
     "name": "Detailed Oriented",
     "species": [
       "bith"
@@ -73,6 +656,753 @@
     ],
     "html": "<p>You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.</p>\n",
     "id": "detailed-oriented"
+  },
+  {
+    "name": "Detail Oriented",
+    "species": [
+      "bith anzellan"
+    ],
+    "mechanics": [],
+    "html": "<p>You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.</p>\n",
+    "id": "detail_oriented"
+  },
+  {
+    "name": "Dexterous",
+    "species": [
+      "xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills: Acrobatics, Piloting, or Sleight of Hand.</p>\n",
+    "id": "dexterous"
+  },
+  {
+    "name": "Diplomatic",
+    "species": [
+      "caamasi quermian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Persuasion skill.</p>\n",
+    "id": "diplomatic"
+  },
+  {
+    "name": "Divination",
+    "species": [
+      "ryn"
+    ],
+    "mechanics": [],
+    "html": "<p>Whether through mystical divination or sheer luck, you can turn failures into successes. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>\n",
+    "id": "divination"
+  },
+  {
+    "name": "Droid Resistances",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.</p>\n",
+    "id": "droid_resistances"
+  },
+  {
+    "name": "Droid Systems",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You do not need to eat, drink, or breathe. Additionally, you no longer require a tech focus to cast tech powers.</p>\n",
+    "id": "droid_systems"
+  },
+  {
+    "name": "Droid Vulnerabilities",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.</p>\n",
+    "id": "droid_vulnerabilities"
+  },
+  {
+    "name": "Easily Addicted",
+    "species": [
+      "arcona"
+    ],
+    "mechanics": [],
+    "html": "<p>Arcona are susceptible to spice addiction, and as a result you are taught to identify it from an early age. Additionally, consuming salt can cause them to hallucinate, potentially replicating the effects of spice. Whenever you make an ability check related to identifying salt or spice or seeing whether something contains salt or spice, you have advantage.</p>\n",
+    "id": "easily_addicted"
+  },
+  {
+    "name": "Echani Art",
+    "species": [
+      "echani"
+    ],
+    "mechanics": [],
+    "html": "<p>If a humanoid you can see makes a melee weapon attack, you can use your reaction to make a Wisdom (Insight) check against the target's Charisma (Deception). On a success you learn one of the following traits about that creature: it's Strength, Dexterity or Constitution score; bonus to Strength, Dexterity or Constitution saving throws; armor class; or current hit points. On a failure, the target becomes immune to this feature for one day. You can use this ability a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses on a long rest.</p>\n",
+    "id": "echani_art"
+  },
+  {
+    "name": "Electrical Resistance",
+    "species": [
+      "patrolian"
+    ],
+    "mechanics": [],
+    "html": "<p>Patrolians are notably capable of shrugging off electricity. You have resistance to lightning damage.</p>\n",
+    "id": "electrical_resistance"
+  },
+  {
+    "name": "Elegant Dancers",
+    "species": [
+      "twi'lek"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Performance skill.</p>\n",
+    "id": "elegant_dancers"
+  },
+  {
+    "name": "Energy Sensors",
+    "species": [
+      "gotal"
+    ],
+    "mechanics": [],
+    "html": "<p>Gotals perceive the environment around them through use of electromagnetic sensors held in their cranial horns. You have blindsight out to 30 feet. If another trait would grant you blindsight, the range is increased by half as many feet.</p>\n",
+    "id": "energy_sensors"
+  },
+  {
+    "name": "Enforcer",
+    "species": [
+      "klatooinian"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Intimidation skill. When you take the Help action to give an ally advantage on an Intimidation check, they gain a bonus to the roll equal to your proficiency bonus.</p>\n",
+    "id": "enforcer"
+  },
+  {
+    "name": "Enthralling Hypnosis",
+    "species": [
+      "diathim"
+    ],
+    "mechanics": [],
+    "html": "<p>You can use your psychic aura to influence individuals of both sexes. Whenever you roll a 1 on a Charisma (Persuasion) check, you can reroll the die and must use the new roll. Additionally, once per short or long rest, you can treat a d20 roll of 9 or lower on a Charisma check as a 10. This feature has no effect on droids or constructs.</p>\n",
+    "id": "enthralling_hypnosis"
+  },
+  {
+    "name": "Enthralling Pheromones",
+    "species": [
+      "falleen zeltron"
+    ],
+    "mechanics": [],
+    "html": "<p>You can use your pheromones to influence individuals of both sexes. Whenever you roll a 1 on a Charisma (Persuasion) check, you can reroll the die and must use the new roll. Additionally, once per short or long rest, you can treat a d20 roll of 9 or lower on a Charisma check as a 10. This feature has no effect on droids or constructs.</p>\n",
+    "id": "enthralling_pheromones"
+  },
+  {
+    "name": "Equine Build",
+    "species": [
+      "chironian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot. Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount.</p>\n",
+    "id": "equine_build"
+  },
+  {
+    "name": "Esral'sa'Nikto (Mountain)",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>No description available</p>\n",
+    "id": "esral_sa_nikto_mountain"
+  },
+  {
+    "name": "Eternal Nomads",
+    "species": [
+      "ryn"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Lore or Survival (your choice).</p>\n",
+    "id": "eternal_nomads"
+  },
+  {
+    "name": "Exoskeleton",
+    "species": [
+      "gand geonosian tognath"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a thick exoskeleton. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.</p>\n",
+    "id": "exoskeleton"
+  },
+  {
+    "name": "Expert Navigators",
+    "species": [
+      "nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>You are considered to have expertise in Wisdom (Survival) checks made to navigate.</p>\n",
+    "id": "expert_navigators"
+  },
+  {
+    "name": "Expressive",
+    "species": [
+      "theelin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in your choice of artist's implements, disguise kits, synthweaver's implements, or one musical instrument of your choice.</p>\n",
+    "id": "expressive"
+  },
+  {
+    "name": "Fearless",
+    "species": [
+      "xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against being frightened.</p>\n",
+    "id": "fearless"
+  },
+  {
+    "name": "Fearsome Roar",
+    "species": [
+      "tusken"
+    ],
+    "mechanics": [],
+    "html": "<p>Once per day, you can cast the <em>fear</em> force power. Charisma is your forcecasting ability for this power.</p>\n",
+    "id": "fearsome_roar"
+  },
+  {
+    "name": "Finance Savvy",
+    "species": [
+      "muun"
+    ],
+    "mechanics": [],
+    "html": "<p>Muun share a keen business sense and an ability to find value where others don't. Whenever you make a Charisma (Persuasion) check involving finances you are considered to have expertise in the Persuasion skill.</p>\n",
+    "id": "finance_savvy"
+  },
+  {
+    "name": "Fisticuffs",
+    "species": [
+      "dug"
+    ],
+    "mechanics": [],
+    "html": "<p>Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.</p>\n",
+    "id": "fisticuffs"
+  },
+  {
+    "name": "Flexible",
+    "species": [
+      "gungan kalleran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on Dexterity (Acrobatics) checks that involve flexibility.</p>\n",
+    "id": "flexible"
+  },
+  {
+    "name": "Flexible Cheeks",
+    "species": [
+      "squib"
+    ],
+    "mechanics": [],
+    "html": "<p>Squibs have flexible cheeks in which they can store small goods. You can store up to two items that weigh a combined total of no more than 2 lb. in your cheeks, and you have advantage on Dexterity (Sleight of Hand) checks made to conceal them.</p>\n",
+    "id": "flexible_cheeks"
+  },
+  {
+    "name": "Flight",
+    "species": [
+      "diathim geonosian rishii toydarian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a flying speed equal to your walking speed. While wearing medium or heavy armor, your flying speed is reduced by half.</p>\n",
+    "id": "flight"
+  },
+  {
+    "name": "Foragers",
+    "species": [
+      "ortolan"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Survival) check to forage for food you are considered to have expertise in the Survival skill.</p>\n",
+    "id": "foragers"
+  },
+  {
+    "name": "Forced March",
+    "species": [
+      "shistavanen"
+    ],
+    "mechanics": [],
+    "html": "<p>Shistavanen are able to maintain a fast pace longer than other species. Shistavanen have advantage on Constitution saving throws made to avoid Exhaustion due to prolongued travel, as described in Chapter 8.</p>\n",
+    "id": "forced_march"
+  },
+  {
+    "name": "Force Contention",
+    "species": [
+      "dashade flesh raider"
+    ],
+    "mechanics": [],
+    "html": "<p>Due to their unique physiology, dashade hardiness allows them to overcome use of the Force. You have advantage on Strength and Constitution saving throws against force powers.</p>\n",
+    "id": "force_contention"
+  },
+  {
+    "name": "Force Insensitive",
+    "species": [
+      "taung"
+    ],
+    "mechanics": [],
+    "html": "<p>While taung can be manipulated by the force, they cannot sense the Force. You can not use force powers or take levels in forcecasting classes.</p>\n",
+    "id": "force_insensitive"
+  },
+  {
+    "name": "Force-Sensitive",
+    "species": [
+      "sith pureblood aing-tii esh-kha felucian lannik miraluka"
+    ],
+    "mechanics": [],
+    "html": "<p>You know the <em>denounce</em> at-will force power. When you reach 3rd level, you learn and can cast the <em>curse</em> force power once per long rest. When you reach 5th level, you learn and can cast the <em>bestow curse</em> force power once per long rest. Your forcecasting ability is Charisma for these powers.</p>\n",
+    "id": "force_sensitive"
+  },
+  {
+    "name": "Force Sight",
+    "species": [
+      "miraluka"
+    ],
+    "mechanics": [],
+    "html": "<p>Miraluka perceive the environment around them through use of the Force. You are constantly under the effects of the force power <em>force sight</em>, though the power does not require concentration for you.</p>\n",
+    "id": "force_sight"
+  },
+  {
+    "name": "Force Symbiosis",
+    "species": [
+      "massassi"
+    ],
+    "mechanics": [],
+    "html": "<p>When you reach 3rd level, you can cast your choice of the <em>curse</em>, <em>dun moch</em>, or <em>hex</em> force power once per day. Your forcecasting ability is Charisma.</p>\n",
+    "id": "force_symbiosis"
+  },
+  {
+    "name": "Foreign Biology",
+    "species": [
+      "kel dor kyuzo tognath"
+    ],
+    "mechanics": [],
+    "html": "<p>You cannot breathe oxygen. The kel dors have created a breathing apparatus to negate the negative effects of living in an oxygen rich environment, but if your mask is removed while you are in such an environment, you lose consciousness.</p>\n",
+    "id": "foreign_biology"
+  },
+  {
+    "name": "Four-Armed",
+    "species": [
+      "ardennian besalisk codru-ji killik quermian thisspiasian xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>Ardennians have four arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).</p>\n",
+    "id": "four_armed"
+  },
+  {
+    "name": "Fragile",
+    "species": [
+      "diathim"
+    ],
+    "mechanics": [],
+    "html": "<p>Diathim are too weak to pack much of a punch. You have disadvantage on Strength saving throws, and when determining your bonus to attack and damage rolls for weapon attacks using Strength, you can�t add more than +3.</p>\n",
+    "id": "fragile"
+  },
+  {
+    "name": "Fury of the Small",
+    "species": [
+      "dug"
+    ],
+    "mechanics": [],
+    "html": "<p>When you damage a creature with an attack or a power and the creature's size is larger than yours, you can cause the attack or power to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "fury_of_the_small"
+  },
+  {
+    "name": "Galactic Scavengers",
+    "species": [
+      "ugor"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in mechanic's kits or scavenging kits (your choice).</p>\n",
+    "id": "galactic_scavengers"
+  },
+  {
+    "name": "Galactic Traveler",
+    "species": [
+      "duros nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Piloting and Lore skills.</p>\n",
+    "id": "galactic_traveler"
+  },
+  {
+    "name": "Gamorrean Toughness",
+    "species": [
+      "gamorrean"
+    ],
+    "mechanics": [],
+    "html": "<p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. Additionally, you have advantage on Constitution saving throws.</p>\n",
+    "id": "gamorrean_toughness"
+  },
+  {
+    "name": "Gamorrean Weaponry",
+    "species": [
+      "gamorrean"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with the vibroaxe, vibromace, and vibrosword.</p>\n",
+    "id": "gamorrean_weaponry"
+  },
+  {
+    "name": "Gand Resilience",
+    "species": [
+      "gand"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).</p>\n",
+    "id": "gand_resilience"
+  },
+  {
+    "name": "Gank Training",
+    "species": [
+      "gank"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in light and medium armor as well as two vibroweapons or blasters of your choice.</p>\n",
+    "id": "gank_training"
+  },
+  {
+    "name": "Geneticist",
+    "species": [
+      "kaminoan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Medicine skill.</p>\n",
+    "id": "geneticist"
+  },
+  {
+    "name": "Geonosian Weaponry",
+    "species": [
+      "geonosian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in blasters that deal sonic damage.</p>\n",
+    "id": "geonosian_weaponry"
+  },
+  {
+    "name": "Gift of the Progenitor",
+    "species": [
+      "selkath"
+    ],
+    "mechanics": [],
+    "html": "<p>You know the <em>temporary boost</em> at-will tech power. When you reach 3rd level, you learn and can cast the <em>kolto pack</em> tech power once per day. When you reach 5th level, you learn and can cast the <em>kolto cloud</em> tech power once per day. Your techcasting ability is Intelligence. You do not require use of a wristpad for these powers.</p>\n",
+    "id": "gift_of_the_progenitor"
+  },
+  {
+    "name": "Gluss'sa'Nikto (Pale)",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>No description available</p>\n",
+    "id": "gluss_sa_nikto_pale"
+  },
+  {
+    "name": "Grovel, Cower, and Beg",
+    "species": [
+      "jawa kushiban neimoidian ortolan"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can’t use it again until you finish a short or long rest.</p>\n",
+    "id": "grovel_cower_and_beg"
+  },
+  {
+    "name": "Hardened Carapace",
+    "species": [
+      "killik verpine"
+    ],
+    "mechanics": [],
+    "html": "<p>While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.</p>\n",
+    "id": "hardened_carapace"
+  },
+  {
+    "name": "Hardened Exterior",
+    "species": [
+      "givin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a tough, bony exterior. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.</p>\n",
+    "id": "hardened_exterior"
+  },
+  {
+    "name": "Head Crest",
+    "species": [
+      "vurk"
+    ],
+    "mechanics": [],
+    "html": "<p>Your head crest is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "head_crest"
+  },
+  {
+    "name": "Heat Adaptation",
+    "species": [
+      "devaronian jawa"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat.</p>\n",
+    "id": "heat_adaptation"
+  },
+  {
+    "name": "Heat Dissipation",
+    "species": [
+      "dashade"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Dexterity (Stealth) check to avoid detection by electronic sensors and cameras, you are considered to have expertise in the Stealth skill.</p>\n",
+    "id": "heat_dissipation"
+  },
+  {
+    "name": "Heat Sensitivity",
+    "species": [
+      "gungan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have disadvantage on Constitution saving throws made to avoid exhaustion due to extreme heat.</p>\n",
+    "id": "heat_sensitivity"
+  },
+  {
+    "name": "Heightened Reflexes",
+    "species": [
+      "nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose to add 1d4 to the result. You can use this before or after the roll, but before the GM determines the roll's outcome. Once you've used this feature, you must complete a short or long rest before you can use it again.</p>\n",
+    "id": "heightened_reflexes"
+  },
+  {
+    "name": "Hidden Step",
+    "species": [
+      "defel"
+    ],
+    "mechanics": [],
+    "html": "<p>As a bonus action, you can turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you've used this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "hidden_step"
+  },
+  {
+    "name": "Hide",
+    "species": [
+      "nautolan trandoshan wookiee advozse arcona barabel baragwin chevin codru-ji dowutin, young kushiban massassi mustafarian nikto ortolan squib talz"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a thick hide. While you are unarmored or wearing light armor, your AC is 12 + your Dexterity modifier.</p>\n",
+    "id": "hide"
+  },
+  {
+    "name": "Hold Breath",
+    "species": [
+      "ithorian trandoshan falleen herglic pa'lowick"
+    ],
+    "mechanics": [],
+    "html": "<p>Ithorians have a great lung capacity and can hold their breath for up to 15 minutes at a time.</p>\n",
+    "id": "hold_breath"
+  },
+  {
+    "name": "Honed Mind",
+    "species": [
+      "arkanian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on Intelligence, Wisdom, and Charisma saving throws against force and tech powers.</p>\n",
+    "id": "honed_mind"
+  },
+  {
+    "name": "Hooves and Horns",
+    "species": [
+      "chironian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your hooves (and depending on your age, horns) are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "hooves_and_horns"
+  },
+  {
+    "name": "Horn",
+    "species": [
+      "advozse"
+    ],
+    "mechanics": [],
+    "html": "<p>Your sharp horn is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage.</p>\n",
+    "id": "horn"
+  },
+  {
+    "name": "Horns",
+    "species": [
+      "iktotchi"
+    ],
+    "mechanics": [],
+    "html": "<p>Your horns are a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "horns"
+  },
+  {
+    "name": "Human Versatility",
+    "species": [
+      "human"
+    ],
+    "mechanics": [],
+    "html": "<p>You gain proficiency in one skill, one tool, and one weapon of your choice.</p>\n",
+    "id": "human_versatility"
+  },
+  {
+    "name": "Hunter",
+    "species": [
+      "rodian barabel dowutin, young gotal noghri ssi-ruu"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in Survival and Stealth.</p>\n",
+    "id": "hunter"
+  },
+  {
+    "name": "Hunters",
+    "species": [
+      "flesh raider"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Survival) check to hunt for food, you are considered to have expertise in the Survival skill.</p>\n",
+    "id": "hunters"
+  },
+  {
+    "name": "Hypersensitive Hearing",
+    "species": [
+      "pau'an"
+    ],
+    "mechanics": [],
+    "html": "<p>Pau'ans possess incredibly receptive hearing, often to their detriment, so you wear special covers on your ears. Whenever you make a Wisdom (Perception) check involving hearing, you are considered to have expertise in the Perception skill, but if your hearing aids are removed, you have disadvantage on saving throws against effects that would deal sonic damage.</p>\n",
+    "id": "hypersensitive_hearing"
+  },
+  {
+    "name": "Impose Order",
+    "species": [
+      "pantoran"
+    ],
+    "mechanics": [],
+    "html": "<p>As a bonus action, you can command each ally within 15 feet of you to move up to half that ally's speed as a reaction. This movement does not provoke attacks of opportunity. Once you use this trait, you can�t use it again until you finish a short or long rest.</p>\n",
+    "id": "impose_order"
+  },
+  {
+    "name": "Industrial Hazards",
+    "species": [
+      "ugnaught"
+    ],
+    "mechanics": [],
+    "html": "<p>You have resistance to acid damage.</p>\n",
+    "id": "industrial_hazards"
+  },
+  {
+    "name": "Infrared Sight",
+    "species": [
+      "arkanian"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Perception) check related to sight, you are considered to have expertise in the Perception skill.</p>\n",
+    "id": "infrared_sight"
+  },
+  {
+    "name": "Ink Cloud",
+    "species": [
+      "quarren"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action, you can expel ink in a 10-foot cone. When you do so, each creature in the area of the exhalation must make a Constitution saving throw (DC = 8 + your proficiency bonus + your Constitution modifier). On a failed save, a creature is blinded until the end of its next turn. This ability has no effect on constructs. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you complete a long rest.</p>\n",
+    "id": "ink_cloud"
+  },
+  {
+    "name": "Inquisitive",
+    "species": [
+      "esh-kha"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Investigation skill.</p>\n",
+    "id": "inquisitive"
+  },
+  {
+    "name": "Inscrutable",
+    "species": [
+      "thisspiasian voss"
+    ],
+    "mechanics": [],
+    "html": "<p>Your calm demeanor and control make you hard to read. Wisdom (Insight) checks made against you have disadvantage, and you have advantage on any saving throw against an effect that would read your thoughts.</p>\n",
+    "id": "inscrutable"
+  },
+  {
+    "name": "Insightful",
+    "species": [
+      "nautolan"
+    ],
+    "mechanics": [],
+    "html": "<p>Nautolan head tentacles are adept at determining moods. You have advantage on Wisdom (Insight) checks to determine emotions.</p>\n",
+    "id": "insightful"
+  },
+  {
+    "name": "Integrated Engineering",
+    "species": [
+      "droid, class ii"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one specialist's kit of your choice. The chosen kit is integrated into your chassis, and can not be removed while you are conscious.</p>\n",
+    "id": "integrated_engineering"
+  },
+  {
+    "name": "Intimidating",
+    "species": [
+      "rattataki"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Intimidation.</p>\n",
+    "id": "intimidating"
+  },
+  {
+    "name": "Intimidating Roar",
+    "species": [
+      "tusken"
+    ],
+    "mechanics": [],
+    "html": "<p>Once per day, you can cast the <em>fear</em> force power. Charisma is your forcecasting ability for this power.</p>\n",
+    "id": "intimidating_roar"
+  },
+  {
+    "name": "Intuitive Initiative",
+    "species": [
+      "cerean"
+    ],
+    "mechanics": [],
+    "html": "<p>You can choose to reroll Initiative checks, but you must use the new roll.</p>\n",
+    "id": "intuitive_initiative"
+  },
+  {
+    "name": "Iron Will",
+    "species": [
+      "kiffar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against being charmed.</p>\n",
+    "id": "iron_will"
+  },
+  {
+    "name": "Jungle Dweller",
+    "species": [
+      "devaronian ardennian tarasin xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>Growing up in the jungles of Devaron has left an impact. You don’t treat jungle terrain as difficult terrain.</p>\n",
+    "id": "jungle_dweller"
+  },
+  {
+    "name": "Kadas'sa'Nikto (Green)",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>No description available</p>\n",
+    "id": "kadas_sa_nikto_green"
+  },
+  {
+    "name": "Kajain'sa'Nikto (Red)",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>No description available</p>\n",
+    "id": "kajain_sa_nikto_red"
   },
   {
     "name": "Keen Hearing and Smell",
@@ -93,6 +1423,162 @@
     "id": "keen-hearing-and-smell"
   },
   {
+    "name": "Keen Hearing",
+    "species": [
+      "balosar chevin codru-ji kalleran lannik mikkian quarren sullustan"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve hearing"
+        },
+        "description": "Your antennapalps give you advantage on Wisdom (Perception) checks based on hearing."
+      }
+    ],
+    "html": "<p>Your antennapalps give you advantage on Wisdom (Perception) checks based on hearing.</p>\n",
+    "id": "keen_hearing"
+  },
+  {
+    "name": "Keen Hearing and Sight",
+    "species": [
+      "lasat rishii"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve hearing or sight"
+        },
+        "description": "You have advantage on Wisdom (Perception) checks that rely on hearing or sight."
+      }
+    ],
+    "html": "<p>You have advantage on Wisdom (Perception) checks that rely on hearing or sight.</p>\n",
+    "id": "keen_hearing_and_sight"
+  },
+  {
+    "name": "Keen Hearing and Smell",
+    "species": [
+      "bith rodian chadra-fan dowutin, young ortolan shistavanen"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve hearing or smell"
+        }
+      }
+    ],
+    "html": "<p>You have advantage on Wisdom (Perception) checks that involve hearing or smell.</p>\n",
+    "id": "keen_hearing_and_smell"
+  },
+  {
+    "name": "Keen Senses",
+    "species": [
+      "sith pureblood"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Perception skill.</p>\n",
+    "id": "keen_senses"
+  },
+  {
+    "name": "Keen Sight",
+    "species": [
+      "gran"
+    ],
+    "mechanics": [],
+    "html": "<p>Through use of infrared vision, you have advantage on Wisdom (Perception) checks that rely on sight.</p>\n",
+    "id": "keen_sight"
+  },
+  {
+    "name": "Keen Smell",
+    "species": [
+      "ewok weequay arcona baragwin caamasi kaleesh kubaz noghri squib ssi-ruu"
+    ],
+    "mechanics": [
+      {
+        "type": "skill-check",
+        "value": "perception",
+        "effect": {
+          "type": "advantage",
+          "note": "that involve smell"
+        },
+        "description": "You have advantage on Wisdom (Perception) checks that rely on smell."
+      }
+    ],
+    "html": "<p>You have advantage on Wisdom (Perception) checks that rely on smell.</p>\n",
+    "id": "keen_smell"
+  },
+  {
+    "name": "Kiffar Heritage",
+    "species": [
+      "kiffar"
+    ],
+    "mechanics": [],
+    "html": "<p>A small percentage of the kiffar population are naturally Force-sensitive, able to read the memories contained within inanimate objects, while others train to become proud guardians of their home sector. You choose one of the following heritages:</p>\n",
+    "id": "kiffar_heritage"
+  },
+  {
+    "name": "Knowledge Protocol",
+    "species": [
+      "droid, class i droid, class iii"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in two Intelligence, Wisdom, or Charisma skills of your choice.</p>\n",
+    "id": "knowledge_protocol"
+  },
+  {
+    "name": "Lava Dweller",
+    "species": [
+      "advozse mustafarian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your body is well accustomed to extreme heat, giving you resistance to fire damage.</p>\n",
+    "id": "lava_dweller"
+  },
+  {
+    "name": "Law of Life",
+    "species": [
+      "ithorian"
+    ],
+    "mechanics": [],
+    "html": "<p>Ithorians have a sacred respect for the natural world, taking great care to preserve and study it. You have proficiency in the Nature skill and the bioanalysis kit.</p>\n",
+    "id": "law_of_life"
+  },
+  {
+    "name": "Leonine Agility",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [],
+    "html": "<p>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.</p>\n",
+    "id": "leonine_agility"
+  },
+  {
+    "name": "Life in the Void",
+    "species": [
+      "kel dor tognath"
+    ],
+    "mechanics": [],
+    "html": "<p>You have resistance to necrotic damage, and while exposed to the vacuum of space, you can survive for a number of hours equal to your Constitution modifier (minimum 1 hour), instead of a number of rounds.</p>\n",
+    "id": "life_in_the_void"
+  },
+  {
+    "name": "Long-Limbed",
+    "species": [
+      "besalisk kaminoan kyuzo muun pyke talz"
+    ],
+    "mechanics": [],
+    "html": "<p>When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.</p>\n",
+    "id": "long_limbed"
+  },
+  {
     "name": "Loremaster",
     "species": [
       "aleena"
@@ -107,6 +1593,204 @@
     ],
     "html": "<p>You have proficiency in Lore.</p>\n",
     "id": "lore"
+  },
+  {
+    "name": "Luminescent Aura",
+    "species": [
+      "diathim"
+    ],
+    "mechanics": [],
+    "html": "<p>Starting at 3rd level, you can use your action to amplify your radiant aura, causing a searing light to radiate from you. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take psychic damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra psychic damage to one target when you deal damage to it with an attack or a power. The extra psychic damage equals your level.</p>\n",
+    "id": "luminescent_aura"
+  },
+  {
+    "name": "Lungless",
+    "species": [
+      "gand"
+    ],
+    "mechanics": [],
+    "html": "<p>Gand do not have lungs, and therefore do not need to breathe.</p>\n",
+    "id": "lungless"
+  },
+  {
+    "name": "Maintenance Mode",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>Rather than sleep, you must spend 3 hours performing routine maintenance during a long rest to gain its benefits, during which you have disadvantage on Wisdom (Perception) checks. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it.</p>\n",
+    "id": "maintenance_mode"
+  },
+  {
+    "name": "Major Miners",
+    "species": [
+      "nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>Nothoiins have intimate knowledge of ur-diamond mining and refinement practices.  You gain proficiency in your choice of jeweler's implements, scavenging kit, or archaeologist kit.</p>\n",
+    "id": "major_miners"
+  },
+  {
+    "name": "Manual Laborer",
+    "species": [
+      "droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Athletics and one set of artisan's implements of your choice.</p>\n",
+    "id": "manual_laborer"
+  },
+  {
+    "name": "Martial Proficiency",
+    "species": [
+      "chiss gungan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with light and medium armor as well as the heavy pistol and sniper rifle.</p>\n",
+    "id": "martial_proficiency"
+  },
+  {
+    "name": "Martial Protocol",
+    "species": [
+      "droid, class iv"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with light and medium armor as well as two simple or martial blasters or vibroweapons of your choice.</p>\n",
+    "id": "martial_protocol"
+  },
+  {
+    "name": "Martial Upbringing",
+    "species": [
+      "echani"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in light armor, and gain proficiency with two martial vibroweapons of your choice.</p>\n",
+    "id": "martial_upbringing"
+  },
+  {
+    "name": "Mask of the Wild",
+    "species": [
+      "ewok togruta ardennian falleen felucian kushiban"
+    ],
+    "mechanics": [],
+    "html": "<p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>\n",
+    "id": "mask_of_the_wild"
+  },
+  {
+    "name": "Mathematical Savants",
+    "species": [
+      "givin"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an Intelligence (Technology) check involving mathematics, you are considered to have expertise in the Technology skill.</p>\n",
+    "id": "mathematical_savants"
+  },
+  {
+    "name": "Mechanical Memory",
+    "species": [
+      "yevetha"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an Intelligence (Technology) check related to memorizing or duplicating mechanical readouts, you are considered to have expertise in the Technology skill.</p>\n",
+    "id": "mechanical_memory"
+  },
+  {
+    "name": "Memnii Transfer",
+    "species": [
+      "caamasi"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action, while touching a creature, you can initiate a memnii transfer. The creature must make an Intelligence saving throw (DC = 8 + your proficiency bonus + your Intelligence modifier), a creature can choose to fail this saving throw if it wishes. On a failed save the target is stunned, and you can share vivid memories with the target as if they were their own for 1 minute or until your concentration ends (as if you were concentrating on a power). The transfer ends if you stop touching the target. At the end of each of its turns, the creature can repeat the saving throw to resist the transfer. On a success, the transfer ends. Otherwise, you may end the transfer on your turn (no action required). Once you've used this trait, you can't use it again until you finish a long rest. This feature has no effect on droids, constructs, or Force-Insensitive creatures.</p>\n",
+    "id": "memnii_transfer"
+  },
+  {
+    "name": "Menacing",
+    "species": [
+      "sith pureblood wookiee aqualish dashade dug flesh raider taung"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Intimidation skill.</p>\n",
+    "id": "menacing"
+  },
+  {
+    "name": "Mercantile",
+    "species": [
+      "pyke sullustan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills of your choice: Deception, Persuasion, or Intimidation.</p>\n",
+    "id": "mercantile"
+  },
+  {
+    "name": "Mercenary Specialization",
+    "species": [
+      "gank"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills: Intimidation, Persuasion, Stealth, or Perception.</p>\n",
+    "id": "mercenary_specialization"
+  },
+  {
+    "name": "Mimicry",
+    "species": [
+      "rishii"
+    ],
+    "mechanics": [],
+    "html": "<p>You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.</p>\n",
+    "id": "mimicry"
+  },
+  {
+    "name": "Miners",
+    "species": [
+      "defel"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in scavenging kits.</p>\n",
+    "id": "miners"
+  },
+  {
+    "name": "Montral Reception",
+    "species": [
+      "togruta"
+    ],
+    "mechanics": [],
+    "html": "<p>You have tremorsense out to 30 feet. You can detect and pinpoint the origin of vibrations within a specific radius, provided that you and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures.</p>\n",
+    "id": "montral_reception"
+  },
+  {
+    "name": "Mon Calamari Resistance",
+    "species": [
+      "mon calamari"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against effects that grant the slowed condition and you have resistance against cold damage (explained in chapter 9).</p>\n",
+    "id": "mon_calamari_resistance"
+  },
+  {
+    "name": "Musical",
+    "species": [
+      "mon calamari ortolan ryn"
+    ],
+    "mechanics": [
+      {
+        "type": "tool-choice",
+        "options": true,
+        "limit": [
+          "instrument"
+        ],
+        "selections": 1
+      }
+    ],
+    "html": "<p>You have proficiency in one musical instrument of your choice.</p>\n",
+    "id": "musical"
+  },
+  {
+    "name": "Musical Culture",
+    "species": [
+      "ewok"
+    ],
+    "mechanics": [],
+    "html": "<p>Ewoks incorporate music in their celebrations and rituals. You have proficiency in an instrument of your choice.</p>\n",
+    "id": "musical_culture"
   },
   {
     "name": "Musician",
@@ -127,6 +1811,42 @@
     "id": "musician"
   },
   {
+    "name": "Mutation",
+    "species": [
+      "theelin"
+    ],
+    "mechanics": [],
+    "html": "<p>Theelin gain unique mutations, a result of cross-breeding with other humanoids. Choose one of the following mutations.</p>\n",
+    "id": "mutation"
+  },
+  {
+    "name": "Mystic Healing",
+    "species": [
+      "voss"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Medicine.</p>\n",
+    "id": "mystic_healing"
+  },
+  {
+    "name": "M'shento'su'Nikto (Southern)",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>No description available</p>\n",
+    "id": "m_shento_su_nikto_southern"
+  },
+  {
+    "name": "Naturalist",
+    "species": [
+      "ho'din tarasin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Nature skill.</p>\n",
+    "id": "naturalist"
+  },
+  {
     "name": "Naturally Stealthy",
     "species": [
       "bothan"
@@ -145,6 +1865,15 @@
     ],
     "html": "<p>You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.</p>\n",
     "id": "naturally-stealthy"
+  },
+  {
+    "name": "Naturally Stealthy",
+    "species": [
+      "bothan"
+    ],
+    "mechanics": [],
+    "html": "<p>You can attempt to hide even when you are obscured only by a creature that is your size or larger than you.</p>\n",
+    "id": "naturally_stealthy"
   },
   {
     "name": "Dexterious Claws",
@@ -179,6 +1908,105 @@
     ],
     "html": "<p>Your unarmed strikes deal 1d6 kinetic damage and have the finesse property.</p>\n",
     "id": "naturalweapon_claws_1d6_finesse"
+  },
+  {
+    "name": "Natural Antitoxins",
+    "species": [
+      "twi'lek"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against poison and disease, and you have resistance against poison damage (explained in Chapter 9).</p>\n",
+    "id": "natural_antitoxins"
+  },
+  {
+    "name": "Natural Armor",
+    "species": [
+      "colicoid"
+    ],
+    "mechanics": [],
+    "html": "<p>Due to your carapace and the shape of your body, you are ill-suited to wearing armor. Your carapace provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.</p>\n",
+    "id": "natural_armor"
+  },
+  {
+    "name": "Natural Empathy",
+    "species": [
+      "nautolan baragwin gotal quermian ssi-ruu zeltron"
+    ],
+    "mechanics": [],
+    "html": "<p>Nautolan head tentacles are adept at determining moods. You have advantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 feet of you.</p>\n",
+    "id": "natural_empathy"
+  },
+  {
+    "name": "Natural Grappler",
+    "species": [
+      "codru-ji"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Strength (Athletics) check to grapple you are considered to have expertise in the Athletics skill.</p>\n",
+    "id": "natural_grappler"
+  },
+  {
+    "name": "Natural Healer",
+    "species": [
+      "lurmen"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Medicine and Nature skills, and the bioanalysis kit.</p>\n",
+    "id": "natural_healer"
+  },
+  {
+    "name": "Natural Instinct",
+    "species": [
+      "cerean"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Nature or Perception (your choice).</p>\n",
+    "id": "natural_instinct"
+  },
+  {
+    "name": "Natural Resilience",
+    "species": [
+      "ugor"
+    ],
+    "mechanics": [],
+    "html": "<p>You have resistance to poison damage, and you have advantage on saving throws against poison.</p>\n",
+    "id": "natural_resilience"
+  },
+  {
+    "name": "Natural Resistance",
+    "species": [
+      "chagrian hutt, adolescent"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).</p>\n",
+    "id": "natural_resistance"
+  },
+  {
+    "name": "Natural Survivalist",
+    "species": [
+      "ewok"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Nature and Survival.</p>\n",
+    "id": "natural_survivalist"
+  },
+  {
+    "name": "Navigators",
+    "species": [
+      "duros"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in surveyor's implements.</p>\n",
+    "id": "navigators"
+  },
+  {
+    "name": "Negotiators",
+    "species": [
+      "pantoran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on Charisma (Persuasion) checks meant to negotiate terms or agreements between parties.</p>\n",
+    "id": "negotiators"
   },
   {
     "name": "Nimble Escape",
@@ -224,6 +2052,241 @@
     "id": "nimbleness"
   },
   {
+    "name": "Nimble Agility",
+    "species": [
+      "kushiban selonian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.</p>\n",
+    "id": "nimble_agility"
+  },
+  {
+    "name": "Nimble Escape",
+    "species": [
+      "bothan aleena"
+    ],
+    "mechanics": [
+      {
+        "name": "Disengage",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble_escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      },
+      {
+        "name": "Hide",
+        "moreInfo": {
+          "model": "traits",
+          "id": "nimble_escape"
+        },
+        "type": "bonus-action",
+        "baseGroup": true
+      }
+    ],
+    "html": "<p>You can take the Disengage or Hide action as a bonus action on each of your turns.</p>\n",
+    "id": "nimble_escape"
+  },
+  {
+    "name": "Nimble Reflexes",
+    "species": [
+      "kiffar"
+    ],
+    "mechanics": [],
+    "html": "<p>Kiffar are naturally adapted to avoiding the Force. You have advantage on Dexterity and Intelligence saving throws against force powers.</p>\n",
+    "id": "nimble_reflexes"
+  },
+  {
+    "name": "Nomadic",
+    "species": [
+      "chevin"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in Survival.</p>\n",
+    "id": "nomadic"
+  },
+  {
+    "name": "Notorious Slavers",
+    "species": [
+      "pyke zygerrian"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an ability check related to the buying, selling, or controlling of slaves, you are considered proficient in the check. If you would already be proficient, you instead have expertise.</p>\n",
+    "id": "notorious_slavers"
+  },
+  {
+    "name": "Organized",
+    "species": [
+      "pantoran"
+    ],
+    "mechanics": [],
+    "html": "<p>Your society values organization, and as such you are good at making good use of the space provided. When you are in charge of packing a space, such as a vehicle or cargo hold, that space's carrying capacity is increased by one-fourth its base capacity.</p>\n",
+    "id": "organized"
+  },
+  {
+    "name": "Oversized",
+    "species": [
+      "massassi"
+    ],
+    "mechanics": [],
+    "html": "<p>Lightweapons and vibroweapons that lack the dexterity or light property are considered to have the heavy property for you. The strength number for blasters is reduced by one step (from 19 to 17, 17 to 15, 15 to 13, or 13 to 11). If the strength number is 11, you ignore it entirely.</p>\n",
+    "id": "oversized"
+  },
+  {
+    "name": "Perceptive",
+    "species": [
+      "cerean"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Perception.</p>\n",
+    "id": "perceptive"
+  },
+  {
+    "name": "Performer",
+    "species": [
+      "theelin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Performance skill.</p>\n",
+    "id": "performer"
+  },
+  {
+    "name": "Pilot",
+    "species": [
+      "duros iktotchi sullustan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Piloting.</p>\n",
+    "id": "pilot"
+  },
+  {
+    "name": "Pintsized",
+    "species": [
+      "anzellan zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>Your tiny stature makes it hard for you to wield bigger weapons. You can't use medium or heavy shields. Additionally, you can't wield weapons with the two-handed or versatile property, and you can only wield one-handed weapons in two hands unless they have the light property.</p>\n",
+    "id": "pintsized"
+  },
+  {
+    "name": "Politically Minded",
+    "species": [
+      "chiss"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Insight skill.</p>\n",
+    "id": "politically_minded"
+  },
+  {
+    "name": "Political Guile",
+    "species": [
+      "pantoran"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in Persuasion or Deception (your choice).</p>\n",
+    "id": "political_guile"
+  },
+  {
+    "name": "Powerful Build",
+    "species": [
+      "droid, class v wookiee besalisk dowutin, young dug herglic houk hutt, adolescent lasat massassi"
+    ],
+    "mechanics": [],
+    "html": "<p>Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.</p>\n",
+    "id": "powerful_build"
+  },
+  {
+    "name": "Powerful Charge",
+    "species": [
+      "chironian"
+    ],
+    "mechanics": [],
+    "html": "<p>If you move at least 10 feet in a straight line before hitting with a melee weapon attack, you can attempt to trip the target prone as part of the same attack. Once you use this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "powerful_charge"
+  },
+  {
+    "name": "Powerful Leap",
+    "species": [
+      "culisetto noghri"
+    ],
+    "mechanics": [],
+    "html": "<p>If you jump at least 10 feet in a straight line before hitting with a melee weapon attack, you can attempt to trip the target as part of the same attack. Once you use this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "powerful_leap"
+  },
+  {
+    "name": "Precognition",
+    "species": [
+      "iktotchi voss"
+    ],
+    "mechanics": [],
+    "html": "<p>You can see brief fragments of the future, that allow you to turn failures into successes. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>\n",
+    "id": "precognition"
+  },
+  {
+    "name": "Predatory Talents",
+    "species": [
+      "tiss'shar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills: Acrobatics, Sleight of Hand, Stealth, or Technology.</p>\n",
+    "id": "predatory_talents"
+  },
+  {
+    "name": "Prediction",
+    "species": [
+      "cerean"
+    ],
+    "mechanics": [],
+    "html": "<p>You can embrace the Force and use your advanced insight to predict likely outcomes, allowing you to turn failures into successes. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>\n",
+    "id": "prediction"
+  },
+  {
+    "name": "Prehensile Feet",
+    "species": [
+      "ardennian culisetto kalleran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have supreme control over your feet and can use them to manipulate objects as well as your hands.</p>\n",
+    "id": "prehensile_feet"
+  },
+  {
+    "name": "Prehensile Tail",
+    "species": [
+      "aing-tii barabel hutt, adolescent ryn thisspiasian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have supreme control over your tail and can use it to manipulate objects as well as your hands.</p>\n",
+    "id": "prehensile_tail"
+  },
+  {
+    "name": "Prehensile Tail and Feet",
+    "species": [
+      "lurmen"
+    ],
+    "mechanics": [],
+    "html": "<p>You have supreme control over your tail and feet and can use them to manipulate objects as well as your hands.</p>\n",
+    "id": "prehensile_tail_and_feet"
+  },
+  {
+    "name": "Primitive Nerves",
+    "species": [
+      "tognath"
+    ],
+    "mechanics": [],
+    "html": "<p>Because of their primitive nervous systems, tognath are immune to most pain, letting them shrug off major injuries. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. Once you've used this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "primitive_nerves"
+  },
+  {
+    "name": "Proficiency",
+    "species": [
+      "human"
+    ],
+    "mechanics": [],
+    "html": "<p>You gain proficiency in one skill, one tool, and one weapon of your choice.</p>\n",
+    "id": "proficiency"
+  },
+  {
     "name": "Programmer",
     "species": [
       "bith"
@@ -240,6 +2303,42 @@
     ],
     "html": "<p>Whenever you make an Intelligence (Technology) check related to computers, you are considered to have expertise in the Technology skill.</p>\n",
     "id": "programmer"
+  },
+  {
+    "name": "Protective Membrane",
+    "species": [
+      "nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against being blinded.</p>\n",
+    "id": "protective_membrane"
+  },
+  {
+    "name": "Proud Performer",
+    "species": [
+      "pa'lowick"
+    ],
+    "mechanics": [],
+    "html": "<p>Pa'lowick are best known for the energy they can bring to a singing performance. Whenever you make a Charisma (Performance) check involving singing, you are considered to have expertise in the Performance skill.</p>\n",
+    "id": "proud_performer"
+  },
+  {
+    "name": "Puny",
+    "species": [
+      "anzellan zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>Anzellans are too small to pack much of a punch. You have disadvantage on Strength saving throws, and when determining your bonus to attack and damage rolls for weapon attacks using Strength, you can't add more than +3.</p>\n",
+    "id": "puny"
+  },
+  {
+    "name": "Quick Learner",
+    "species": [
+      "zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>When using downtime for learning a new language or training with a set of tools, it takes half the amount of time and credits necessary to complete.</p>\n",
+    "id": "quick_learner"
   },
   {
     "name": "Racer's Reflexes",
@@ -265,6 +2364,227 @@
     "id": "racers-reflexes"
   },
   {
+    "name": "Racer's Reflexes",
+    "species": [
+      "aleena xexto"
+    ],
+    "mechanics": [
+      {
+        "name": "Racer's Reflexes",
+        "moreInfo": {
+          "model": "traits",
+          "id": "racer_s_reflexes"
+        },
+        "type": "other",
+        "resource": {
+          "reset": "short",
+          "id": "racer_s_reflexes"
+        },
+        "shortDesc": "Add 1d4 to a Dexterity ability check, attack roll, or saving throw."
+      }
+    ],
+    "html": "<p>Whenever you make a Dexterity ability check, attack roll, or saving throw, you can choose to add 1d4 to the result. You can choose to do this after the check is rolled, but before the DM determines if you've passed or failed the check. You cannot do so again until you complete a short or long rest.</p>\n",
+    "id": "racer_s_reflexes"
+  },
+  {
+    "name": "Radiation Resistant",
+    "species": [
+      "dashade nikto"
+    ],
+    "mechanics": [],
+    "html": "<p>Dashade are naturally able to resist radiation. You have resistance to necrotic damage.</p>\n",
+    "id": "radiation_resistant"
+  },
+  {
+    "name": "Rain Forest Dweller",
+    "species": [
+      "ho'din"
+    ],
+    "mechanics": [],
+    "html": "<p>Growing up in the rain forests of Moltok has left an impact. You don't treat forest terrain as difficult terrain.</p>\n",
+    "id": "rain_forest_dweller"
+  },
+  {
+    "name": "Rapidly Regenerative",
+    "species": [
+      "abyssin"
+    ],
+    "mechanics": [],
+    "html": "<p>You heal quickly, both at will and in response to danger. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points. Additionally, when you take damage, you can use your reaction and expend a Hit Die to regain hit points as long as the damage would not reduce your hit points to 0.</p>\n",
+    "id": "rapidly_regenerative"
+  },
+  {
+    "name": "Rapid Reconstruction",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v"
+    ],
+    "mechanics": [],
+    "html": "<p>You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.</p>\n",
+    "id": "rapid_reconstruction"
+  },
+  {
+    "name": "Reader of Hearts",
+    "species": [
+      "gran"
+    ],
+    "mechanics": [],
+    "html": "<p>Through identifying subtle variations in a target's body heat, the Gran are able to better understand their emotions and intentions. You are proficient in the Insight skill.</p>\n",
+    "id": "reader_of_hearts"
+  },
+  {
+    "name": "Refinery Specialist",
+    "species": [
+      "mustafarian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in your choice of constructor's implements, scavenging kit, or surveyor's implements. Additionally, whenever you make an Intelligence (Nature) check to identify a metal or mineral, you are considered to have expertise in the Nature skill.</p>\n",
+    "id": "refinery_specialist"
+  },
+  {
+    "name": "Regenerative",
+    "species": [
+      "trandoshan gand shistavanen"
+    ],
+    "mechanics": [],
+    "html": "<p>When you take damage, you can use your reaction and expend a Hit Die to regain hit points as long as the damage would not reduce your hit points to 0.</p>\n",
+    "id": "regenerative"
+  },
+  {
+    "name": "Relentless Endurance",
+    "species": [
+      "taung"
+    ],
+    "mechanics": [],
+    "html": "<p>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.</p>\n",
+    "id": "relentless_endurance"
+  },
+  {
+    "name": "Reptilian Senses",
+    "species": [
+      "arcona ho'din"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Perception) check related to sensing heat, you are considered to have expertise in the Perception skill.</p>\n",
+    "id": "reptilian_senses"
+  },
+  {
+    "name": "Reputation for Cruelty",
+    "species": [
+      "zygerrian"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in Intimidation, as well as the saberwhip and vibrowhip.</p>\n",
+    "id": "reputation_for_cruelty"
+  },
+  {
+    "name": "Rolling Agility",
+    "species": [
+      "lurmen"
+    ],
+    "mechanics": [],
+    "html": "<p>As a lurmen, you can run on all fours, or curl into a ball, to move quickly along the ground. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.</p>\n",
+    "id": "rolling_agility"
+  },
+  {
+    "name": "Rugged Survivalist",
+    "species": [
+      "abyssin"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Survival skill. Additionally, you are naturally adapted to hot climates, as described in chapter 5 of the Dungeon Master's Guide.</p>\n",
+    "id": "rugged_survivalist"
+  },
+  {
+    "name": "Sadistic",
+    "species": [
+      "sith pureblood"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with saberwhips, vibrowhips, and nets.</p>\n",
+    "id": "sadistic"
+  },
+  {
+    "name": "Savage Attacks",
+    "species": [
+      "gamorrean weequay abyssin esh-kha togorian"
+    ],
+    "mechanics": [],
+    "html": "<p>When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.</p>\n",
+    "id": "savage_attacks"
+  },
+  {
+    "name": "Saving Face",
+    "species": [
+      "trandoshan"
+    ],
+    "mechanics": [],
+    "html": "<p>Trandoshans are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can’t use it again until you finish a short or long rest.</p>\n",
+    "id": "saving_face"
+  },
+  {
+    "name": "Sa'tosin Sense",
+    "species": [
+      "tarasin"
+    ],
+    "mechanics": [],
+    "html": "<p>Tarasins have short spines called sa'tosin that allow them to sense the use of the Force. You are constantly under the effects of the force power <em>sense force</em>, though the power does not require concentration for you.</p>\n",
+    "id": "sa_tosin_sense"
+  },
+  {
+    "name": "Scholarly",
+    "species": [
+      "caamasi"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Insight skill.</p>\n",
+    "id": "scholarly"
+  },
+  {
+    "name": "Second Heart",
+    "species": [
+      "cerean zabrak chadra-fan ho'din"
+    ],
+    "mechanics": [],
+    "html": "<p>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.</p>\n",
+    "id": "second_heart"
+  },
+  {
+    "name": "Sensitive Fur",
+    "species": [
+      "squib"
+    ],
+    "mechanics": [],
+    "html": "<p>Squibs' fur is exceptionally sensitive to physical details. You have advantage on Intelligence (Investigation) checks that rely on touch.</p>\n",
+    "id": "sensitive_fur"
+  },
+  {
+    "name": "Shadow People",
+    "species": [
+      "umbaran"
+    ],
+    "mechanics": [],
+    "html": "<p>You can attempt to hide even when you are only lightly obscured by dim light.</p>\n",
+    "id": "shadow_people"
+  },
+  {
+    "name": "Shapechanger",
+    "species": [
+      "clawdite"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another species, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait. You stay in the new form until you use an action to revert to your true form or until you die.</p>\n",
+    "id": "shapechanger"
+  },
+  {
+    "name": "Shape Self",
+    "species": [
+      "ugor"
+    ],
+    "mechanics": [],
+    "html": "<p>If you are not incapacitated, you can reshape your body to give yourself a head, one or two arms, one or two legs, and makeshift hands and feet, or you can revert to a limbless blob (no action required). As a bonus action, you can extrude a pseudopod that is up to 6 inches wide and 10 feet long or reabsorb it into your body. You can use this pseudopod to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour out the contents of a container. The pseudopod can�t attack, activate enhanced items, or carry more than 10 pounds.</p>\n",
+    "id": "shape_self"
+  },
+  {
     "name": "Shrewd",
     "species": [
       "bothan"
@@ -280,6 +2600,42 @@
     ],
     "html": "<p>You are proficient in the Insight and Deception skills.</p>\n",
     "id": "shrewd"
+  },
+  {
+    "name": "Shrewd Demeanor",
+    "species": [
+      "hutt, adolescent toydarian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in two Intelligence, Wisdom, or Charisma skills of your choice.</p>\n",
+    "id": "shrewd_demeanor"
+  },
+  {
+    "name": "Silent Step",
+    "species": [
+      "cathar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Stealth skill.</p>\n",
+    "id": "silent_step"
+  },
+  {
+    "name": "Silver Tongue",
+    "species": [
+      "devaronian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with Deception or Persuasion (your choice).</p>\n",
+    "id": "silver_tongue"
+  },
+  {
+    "name": "Six-Armed",
+    "species": [
+      "harch"
+    ],
+    "mechanics": [],
+    "html": "<p>Harch have six arms which they can use independently of one another. You can only gain the benefit of items held by two of your arms at any given time, and once per round you can switch which arms you are benefiting from (no action required).</p>\n",
+    "id": "six_armed"
   },
   {
     "name": "Cosmopolitan",
@@ -298,6 +2654,15 @@
     "id": "skill_lore"
   },
   {
+    "name": "Skill Protocol",
+    "species": [
+      "droid, class ii"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in two skills of your choice.</p>\n",
+    "id": "skill_protocol"
+  },
+  {
     "name": "Silent Step",
     "species": [
       "cathar"
@@ -314,6 +2679,51 @@
     "id": "skill_stealth"
   },
   {
+    "name": "Skill Versatility",
+    "species": [
+      "esh-kha theelin"
+    ],
+    "mechanics": [],
+    "html": "<p>You gain proficiency in one skill of your choice.</p>\n",
+    "id": "skill_versatility"
+  },
+  {
+    "name": "Slicer",
+    "species": [
+      "kubaz"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with the Technology skill and the slicer's kit.</p>\n",
+    "id": "slicer"
+  },
+  {
+    "name": "Slow and Lethargic",
+    "species": [
+      "hutt, adolescent"
+    ],
+    "mechanics": [],
+    "html": "<p>Hutts are slow and generally incapable of moving quickly. You have disadvantage on Dexterity saving throws, and when determining your bonus to AC from your Dexterity, you can't add more than +3.</p>\n",
+    "id": "slow_and_lethargic"
+  },
+  {
+    "name": "Slow Metabolism",
+    "species": [
+      "gran"
+    ],
+    "mechanics": [],
+    "html": "<p>You are able to go a number of days without food equal to 3 + twice your Constitution modifier before suffering exhaustion.</p>\n",
+    "id": "slow_metabolism"
+  },
+  {
+    "name": "Small and Nimble",
+    "species": [
+      "anzellan zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>You are too small and fast to effectively target. You have a +1 bonus to AC, and you have advantage on Dexterity saving throws.</p>\n",
+    "id": "small_and_nimble"
+  },
+  {
     "name": "Undersized",
     "species": [
       "aleena"
@@ -321,6 +2731,42 @@
     "mechanics": [],
     "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.\nAdditionally, you can’t use martial weapons with the two-handed property unless it also has the\nlight property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
     "id": "small_undersized"
+  },
+  {
+    "name": "Smooth Talker",
+    "species": [
+      "neimoidian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Deception and Persuasion.</p>\n",
+    "id": "smooth_talker"
+  },
+  {
+    "name": "Snap Senses",
+    "species": [
+      "balosar kalleran"
+    ],
+    "mechanics": [],
+    "html": "<p>Through your antennapalps, you can sense incoming danger and react accordingly. When you roll for initiative, you can choose to gain advantage on the roll. Alternatively, if you are surprised, you may act normally on your first turn. Once you've used this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "snap_senses"
+  },
+  {
+    "name": "Sneaky",
+    "species": [
+      "defel"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Stealth skill.</p>\n",
+    "id": "sneaky"
+  },
+  {
+    "name": "Snout",
+    "species": [
+      "pa'lowick"
+    ],
+    "mechanics": [],
+    "html": "<p>You have supreme control over your snout and can use it to manipulate objects as well as your hands. Additionally, your snout is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage.</p>\n",
+    "id": "snout"
   },
   {
     "name": "Sonic Sensitivity",
@@ -340,6 +2786,411 @@
     "id": "sonic-sensitivity"
   },
   {
+    "name": "Sonic Resistance",
+    "species": [
+      "ithorian"
+    ],
+    "mechanics": [],
+    "html": "<p>Ithorians have resistance to sonic damage.</p>\n",
+    "id": "sonic_resistance"
+  },
+  {
+    "name": "Sonic Scream",
+    "species": [
+      "ithorian pa'lowick"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action, you can violently expel air in a 15-foot cone. When you do so, each creature in the area of the exhalation must make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Constitution modifier). A creature takes 2d6 sonic damage on a failed save, and half as much damage on a successful one. The damage increases to 4d6 at 5th level, 6d6 at 11th level, and 8d6 at 17th level. This ability has no effect on constructs. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you complete a long rest.</p>\n",
+    "id": "sonic_scream"
+  },
+  {
+    "name": "Sonic Sensitivity",
+    "species": [
+      "bith"
+    ],
+    "mechanics": [],
+    "html": "<p>Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disadvantage on saving throws against effects that would deal sonic damage (explained in chapter 9).</p>\n",
+    "id": "sonic_sensitivity"
+  },
+  {
+    "name": "Specialist",
+    "species": [
+      "patrolian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one specialist's kit of your choice.</p>\n",
+    "id": "specialist"
+  },
+  {
+    "name": "Spicer",
+    "species": [
+      "balosar pyke"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in spicer's kit.</p>\n",
+    "id": "spicer"
+  },
+  {
+    "name": "Spider Climb",
+    "species": [
+      "harch"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 30 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing, and while climbing you always have two hands free.</p>\n",
+    "id": "spider_climb"
+  },
+  {
+    "name": "Spiritual",
+    "species": [
+      "mirialan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Lore. Additionally, you are considered to have expertise in Intelligence (Lore) checks made to learn or recall something about a culture's religion.</p>\n",
+    "id": "spiritual"
+  },
+  {
+    "name": "Split Mind",
+    "species": [
+      "xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>When you make a Wisdom saving throw, you can use your reaction to gain advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.</p>\n",
+    "id": "split_mind"
+  },
+  {
+    "name": "Stalking Hunter",
+    "species": [
+      "rodian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival and Stealth skills.</p>\n",
+    "id": "stalking_hunter"
+  },
+  {
+    "name": "Stargazer",
+    "species": [
+      "givin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Piloting and Technology.</p>\n",
+    "id": "stargazer"
+  },
+  {
+    "name": "Starship Specialists",
+    "species": [
+      "nothoiin"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make an Intelligence (Technology) check related to starships, you are considered to have expertise in the Technology skill.</p>\n",
+    "id": "starship_specialists"
+  },
+  {
+    "name": "Stealthy",
+    "species": [
+      "felucian kushiban"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Stealth skill.</p>\n",
+    "id": "stealthy"
+  },
+  {
+    "name": "Stealthy Hunter",
+    "species": [
+      "togorian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival and Stealth skills.</p>\n",
+    "id": "stealthy_hunter"
+  },
+  {
+    "name": "Stinger",
+    "species": [
+      "colicoid"
+    ],
+    "mechanics": [],
+    "html": "<p>Your stinger is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d4 kinetic damage.</p>\n",
+    "id": "stinger"
+  },
+  {
+    "name": "Strong and Small",
+    "species": [
+      "dug"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 25 feet.</p>\n",
+    "id": "strong_and_small"
+  },
+  {
+    "name": "Strong-Legged",
+    "species": [
+      "cerean gungan ardennian culisetto kage killik kyuzo noghri zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.</p>\n",
+    "id": "strong_legged"
+  },
+  {
+    "name": "Subsonic Bellow",
+    "species": [
+      "anx"
+    ],
+    "mechanics": [],
+    "html": "<p>As an action, you can violently expel air in a 15-foot cone. When you do so, each creature in the area of the exhalation must make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Constitution modifier). A creature takes 2d6 sonic damage on a failed save, and half as much damage on a successful one. The damage increases to 4d6 at 5th level, 6d6 at 11th level, and 8d6 at 17th level. This ability has no effect on constructs. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you complete a long rest.</p>\n",
+    "id": "subsonic_bellow"
+  },
+  {
+    "name": "Sunlight Sensitivity",
+    "species": [
+      "arkanian defel kage kubaz ssi-ruu umbaran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</p>\n",
+    "id": "sunlight_sensitivity"
+  },
+  {
+    "name": "Superior Darkvision",
+    "species": [
+      "chiss kage umbaran"
+    ],
+    "mechanics": [],
+    "html": "<p>Your vision can easily cut through darkness. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.</p>\n",
+    "id": "superior_darkvision"
+  },
+  {
+    "name": "Superior Memory",
+    "species": [
+      "duros"
+    ],
+    "mechanics": [],
+    "html": "<p>You can double your proficiency bonus for it when you make an Intelligence (Lore) check to recall information you have learned, or to recall the details of your experiences.</p>\n",
+    "id": "superior_memory"
+  },
+  {
+    "name": "Surgical Strikes",
+    "species": [
+      "anx"
+    ],
+    "mechanics": [],
+    "html": "<p>Your unarmed strikes deal 1d4 kinetic damage. Additionally, as a bonus action, you can perform a special pressure point attack. On a hit, the target suffers the attack�s normal effects, and it must make a Constitution saving throw (DC = 8 + your proficiency bonus + your Constitution modifier). On a failed save, the target is stunned until the end of its next turn, and you can�t use this feature again until you complete a short or long rest.</p>\n",
+    "id": "surgical_strikes"
+  },
+  {
+    "name": "Surprise Attack",
+    "species": [
+      "culisetto defel houk mirialan rattataki tiss'shar"
+    ],
+    "mechanics": [],
+    "html": "<p>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.</p>\n",
+    "id": "surprise_attack"
+  },
+  {
+    "name": "Survivors of the Sands",
+    "species": [
+      "tusken"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival skill. Additionally, you don’t treat desert terrain as difficult terrain. Lastly, you have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat.</p>\n",
+    "id": "survivors_of_the_sands"
+  },
+  {
+    "name": "Swim",
+    "species": [
+      "gungan mon calamari nautolan aqualish chagrian herglic kalleran karkarodon pa'lowick patrolian quarren rakata selkath selonian vurk zilkin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a swimming speed of 30 feet.</p>\n",
+    "id": "swim"
+  },
+  {
+    "name": "Tail and Claw",
+    "species": [
+      "selonian"
+    ],
+    "mechanics": [],
+    "html": "<p>Your strong tail and razor-sharp claws are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "tail_and_claw"
+  },
+  {
+    "name": "Tanned",
+    "species": [
+      "weequay anzellan"
+    ],
+    "mechanics": [],
+    "html": "<p>You have tough, leathery skin. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier. Additionally, You have advantage on Constitution saving throws made to avoid exhaustion due to extreme heat.</p>\n",
+    "id": "tanned"
+  },
+  {
+    "name": "Taung Weapon Training",
+    "species": [
+      "taung"
+    ],
+    "mechanics": [],
+    "html": "<p>You gain proficiency in one vibroweapon and one blaster of your choice.</p>\n",
+    "id": "taung_weapon_training"
+  },
+  {
+    "name": "Technician",
+    "species": [
+      "anzellan herglic patrolian rakata"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Technology skill.</p>\n",
+    "id": "technician"
+  },
+  {
+    "name": "Technological Affinity",
+    "species": [
+      "gormak"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Technology skill, one vibroweapon and one blaster of your choice, and your choice of armstech's implements, biotech's implements, constructor's implements, mechanic's kits, or tinker's implements. Additionally, you have advantage on Intelligence (Technology) checks made to understand, utilize, or modify technology that you are unaware of or have never seen before.</p>\n",
+    "id": "technological_affinity"
+  },
+  {
+    "name": "Tech Dabbler",
+    "species": [
+      "jawa anomid kaminoan ugnaught umbaran"
+    ],
+    "mechanics": [],
+    "html": "<p>You know the <em>ion blast</em> at-will tech power. When you reach 3rd level, you learn and can cast the <em>repair droid</em> tech power once per long rest. When you reach 5th level, you learn and can cast the <em>hold droid</em> tech power once per long rest. Your techcasting ability is Intelligence. You do not require use of a wristpad for these powers.</p>\n",
+    "id": "tech_dabbler"
+  },
+  {
+    "name": "Tech-Impaired",
+    "species": [
+      "tusken abyssin"
+    ],
+    "mechanics": [],
+    "html": "<p>While tuskens can figure out basic technology, they experience difficulty using more complex equipment like wristpads. You can not use tech powers or take levels in techcasting classes.</p>\n",
+    "id": "tech_impaired"
+  },
+  {
+    "name": "Tech Resistance",
+    "species": [
+      "chiss devaronian duros anomid"
+    ],
+    "mechanics": [],
+    "html": "<p>Growing up around technology leaves an impact on chiss. You have advantage on Dexterity and Intelligence saving throws against tech powers.</p>\n",
+    "id": "tech_resistance"
+  },
+  {
+    "name": "Tech Savant",
+    "species": [
+      "anomid"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Technology skill.</p>\n",
+    "id": "tech_savant"
+  },
+  {
+    "name": "Telepathy",
+    "species": [
+      "kel dor draethos iktotchi killik"
+    ],
+    "mechanics": [],
+    "html": "<p>You can communicate telepathically with creatures within 30 feet of you. You must share a language with the target in order to communicate in this way.</p>\n",
+    "id": "telepathy"
+  },
+  {
+    "name": "Thick Skin",
+    "species": [
+      "ssi-ruu"
+    ],
+    "mechanics": [],
+    "html": "<p>You have tough, scaly skin and prefer not to wear clothes. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modifier.</p>\n",
+    "id": "thick_skin"
+  },
+  {
+    "name": "Thick Skull",
+    "species": [
+      "chevin"
+    ],
+    "mechanics": [],
+    "html": "<p>Your skull is a natural weapon, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage.</p>\n",
+    "id": "thick_skull"
+  },
+  {
+    "name": "Thieves",
+    "species": [
+      "jawa"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in Sleight of Hand.</p>\n",
+    "id": "thieves"
+  },
+  {
+    "name": "Thieving",
+    "species": [
+      "jawa"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Sleight of Hand skill.</p>\n",
+    "id": "thieving"
+  },
+  {
+    "name": "Three Hearts",
+    "species": [
+      "muun"
+    ],
+    "mechanics": [],
+    "html": "<p>When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.</p>\n",
+    "id": "three_hearts"
+  },
+  {
+    "name": "Tinker",
+    "species": [
+      "jawa anzellan chadra-fan ugnaught"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with tinker’s implements. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire. You can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.</p>\n",
+    "id": "tinker"
+  },
+  {
+    "name": "Tooth and Nail",
+    "species": [
+      "barabel shistavanen ssi-ruu tiss'shar"
+    ],
+    "mechanics": [],
+    "html": "<p>Your sharp teeth and claws are natural weapons, which you can use to make unarmed strikes. Additionally, your unarmed strikes deal 1d6 kinetic damage. Lastly, as a bonus action, you can perform a special claw attack. On a hit, the target suffers the attack's normal effects, you gain temporary hit points equal to your Constitution modifier (minimum of 1), and you can't use this trait again until you finish a short or long rest.</p>\n",
+    "id": "tooth_and_nail"
+  },
+  {
+    "name": "Torpor",
+    "species": [
+      "culisetto"
+    ],
+    "mechanics": [],
+    "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
+    "id": "torpor"
+  },
+  {
+    "name": "Toughness",
+    "species": [
+      "zabrak gran herglic houk klatooinian taung togorian yevetha"
+    ],
+    "mechanics": [],
+    "html": "<p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>\n",
+    "id": "toughness"
+  },
+  {
+    "name": "Toxin Resistance",
+    "species": [
+      "balosar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).</p>\n",
+    "id": "toxin_resistance"
+  },
+  {
+    "name": "Tracker",
+    "species": [
+      "kaleesh"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival skill. Additionally, you are considered to have expertise in Wisdom (Survival) checks made to track a creature if that creature has a scent.</p>\n",
+    "id": "tracker"
+  },
+  {
     "name": "Trance",
     "species": [
       "bith"
@@ -347,5 +3198,226 @@
     "mechanics": [],
     "html": "<p>You only need 3 hours of sleep during a long rest to gain its benefits, instead of 6. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it to gain its benefits.</p>\n",
     "id": "trance"
+  },
+  {
+    "name": "Travelers",
+    "species": [
+      "baragwin"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival skill.</p>\n",
+    "id": "travelers"
+  },
+  {
+    "name": "Treeclimber",
+    "species": [
+      "cathar ewok wookiee ardennian ho'din lurmen xexto"
+    ],
+    "mechanics": [],
+    "html": "<p>You have a climbing speed of 30 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.</p>\n",
+    "id": "treeclimber"
+  },
+  {
+    "name": "Tribal Warrior",
+    "species": [
+      "kiffar"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with two vibroweapons of your choice.</p>\n",
+    "id": "tribal_warrior"
+  },
+  {
+    "name": "Tusken Weaponry",
+    "species": [
+      "tusken"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with the cycler rifle and vibroaxe.</p>\n",
+    "id": "tusken_weaponry"
+  },
+  {
+    "name": "Two Brains",
+    "species": [
+      "quermian"
+    ],
+    "mechanics": [],
+    "html": "<p>When you make a Wisdom saving throw, you can use your reaction to gain advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.</p>\n",
+    "id": "two_brains"
+  },
+  {
+    "name": "Two Livered",
+    "species": [
+      "devaronian zeltron"
+    ],
+    "mechanics": [],
+    "html": "<p>Devaronians have two livers, which makes them adept at filtering toxins. You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).</p>\n",
+    "id": "two_livered"
+  },
+  {
+    "name": "Tympanic Antennae",
+    "species": [
+      "verpine"
+    ],
+    "mechanics": [],
+    "html": "<p>You have tremorsense out to 30 feet. You can detect and pinpoint the origin of vibrations within that radius, provided that monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures</p>\n",
+    "id": "tympanic_antennae"
+  },
+  {
+    "name": "Type",
+    "species": [
+      "droid, class i droid, class ii droid, class iii droid, class iv droid, class v diathim massassi ssi-ruu"
+    ],
+    "mechanics": [],
+    "html": "<p>Your creature type is droid.</p>\n",
+    "id": "type"
+  },
+  {
+    "name": "Ultraviolet Sight",
+    "species": [
+      "kaminoan"
+    ],
+    "mechanics": [],
+    "html": "<p>Whenever you make a Wisdom (Perception) check related to sight, you are considered to have expertise in the Perception skill.</p>\n",
+    "id": "ultraviolet_sight"
+  },
+  {
+    "name": "Umbaran Specilization",
+    "species": [
+      "umbaran"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in one of the following skills: Insight, Technology, Deception, or Perception.</p>\n",
+    "id": "umbaran_specilization"
+  },
+  {
+    "name": "Unarmed Combatant",
+    "species": [
+      "twi'lek zabrak echani kage mirialan noghri rattataki"
+    ],
+    "mechanics": [],
+    "html": "<p>Your unarmed strikes deal 1d4 kinetic damage and have the finesse property.</p>\n",
+    "id": "unarmed_combatant"
+  },
+  {
+    "name": "Undersized",
+    "species": [
+      "droid, class ii ewok jawa aleena chadra-fan culisetto defel dug kushiban lannik lurmen ortolan patrolian squib toydarian ugnaught xexto"
+    ],
+    "mechanics": [
+      {
+        "type": "unknown",
+        "description": "Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands."
+      }
+    ],
+    "html": "<p>Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.</p>\n",
+    "id": "undersized"
+  },
+  {
+    "name": "Unsettling Visage",
+    "species": [
+      "clawdite"
+    ],
+    "mechanics": [],
+    "html": "<p>When a creature you can see makes an attack roll against you, you can use your reaction to impose disadvantage on the roll. You must use this feature before knowing whether the attack hits or misses. Using this trait reveals your shapeshifting nature to any creature within 30 feet that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.</p>\n",
+    "id": "unsettling_visage"
+  },
+  {
+    "name": "Vacuum Sealed",
+    "species": [
+      "givin"
+    ],
+    "mechanics": [],
+    "html": "<p>You can survive for one day within the vacuum of space. You still require oxygen to breathe. You have resistance to cold damage.</p>\n",
+    "id": "vacuum_sealed"
+  },
+  {
+    "name": "Vigilant",
+    "species": [
+      "advozse pau'an"
+    ],
+    "mechanics": [],
+    "html": "<p>When you would roll initiative, you can choose to have advantage on the roll. Once you've done so, you must complete a short or long rest before you can do so again.</p>\n",
+    "id": "vigilant"
+  },
+  {
+    "name": "Vocalizer",
+    "species": [
+      "anomid tognath"
+    ],
+    "mechanics": [],
+    "html": "<p>Anomid have no vocal cords, and rely on a vocalizer to communicate with other species. If your vocalizer is removed or destroyed, you cannot speak.</p>\n",
+    "id": "vocalizer"
+  },
+  {
+    "name": "Voss Weapon Training",
+    "species": [
+      "voss"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with the blaster rifle and techblade.</p>\n",
+    "id": "voss_weapon_training"
+  },
+  {
+    "name": "Watchful",
+    "species": [
+      "quermian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Perception skill.</p>\n",
+    "id": "watchful"
+  },
+  {
+    "name": "Way of the Warrior",
+    "species": [
+      "draethos"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency with light and medium armor as well as vibroblades and vibroswords.</p>\n",
+    "id": "way_of_the_warrior"
+  },
+  {
+    "name": "Wealthy",
+    "species": [
+      "anomid hutt, adolescent neimoidian"
+    ],
+    "mechanics": [],
+    "html": "<p>During character creation, you start with additional credits equal to your level x your proficiency bonus x 1,000 cr.</p>\n",
+    "id": "wealthy"
+  },
+  {
+    "name": "Weapon Developers",
+    "species": [
+      "baragwin"
+    ],
+    "mechanics": [],
+    "html": "<p>Baragwin are famous throughout the galaxy for their quality arms manufacturing. You have proficiency with armstech's implements, munitions kits, or two weapons of your choice.</p>\n",
+    "id": "weapon_developers"
+  },
+  {
+    "name": "Weapon Training",
+    "species": [
+      "weequay esh-kha kage kaleesh klatooinian"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in two vibroweapons or blasters of your choice.</p>\n",
+    "id": "weapon_training"
+  },
+  {
+    "name": "Wild Hunters",
+    "species": [
+      "togruta"
+    ],
+    "mechanics": [],
+    "html": "<p>You have proficiency in the Survival skill.</p>\n",
+    "id": "wild_hunters"
+  },
+  {
+    "name": "Wisdom of the Elders",
+    "species": [
+      "aing-tii klatooinian lannik"
+    ],
+    "mechanics": [],
+    "html": "<p>You are proficient in the Lore skill.</p>\n",
+    "id": "wisdom_of_the_elders"
   }
 ]

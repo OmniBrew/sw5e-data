@@ -1,23 +1,7 @@
 ---
 name: Undersized
 species:
-  - droid, class ii
-    ewok
-    jawa
-    aleena
-    chadra-fan
-    culisetto
-    defel
-    dug
-    kushiban
-    lannik
-    lurmen
-    ortolan
-    patrolian
-    squib
-    toydarian
-    ugnaught
-    xexto
+  - aleena
 mechanics: []
 ---
 Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields.

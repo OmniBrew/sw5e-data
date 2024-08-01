@@ -2,8 +2,6 @@
 name: Gluss'sa'Nikto (Pale)
 species:
   - nikto
-mechanics:
-  - type: unknown
-    description: No description available
+mechanics: []
 ---
 No description available

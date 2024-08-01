@@ -2,8 +2,6 @@
 name: Sonic Resistance
 species:
   - ithorian
-mechanics:
-  - type: unknown
-    description: Ithorians have resistance to sonic damage.
+mechanics: []
 ---
 Ithorians have resistance to sonic damage.

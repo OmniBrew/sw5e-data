@@ -2,7 +2,7 @@
 name: Keen Hearing and Sight
 species:
   - lasat
-  - rishii
+    rishii
 mechanics:
   - type: skill-check
     value: perception

@@ -2,8 +2,6 @@
 name: Cosmopolitan
 species:
   - aleena
-mechanics:
-  - type: skill
-    value: [lore]
+mechanics: []
 ---
 You have proficiency in Lore.
