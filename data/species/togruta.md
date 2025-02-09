@@ -1,5 +1,8 @@
 ---
 name: TOGRUTA
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png
 source: phb
 speedColor: ''
 alignment: >-

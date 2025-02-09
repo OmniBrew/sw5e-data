@@ -1,5 +1,8 @@
 ---
 name: NAUTOLAN
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png
 source: phb
 speedColor: ''
 alignment: >-
@@ -25,7 +28,10 @@ weight:
   base: 120 lb.
   mod: x(2d4) lb. 
 cSize: medium
-mechanics: [{'type': 'asi', 'amount': 1, 'ability': 'wisdom'}]
+mechanics:
+  - type: asi
+    amount: 1
+    ability: wis
 ---
 ### BIOLOGY AND APPEARANCE
 Nautolans possess physiology common to amphibious

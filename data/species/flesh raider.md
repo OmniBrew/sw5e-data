@@ -1,8 +1,8 @@
 ---
 name: Flesh Raider
-img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png
-bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png
-img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png
 source: ec
 speedColor: ''
 alignment: >-

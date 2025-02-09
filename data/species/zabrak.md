@@ -1,5 +1,8 @@
 ---
 name: ZABRAK
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png
 source: phb
 speedColor: ''
 alignment: >-

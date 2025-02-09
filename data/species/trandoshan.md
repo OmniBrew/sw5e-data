@@ -1,5 +1,8 @@
 ---
 name: TRANDOSHAN
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png
 source: phb
 speedColor: ''
 alignment: >-

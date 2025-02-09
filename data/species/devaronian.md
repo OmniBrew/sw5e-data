@@ -1,5 +1,8 @@
 ---
 name: Devaronian
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png
 source: phb
 speedColor: ''
 skinColor: Red, Pink, Brown, or White

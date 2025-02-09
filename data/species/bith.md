@@ -1,5 +1,8 @@
 ---
 name: Bith
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png
 source: phb
 speedColor: ''
 alignment: >-

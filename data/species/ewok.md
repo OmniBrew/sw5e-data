@@ -1,6 +1,9 @@
 ---
 name: EWOK
 source: phb
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png
 speedColor: ''
 alignment: >-
   Ewoks are inherently accepting, albeit naive, and tend toward the light side, though there are exceptions.

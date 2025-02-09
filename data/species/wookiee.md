@@ -1,5 +1,8 @@
 ---
 name: WOOKIEE
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png
 source: phb
 speedColor: ''
 alignment: >-

@@ -1,5 +1,8 @@
 ---
 name: Cerean
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png
 source: phb
 speedColor: ''
 skinColor: Light Tones

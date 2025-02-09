@@ -1,5 +1,8 @@
 ---
 name: Bothan
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png
 source: phb
 speedColor: ''
 alignment: >-

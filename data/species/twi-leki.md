@@ -1,5 +1,8 @@
 ---
 name: TWI'LEK
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png
 source: phb
 speedColor: ''
 alignment: >-
@@ -31,7 +34,7 @@ mechanics:
     ability: cha
   - type: asi
     amount: 1
-    ability: ex
+    ability: dex
   - type: skill-choice
   - options: true
     limits: [deception, persuasion]

@@ -1,5 +1,8 @@
 ---
 name: JAWA
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png
 source: phb
 speedColor: ''
 alignment: >-

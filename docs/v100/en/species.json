@@ -837,6 +837,9 @@
   },
   {
     "name": "Bith",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bith.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Biths’ benevolent nature causes them to tend toward the light side, though there are exceptions.",
@@ -893,6 +896,9 @@
   },
   {
     "name": "Bothan",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_bothan.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Bothans’ duplicitous nature causes them to tend toward the dark side, though there are exceptions.",
@@ -1008,6 +1014,9 @@
   },
   {
     "name": "Cathar",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png",
     "source": "phb",
     "speedColor": "",
     "skinColor": "Gold to yellow-brown with dark stripes",
@@ -1064,6 +1073,9 @@
   },
   {
     "name": "Cerean",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cerean.png",
     "source": "phb",
     "speedColor": "",
     "skinColor": "Light Tones",
@@ -1126,9 +1138,9 @@
   },
   {
     "name": "Chadra-Fan",
-    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadra-fan.png",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadrafan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadrafan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chadrafan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Chadra-Fan’s open, clan-based culture cause them to tend toward the light side, though there are exceptions.",
@@ -1346,6 +1358,9 @@
   },
   {
     "name": "Chiss",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png",
     "source": "phb",
     "speedColor": "",
     "skinColor": "Blue or Silver",
@@ -1767,6 +1782,9 @@
   },
   {
     "name": "Devaronian",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_devaronian.png",
     "source": "phb",
     "speedColor": "",
     "skinColor": "Red, Pink, Brown, or White",
@@ -2568,6 +2586,9 @@
   },
   {
     "name": "DUROS",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Duros tend toward no particular alignment. The best and worst are found among them.",
@@ -2733,6 +2754,9 @@
   {
     "name": "EWOK",
     "source": "phb",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ewok.png",
     "speedColor": "",
     "alignment": "Ewoks are inherently accepting, albeit naive, and tend toward the light side, though there are exceptions.",
     "size": "Ewoks stand between 3 and 4 feet tall and weigh about 50 lbs. Regardless of your position in that range, your size is Small.",
@@ -2883,9 +2907,9 @@
   },
   {
     "name": "Flesh Raider",
-    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_flesh raider.png",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_fleshRaider.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Flesh raiders’ propensity towards war and aggression cause them to tend toward chaotic dark side, though there are exceptions.",
@@ -2928,6 +2952,9 @@
   },
   {
     "name": "GAMORREAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gamorrean.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gamorrean.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gamorrean.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Gamorrean culture causes them to tend toward chaos, though there are exceptions.",
@@ -3298,6 +3325,9 @@
   },
   {
     "name": "GUNGAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gungan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gungan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_gungan.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Gungans tend toward the light side, though there are exceptions.",
@@ -3473,9 +3503,9 @@
   },
   {
     "name": "Ho’Din",
-    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho’din.png",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho%27din.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho%27din.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ho%27din.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Ho’dins’ benevolent nature causes them to tend toward the light side, though there are exceptions.",
@@ -3689,6 +3719,9 @@
   },
   {
     "name": "ITHORIAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ithorian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ithorian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_ithorian.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Ithorians tend toward the light side, though there are exceptions.",
@@ -3714,16 +3747,19 @@
       {
         "type": "asi",
         "amount": 1,
-        "ability": "wisdom"
+        "ability": "wis"
       }
     ],
     "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Ithorians have two mouths and four throats, allowing\nthem to speak in stereo. Female Ithorians have two\nhumps on the back of their head, while males have\nonly one. They have glossy, usually brown flesh. Their\nreflexes and coordination are somewhat slower than\nthat of average humanoids.\nIn addition to allowing them to speak their unique\nstereophonic language, the Ithorians' four throats also\nhave the ability to violently expel air, resulting in a\ndeafening and potentially concussive scream. Despite\nthis fact, most Ithorians go their entire lives without\never resorting to violence, and so the ability remained\nrelatively ambiguous.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Ithorians worship the &quot;Mother Jungle,&quot; a spiritual entity\nembodying the lush, tropical ecology of their world,\nIthor. They are generally devoted environmentalists,\nstaunch herbivores, and complete pacifists, devoting\nmuch time to contemplating their ecology, studying\nplants and their uses and the overall respecting of all\nliving things. Most Ithorians never set foot on their own\nplanet, instead living in floating cities above their world\ncalled herdships. Only three of their continents have\nbeen explored and harvested, the other two never\nhaving been touched by Ithorian hands. They\ndemonstrate extreme belief in the protection and\nsustaining of their environment as dictated by their\n&quot;Law of Life.&quot;</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Ithorian names are quite varied in length but most\nnames are soft and melodic. They are often difficult to\nprounounce by other species, so many Ithorians adopt\nnicknames.\nMale Names. Del, Gizorthej, Pexxocl, Steorthibs\nFemale Names. Binshe, Dhu'sha, Mul, Slosh, Vlo\nSurnames. Afleehl, Crukid, Tondand, Wamunn</p>\n",
     "id": "ithorian",
-    "abilityScoreIncrease": "+1 undefined",
+    "abilityScoreIncrease": "+1 Wisdom",
     "subspecies": false
   },
   {
     "name": "JAWA",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_jawa.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Jawas tendency to steal and swindle causes them to tend towards the dark side, though there are exceptions.",
@@ -3977,6 +4013,9 @@
   },
   {
     "name": "KEL DOR",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Kel dors' structured nature causes them to tend toward lawful balanced, though there are exceptions.",
@@ -4002,12 +4041,12 @@
       {
         "type": "asi",
         "amount": 1,
-        "ability": "dexterity"
+        "ability": "dex"
       }
     ],
     "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Due to Dorin having a unique atmosphere composed\nof helium and a gas unique to their world, the kel dors\nare forced to wear an antiox breath mask and\nprotective goggles whenever in atmospheres of a\ndifferent composition. Without their protective goggles,\nkel dors were considered effectively blind when away\nfrom Dorin. They were also able to survive in the\nvacuum of space for a short time, though it was\nunknown exactly how long they could withstand it.\nThe kel dors also have heightened reflexes, a result\nof the extrasensory organs in their heads. They are\ntypically quick and wise.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Kel dors are noted for their simple approach to justice,\nand they typically see moral issues in black and white.\nOn the one hand, the kel dor are noted for their\nhospitality; they would never turn away a stranger in\nneed. Yet, kel dors are not averse to taking the law into\ntheir own hands, and have no compunctions about\nputting to death a thief who was merely stealing to\nfeed himself.\nKel dor Force-sensitives are often trained as Baran\nDo Sages, who have an honored place in kel dor\nculture. They often serve as advisers to rich and\npowerful kel dor families. Wars and disasters have\nbeen averted simply by the insight of a Baran Do Sage.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Kel dor names are base on sound generated by Dorin's\nunique atmosphere. Surnames are based on ancient\nfamily trades.\nMale Names. Bil, I'zers, Nullo, Taciss, Zaln\nFemale Names. Arri'ku, Bhi're, Chu, So'ro, Thirza\nSurnames. Andugai, Borak, Haimnech, Vitchess</p>\n",
     "id": "kel-dor",
-    "abilityScoreIncrease": "+1 undefined",
+    "abilityScoreIncrease": "+1 Dexterity",
     "subspecies": false
   },
   {
@@ -4858,6 +4897,9 @@
   },
   {
     "name": "NAUTOLAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_nautolan.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Nautolans' benevolence cause them to tend toward the light side, though there are exceptions.",
@@ -4883,12 +4925,12 @@
       {
         "type": "asi",
         "amount": 1,
-        "ability": "wisdom"
+        "ability": "wis"
       }
     ],
     "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Nautolans possess physiology common to amphibious\nspecies, including low light vision and excellent\nswimming skills. Their bony endoskeleton and dense\ncartilage make them tough and resistant to glancing\nblows. An egg-laying species, Nautolans emerge from\ntheir egg as a tadpole that develops arms, legs, and\nhead-tails during their second year of life. Roughly the\nsame size as a Human infant during this time, their\nlimbs are weak and unable to support their weight,\nforcing youthful Nautolans to remain in aquatic\nenvironments for much of their childhood.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The society developed by the Nautolans on Glee\nAnselm is centralized around local families and\ngovernments. The centralized government of Glee\nAnselm is comprised of representatives from the\nCouncil of Elders that govern each settlement. Elders\nare elected on merit, and can be made up of youthful\npoliticians as well as the most aged members of the\nsociety. A culture that promotes life-long mates,\nNautolan families are characterized by their loyalty\nbetween spouses and the equality of the sexes in the\nhousehold. Arranged marriages are not uncommon.\nNo cultural anity for the Force ever developed on\nGlee Anselm, though members of the Nautolan species\nrecognize its importance and respected those among\nthem that were Forceful.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Nautolan names are generally short and melodic.\nFemale names usually end in a vowel. Surnames are\nfamilial.\nMale Names. Brod, Knirkoc, Peng, Tikuwik, Zesufreat\nFemale Names. Doli, Hahi, Thamlymyo, Usha, Zezu\nSurnames. Iarre, Rirrall, Sompanong, Uzumdall</p>\n",
     "id": "nautolan",
-    "abilityScoreIncrease": "+1 undefined",
+    "abilityScoreIncrease": "+1 Wisdom",
     "subspecies": false
   },
   {
@@ -5261,9 +5303,9 @@
   },
   {
     "name": "Pau’an",
-    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pau’an.png",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pauan.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pauan.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_pauan.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Pau’ans’ commanding presence, yet friendly and kind nature, cause them to tend to be lawful light side, though there are exceptions.",
@@ -5636,6 +5678,9 @@
   },
   {
     "name": "RODIAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Rodian culture's violent focus causes them to tend toward the dark side, though there are exceptions.",
@@ -6409,9 +6454,9 @@
   },
   {
     "name": "Tiss’shar",
-    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
-    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
-    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tiss’shar.png",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tissshar.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tissshar.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tissshar.png",
     "source": "ec",
     "speedColor": "",
     "alignment": "Tiss’shar’s moral flexibility causes them to tend towards balanced alignments, though there are exceptions.",
@@ -6514,6 +6559,9 @@
   },
   {
     "name": "TOGRUTA",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_togruta.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Togruta culture focuses on unity which causes them to tend toward the light side, though there are exceptions.",
@@ -6625,6 +6673,9 @@
   },
   {
     "name": "TRANDOSHAN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_trandoshan%20(2).png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Trandoshans tend toward the dark side, though there are exceptions.",
@@ -6692,6 +6743,9 @@
   },
   {
     "name": "TUSKEN",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Tusken culture's violent focus and disregard of those outside the tribe causes them to tend towards chaotic dark side, though there are exceptions.",
@@ -6752,6 +6806,9 @@
   },
   {
     "name": "TWI'LEK",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_twilek.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Twi'leks harsh upbringing cause them to tend toward the dark side, though there are exceptions.",
@@ -6782,7 +6839,7 @@
       {
         "type": "asi",
         "amount": 1,
-        "ability": "ex"
+        "ability": "dex"
       },
       {
         "type": "skill-choice"
@@ -6813,7 +6870,7 @@
     ],
     "html": "<me-tpg e=\"div\" s=\"h3\">BIOLOGY AND APPEARANCE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Twi'leks are usually thin, although corpulent individuals\nwere known to exist. Twi'leks are omnivores; this diet is\nessential given that food is scarce on their homeworld,\nRyloth. Twi'leks possess multiple stomachs, an unusual\ntrait that enables them to eat almost any food. When\ntraveling off their homeworld, twi'leks rarely refuse\nfood, which frequently leads to obesity among\nstarfarers. Twi'lek society also considers obesity as a\nsign of influence and success.</p>\n<me-tpg e=\"div\" s=\"h3\">SOCIETY AND CULTURE</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>The natural grace and exotic beauty of the female\ntwi'leks make them a popular target among slave\ntraders. Slavery is the main currency of Ryloth. Some\nsee it as a chance to make money by kidnapping or\nselling orphaned children, while others see slavery as a\nway of saving children from growing up in Ryloth's\nharsh environment. A number of twi'leks believe that\nslavery is an efficient way to proliferate their species\nand preserve their culture, as the twi'leks lack their\nown means of inter-planetary travel. Regardless of how\nit came about, many twi'leks live as slaves or\nentertainers and are considered status symbols,\nespecially the females of rarer skin hues. Twi'leks that\nmanage to escape from captivity usually turned to a life\nof thievery or prostitution, with both genders making\nuse of their powers of seduction.</p>\n<me-tpg e=\"div\" s=\"h3\">NAMES</me-tpg><me-hr size=\"1\" class=\"mb-2\"/><p>Twi'lek names combine their first name and a clan\nname into a single name, rather than having a separate\nsurname.\nMale Names. Ecrizsati, Gaj'mogos, Ukelweko\nFemale Names. Arag'mure, Oanicfuba, Unaecripi</p>\n",
     "id": "twi-leki",
-    "abilityScoreIncrease": "+2 Charisma, +1 undefined",
+    "abilityScoreIncrease": "+2 Charisma, +1 Dexterity",
     "subspecies": false
   },
   {
@@ -7138,6 +7195,9 @@
   },
   {
     "name": "WEEQUAY",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Weequay ruthlessness and greed cause them to tend toward chaotic dark side, though there are exceptions.",
@@ -7195,6 +7255,9 @@
   },
   {
     "name": "WOOKIEE",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_wookiee.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Wookiees tend toward the light side, though there are exceptions.",
@@ -7362,6 +7425,9 @@
   },
   {
     "name": "ZABRAK",
+    "img src": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png",
+    "bodyImg": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png",
+    "img": "https://starwars5ecentral.blob.core.windows.net/site-images/species/species_zabrak.png",
     "source": "phb",
     "speedColor": "",
     "alignment": "Zabraks tend toward no particular alignment. The best and worst are found among them.",

@@ -1,5 +1,8 @@
 ---
 name: WEEQUAY
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_weequay.png
 source: phb
 speedColor: ''
 alignment: >-

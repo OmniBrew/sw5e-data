@@ -1,5 +1,8 @@
 ---
 name: RODIAN
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_rodian.png
 source: phb
 speedColor: ''
 alignment: >-

@@ -1,5 +1,8 @@
 ---
 name: KEL DOR
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_keldor.png
 source: phb
 speedColor: ''
 alignment: >-
@@ -25,7 +28,10 @@ weight:
   base: 80 lb.
   mod: x(2d4) lb. 
 cSize: medium
-mechanics: [{'type': 'asi', 'amount': 1, 'ability': 'dexterity'}]
+mechanics:
+  - type: asi
+    amount: 1
+    ability: dex
 ---
 ### BIOLOGY AND APPEARANCE
 Due to Dorin having a unique atmosphere composed

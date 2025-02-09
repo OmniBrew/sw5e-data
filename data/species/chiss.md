@@ -1,5 +1,8 @@
 ---
 name: Chiss
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_chiss.png
 source: phb
 speedColor: ''
 skinColor: Blue or Silver

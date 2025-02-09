@@ -1,5 +1,8 @@
 ---
 name: Cathar
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_cathar.png
 source: phb
 speedColor: ''
 skinColor: Gold to yellow-brown with dark stripes

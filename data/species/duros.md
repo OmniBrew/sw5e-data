@@ -1,5 +1,8 @@
 ---
 name: DUROS
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_duros.png
 source: phb
 speedColor: ''
 alignment: >-

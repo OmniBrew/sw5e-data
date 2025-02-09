@@ -1,5 +1,8 @@
 ---
 name: TUSKEN
+img src: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png
+bodyImg: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png
+img: https://starwars5ecentral.blob.core.windows.net/site-images/species/species_tusken.png
 source: phb
 speedColor: ''
 alignment: >-
